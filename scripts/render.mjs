@@ -223,7 +223,7 @@ const spotifyList = () => {
   const rows = s.map((x, i) => {
     const href = x.url ? ` href="${esc(x.url)}"` : '';
     const cover = x.art ? `<a${href}><img src="${esc(x.art)}" width="44" height="44" align="absmiddle" alt=""></a>&nbsp;&nbsp;` : '';
-    return `${cover}<a${href}><b>${esc(x.title)}</b></a>&nbsp;&nbsp;<sub>${esc(x.artist)}</sub>${i === 0 ? '&nbsp;&nbsp;<sub>▶ last played ' + when(x.t) + '</sub>' : '&nbsp;&nbsp;<sub>' + when(x.t) + '</sub>'}`;
+    return `${cover}<a${href}><b>${esc(x.title)}</b></a>&nbsp;&nbsp;<sub>${esc(x.artist)}</sub>${i === 0 ? '&nbsp;&nbsp;<sub>last played · ' + when(x.t) + '</sub>' : '&nbsp;&nbsp;<sub>' + when(x.t) + '</sub>'}`;
   }).join('<br><sub>&nbsp;</sub><br>');
   return `<div align="left">
 
@@ -410,7 +410,7 @@ for (const f of readdirSync('assets')) if (f.startsWith('period-')) rmSync(`asse
 const lastDay = (k) => { const d = new Date(Date.UTC(+k.slice(0, 4), +k.slice(5, 7), 0)); return d.toISOString().slice(0, 10); };
 const monthsWith = [...new Set(C.map((c) => c.date.slice(0, 7)))].sort().reverse();
 const yearsWith = [...new Set(C.map((c) => c.date.slice(0, 4)))].sort().reverse();
-const CARDS = { overview, activity, churn, rhythm, punchcard, projects: projectsCard, languages, style: styleCard, insights, months: monthsCard, claude, spotify };
+const CARDS = { overview, activity, churn, rhythm, punchcard, projects: projectsCard, languages, style: styleCard, insights, months: monthsCard, claude, 'spotify-head': spotify };
 const have = new Set();
 for (const [name, t] of Object.entries(THEMES)) {
   for (const [k, fn] of Object.entries(CARDS)) { const s = fn(t); if (s) { writeFileSync(`assets/${k}-${name}.svg`, s); have.add(k); } }
@@ -420,8 +420,8 @@ for (const [name, t] of Object.entries(THEMES)) {
 
 // ---------- README (generated, so the period selector always matches the data)
 const pic = (k, alt) => `<picture>\n  <source media="(prefers-color-scheme: dark)" srcset="assets/${k}-dark.svg">\n  <img alt="${alt}" src="assets/${k}-light.svg" width="100%">\n</picture>`;
-const ALT = { overview: 'Overview', activity: 'Activity heatmap', churn: 'Code churn', rhythm: 'When I code', punchcard: 'Punchcard', projects: 'Time by project', languages: 'Languages', style: 'How I commit', insights: 'Highlights and records', months: 'Month by month', claude: 'Building with Claude Code', spotify: 'Recently played' };
-const order = ['overview', 'activity', 'churn', 'rhythm', 'punchcard', 'projects', 'languages', 'style', 'insights', 'months', 'claude', 'spotify'].filter((k) => have.has(k));
+const ALT = { overview: 'Overview', activity: 'Activity heatmap', churn: 'Code churn', rhythm: 'When I code', punchcard: 'Punchcard', projects: 'Time by project', languages: 'Languages', style: 'How I commit', insights: 'Highlights and records', months: 'Month by month', claude: 'Building with Claude Code', 'spotify-head': 'Recently played' };
+const order = ['overview', 'activity', 'churn', 'rhythm', 'punchcard', 'projects', 'languages', 'style', 'insights', 'months', 'claude', 'spotify-head'].filter((k) => have.has(k));
 const yearBlocks = yearsWith.map((y) => {
   const ms = monthsWith.filter((k) => k.startsWith(y)), n = C.filter((c) => c.date.startsWith(y)).length;
   const inner = ms.map((k) => `<details>\n<summary>${monthName(k)} · ${fmt(C.filter((c) => c.date.startsWith(k)).length)} commits</summary>\n<br>\n\n${pic('period-' + k, monthName(k))}\n\n</details>`).join('\n\n');
@@ -429,7 +429,7 @@ const yearBlocks = yearsWith.map((y) => {
 }).join('\n\n');
 writeFileSync('README.md', `<div align="center">
 
-${order.map((k) => pic(k, ALT[k]) + (k === 'spotify' ? '\n\n' + spotifyList() : '')).join('\n\n')}
+${order.map((k) => pic(k, ALT[k]) + (k === 'spotify-head' ? '\n\n' + spotifyList() : '')).join('\n\n')}
 
 ### Zoom into a period
 <sub>click a year, then a month</sub>
