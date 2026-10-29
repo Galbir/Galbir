@@ -62,7 +62,9 @@ mkdirSync('docs', { recursive: true });
 const prev = existsSync(OUT) ? JSON.parse(readFileSync(OUT, 'utf8')) : null;
 const projects = prev?.projects || []; // {rid, id:'P01', lang}
 const L = prev?.L || [];               // language names used by commit records
-const commits = prev?.commits || [];   // [t, proj, a, d, ca, cd, files, type, [[lang, changes]...]]
+const FULL = process.env.FULL_REFETCH === '1'; // re-list every commit (keeps project ids + spotify)
+const MINE = new Set((process.env.STATS_LOGINS || 'galbir,gft,gft55,claude').toLowerCase().split(','));
+const commits = FULL ? [] : prev?.commits || [];   // [t, proj, a, d, ca, cd, files, type, [[lang, changes]...]]
 
 // ---- contribution calendar, one query per year (API limit: 1 year/span)
 const { user } = await gql(`{ user(login:"${LOGIN}"){ createdAt } }`);
@@ -98,7 +100,8 @@ for (const r of mine) {
     // the API's `author=` filter silently drops commits, so list everything and match the linked login
     const page = await rest(`/repos/${r.full_name}/commits?per_page=100&page=${p}${since}`);
     if (!page?.length) break;
-    shas.push(...page.filter((c) => c.author?.login?.toLowerCase() === LOGIN.toLowerCase()).map((c) => c.sha));
+    // my accounts, plus commits whose email is not linked to any account
+    shas.push(...page.filter((c) => !c.author || MINE.has(c.author.login.toLowerCase())).map((c) => c.sha));
     if (page.length < 100) break;
   }
   if (shas.length && pi < 0) {
