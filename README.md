@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-964a1d-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-964a1d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7czFYbkjbMdgbUXbkt7jUU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-964a1d-dark.svg"><img alt="I Run · HAVEN., Kaitlin Aragon" src="assets/track-0-964a1d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3flWoQdYrWyqUsHbURIJby"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-964a1d-dark.svg"><img alt="Stephanie - HNTR Remix · Cloonee, Young M.A, InntRaw, HNTR" src="assets/track-1-964a1d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4ir04s7ATTxzBUaw1E19gz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-964a1d-dark.svg"><img alt="Liza M1 · Swimming Paul, Liza Flume" src="assets/track-2-964a1d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1WB2cVSvWhH2JinU3RTwoz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-964a1d-dark.svg"><img alt="ALRIGHT · AVSTN" src="assets/track-3-964a1d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4ir04s7ATTxzBUaw1E19gz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-964a1d-dark.svg"><img alt="Liza M1 · Swimming Paul, Liza Flume" src="assets/track-4-964a1d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4eZolVnZLuCS80l7GX4sjE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-964a1d-dark.svg"><img alt="123 Round Again - Extended · it&#39;s murph" src="assets/track-5-964a1d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5Bux70wDJzKgKS7JVhxJLZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-964a1d-dark.svg"><img alt="Release Me · oskar med k" src="assets/track-6-964a1d-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-d0eb97-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-d0eb97-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7cvWEBFsf7JvEQf7RzATSk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-d0eb97-dark.svg"><img alt="Whatever Turns You On · Axwell, Bonn" src="assets/track-0-d0eb97-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3py9E6Yll3JY9VKQEaZzP8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-d0eb97-dark.svg"><img alt="It&#39;s A Feeling · Sigala, Trevor Daniel, 24kGoldn" src="assets/track-1-d0eb97-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-d0eb97-dark.svg"><img alt="Patadas de Ahogado / LATÍN MAFIA, HUMBE - Rework · HUGEL" src="assets/track-2-d0eb97-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-d0eb97-dark.svg"><img alt="Words (feat. Zara Larsson) · Alesso, Zara Larsson" src="assets/track-3-d0eb97-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/21tV1aVocgAot1YekbvJRZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-d0eb97-dark.svg"><img alt="Can&#39;t Deny It · Jazzy, Spriitzz" src="assets/track-4-d0eb97-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6qfIHUX77YpCahrVCdhewt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-d0eb97-dark.svg"><img alt="Find Love Now · Cheat Codes, Punctual, Raphaella" src="assets/track-5-d0eb97-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2zX2viSugU43hOWCZvLiXi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-d0eb97-dark.svg"><img alt="On The Ground · oskar med k" src="assets/track-6-d0eb97-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,461 commits</summary>
+<summary><b>2026</b> · 1,472 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>October 2026 · 381 commits</summary>
+<summary>October 2026 · 392 commits</summary>
 <br>
 
 <picture>
