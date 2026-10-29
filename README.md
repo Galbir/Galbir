@@ -58,13 +58,13 @@
 <table width="100%">
 <thead><tr><th colspan="2" align="left"><img src="assets/spotify-logo-light.svg" width="28" height="28" align="absmiddle" alt="Spotify">&nbsp;&nbsp;Recently played&nbsp;&nbsp;<sub>last tracks on Spotify · updates every 30 minutes</sub><br><img src="assets/spacer.svg" width="840" height="1" alt=""></th></tr></thead>
 <tbody>
-<tr><td align="left"><a href="https://open.spotify.com/track/7f9WkDtkzDEZNwJOxb76PE"><img src="https://i.scdn.co/image/ab67616d00001e0287578efc738ea39e8bbba649" width="44" height="44" align="absmiddle" alt=""></a>&nbsp;&nbsp;<a href="https://open.spotify.com/track/7f9WkDtkzDEZNwJOxb76PE"><b>Familiar</b></a>&nbsp;&nbsp;<sub>Distant Matter</sub></td><td align="right" nowrap><sub>Oct 29, 11:19</sub></td></tr>
-<tr><td align="left"><a href="https://open.spotify.com/track/5e2BpBdCMBu0fh9IvUpJNN"><img src="https://i.scdn.co/image/ab67616d00001e023102eea8e1a27519137f7224" width="44" height="44" align="absmiddle" alt=""></a>&nbsp;&nbsp;<a href="https://open.spotify.com/track/5e2BpBdCMBu0fh9IvUpJNN"><b>In The Name Of Beauty (feat. Britta B)</b></a>&nbsp;&nbsp;<sub>Brad Mullins, Britta B</sub></td><td align="right" nowrap><sub>Oct 29, 11:14</sub></td></tr>
-<tr><td align="left"><a href="https://open.spotify.com/track/4OX7pQdm43EtAiBIEWlUnA"><img src="https://i.scdn.co/image/ab67616d00001e02d7f6cf18495e1d64abcf1412" width="44" height="44" align="absmiddle" alt=""></a>&nbsp;&nbsp;<a href="https://open.spotify.com/track/4OX7pQdm43EtAiBIEWlUnA"><b>FADED - Nora En Pure Remix</b></a>&nbsp;&nbsp;<sub>HAYLA, Nelly Furtado, Nora En Pure</sub></td><td align="right" nowrap><sub>Oct 29, 11:10</sub></td></tr>
-<tr><td align="left"><a href="https://open.spotify.com/track/4pAfkR7qx5PobaURrggSX2"><img src="https://i.scdn.co/image/ab67616d00001e023813c99c37c3aba9e3ddffb4" width="44" height="44" align="absmiddle" alt=""></a>&nbsp;&nbsp;<a href="https://open.spotify.com/track/4pAfkR7qx5PobaURrggSX2"><b>Over It</b></a>&nbsp;&nbsp;<sub>Maxé Lune</sub></td><td align="right" nowrap><sub>Oct 29, 11:06</sub></td></tr>
-<tr><td align="left"><a href="https://open.spotify.com/track/4yJBJNrl3chEz7DqAaWe7y"><img src="https://i.scdn.co/image/ab67616d00001e0219cea88e45b669c90c80f1e7" width="44" height="44" align="absmiddle" alt=""></a>&nbsp;&nbsp;<a href="https://open.spotify.com/track/4yJBJNrl3chEz7DqAaWe7y"><b>Say Something</b></a>&nbsp;&nbsp;<sub>Sonny Fodera, Becky Hill</sub></td><td align="right" nowrap><sub>Oct 29, 11:04</sub></td></tr>
-<tr><td align="left"><a href="https://open.spotify.com/track/0NdjW9UeIVG0RkeO8yQ6RR"><img src="https://i.scdn.co/image/ab67616d00001e027535558fe9560324f9fe7e86" width="44" height="44" align="absmiddle" alt=""></a>&nbsp;&nbsp;<a href="https://open.spotify.com/track/0NdjW9UeIVG0RkeO8yQ6RR"><b>Beg For Your Love</b></a>&nbsp;&nbsp;<sub>Melodream</sub></td><td align="right" nowrap><sub>Oct 29, 11:00</sub></td></tr>
-<tr><td align="left"><a href="https://open.spotify.com/track/2y1k0hI8lTDkQHZJDvMK5M"><img src="https://i.scdn.co/image/ab67616d00001e02672f0378308f28cc4a9e5e6b" width="44" height="44" align="absmiddle" alt=""></a>&nbsp;&nbsp;<a href="https://open.spotify.com/track/2y1k0hI8lTDkQHZJDvMK5M"><b>Nothing Lasts Forever</b></a>&nbsp;&nbsp;<sub>BUNT., RØAM</sub></td><td align="right" nowrap><sub>Oct 29, 10:57</sub></td></tr>
+<tr><td align="left"><a href="https://open.spotify.com/track/3C2OYWQFRVEo4QoHZKTNBK"><img src="https://i.scdn.co/image/ab67616d00001e02c0ca4d54bd8aa54e7058cd70" width="44" height="44" align="absmiddle" alt=""></a>&nbsp;&nbsp;<a href="https://open.spotify.com/track/3C2OYWQFRVEo4QoHZKTNBK"><b>You</b></a>&nbsp;&nbsp;<sub>BUNT., Oaks</sub></td><td align="right" nowrap><sub>Oct 29, 11:59</sub></td></tr>
+<tr><td align="left"><a href="https://open.spotify.com/track/58o0HSUXC0oHTU7UvhyWuI"><img src="https://i.scdn.co/image/ab67616d00001e02362bd64f1db466894a6543d9" width="44" height="44" align="absmiddle" alt=""></a>&nbsp;&nbsp;<a href="https://open.spotify.com/track/58o0HSUXC0oHTU7UvhyWuI"><b>Beside Of Me</b></a>&nbsp;&nbsp;<sub>nimino, Maverick Sabre</sub></td><td align="right" nowrap><sub>Oct 29, 11:56</sub></td></tr>
+<tr><td align="left"><a href="https://open.spotify.com/track/6q6GR1UxIkyaVJuUNYtEjw"><img src="https://i.scdn.co/image/ab67616d00001e02636499e69a5fdb6e4a2b1e0a" width="44" height="44" align="absmiddle" alt=""></a>&nbsp;&nbsp;<a href="https://open.spotify.com/track/6q6GR1UxIkyaVJuUNYtEjw"><b>My Love - Rework</b></a>&nbsp;&nbsp;<sub>it&#39;s murph</sub></td><td align="right" nowrap><sub>Oct 29, 11:52</sub></td></tr>
+<tr><td align="left"><a href="https://open.spotify.com/track/618b4IeoPFq5kTP1QMwUDS"><img src="https://i.scdn.co/image/ab67616d00001e023a076a548025318938ead863" width="44" height="44" align="absmiddle" alt=""></a>&nbsp;&nbsp;<a href="https://open.spotify.com/track/618b4IeoPFq5kTP1QMwUDS"><b>Don&#39;t Fret!</b></a>&nbsp;&nbsp;<sub>Tobiahs</sub></td><td align="right" nowrap><sub>Oct 29, 11:49</sub></td></tr>
+<tr><td align="left"><a href="https://open.spotify.com/track/5cG2xC4qPmUTerZdWupWNi"><img src="https://i.scdn.co/image/ab67616d00001e02459e3b67122c43c9b469d1ba" width="44" height="44" align="absmiddle" alt=""></a>&nbsp;&nbsp;<a href="https://open.spotify.com/track/5cG2xC4qPmUTerZdWupWNi"><b>Need It</b></a>&nbsp;&nbsp;<sub>Ship Wrek</sub></td><td align="right" nowrap><sub>Oct 29, 11:46</sub></td></tr>
+<tr><td align="left"><a href="https://open.spotify.com/track/40QdEchi3gLmZitmXFef9z"><img src="https://i.scdn.co/image/ab67616d00001e028dd39003778dfa6232b07c90" width="44" height="44" align="absmiddle" alt=""></a>&nbsp;&nbsp;<a href="https://open.spotify.com/track/40QdEchi3gLmZitmXFef9z"><b>Stay Blessed</b></a>&nbsp;&nbsp;<sub>Swimming Paul, Alecc Crisostomo, D38</sub></td><td align="right" nowrap><sub>Oct 29, 11:43</sub></td></tr>
+<tr><td align="left"><a href="https://open.spotify.com/track/6ux2llhjAuhSLggEaBoaLY"><img src="https://i.scdn.co/image/ab67616d00001e02e9f7ba342913f09083c65ab2" width="44" height="44" align="absmiddle" alt=""></a>&nbsp;&nbsp;<a href="https://open.spotify.com/track/6ux2llhjAuhSLggEaBoaLY"><b>i think i&#39;m addicted</b></a>&nbsp;&nbsp;<sub>oskar med k, Haley Joelle</sub></td><td align="right" nowrap><sub>Oct 29, 11:39</sub></td></tr>
 </tbody>
 </table>
 
@@ -74,7 +74,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,041 commits</summary>
+<summary><b>2026</b> · 1,046 commits</summary>
 <br>
 
 <picture>
@@ -83,7 +83,7 @@
 </picture>
 
 <details>
-<summary>October 2026 · 220 commits</summary>
+<summary>October 2026 · 225 commits</summary>
 <br>
 
 <picture>
