@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="244" viewBox="0 0 900 244" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+<rect x=".5" y=".5" width="899" height="243" rx="14" fill="#ffffff" stroke="#d0d7de"/>
+
+<text x="32" y="42" fill="#1f2328" font-size="18" font-weight="600">Languages</text>
+<text x="32" y="64" fill="#59636e" font-size="12.5">Share of code by bytes across every repo I commit to</text>
+<rect x="32.00" y="84" width="278.04" height="14" rx="7" fill="#4b8bbe"/><rect x="312.04" y="84" width="263.72" height="14" rx="3" fill="#3178c6"/><rect x="577.76" y="84" width="102.63" height="14" rx="3" fill="#ff5d01"/><rect x="682.39" y="84" width="51.80" height="14" rx="3" fill="#e34c26"/><rect x="736.18" y="84" width="47.81" height="14" rx="3" fill="#8892bf"/><rect x="785.99" y="84" width="45.70" height="14" rx="3" fill="#f1e05a"/><rect x="833.69" y="84" width="27.22" height="14" rx="3" fill="#7b5ea7"/><rect x="862.92" y="84" width="0.68" height="14" rx="3" fill="#336790"/><rect x="865.60" y="84" width="0.40" height="14" rx="7" fill="#818b98"/><circle cx="37" cy="136" r="5" fill="#4b8bbe"/>
+<text x="50" y="140" fill="#1f2328" font-size="13" font-weight="500">Python</text>
+<text x="286.6666666666667" y="140" fill="#59636e" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" text-anchor="end">33.5%</text><circle cx="315.6666666666667" cy="136" r="5" fill="#3178c6"/>
+<text x="328.6666666666667" y="140" fill="#1f2328" font-size="13" font-weight="500">TypeScript</text>
+<text x="565.3333333333334" y="140" fill="#59636e" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" text-anchor="end">31.8%</text><circle cx="594.3333333333334" cy="136" r="5" fill="#ff5d01"/>
+<text x="607.3333333333334" y="140" fill="#1f2328" font-size="13" font-weight="500">Astro</text>
+<text x="844" y="140" fill="#59636e" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" text-anchor="end">12.5%</text><circle cx="37" cy="166" r="5" fill="#e34c26"/>
+<text x="50" y="170" fill="#1f2328" font-size="13" font-weight="500">HTML</text>
+<text x="286.6666666666667" y="170" fill="#59636e" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" text-anchor="end">6.4%</text><circle cx="315.6666666666667" cy="166" r="5" fill="#8892bf"/>
+<text x="328.6666666666667" y="170" fill="#1f2328" font-size="13" font-weight="500">PHP</text>
+<text x="565.3333333333334" y="170" fill="#59636e" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" text-anchor="end">6.0%</text><circle cx="594.3333333333334" cy="166" r="5" fill="#f1e05a"/>
+<text x="607.3333333333334" y="170" fill="#1f2328" font-size="13" font-weight="500">JavaScript</text>
+<text x="844" y="170" fill="#59636e" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" text-anchor="end">5.7%</text><circle cx="37" cy="196" r="5" fill="#7b5ea7"/>
+<text x="50" y="200" fill="#1f2328" font-size="13" font-weight="500">CSS</text>
+<text x="286.6666666666667" y="200" fill="#59636e" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" text-anchor="end">3.5%</text><circle cx="315.6666666666667" cy="196" r="5" fill="#336790"/>
+<text x="328.6666666666667" y="200" fill="#1f2328" font-size="13" font-weight="500">PLpgSQL</text>
+<text x="565.3333333333334" y="200" fill="#59636e" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" text-anchor="end">0.3%</text><circle cx="594.3333333333334" cy="196" r="5" fill="#818b98"/>
+<text x="607.3333333333334" y="200" fill="#1f2328" font-size="13" font-weight="500">Other</text>
+<text x="844" y="200" fill="#59636e" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" text-anchor="end">0.3%</text>
+</svg>
