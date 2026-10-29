@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-0ed10e-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-0ed10e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0SZKacJ8DMFQjmdUfSJX2C"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-0ed10e-dark.svg"><img alt="Seratonin · James Hype" src="assets/track-0-0ed10e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-0ed10e-dark.svg"><img alt="Say My Name - Remix · Morgan Seatree, Florence + The Machine" src="assets/track-1-0ed10e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6oWmcKVK6atTCoWVYTdSg1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-0ed10e-dark.svg"><img alt="Dreamin (feat. Daya) · Dom Dolla, Daya" src="assets/track-2-0ed10e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3H5tFg2rM2AsJiPXStMrQK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-0ed10e-dark.svg"><img alt="I Guess We&#39;re Not The Same · Sammy Virji" src="assets/track-3-0ed10e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1wVU8sMkX489OGwVRm2LIy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-0ed10e-dark.svg"><img alt="Ain&#39;t It Fun · Wuki" src="assets/track-4-0ed10e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-0ed10e-dark.svg"><img alt="The Days - NOTION Remix · Chrystal, NOTION" src="assets/track-5-0ed10e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2vxsdAnntt6eGZJJRaLBF6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-0ed10e-dark.svg"><img alt="palm of my hands - Odd Mob Remix · John Summit, Odd Mob, venbee" src="assets/track-6-0ed10e-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-2e0a11-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-2e0a11-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6tgBOj1W50ssmhorIQOFKX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-2e0a11-dark.svg"><img alt="Gasoline · Noizu" src="assets/track-0-2e0a11-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/79uPlIsoReDVUWIH9aB0YA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-2e0a11-dark.svg"><img alt="123 Round Again · it&#39;s murph" src="assets/track-1-2e0a11-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2C96iPyCRXL5sOKivhlOWp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-2e0a11-dark.svg"><img alt="tell you straight · jigitz" src="assets/track-2-2e0a11-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0eFqPUbuiobmOEiotEFxGy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-2e0a11-dark.svg"><img alt="R 2 ME · BL3SS, Tchami" src="assets/track-3-2e0a11-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4krcWtZK3AsVE1Jl4oqH8w"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-2e0a11-dark.svg"><img alt="ALL THE TIME · John Summit, The Chainsmokers, Ilsey" src="assets/track-4-2e0a11-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-2e0a11-dark.svg"><img alt="Giving Me · Jazzy" src="assets/track-5-2e0a11-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2T3hmxdfYj2alR0Iv2Tl0c"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-2e0a11-dark.svg"><img alt="Chihiro · Gravagerz" src="assets/track-6-2e0a11-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,454 commits</summary>
+<summary><b>2026</b> · 1,457 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>October 2026 · 374 commits</summary>
+<summary>October 2026 · 377 commits</summary>
 <br>
 
 <picture>
