@@ -60,33 +60,15 @@
   <img alt="Recently played" src="assets/spotify-light.svg" width="100%">
 </picture>
 
-<table width="100%">
-<tr><td width="64"><a href="https://open.spotify.com/track/7f9WkDtkzDEZNwJOxb76PE"><img src="https://i.scdn.co/image/ab67616d00001e0287578efc738ea39e8bbba649" width="48" height="48" alt=""></a></td>
-<td align="left"><a href="https://open.spotify.com/track/7f9WkDtkzDEZNwJOxb76PE"><b>Familiar</b></a><br><sub>Distant Matter · Vivid Nostalgia</sub></td>
-<td align="right"><sub>Oct 29, 11:19</sub></td></tr>
-<tr><td width="64"><a href="https://open.spotify.com/track/5e2BpBdCMBu0fh9IvUpJNN"><img src="https://i.scdn.co/image/ab67616d00001e023102eea8e1a27519137f7224" width="48" height="48" alt=""></a></td>
-<td align="left"><a href="https://open.spotify.com/track/5e2BpBdCMBu0fh9IvUpJNN"><b>In The Name Of Beauty (feat. Britta B)</b></a><br><sub>Brad Mullins, Britta B · In The Name Of Beauty (feat. Britta B)</sub></td>
-<td align="right"><sub>Oct 29, 11:14</sub></td></tr>
-<tr><td width="64"><a href="https://open.spotify.com/track/4OX7pQdm43EtAiBIEWlUnA"><img src="https://i.scdn.co/image/ab67616d00001e02d7f6cf18495e1d64abcf1412" width="48" height="48" alt=""></a></td>
-<td align="left"><a href="https://open.spotify.com/track/4OX7pQdm43EtAiBIEWlUnA"><b>FADED - Nora En Pure Remix</b></a><br><sub>HAYLA, Nelly Furtado, Nora En Pure · FADED (Nora En Pure Remix)</sub></td>
-<td align="right"><sub>Oct 29, 11:10</sub></td></tr>
-<tr><td width="64"><a href="https://open.spotify.com/track/4pAfkR7qx5PobaURrggSX2"><img src="https://i.scdn.co/image/ab67616d00001e023813c99c37c3aba9e3ddffb4" width="48" height="48" alt=""></a></td>
-<td align="left"><a href="https://open.spotify.com/track/4pAfkR7qx5PobaURrggSX2"><b>Over It</b></a><br><sub>Maxé Lune · Over It</sub></td>
-<td align="right"><sub>Oct 29, 11:06</sub></td></tr>
-<tr><td width="64"><a href="https://open.spotify.com/track/4yJBJNrl3chEz7DqAaWe7y"><img src="https://i.scdn.co/image/ab67616d00001e0219cea88e45b669c90c80f1e7" width="48" height="48" alt=""></a></td>
-<td align="left"><a href="https://open.spotify.com/track/4yJBJNrl3chEz7DqAaWe7y"><b>Say Something</b></a><br><sub>Sonny Fodera, Becky Hill · Say Something</sub></td>
-<td align="right"><sub>Oct 29, 11:04</sub></td></tr>
-<tr><td width="64"><a href="https://open.spotify.com/track/0NdjW9UeIVG0RkeO8yQ6RR"><img src="https://i.scdn.co/image/ab67616d00001e027535558fe9560324f9fe7e86" width="48" height="48" alt=""></a></td>
-<td align="left"><a href="https://open.spotify.com/track/0NdjW9UeIVG0RkeO8yQ6RR"><b>Beg For Your Love</b></a><br><sub>Melodream · Beg For Your Love</sub></td>
-<td align="right"><sub>Oct 29, 11:00</sub></td></tr>
-<tr><td width="64"><a href="https://open.spotify.com/track/2y1k0hI8lTDkQHZJDvMK5M"><img src="https://i.scdn.co/image/ab67616d00001e02672f0378308f28cc4a9e5e6b" width="48" height="48" alt=""></a></td>
-<td align="left"><a href="https://open.spotify.com/track/2y1k0hI8lTDkQHZJDvMK5M"><b>Nothing Lasts Forever</b></a><br><sub>BUNT., RØAM · Levi Did It</sub></td>
-<td align="right"><sub>Oct 29, 10:57</sub></td></tr>
-<tr><td width="64"><a href="https://open.spotify.com/track/3dr1E0qR8WOyOeiL49JO62"><img src="https://i.scdn.co/image/ab67616d00001e0269ee660ff22cb290fa87807d" width="48" height="48" alt=""></a></td>
-<td align="left"><a href="https://open.spotify.com/track/3dr1E0qR8WOyOeiL49JO62"><b>Whisper (Henry Himself Remix)</b></a><br><sub>Joel Corry, Henry Himself · Whisper (The Remixes)</sub></td>
-<td align="right"><sub>Oct 29, 10:55</sub></td></tr>
-</table>
-<sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
+<div align="left">
+
+&nbsp;
+
+<a href="https://open.spotify.com/track/7f9WkDtkzDEZNwJOxb76PE"><img src="https://i.scdn.co/image/ab67616d00001e0287578efc738ea39e8bbba649" width="44" height="44" align="absmiddle" alt=""></a>&nbsp;&nbsp;<a href="https://open.spotify.com/track/7f9WkDtkzDEZNwJOxb76PE"><b>Familiar</b></a>&nbsp;&nbsp;<sub>Distant Matter</sub>&nbsp;&nbsp;<sub>▶ last played Oct 29, 11:19</sub><br><sub>&nbsp;</sub><br><a href="https://open.spotify.com/track/5e2BpBdCMBu0fh9IvUpJNN"><img src="https://i.scdn.co/image/ab67616d00001e023102eea8e1a27519137f7224" width="44" height="44" align="absmiddle" alt=""></a>&nbsp;&nbsp;<a href="https://open.spotify.com/track/5e2BpBdCMBu0fh9IvUpJNN"><b>In The Name Of Beauty (feat. Britta B)</b></a>&nbsp;&nbsp;<sub>Brad Mullins, Britta B</sub>&nbsp;&nbsp;<sub>Oct 29, 11:14</sub><br><sub>&nbsp;</sub><br><a href="https://open.spotify.com/track/4OX7pQdm43EtAiBIEWlUnA"><img src="https://i.scdn.co/image/ab67616d00001e02d7f6cf18495e1d64abcf1412" width="44" height="44" align="absmiddle" alt=""></a>&nbsp;&nbsp;<a href="https://open.spotify.com/track/4OX7pQdm43EtAiBIEWlUnA"><b>FADED - Nora En Pure Remix</b></a>&nbsp;&nbsp;<sub>HAYLA, Nelly Furtado, Nora En Pure</sub>&nbsp;&nbsp;<sub>Oct 29, 11:10</sub><br><sub>&nbsp;</sub><br><a href="https://open.spotify.com/track/4pAfkR7qx5PobaURrggSX2"><img src="https://i.scdn.co/image/ab67616d00001e023813c99c37c3aba9e3ddffb4" width="44" height="44" align="absmiddle" alt=""></a>&nbsp;&nbsp;<a href="https://open.spotify.com/track/4pAfkR7qx5PobaURrggSX2"><b>Over It</b></a>&nbsp;&nbsp;<sub>Maxé Lune</sub>&nbsp;&nbsp;<sub>Oct 29, 11:06</sub><br><sub>&nbsp;</sub><br><a href="https://open.spotify.com/track/4yJBJNrl3chEz7DqAaWe7y"><img src="https://i.scdn.co/image/ab67616d00001e0219cea88e45b669c90c80f1e7" width="44" height="44" align="absmiddle" alt=""></a>&nbsp;&nbsp;<a href="https://open.spotify.com/track/4yJBJNrl3chEz7DqAaWe7y"><b>Say Something</b></a>&nbsp;&nbsp;<sub>Sonny Fodera, Becky Hill</sub>&nbsp;&nbsp;<sub>Oct 29, 11:04</sub><br><sub>&nbsp;</sub><br><a href="https://open.spotify.com/track/0NdjW9UeIVG0RkeO8yQ6RR"><img src="https://i.scdn.co/image/ab67616d00001e027535558fe9560324f9fe7e86" width="44" height="44" align="absmiddle" alt=""></a>&nbsp;&nbsp;<a href="https://open.spotify.com/track/0NdjW9UeIVG0RkeO8yQ6RR"><b>Beg For Your Love</b></a>&nbsp;&nbsp;<sub>Melodream</sub>&nbsp;&nbsp;<sub>Oct 29, 11:00</sub><br><sub>&nbsp;</sub><br><a href="https://open.spotify.com/track/2y1k0hI8lTDkQHZJDvMK5M"><img src="https://i.scdn.co/image/ab67616d00001e02672f0378308f28cc4a9e5e6b" width="44" height="44" align="absmiddle" alt=""></a>&nbsp;&nbsp;<a href="https://open.spotify.com/track/2y1k0hI8lTDkQHZJDvMK5M"><b>Nothing Lasts Forever</b></a>&nbsp;&nbsp;<sub>BUNT., RØAM</sub>&nbsp;&nbsp;<sub>Oct 29, 10:57</sub>
+
+</div>
+
+<sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest · updates every 30 minutes</sub>
 
 ### Zoom into a period
 <sub>click a year, then a month</sub>

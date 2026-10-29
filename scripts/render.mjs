@@ -217,16 +217,23 @@ function spotify(t) {
   return frame(t, 84, `${title(t, 'Recently played', 'Last tracks on Spotify · click a cover to open the song')}${logo}`);
 }
 const spotifyList = () => {
-  const s = (D.spotify || []).slice(0, 8);
+  const s = (D.spotify || []).slice(0, 7);
   if (!s.length) return '';
   const when = (ts) => { const p = loc(ts); return `${MONTHS[+p.month - 1]} ${+p.day}, ${p.hour}:${p.minute}`; };
-  const rows = s.map((x) => {
+  const rows = s.map((x, i) => {
     const href = x.url ? ` href="${esc(x.url)}"` : '';
-    return `<tr><td width="64">${x.art ? `<a${href}><img src="${esc(x.art)}" width="48" height="48" alt=""></a>` : ''}</td>
-<td align="left"><a${href}><b>${esc(x.title)}</b></a><br><sub>${esc(x.artist)} · ${esc(x.album)}</sub></td>
-<td align="right"><sub>${when(x.t)}</sub></td></tr>`;
-  }).join('\n');
-  return `<table width="100%">\n${rows}\n</table>\n<sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in ${esc(D.tz.replace('_', ' '))}</sub>`;
+    const cover = x.art ? `<a${href}><img src="${esc(x.art)}" width="44" height="44" align="absmiddle" alt=""></a>&nbsp;&nbsp;` : '';
+    return `${cover}<a${href}><b>${esc(x.title)}</b></a>&nbsp;&nbsp;<sub>${esc(x.artist)}</sub>${i === 0 ? '&nbsp;&nbsp;<sub>▶ last played ' + when(x.t) + '</sub>' : '&nbsp;&nbsp;<sub>' + when(x.t) + '</sub>'}`;
+  }).join('<br><sub>&nbsp;</sub><br>');
+  return `<div align="left">
+
+&nbsp;
+
+${rows}
+
+</div>
+
+<sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in ${esc(D.tz.replace('_', ' '))} · updates every 30 minutes</sub>`;
 };
 
 // ---------- shared helpers for the remaining cards
