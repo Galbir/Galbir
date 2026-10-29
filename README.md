@@ -55,6 +55,11 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/claudeheat-dark.svg">
+  <img alt="Claude Code activity heatmap" src="assets/claudeheat-light.svg" width="100%">
+</picture>
+
 <table width="100%">
 <thead><tr><th colspan="2" align="left"><img src="assets/spotify-logo-light.svg" width="28" height="28" align="absmiddle" alt="Spotify">&nbsp;&nbsp;Recently played&nbsp;&nbsp;<sub>last tracks on Spotify · updates every 30 minutes</sub><br><img src="assets/spacer.svg" width="840" height="1" alt=""></th></tr></thead>
 <tbody>

@@ -8,9 +8,9 @@ mkdirSync('assets', { recursive: true });
 
 const THEMES = {
   dark: { bg: '#0d1117', stroke: '#30363d', text: '#e6edf3', muted: '#8b949e', faint: '#6e7681', track: '#21262d',
-    ramp: ['#161b22', '#0e4429', '#006d32', '#26a641', '#39d353'], add: '#3fb950', del: '#f85149' },
+    ramp: ['#161b22', '#0e4429', '#006d32', '#26a641', '#39d353'], add: '#3fb950', del: '#f85149', orange: ['#161b22', '#4d2c20', '#8c4a33', '#c4623f', '#ec8a62'] },
   light: { bg: '#ffffff', stroke: '#d0d7de', text: '#1f2328', muted: '#59636e', faint: '#818b98', track: '#eaeef2',
-    ramp: ['#ebedf0', '#9be9a8', '#40c463', '#30a14e', '#216e39'], add: '#1a7f37', del: '#cf222e' },
+    ramp: ['#ebedf0', '#9be9a8', '#40c463', '#30a14e', '#216e39'], add: '#1a7f37', del: '#cf222e', orange: ['#ebedf0', '#f8d9c9', '#efaf91', '#d97757', '#a24d2d'] },
 };
 const SANS = `-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif`;
 const MONO = `ui-monospace,SFMono-Regular,Menlo,Consolas,monospace`;
@@ -185,6 +185,7 @@ function languages(t) {
 // ---------- 5. Claude Code usage (aggregates from docs/claude.json, only when present)
 function claude(t) {
   if (!CL) return null;
+  t = { ...t, ramp: t.orange };
   const T = CL.totals, colW = (W - 64) / 4;
   const days = CL.days; // {date: {s: sessions, p: prompts, t: total tokens}}
   const s0 = CL.since > addD(today, -363) ? CL.since : addD(today, -363);
@@ -204,6 +205,38 @@ function claude(t) {
   const mleg = mt.map((m, i) => `<g class="r" style="animation-delay:${0.4 + i * 0.05}s"><circle cx="${37 + i * 215}" cy="180" r="4.5" fill="${t.ramp[4 - i % 4]}"/><text x="${48 + i * 215}" y="184" fill="${t.text}" font-size="12">${esc(m.n)}<tspan fill="${t.muted}"> ${Math.round((m.t / tot) * 100)}%</tspan></text></g>`).join('');
   return frame(t, 290, `${title(t, 'Building with Claude Code', `Since ${esc(CL.since)} · aggregate counts only, no prompts, code or project names`)}${bigs}${mbar}${mleg}${spark}
 <text x="32" y="276" fill="${t.faint}" font-size="10">${esc(s0)} → ${esc(today)} · tokens per day · square-root scale</text>`);
+}
+
+// ---------- 5b. Claude Code heatmap (same layout as the GitHub one, orange, tokens per day)
+function claudeHeat(t) {
+  if (!CL) return null;
+  t = { ...t, ramp: t.orange };
+  const L = 44, T = 92, step = (W - 32 - L) / 53, S = step - 3;
+  const start = addD(today, -dowOf(today) - 52 * 7);
+  const val = (d) => CL.days[d]?.t || 0;
+  const wind = []; for (let d = start; d <= today; d = addD(d, 1)) wind.push(d);
+  const nz = wind.map(val).filter(Boolean).sort((a, b) => a - b);
+  const q = (p) => nz[Math.min(nz.length - 1, Math.floor(p * nz.length))] || 1, cuts = [q(0.25), q(0.5), q(0.75)];
+  const lvl = (n) => (n === 0 ? 0 : n <= cuts[0] ? 1 : n <= cuts[1] ? 2 : n <= cuts[2] ? 3 : 4);
+  let cells = '', months = '', lastC = -9, lastM = -1, nowCell = '';
+  wind.forEach((d, i) => {
+    const col = Math.floor(i / 7), row = dowOf(d), x = L + col * step, y = T + row * step, m = +d.slice(5, 7);
+    if (row === 0 && m !== lastM && col >= lastC + 3 && col < 51) { months += `<text x="${x}" y="${T - 10}" fill="${t.muted}" font-size="11">${MONTHS[m - 1]}</text>`; lastM = m; lastC = col; }
+    cells += `<rect class="c" style="animation-delay:${(col * 14 + row * 8) / 1000}s" x="${x.toFixed(1)}" y="${y.toFixed(1)}" width="${S.toFixed(1)}" height="${S.toFixed(1)}" rx="3" fill="${t.ramp[lvl(val(d))]}"/>`;
+    if (d === today) nowCell = `<rect class="now" x="${(x - 1.5).toFixed(1)}" y="${(y - 1.5).toFixed(1)}" width="${(S + 3).toFixed(1)}" height="${(S + 3).toFixed(1)}" rx="4.5"/>`;
+  });
+  const dowL = [1, 3, 5].map((r) => `<text x="${L - 10}" y="${T + r * step + 10}" fill="${t.faint}" font-size="10" text-anchor="end">${DOWS[r]}</text>`).join('');
+  const gb = T + 7 * step, lx = W - 32 - 5 * (S + 4) - 52;
+  const legend = label(t, lx, gb + 18, 'LESS', { size: 11, anchor: 'end' }) + t.ramp.map((c, i) => `<rect x="${lx + 8 + i * (S + 4)}" y="${gb + 7}" width="${S}" height="${S}" rx="3" fill="${c}"/>`).join('') + label(t, lx + 8 + 5 * (S + 4) + 4, gb + 18, 'MORE', { size: 11 });
+  const total = wind.reduce((s, d) => s + val(d), 0), active = wind.filter(val).length || 1;
+  const best = wind.reduce((a, b) => (val(b) > val(a) ? b : a));
+  let longest = 0, run = 0; for (let d = start; d <= today; d = addD(d, 1)) { run = val(d) ? run + 1 : 0; longest = Math.max(longest, run); }
+  let cur = 0; for (let d = today; ; d = addD(d, -1)) { if (val(d)) cur++; else if (d !== today) break; }
+  const stats = [[fmt(active), 'active days'], [`${cur}d`, 'current streak'], [`${longest}d`, 'longest streak'], [cmp(val(best)), `best day · ${MONTHS[+best.slice(5, 7) - 1]} ${+best.slice(8)}`], [cmp(total / active), 'avg tokens per active day']];
+  const sy = gb + 56, cw = (W - 64) / stats.length;
+  const els = stats.map(([v, l], i) => `<g class="r" style="animation-delay:${0.6 + i * 0.08}s"><text x="${32 + i * cw}" y="${sy}" fill="${t.text}" font-family="${MONO}" font-size="20" font-weight="600">${v}</text>${label(t, 32 + i * cw, sy + 18, l.toUpperCase())}</g>`).join('');
+  return frame(t, sy + 40, `${title(t, 'Claude Code activity', `<tspan fill="${t.text}" font-family="${MONO}" font-weight="600">${cmp(total)}</tspan> tokens in the last year · busier days are darker`)}
+${months}${dowL}${cells}${nowCell}${legend}<line x1="32" x2="${W - 32}" y1="${gb + 26}" y2="${gb + 26}" stroke="${t.stroke}" stroke-dasharray="2 4"/>${els}`);
 }
 
 // ---------- 6. recently played (only when Spotify credentials were provided)
@@ -410,7 +443,7 @@ for (const f of readdirSync('assets')) if (f.startsWith('period-')) rmSync(`asse
 const lastDay = (k) => { const d = new Date(Date.UTC(+k.slice(0, 4), +k.slice(5, 7), 0)); return d.toISOString().slice(0, 10); };
 const monthsWith = [...new Set(C.map((c) => c.date.slice(0, 7)))].sort().reverse();
 const yearsWith = [...new Set(C.map((c) => c.date.slice(0, 4)))].sort().reverse();
-const CARDS = { overview, activity, churn, rhythm, punchcard, projects: projectsCard, languages, style: styleCard, insights, months: monthsCard, claude, 'spotify-logo': spotify };
+const CARDS = { overview, activity, churn, rhythm, punchcard, projects: projectsCard, languages, style: styleCard, insights, months: monthsCard, claude, claudeheat: claudeHeat, 'spotify-logo': spotify };
 const have = new Set();
 for (const [name, t] of Object.entries(THEMES)) {
   for (const [k, fn] of Object.entries(CARDS)) { const s = fn(t); if (s) { writeFileSync(`assets/${k}-${name}.svg`, s); have.add(k); } }
@@ -420,8 +453,8 @@ for (const [name, t] of Object.entries(THEMES)) {
 
 // ---------- README (generated, so the period selector always matches the data)
 const pic = (k, alt) => `<picture>\n  <source media="(prefers-color-scheme: dark)" srcset="assets/${k}-dark.svg">\n  <img alt="${alt}" src="assets/${k}-light.svg" width="100%">\n</picture>`;
-const ALT = { overview: 'Overview', activity: 'Activity heatmap', churn: 'Code churn', rhythm: 'When I code', punchcard: 'Punchcard', projects: 'Time by project', languages: 'Languages', style: 'How I commit', insights: 'Highlights and records', months: 'Month by month', claude: 'Building with Claude Code', 'spotify-logo': 'Recently played' };
-const order = ['overview', 'activity', 'churn', 'rhythm', 'punchcard', 'projects', 'languages', 'style', 'insights', 'months', 'claude', 'spotify-logo'].filter((k) => have.has(k));
+const ALT = { overview: 'Overview', activity: 'Activity heatmap', churn: 'Code churn', rhythm: 'When I code', punchcard: 'Punchcard', projects: 'Time by project', languages: 'Languages', style: 'How I commit', insights: 'Highlights and records', months: 'Month by month', claude: 'Building with Claude Code', claudeheat: 'Claude Code activity heatmap', 'spotify-logo': 'Recently played' };
+const order = ['overview', 'activity', 'churn', 'rhythm', 'punchcard', 'projects', 'languages', 'style', 'insights', 'months', 'claude', 'claudeheat', 'spotify-logo'].filter((k) => have.has(k));
 const yearBlocks = yearsWith.map((y) => {
   const ms = monthsWith.filter((k) => k.startsWith(y)), n = C.filter((c) => c.date.startsWith(y)).length;
   const inner = ms.map((k) => `<details>\n<summary>${monthName(k)} · ${fmt(C.filter((c) => c.date.startsWith(k)).length)} commits</summary>\n<br>\n\n${pic('period-' + k, monthName(k))}\n\n</details>`).join('\n\n');
