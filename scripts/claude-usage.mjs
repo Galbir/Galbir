@@ -21,7 +21,7 @@ const cleanModel = (m) => (m || 'unknown').replace(/^claude-/, '').replace(/-\d{
 const msgs = [];          // every assistant usage line, counted like Claude Code's /usage does (streamed blocks included)
 const first = new Map();  // sessionId -> {date, hour}
 const days = {};
-const day = (d) => (days[d] ||= { s: 0, p: 0, i: 0, o: 0, cr: 0, cc: 0, t: 0, m: {}, tl: {}, h: {} });
+const day = (d) => (days[d] ||= { s: 0, p: 0, i: 0, o: 0, cr: 0, cc: 0, t: 0, m: {}, tl: {}, h: {}, th: {} });
 const projects = new Set();
 
 for (const file of files) {
@@ -41,7 +41,7 @@ for (const file of files) {
       if (human) { const d = day(when.date); d.p++; d.h[when.hour] = (d.h[when.hour] || 0) + 1; }
     } else if (o.type === 'assistant' && o.message?.usage && o.message.model !== '<synthetic>') {
       const u = o.message.usage, id = o.message.id || o.uuid;
-      const rec = { date: when.date, model: cleanModel(o.message.model), i: u.input_tokens || 0, o: u.output_tokens || 0, cr: u.cache_read_input_tokens || 0, cc: u.cache_creation_input_tokens || 0 };
+      const rec = { date: when.date, hour: when.hour, model: cleanModel(o.message.model), i: u.input_tokens || 0, o: u.output_tokens || 0, cr: u.cache_read_input_tokens || 0, cc: u.cache_creation_input_tokens || 0 };
       msgs.push(rec);
       for (const b of o.message.content || []) {
         if (b.type !== 'tool_use') continue;
@@ -53,7 +53,7 @@ for (const file of files) {
 }
 for (const r of msgs) {
   const d = day(r.date), t = r.i + r.o + r.cr + r.cc;
-  d.i += r.i; d.o += r.o; d.cr += r.cr; d.cc += r.cc; d.t += t; d.m[r.model] = (d.m[r.model] || 0) + t;
+  d.i += r.i; d.o += r.o; d.cr += r.cr; d.cc += r.cc; d.t += t; d.m[r.model] = (d.m[r.model] || 0) + t; d.th[r.hour] = (d.th[r.hour] || 0) + t;
 }
 for (const f of first.values()) day(f.date).s++;
 

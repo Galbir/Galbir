@@ -11,7 +11,7 @@
 .r{animation:rise .6s ease-out both}
 .now{fill:none;stroke:#1f2328;stroke-width:1.5;animation:pulse 2s ease-in-out infinite}
 @media (prefers-reduced-motion:reduce){*{animation:none!important}}
-</style><rect x=".5" y=".5" width="899" height="63" rx="14" fill="#ffffff" stroke="#d0d7de"/><g transform="translate(24 14)"><g><circle cx="18" cy="18" r="18" fill="#1DB954"/>
+</style><path d="M.5 64 V14.5 a14 14 0 0 1 14 -14 H885.5 a14 14 0 0 1 14 14 V64 Z" fill="#ffffff"/><path d="M.5 14.5 a14 14 0 0 1 14 -14 H885.5 a14 14 0 0 1 14 14 V64" stroke="#d0d7de" fill="none"/><line x1="22" x2="878" y1="63.5" y2="63.5" stroke="#d0d7de" stroke-dasharray="2 4"/><g transform="translate(24 14)"><g><circle cx="18" cy="18" r="18" fill="#1DB954"/>
 <path d="M9.3 13.8c5.7-1.7 12.4-1.1 17.7 2" stroke="#000" stroke-width="2.7" fill="none" stroke-linecap="round"/>
 <path d="M10.4 18.8c4.8-1.4 10.3-.8 14.7 1.8" stroke="#000" stroke-width="2.2" fill="none" stroke-linecap="round"/>
 <path d="M11.4 23.2c3.9-1.1 8-.6 11.5 1.5" stroke="#000" stroke-width="1.8" fill="none" stroke-linecap="round"/></g></g><text class="r" x="72" y="33" fill="#1f2328" font-size="17" font-weight="600">Recently played</text><text class="r" x="72" y="51" fill="#59636e" font-size="12" style="animation-delay:.1s">last tracks on Spotify · updates every 30 minutes</text></svg>

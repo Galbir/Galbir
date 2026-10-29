@@ -183,20 +183,12 @@ function languages(t) {
   return frame(t, 140 + Math.ceil(rows.length / 3) * 30 + 14, `${title(t, 'Languages', 'Estimated coding time per language · last 12 months')}${segs}${items}`);
 }
 
-// ---------- 5. Claude Code usage (aggregates from docs/claude.json, only when present)
+// ---------- 5. Claude Code usage + activity heatmap in one card (aggregates from docs/claude.json, only when present)
 function claude(t) {
   if (!CL) return null;
   t = { ...t, ramp: t.orange };
-  const T = CL.totals, colW = (W - 64) / 4;
-  const days = CL.days; // {date: {s: sessions, p: prompts, t: total tokens}}
-  const s0 = CL.since > addD(today, -363) ? CL.since : addD(today, -363);
-  const win2 = []; for (let d = s0; d <= today; d = addD(d, 1)) win2.push({ d, ...(days[d] || { s: 0, p: 0, t: 0 }) });
-  const mx = Math.sqrt(Math.max(1, ...win2.map((x) => x.t)));
-  const bw = (W - 64) / win2.length;
-  const spark = win2.map((x, i) => {
-    const h = (Math.sqrt(x.t) / mx) * 46;
-    return x.t ? `<rect class="bu" style="animation-delay:${0.3 + i * 0.002}s" x="${(32 + i * bw).toFixed(2)}" y="${(392 - h).toFixed(1)}" width="${Math.max(1, bw - (bw > 6 ? 2 : 0.8)).toFixed(2)}" height="${Math.max(1.5, h).toFixed(1)}" rx="${bw > 6 ? 2 : 1}" fill="${t.ramp[3]}"/>` : '';
-  }).join('');
+  const T = CL.totals, colW = (W - 64) / 4, days = CL.days;
+  const val = (d) => days[d]?.t || 0;
   const bigs = [
     big(t, 32, 104, cmp(T.tokens), 'tokens processed'), big(t, 32 + colW, 104, fmt(T.sessions), 'sessions', t.text, 0.1),
     big(t, 32 + 2 * colW, 104, fmt(T.prompts), 'prompts sent', t.text, 0.2), big(t, 32 + 3 * colW, 104, fmt(T.activeDays), 'active days', t.text, 0.3)].join('');
@@ -209,41 +201,42 @@ function claude(t) {
   const r2 = [[cmp(T.input), 'input tokens'], [cmp(T.output), 'output tokens'], [cmp(T.cacheRead), 'cache read'], [cmp(T.cacheWrite), 'cache write']];
   const r3 = [[fmt(T.toolCalls), 'tool calls'], [topTool ? esc(topTool.n) : '-', 'most used tool'], [`${(hit * 100).toFixed(0)}%`, 'cache hit rate'], [fmt(T.projects), 'projects touched']];
   const row = (rs, y, d0) => rs.map(([v, l], i) => big(t, 32 + i * colW, y, v, l, t.text, d0 + i * 0.05)).join('');
-  const more = `<line x1="32" x2="${W - 32}" y1="204" y2="204" stroke="${t.stroke}" stroke-dasharray="2 4"/>${row(r2, 236, 0.5)}${row(r3, 296, 0.7)}`;
-  return frame(t, 424, `${title(t, 'Building with Claude Code', `Since ${esc(CL.since)} · aggregate counts only, no prompts, code or project names`)}${bigs}${mbar}${mleg}${more}${spark}
-<text x="32" y="410" fill="${t.faint}" font-size="10">${esc(s0)} → ${esc(today)} · tokens per day · square-root scale</text>`);
-}
+  const sep = (y) => `<line x1="32" x2="${W - 32}" y1="${y}" y2="${y}" stroke="${t.stroke}" stroke-dasharray="2 4"/>`;
 
-// ---------- 5b. Claude Code heatmap (same layout as the GitHub one, orange, tokens per day)
-function claudeHeat(t) {
-  if (!CL) return null;
-  t = { ...t, ramp: t.orange };
-  const L = 44, T = 92, step = (W - 32 - L) / 53, S = step - 3;
+  // recent periods, measured from the moment claude.json was generated
+  const ts = Math.floor(Date.parse(CL.generatedAt) / 1000), now = loc(ts), nowD = `${now.year}-${now.month}-${now.day}`;
+  const sumDays = (n) => { let tk = 0, pr = 0; for (let i = 0; i < n; i++) { const d = days[addD(nowD, -i)]; tk += d?.t || 0; pr += d?.p || 0; } return [tk, pr]; };
+  let tk24 = 0, pr24 = 0;
+  for (let k = 0; k < 24; k++) { const q = loc(ts - k * 3600), d = days[`${q.year}-${q.month}-${q.day}`]; tk24 += d?.th?.[+q.hour % 24] || 0; pr24 += d?.h?.[+q.hour % 24] || 0; }
+  const per = [['today', ...sumDays(1)], ['last 24h', tk24, pr24], ['last 7 days', ...sumDays(7)], ['last 30 days', ...sumDays(30)]]
+    .map(([l, tk, pr], i) => big(t, 32 + i * colW, 368, cmp(tk), `${l} · ${fmt(pr)} prompts`, t.text, 0.9 + i * 0.05)).join('');
+
+  // heatmap, same layout as the GitHub one: tokens per day over the last year
+  const L = 44, HT = 456, step = (W - 32 - L) / 53, S = step - 3;
   const start = addD(today, -dowOf(today) - 52 * 7);
-  const val = (d) => CL.days[d]?.t || 0;
   const wind = []; for (let d = start; d <= today; d = addD(d, 1)) wind.push(d);
   const nz = wind.map(val).filter(Boolean).sort((a, b) => a - b);
   const q = (p) => nz[Math.min(nz.length - 1, Math.floor(p * nz.length))] || 1, cuts = [q(0.25), q(0.5), q(0.75)];
   const lvl = (n) => (n === 0 ? 0 : n <= cuts[0] ? 1 : n <= cuts[1] ? 2 : n <= cuts[2] ? 3 : 4);
   let cells = '', months = '', lastC = -9, lastM = -1, nowCell = '';
   wind.forEach((d, i) => {
-    const col = Math.floor(i / 7), row = dowOf(d), x = L + col * step, y = T + row * step, m = +d.slice(5, 7);
-    if (row === 0 && m !== lastM && col >= lastC + 3 && col < 51) { months += `<text x="${x}" y="${T - 10}" fill="${t.muted}" font-size="11">${MONTHS[m - 1]}</text>`; lastM = m; lastC = col; }
-    cells += `<rect class="c" style="animation-delay:${(col * 14 + row * 8) / 1000}s" x="${x.toFixed(1)}" y="${y.toFixed(1)}" width="${S.toFixed(1)}" height="${S.toFixed(1)}" rx="3" fill="${t.ramp[lvl(val(d))]}"/>`;
-    if (d === today) nowCell = `<rect class="now" x="${(x - 1.5).toFixed(1)}" y="${(y - 1.5).toFixed(1)}" width="${(S + 3).toFixed(1)}" height="${(S + 3).toFixed(1)}" rx="4.5"/>`;
+    const col = Math.floor(i / 7), r = dowOf(d), cx = L + col * step, cy = HT + r * step, m = +d.slice(5, 7);
+    if (r === 0 && m !== lastM && col >= lastC + 3 && col < 51) { months += `<text x="${cx}" y="${HT - 10}" fill="${t.muted}" font-size="11">${MONTHS[m - 1]}</text>`; lastM = m; lastC = col; }
+    cells += `<rect class="c" style="animation-delay:${(col * 14 + r * 8) / 1000}s" x="${cx.toFixed(1)}" y="${cy.toFixed(1)}" width="${S.toFixed(1)}" height="${S.toFixed(1)}" rx="3" fill="${t.ramp[lvl(val(d))]}"/>`;
+    if (d === today) nowCell = `<rect class="now" x="${(cx - 1.5).toFixed(1)}" y="${(cy - 1.5).toFixed(1)}" width="${(S + 3).toFixed(1)}" height="${(S + 3).toFixed(1)}" rx="4.5"/>`;
   });
-  const dowL = [1, 3, 5].map((r) => `<text x="${L - 10}" y="${T + r * step + 10}" fill="${t.faint}" font-size="10" text-anchor="end">${DOWS[r]}</text>`).join('');
-  const gb = T + 7 * step, lx = W - 32 - 5 * (S + 4) - 52;
+  const dowL = [1, 3, 5].map((r) => `<text x="${L - 10}" y="${HT + r * step + 10}" fill="${t.faint}" font-size="10" text-anchor="end">${DOWS[r]}</text>`).join('');
+  const gb = HT + 7 * step, lx = W - 32 - 5 * (S + 4) - 52;
   const legend = label(t, lx, gb + 18, 'LESS', { size: 11, anchor: 'end' }) + t.ramp.map((c, i) => `<rect x="${lx + 8 + i * (S + 4)}" y="${gb + 7}" width="${S}" height="${S}" rx="3" fill="${c}"/>`).join('') + label(t, lx + 8 + 5 * (S + 4) + 4, gb + 18, 'MORE', { size: 11 });
-  const total = wind.reduce((s, d) => s + val(d), 0), active = wind.filter(val).length || 1;
+  const yTotal = wind.reduce((s, d) => s + val(d), 0), active = wind.filter(val).length || 1;
   const best = wind.reduce((a, b) => (val(b) > val(a) ? b : a));
   let longest = 0, run = 0; for (let d = start; d <= today; d = addD(d, 1)) { run = val(d) ? run + 1 : 0; longest = Math.max(longest, run); }
   let cur = 0; for (let d = today; ; d = addD(d, -1)) { if (val(d)) cur++; else if (d !== today) break; }
-  const stats = [[fmt(active), 'active days'], [`${cur}d`, 'current streak'], [`${longest}d`, 'longest streak'], [cmp(val(best)), `best day · ${MONTHS[+best.slice(5, 7) - 1]} ${+best.slice(8)}`], [cmp(total / active), 'avg tokens per active day']];
-  const sy = gb + 56, cw = (W - 64) / stats.length;
-  const els = stats.map(([v, l], i) => `<g class="r" style="animation-delay:${0.6 + i * 0.08}s"><text x="${32 + i * cw}" y="${sy}" fill="${t.text}" font-family="${MONO}" font-size="20" font-weight="600">${v}</text>${label(t, 32 + i * cw, sy + 18, l.toUpperCase())}</g>`).join('');
-  return frame(t, sy + 40, `${title(t, 'Claude Code activity', `<tspan fill="${t.text}" font-family="${MONO}" font-weight="600">${cmp(total)}</tspan> tokens in the last year · busier days are darker`)}
-${months}${dowL}${cells}${nowCell}${legend}<line x1="32" x2="${W - 32}" y1="${gb + 26}" y2="${gb + 26}" stroke="${t.stroke}" stroke-dasharray="2 4"/>${els}`);
+  const stats = [[`${cur}d`, 'current streak'], [`${longest}d`, 'longest streak'], [cmp(val(best)), `best day · ${MONTHS[+best.slice(5, 7) - 1]} ${+best.slice(8)}`], [cmp(yTotal / active), 'avg tokens per active day']];
+  const sy = gb + 56;
+  const els = stats.map(([v, l], i) => `<g class="r" style="animation-delay:${1 + i * 0.08}s"><text x="${32 + i * colW}" y="${sy}" fill="${t.text}" font-family="${MONO}" font-size="20" font-weight="600">${v}</text>${label(t, 32 + i * colW, sy + 18, l.toUpperCase())}</g>`).join('');
+  const heat = `<text x="32" y="${HT - 34}" fill="${t.text}" font-size="13" font-weight="600">Activity · tokens per day, last year</text>${months}${dowL}${cells}${nowCell}${legend}${sep(gb + 26)}${els}`;
+  return frame(t, sy + 40, `${title(t, 'Building with Claude Code', `Since ${esc(CL.since)} · aggregate counts only, no prompts, code or project names`)}${bigs}${mbar}${mleg}${sep(204)}${row(r2, 236, 0.5)}${row(r3, 296, 0.7)}${sep(336)}${per}${sep(412)}${heat}`);
 }
 
 // ---------- 6. recently played (only when Spotify credentials were provided)
@@ -273,16 +266,26 @@ const spotifyList = async () => {
   for (const f of readdirSync('assets')) if (/^(track|spotify-head|spotify-logo)-/.test(f)) rmSync(`assets/${f}`);
   const tag = createHash('md5').update(JSON.stringify(s.map((x) => x.t))).digest('hex').slice(0, 6);
   const logo = spotify().replace(/<svg[^>]*>/, '<g>').replace('</svg>', '</g>');
-  const wrap = (t, h, body) => `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${h}" viewBox="0 0 ${W} ${h}" font-family="${SANS}">${CSS(t)}<rect x=".5" y=".5" width="${W - 1}" height="${h - 1}" rx="14" fill="${t.bg}" stroke="${t.stroke}"/>${body}</svg>`;
+  // One box made of stacked slices (so each row can carry its own link): top and bottom slices have rounded corners,
+  // middle ones only side borders, and the images are vertical-align:middle so the slices touch without gaps.
+  const slice = (t, h, pos, body) => {
+    const R = 14, top = pos === 'top' || pos === 'only', bot = pos === 'bottom' || pos === 'only';
+    const y0 = top ? 0.5 : 0, y1 = bot ? h - 0.5 : h;
+    const fillP = `M.5 ${y1}${top ? ` V${R + 0.5} a${R} ${R} 0 0 1 ${R} -${R} H${W - R - 0.5} a${R} ${R} 0 0 1 ${R} ${R}` : ` V0 H${W - 0.5}`} V${y1 - (bot ? R : 0)}${bot ? ` a${R} ${R} 0 0 1 -${R} ${R} H${R + 0.5} a${R} ${R} 0 0 1 -${R} -${R}` : ''} Z`;
+    const edge = `M.5 ${top ? R + 0.5 : 0} ${top ? `a${R} ${R} 0 0 1 ${R} -${R} H${W - R - 0.5} a${R} ${R} 0 0 1 ${R} ${R}` : `M${W - 0.5} 0`} V${y1 - (bot ? R : 0)}${bot ? ` a${R} ${R} 0 0 1 -${R} ${R} H${R + 0.5} a${R} ${R} 0 0 1 -${R} -${R}` : ''}`;
+    const side = top ? '' : `<path d="M.5 0 V${bot ? h - R - 0.5 : h}M${W - 0.5} 0 V${bot ? h - R - 0.5 : h}" stroke="${t.stroke}" fill="none"/>`;
+    const sepL = bot ? '' : `<line x1="${R + 8}" x2="${W - R - 8}" y1="${h - 0.5}" y2="${h - 0.5}" stroke="${t.stroke}" stroke-dasharray="2 4"/>`;
+    return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${h}" viewBox="0 0 ${W} ${h}" font-family="${SANS}">${CSS(t)}<path d="${fillP}" fill="${t.bg}"/>${top || bot ? `<path d="${edge}" stroke="${t.stroke}" fill="none"/>` : ''}${side}${sepL}${body}</svg>`;
+  };
   const covers = await Promise.all(s.map((x) => coverData(x.art)));
   for (const [name, t] of Object.entries(THEMES)) {
-    writeFileSync(`assets/spotify-head-${tag}-${name}.svg`, wrap(t, 64, `<g transform="translate(24 14)">${logo}</g><text class="r" x="72" y="33" fill="${t.text}" font-size="17" font-weight="600">Recently played</text><text class="r" x="72" y="51" fill="${t.muted}" font-size="12" style="animation-delay:.1s">last tracks on Spotify · updates every 30 minutes</text>`));
+    writeFileSync(`assets/spotify-head-${tag}-${name}.svg`, slice(t, 64, 'top', `<g transform="translate(24 14)">${logo}</g><text class="r" x="72" y="33" fill="${t.text}" font-size="17" font-weight="600">Recently played</text><text class="r" x="72" y="51" fill="${t.muted}" font-size="12" style="animation-delay:.1s">last tracks on Spotify · updates every 30 minutes</text>`));
     s.forEach((x, i) => {
-      const img = covers[i] ? `<clipPath id="k"><rect x="14" y="14" width="52" height="52" rx="9"/></clipPath><image href="${covers[i]}" x="14" y="14" width="52" height="52" clip-path="url(#k)" preserveAspectRatio="xMidYMid slice"/>` : `<rect x="14" y="14" width="52" height="52" rx="9" fill="${t.track}"/>`;
-      writeFileSync(`assets/track-${i}-${tag}-${name}.svg`, wrap(t, 80, `<g class="r" style="animation-delay:${i * 0.07}s">${img}<text x="80" y="38" fill="${t.text}" font-size="15" font-weight="600">${esc(clip(x.title, 60))}</text><text x="80" y="58" fill="${t.muted}" font-size="12.5">${esc(clip(x.artist, 70))}</text><text x="${W - 22}" y="45" fill="${t.faint}" font-family="${MONO}" font-size="12" text-anchor="end">${when(x.t)}</text></g>`));
+      const img = covers[i] ? `<clipPath id="k"><rect x="24" y="10" width="52" height="52" rx="9"/></clipPath><image href="${covers[i]}" x="24" y="10" width="52" height="52" clip-path="url(#k)" preserveAspectRatio="xMidYMid slice"/>` : `<rect x="24" y="10" width="52" height="52" rx="9" fill="${t.track}"/>`;
+      writeFileSync(`assets/track-${i}-${tag}-${name}.svg`, slice(t, 72, i === s.length - 1 ? 'bottom' : 'mid', `<g class="r" style="animation-delay:${i * 0.07}s">${img}<text x="90" y="33" fill="${t.text}" font-size="15" font-weight="600">${esc(clip(x.title, 60))}</text><text x="90" y="52" fill="${t.muted}" font-size="12.5">${esc(clip(x.artist, 70))}</text><text x="${W - 26}" y="40" fill="${t.faint}" font-family="${MONO}" font-size="12" text-anchor="end">${when(x.t)}</text></g>`));
     });
   }
-  const one = (k, alt, href) => `<a${href ? ` href="${esc(href)}"` : ''}><picture><source media="(prefers-color-scheme: dark)" srcset="assets/${k}-dark.svg"><img alt="${esc(alt)}" src="assets/${k}-light.svg" width="100%"></picture></a>`;
+  const one = (k, alt, href) => `<a${href ? ` href="${esc(href)}"` : ''}><picture><source media="(prefers-color-scheme: dark)" srcset="assets/${k}-dark.svg"><img alt="${esc(alt)}" src="assets/${k}-light.svg" width="100%" align="absmiddle"></picture></a>`;
   const rows = s.map((x, i) => one(`track-${i}-${tag}`, `${x.title} · ${x.artist}`, x.url)).join('<br>\n');
   return `${one(`spotify-head-${tag}`, 'Recently played on Spotify', 'https://open.spotify.com')}<br>\n${rows}
 
@@ -464,7 +467,7 @@ for (const f of readdirSync('assets')) if (f.startsWith('period-')) rmSync(`asse
 const lastDay = (k) => { const d = new Date(Date.UTC(+k.slice(0, 4), +k.slice(5, 7), 0)); return d.toISOString().slice(0, 10); };
 const monthsWith = [...new Set(C.map((c) => c.date.slice(0, 7)))].sort().reverse();
 const yearsWith = [...new Set(C.map((c) => c.date.slice(0, 4)))].sort().reverse();
-const CARDS = { overview, activity, churn, rhythm, punchcard, projects: projectsCard, languages, style: styleCard, insights, months: monthsCard, claude, claudeheat: claudeHeat, 'spotify-logo': spotify };
+const CARDS = { overview, activity, churn, rhythm, punchcard, projects: projectsCard, languages, style: styleCard, insights, months: monthsCard, claude, 'spotify-logo': spotify };
 const have = new Set();
 for (const [name, t] of Object.entries(THEMES)) {
   for (const [k, fn] of Object.entries(CARDS)) { const s = fn(t); if (s) { writeFileSync(`assets/${k}-${name}.svg`, s); have.add(k); } }
@@ -474,8 +477,8 @@ for (const [name, t] of Object.entries(THEMES)) {
 
 // ---------- README (generated, so the period selector always matches the data)
 const pic = (k, alt) => `<picture>\n  <source media="(prefers-color-scheme: dark)" srcset="assets/${k}-dark.svg">\n  <img alt="${alt}" src="assets/${k}-light.svg" width="100%">\n</picture>`;
-const ALT = { overview: 'Overview', activity: 'Activity heatmap', churn: 'Code churn', rhythm: 'When I code', punchcard: 'Punchcard', projects: 'Time by project', languages: 'Languages', style: 'How I commit', insights: 'Highlights and records', months: 'Month by month', claude: 'Building with Claude Code', claudeheat: 'Claude Code activity heatmap', 'spotify-logo': 'Recently played' };
-const order = ['overview', 'activity', 'churn', 'rhythm', 'punchcard', 'projects', 'languages', 'style', 'insights', 'months', 'claude', 'claudeheat', 'spotify-logo'].filter((k) => have.has(k));
+const ALT = { overview: 'Overview', activity: 'Activity heatmap', churn: 'Code churn', rhythm: 'When I code', punchcard: 'Punchcard', projects: 'Time by project', languages: 'Languages', style: 'How I commit', insights: 'Highlights and records', months: 'Month by month', claude: 'Building with Claude Code', 'spotify-logo': 'Recently played' };
+const order = ['overview', 'activity', 'churn', 'rhythm', 'punchcard', 'projects', 'languages', 'style', 'insights', 'months', 'claude', 'spotify-logo'].filter((k) => have.has(k));
 const yearBlocks = yearsWith.map((y) => {
   const ms = monthsWith.filter((k) => k.startsWith(y)), n = C.filter((c) => c.date.startsWith(y)).length;
   const inner = ms.map((k) => `<details>\n<summary>${monthName(k)} · ${fmt(C.filter((c) => c.date.startsWith(k)).length)} commits</summary>\n<br>\n\n${pic('period-' + k, monthName(k))}\n\n</details>`).join('\n\n');
