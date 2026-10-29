@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-93b980-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-93b980-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1Eqdkt6DfGNWElHpeujHGJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-93b980-dark.svg"><img alt="HIGHJACK (right back) · Alok, Łaszewo, A$AP Rocky" src="assets/track-0-93b980-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1bE98D49uKNetOyLiaB8tG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-93b980-dark.svg"><img alt="Never Walk Alone · BLOND:ISH, Stevie Appleton" src="assets/track-1-93b980-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/44wR4NqR75eJMETxrz59Sr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-93b980-dark.svg"><img alt="Favour · FISHER, Tones And I" src="assets/track-2-93b980-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5sCc7Jdb0REQRlo1qgtEeS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-93b980-dark.svg"><img alt="4 us · Sonnee" src="assets/track-3-93b980-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4K2d0N0nL1HI4y2fz7qdIS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-93b980-dark.svg"><img alt="Yet · Babsy." src="assets/track-4-93b980-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5fAj64vp07jXf5KsfVwEKw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-93b980-dark.svg"><img alt="Hold On · 49th &amp; Main, SHEE" src="assets/track-5-93b980-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5yxZgGzAoRUntxuqBeiX7a"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-93b980-dark.svg"><img alt="Over &amp; Over · Ship Wrek" src="assets/track-6-93b980-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-6ccee9-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-6ccee9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0jOVWyn2oqdi0To7psVdt9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-6ccee9-dark.svg"><img alt="Direct With It · Swimming Paul, Beaux Neptune" src="assets/track-0-6ccee9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0D57lQnn110jGaup4NguSI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-6ccee9-dark.svg"><img alt="Sweet Disposition (a moment, a love) · Lost Frequencies, The Temper Trap" src="assets/track-1-6ccee9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-6ccee9-dark.svg"><img alt="Running Around · Ely Oaks" src="assets/track-2-6ccee9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-6ccee9-dark.svg"><img alt="She’s Gone, Dance On · Disclosure" src="assets/track-3-6ccee9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/62cC7C7e8buEM15ReSWjff"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-6ccee9-dark.svg"><img alt="i&#39;m way too self aware · oskar med k" src="assets/track-4-6ccee9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-6ccee9-dark.svg"><img alt="Appetite · Chris Lorenzo" src="assets/track-5-6ccee9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/52WUqlqnxa0JVcSOCTzbn1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-6ccee9-dark.svg"><img alt="Sunshine (My Girl) · Wuki" src="assets/track-6-6ccee9-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,453 commits</summary>
+<summary><b>2026</b> · 1,454 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>October 2026 · 373 commits</summary>
+<summary>October 2026 · 374 commits</summary>
 <br>
 
 <picture>
