@@ -208,14 +208,26 @@ function claude(t) {
 
 // ---------- 6. recently played (only when Spotify credentials were provided)
 function spotify(t) {
-  const s = (D.spotify || []).slice(0, 5);
-  if (!s.length) return null;
-  const ago = (ts) => { const m = (Date.now() / 1000 - ts) / 60; return m < 60 ? Math.round(m) + 'm ago' : m < 1440 ? Math.round(m / 60) + 'h ago' : Math.round(m / 1440) + 'd ago'; };
-  const rows = s.map((x, i) => `<g class="r" style="animation-delay:${0.1 + i * 0.08}s"><circle cx="40" cy="${96 + i * 36}" r="4" fill="${t.ramp[3]}"/>
-<text x="56" y="${100 + i * 36}" fill="${t.text}" font-size="13" font-weight="600">${esc(x.title.slice(0, 46))}<tspan fill="${t.muted}" font-weight="400"> · ${esc(x.artist.slice(0, 40))}</tspan></text>
-<text x="${W - 32}" y="${100 + i * 36}" fill="${t.faint}" font-size="12" text-anchor="end">${ago(x.t)}</text></g>`).join('');
-  return frame(t, 96 + s.length * 36 + 8, `${title(t, 'Recently played', 'Last tracks on Spotify')}${rows}`);
+  if (!(D.spotify || []).length) return null;
+  // header only: the track list itself is real HTML in the README, so covers and links work
+  const logo = `<g class="r" transform="translate(${W - 32 - 36} 22)"><circle cx="18" cy="18" r="18" fill="#1DB954"/>
+<path d="M9.3 13.8c5.7-1.7 12.4-1.1 17.7 2" stroke="#000" stroke-width="2.7" fill="none" stroke-linecap="round"/>
+<path d="M10.4 18.8c4.8-1.4 10.3-.8 14.7 1.8" stroke="#000" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+<path d="M11.4 23.2c3.9-1.1 8-.6 11.5 1.5" stroke="#000" stroke-width="1.8" fill="none" stroke-linecap="round"/></g>`;
+  return frame(t, 84, `${title(t, 'Recently played', 'Last tracks on Spotify · click a cover to open the song')}${logo}`);
 }
+const spotifyList = () => {
+  const s = (D.spotify || []).slice(0, 8);
+  if (!s.length) return '';
+  const when = (ts) => { const p = loc(ts); return `${MONTHS[+p.month - 1]} ${+p.day}, ${p.hour}:${p.minute}`; };
+  const rows = s.map((x) => {
+    const href = x.url ? ` href="${esc(x.url)}"` : '';
+    return `<tr><td width="64">${x.art ? `<a${href}><img src="${esc(x.art)}" width="48" height="48" alt=""></a>` : ''}</td>
+<td align="left"><a${href}><b>${esc(x.title)}</b></a><br><sub>${esc(x.artist)} · ${esc(x.album)}</sub></td>
+<td align="right"><sub>${when(x.t)}</sub></td></tr>`;
+  }).join('\n');
+  return `<table width="100%">\n${rows}\n</table>\n<sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in ${esc(D.tz.replace('_', ' '))}</sub>`;
+};
 
 // ---------- shared helpers for the remaining cards
 const sumBy = (a, fn) => a.reduce((s, x) => s + fn(x), 0);
@@ -410,7 +422,7 @@ const yearBlocks = yearsWith.map((y) => {
 }).join('\n\n');
 writeFileSync('README.md', `<div align="center">
 
-${order.map((k) => pic(k, ALT[k])).join('\n\n')}
+${order.map((k) => pic(k, ALT[k]) + (k === 'spotify' ? '\n\n' + spotifyList() : '')).join('\n\n')}
 
 ### Zoom into a period
 <sub>click a year, then a month</sub>

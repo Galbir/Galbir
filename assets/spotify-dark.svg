@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="284" viewBox="0 0 900 284" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"><style>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="84" viewBox="0 0 900 84" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"><style>
 @keyframes pop{from{opacity:0;transform:scale(.3)}to{opacity:1;transform:none}}
 @keyframes growY{from{transform:scaleY(0)}to{transform:none}}
 @keyframes growX{from{transform:scaleX(0)}to{transform:none}}
@@ -12,16 +12,9 @@
 .now{fill:none;stroke:#e6edf3;stroke-width:1.5;animation:pulse 2s ease-in-out infinite}
 @media (prefers-reduced-motion:reduce){*{animation:none!important}}
 </style>
-<rect x=".5" y=".5" width="899" height="283" rx="14" fill="#0d1117" stroke="#30363d"/>
-<text class="r" x="32" y="42" fill="#e6edf3" font-size="18" font-weight="600">Recently played</text><text class="r" x="32" y="64" fill="#8b949e" font-size="12.5" style="animation-delay:.1s">Last tracks on Spotify</text><g class="r" style="animation-delay:0.1s"><circle cx="40" cy="96" r="4" fill="#26a641"/>
-<text x="56" y="100" fill="#e6edf3" font-size="13" font-weight="600">Over It<tspan fill="#8b949e" font-weight="400"> · Maxé Lune</tspan></text>
-<text x="868" y="100" fill="#6e7681" font-size="12" text-anchor="end">10m ago</text></g><g class="r" style="animation-delay:0.18s"><circle cx="40" cy="132" r="4" fill="#26a641"/>
-<text x="56" y="136" fill="#e6edf3" font-size="13" font-weight="600">Say Something<tspan fill="#8b949e" font-weight="400"> · Sonny Fodera, Becky Hill</tspan></text>
-<text x="868" y="136" fill="#6e7681" font-size="12" text-anchor="end">12m ago</text></g><g class="r" style="animation-delay:0.26s"><circle cx="40" cy="168" r="4" fill="#26a641"/>
-<text x="56" y="172" fill="#e6edf3" font-size="13" font-weight="600">Beg For Your Love<tspan fill="#8b949e" font-weight="400"> · Melodream</tspan></text>
-<text x="868" y="172" fill="#6e7681" font-size="12" text-anchor="end">16m ago</text></g><g class="r" style="animation-delay:0.33999999999999997s"><circle cx="40" cy="204" r="4" fill="#26a641"/>
-<text x="56" y="208" fill="#e6edf3" font-size="13" font-weight="600">Nothing Lasts Forever<tspan fill="#8b949e" font-weight="400"> · BUNT., RØAM</tspan></text>
-<text x="868" y="208" fill="#6e7681" font-size="12" text-anchor="end">18m ago</text></g><g class="r" style="animation-delay:0.42000000000000004s"><circle cx="40" cy="240" r="4" fill="#26a641"/>
-<text x="56" y="244" fill="#e6edf3" font-size="13" font-weight="600">Whisper (Henry Himself Remix)<tspan fill="#8b949e" font-weight="400"> · Joel Corry, Henry Himself</tspan></text>
-<text x="868" y="244" fill="#6e7681" font-size="12" text-anchor="end">21m ago</text></g>
+<rect x=".5" y=".5" width="899" height="83" rx="14" fill="#0d1117" stroke="#30363d"/>
+<text class="r" x="32" y="42" fill="#e6edf3" font-size="18" font-weight="600">Recently played</text><text class="r" x="32" y="64" fill="#8b949e" font-size="12.5" style="animation-delay:.1s">Last tracks on Spotify · click a cover to open the song</text><g class="r" transform="translate(832 22)"><circle cx="18" cy="18" r="18" fill="#1DB954"/>
+<path d="M9.3 13.8c5.7-1.7 12.4-1.1 17.7 2" stroke="#000" stroke-width="2.7" fill="none" stroke-linecap="round"/>
+<path d="M10.4 18.8c4.8-1.4 10.3-.8 14.7 1.8" stroke="#000" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+<path d="M11.4 23.2c3.9-1.1 8-.6 11.5 1.5" stroke="#000" stroke-width="1.8" fill="none" stroke-linecap="round"/></g>
 </svg>

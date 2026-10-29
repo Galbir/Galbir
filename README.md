@@ -60,6 +60,34 @@
   <img alt="Recently played" src="assets/spotify-light.svg" width="100%">
 </picture>
 
+<table width="100%">
+<tr><td width="64"><a href="https://open.spotify.com/track/4pAfkR7qx5PobaURrggSX2"><img src="https://i.scdn.co/image/ab67616d00001e023813c99c37c3aba9e3ddffb4" width="48" height="48" alt=""></a></td>
+<td align="left"><a href="https://open.spotify.com/track/4pAfkR7qx5PobaURrggSX2"><b>Over It</b></a><br><sub>Maxé Lune · Over It</sub></td>
+<td align="right"><sub>Oct 29, 11:06</sub></td></tr>
+<tr><td width="64"><a href="https://open.spotify.com/track/4yJBJNrl3chEz7DqAaWe7y"><img src="https://i.scdn.co/image/ab67616d00001e0219cea88e45b669c90c80f1e7" width="48" height="48" alt=""></a></td>
+<td align="left"><a href="https://open.spotify.com/track/4yJBJNrl3chEz7DqAaWe7y"><b>Say Something</b></a><br><sub>Sonny Fodera, Becky Hill · Say Something</sub></td>
+<td align="right"><sub>Oct 29, 11:04</sub></td></tr>
+<tr><td width="64"><a href="https://open.spotify.com/track/0NdjW9UeIVG0RkeO8yQ6RR"><img src="https://i.scdn.co/image/ab67616d00001e027535558fe9560324f9fe7e86" width="48" height="48" alt=""></a></td>
+<td align="left"><a href="https://open.spotify.com/track/0NdjW9UeIVG0RkeO8yQ6RR"><b>Beg For Your Love</b></a><br><sub>Melodream · Beg For Your Love</sub></td>
+<td align="right"><sub>Oct 29, 11:00</sub></td></tr>
+<tr><td width="64"><a href="https://open.spotify.com/track/2y1k0hI8lTDkQHZJDvMK5M"><img src="https://i.scdn.co/image/ab67616d00001e02672f0378308f28cc4a9e5e6b" width="48" height="48" alt=""></a></td>
+<td align="left"><a href="https://open.spotify.com/track/2y1k0hI8lTDkQHZJDvMK5M"><b>Nothing Lasts Forever</b></a><br><sub>BUNT., RØAM · Levi Did It</sub></td>
+<td align="right"><sub>Oct 29, 10:57</sub></td></tr>
+<tr><td width="64"><a href="https://open.spotify.com/track/3dr1E0qR8WOyOeiL49JO62"><img src="https://i.scdn.co/image/ab67616d00001e0269ee660ff22cb290fa87807d" width="48" height="48" alt=""></a></td>
+<td align="left"><a href="https://open.spotify.com/track/3dr1E0qR8WOyOeiL49JO62"><b>Whisper (Henry Himself Remix)</b></a><br><sub>Joel Corry, Henry Himself · Whisper (The Remixes)</sub></td>
+<td align="right"><sub>Oct 29, 10:55</sub></td></tr>
+<tr><td width="64"><a href="https://open.spotify.com/track/6841yyUhJzRaPkWZ8a6JrP"><img src="https://i.scdn.co/image/ab67616d00001e02f2f3ef15fc7132314726b988" width="48" height="48" alt=""></a></td>
+<td align="left"><a href="https://open.spotify.com/track/6841yyUhJzRaPkWZ8a6JrP"><b>My Best Friend</b></a><br><sub>Matt Sassari, Brandy, GIACOBBI · My Best Friend</sub></td>
+<td align="right"><sub>Oct 29, 10:52</sub></td></tr>
+<tr><td width="64"><a href="https://open.spotify.com/track/4RJDJENvCJkwi9l8fxvamm"><img src="https://i.scdn.co/image/ab67616d00001e02f4dc639116a2e13a7517aaef" width="48" height="48" alt=""></a></td>
+<td align="left"><a href="https://open.spotify.com/track/4RJDJENvCJkwi9l8fxvamm"><b>I Want U</b></a><br><sub>Zoom.Like, GRAN CHICO MALOSITO · I Want U</sub></td>
+<td align="right"><sub>Oct 29, 10:50</sub></td></tr>
+<tr><td width="64"><a href="https://open.spotify.com/track/6ZtJxsOgygqpSYbZjsdVNj"><img src="https://i.scdn.co/image/ab67616d00001e027c8f5620eef3d5b687838660" width="48" height="48" alt=""></a></td>
+<td align="left"><a href="https://open.spotify.com/track/6ZtJxsOgygqpSYbZjsdVNj"><b>Million Miles</b></a><br><sub>MESSY, ZOOZEE · Million Miles</sub></td>
+<td align="right"><sub>Oct 29, 10:47</sub></td></tr>
+</table>
+<sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
+
 ### Zoom into a period
 <sub>click a year, then a month</sub>
 

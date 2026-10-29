@@ -1,6 +1,6 @@
 name: Update profile stats
 on:
-  schedule: [{ cron: '17 3 * * *' }]
+  schedule: [{ cron: '7,37 * * * *' }]
   workflow_dispatch:
 permissions:
   contents: write
@@ -25,4 +25,4 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets README.md docs/data.json
-          git diff --cached --quiet || (git commit -m "chore: update stats" && git push)
+          git diff --cached --quiet || (git commit -m "chore: update stats" && git pull --rebase -q && git push)
