@@ -61,6 +61,15 @@
 </picture>
 
 <table width="100%">
+<tr><td width="64"><a href="https://open.spotify.com/track/7f9WkDtkzDEZNwJOxb76PE"><img src="https://i.scdn.co/image/ab67616d00001e0287578efc738ea39e8bbba649" width="48" height="48" alt=""></a></td>
+<td align="left"><a href="https://open.spotify.com/track/7f9WkDtkzDEZNwJOxb76PE"><b>Familiar</b></a><br><sub>Distant Matter · Vivid Nostalgia</sub></td>
+<td align="right"><sub>Oct 29, 11:19</sub></td></tr>
+<tr><td width="64"><a href="https://open.spotify.com/track/5e2BpBdCMBu0fh9IvUpJNN"><img src="https://i.scdn.co/image/ab67616d00001e023102eea8e1a27519137f7224" width="48" height="48" alt=""></a></td>
+<td align="left"><a href="https://open.spotify.com/track/5e2BpBdCMBu0fh9IvUpJNN"><b>In The Name Of Beauty (feat. Britta B)</b></a><br><sub>Brad Mullins, Britta B · In The Name Of Beauty (feat. Britta B)</sub></td>
+<td align="right"><sub>Oct 29, 11:14</sub></td></tr>
+<tr><td width="64"><a href="https://open.spotify.com/track/4OX7pQdm43EtAiBIEWlUnA"><img src="https://i.scdn.co/image/ab67616d00001e02d7f6cf18495e1d64abcf1412" width="48" height="48" alt=""></a></td>
+<td align="left"><a href="https://open.spotify.com/track/4OX7pQdm43EtAiBIEWlUnA"><b>FADED - Nora En Pure Remix</b></a><br><sub>HAYLA, Nelly Furtado, Nora En Pure · FADED (Nora En Pure Remix)</sub></td>
+<td align="right"><sub>Oct 29, 11:10</sub></td></tr>
 <tr><td width="64"><a href="https://open.spotify.com/track/4pAfkR7qx5PobaURrggSX2"><img src="https://i.scdn.co/image/ab67616d00001e023813c99c37c3aba9e3ddffb4" width="48" height="48" alt=""></a></td>
 <td align="left"><a href="https://open.spotify.com/track/4pAfkR7qx5PobaURrggSX2"><b>Over It</b></a><br><sub>Maxé Lune · Over It</sub></td>
 <td align="right"><sub>Oct 29, 11:06</sub></td></tr>
@@ -76,15 +85,6 @@
 <tr><td width="64"><a href="https://open.spotify.com/track/3dr1E0qR8WOyOeiL49JO62"><img src="https://i.scdn.co/image/ab67616d00001e0269ee660ff22cb290fa87807d" width="48" height="48" alt=""></a></td>
 <td align="left"><a href="https://open.spotify.com/track/3dr1E0qR8WOyOeiL49JO62"><b>Whisper (Henry Himself Remix)</b></a><br><sub>Joel Corry, Henry Himself · Whisper (The Remixes)</sub></td>
 <td align="right"><sub>Oct 29, 10:55</sub></td></tr>
-<tr><td width="64"><a href="https://open.spotify.com/track/6841yyUhJzRaPkWZ8a6JrP"><img src="https://i.scdn.co/image/ab67616d00001e02f2f3ef15fc7132314726b988" width="48" height="48" alt=""></a></td>
-<td align="left"><a href="https://open.spotify.com/track/6841yyUhJzRaPkWZ8a6JrP"><b>My Best Friend</b></a><br><sub>Matt Sassari, Brandy, GIACOBBI · My Best Friend</sub></td>
-<td align="right"><sub>Oct 29, 10:52</sub></td></tr>
-<tr><td width="64"><a href="https://open.spotify.com/track/4RJDJENvCJkwi9l8fxvamm"><img src="https://i.scdn.co/image/ab67616d00001e02f4dc639116a2e13a7517aaef" width="48" height="48" alt=""></a></td>
-<td align="left"><a href="https://open.spotify.com/track/4RJDJENvCJkwi9l8fxvamm"><b>I Want U</b></a><br><sub>Zoom.Like, GRAN CHICO MALOSITO · I Want U</sub></td>
-<td align="right"><sub>Oct 29, 10:50</sub></td></tr>
-<tr><td width="64"><a href="https://open.spotify.com/track/6ZtJxsOgygqpSYbZjsdVNj"><img src="https://i.scdn.co/image/ab67616d00001e027c8f5620eef3d5b687838660" width="48" height="48" alt=""></a></td>
-<td align="left"><a href="https://open.spotify.com/track/6ZtJxsOgygqpSYbZjsdVNj"><b>Million Miles</b></a><br><sub>MESSY, ZOOZEE · Million Miles</sub></td>
-<td align="right"><sub>Oct 29, 10:47</sub></td></tr>
 </table>
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -92,7 +92,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,038 commits</summary>
+<summary><b>2026</b> · 1,041 commits</summary>
 <br>
 
 <picture>
@@ -101,7 +101,7 @@
 </picture>
 
 <details>
-<summary>October 2026 · 217 commits</summary>
+<summary>October 2026 · 220 commits</summary>
 <br>
 
 <picture>
