@@ -28,6 +28,11 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/spotify-dark.svg">
+  <img alt="Recently played" src="assets/spotify-light.svg" width="100%">
+</picture>
+
 <sub>Generated from the GitHub API, private repos included (aggregates only, no repo names). Source in <code>scripts/</code>.</sub>
 
 </div>
