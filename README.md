@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-4be512-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-4be512-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7urR7LI2T2QMbxvQj0LcU2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-4be512-dark.svg"><img alt="Flowers · oskar med k" src="assets/track-0-4be512-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6BXj4AUrOZzht3ymheXut3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-4be512-dark.svg"><img alt="Acid Cowboy · Disco Lines" src="assets/track-1-4be512-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6MAfxjDn1I84Q2fZw3NlUa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-4be512-dark.svg"><img alt="Lose It All (I Don&#39;t Wanna) · BUNT." src="assets/track-2-4be512-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7u0fz3V6cYeYTX91DMmIvQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-4be512-dark.svg"><img alt="Food for the Soul · it&#39;s murph" src="assets/track-3-4be512-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6lspamynBrtJaTt1D7jMJT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-4be512-dark.svg"><img alt="maybe · Ordley" src="assets/track-4-4be512-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-4be512-dark.svg"><img alt="Rainfall (Praise You) · Tom Santa" src="assets/track-5-4be512-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0KdgkImLHstT78XKNpz1T3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-4be512-dark.svg"><img alt="Lost · Swimming Paul" src="assets/track-6-4be512-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-93b980-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-93b980-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1Eqdkt6DfGNWElHpeujHGJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-93b980-dark.svg"><img alt="HIGHJACK (right back) · Alok, Łaszewo, A$AP Rocky" src="assets/track-0-93b980-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1bE98D49uKNetOyLiaB8tG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-93b980-dark.svg"><img alt="Never Walk Alone · BLOND:ISH, Stevie Appleton" src="assets/track-1-93b980-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/44wR4NqR75eJMETxrz59Sr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-93b980-dark.svg"><img alt="Favour · FISHER, Tones And I" src="assets/track-2-93b980-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5sCc7Jdb0REQRlo1qgtEeS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-93b980-dark.svg"><img alt="4 us · Sonnee" src="assets/track-3-93b980-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4K2d0N0nL1HI4y2fz7qdIS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-93b980-dark.svg"><img alt="Yet · Babsy." src="assets/track-4-93b980-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5fAj64vp07jXf5KsfVwEKw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-93b980-dark.svg"><img alt="Hold On · 49th &amp; Main, SHEE" src="assets/track-5-93b980-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5yxZgGzAoRUntxuqBeiX7a"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-93b980-dark.svg"><img alt="Over &amp; Over · Ship Wrek" src="assets/track-6-93b980-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,451 commits</summary>
+<summary><b>2026</b> · 1,453 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>October 2026 · 371 commits</summary>
+<summary>October 2026 · 373 commits</summary>
 <br>
 
 <picture>
