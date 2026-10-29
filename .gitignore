@@ -1,6 +1,6 @@
 node_modules
 .cache
-data.json
+/data.json
 
 # graft's local graph cache — regenerable, not committed (run `graft build`).
 /graft/
