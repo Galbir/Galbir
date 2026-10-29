@@ -1,5 +1,6 @@
 // Renders docs/data.json (+ docs/claude.json when present) into animated, themed SVGs for the profile README.
 // GitHub strips JS and hover from README images, but CSS animations survive, so everything here is CSS-only.
+import { createHash } from 'node:crypto';
 import { readFileSync, writeFileSync, mkdirSync, existsSync, readdirSync, rmSync } from 'node:fs';
 
 const D = JSON.parse(readFileSync('docs/data.json', 'utf8'));
@@ -194,7 +195,7 @@ function claude(t) {
   const bw = (W - 64) / win2.length;
   const spark = win2.map((x, i) => {
     const h = (Math.sqrt(x.t) / mx) * 46;
-    return x.t ? `<rect class="bu" style="animation-delay:${0.3 + i * 0.002}s" x="${(32 + i * bw).toFixed(2)}" y="${(256 - h).toFixed(1)}" width="${Math.max(1, bw - (bw > 6 ? 2 : 0.8)).toFixed(2)}" height="${Math.max(1.5, h).toFixed(1)}" rx="${bw > 6 ? 2 : 1}" fill="${t.ramp[3]}"/>` : '';
+    return x.t ? `<rect class="bu" style="animation-delay:${0.3 + i * 0.002}s" x="${(32 + i * bw).toFixed(2)}" y="${(392 - h).toFixed(1)}" width="${Math.max(1, bw - (bw > 6 ? 2 : 0.8)).toFixed(2)}" height="${Math.max(1.5, h).toFixed(1)}" rx="${bw > 6 ? 2 : 1}" fill="${t.ramp[3]}"/>` : '';
   }).join('');
   const bigs = [
     big(t, 32, 104, cmp(T.tokens), 'tokens processed'), big(t, 32 + colW, 104, fmt(T.sessions), 'sessions', t.text, 0.1),
@@ -203,8 +204,14 @@ function claude(t) {
   let x = 32;
   const mbar = mt.map((m, i) => { const w = (m.t / tot) * (W - 64); const el = `<rect class="bx" style="animation-delay:${0.2 + i * 0.1}s" x="${x.toFixed(1)}" y="152" width="${Math.max(0, w - 2).toFixed(1)}" height="10" rx="5" fill="${t.ramp[4 - i % 4]}"/>`; x += w; return el; }).join('');
   const mleg = mt.map((m, i) => `<g class="r" style="animation-delay:${0.4 + i * 0.05}s"><circle cx="${37 + i * 215}" cy="180" r="4.5" fill="${t.ramp[4 - i % 4]}"/><text x="${48 + i * 215}" y="184" fill="${t.text}" font-size="12">${esc(m.n)}<tspan fill="${t.muted}"> ${Math.round((m.t / tot) * 100)}%</tspan></text></g>`).join('');
-  return frame(t, 290, `${title(t, 'Building with Claude Code', `Since ${esc(CL.since)} · aggregate counts only, no prompts, code or project names`)}${bigs}${mbar}${mleg}${spark}
-<text x="32" y="276" fill="${t.faint}" font-size="10">${esc(s0)} → ${esc(today)} · tokens per day · square-root scale</text>`);
+  const hit = T.cacheRead / Math.max(1, T.cacheRead + T.input + T.cacheWrite);
+  const topTool = CL.tools[0];
+  const r2 = [[cmp(T.input), 'input tokens'], [cmp(T.output), 'output tokens'], [cmp(T.cacheRead), 'cache read'], [cmp(T.cacheWrite), 'cache write']];
+  const r3 = [[fmt(T.toolCalls), 'tool calls'], [topTool ? esc(topTool.n) : '-', 'most used tool'], [`${(hit * 100).toFixed(0)}%`, 'cache hit rate'], [fmt(T.projects), 'projects touched']];
+  const row = (rs, y, d0) => rs.map(([v, l], i) => big(t, 32 + i * colW, y, v, l, t.text, d0 + i * 0.05)).join('');
+  const more = `<line x1="32" x2="${W - 32}" y1="204" y2="204" stroke="${t.stroke}" stroke-dasharray="2 4"/>${row(r2, 236, 0.5)}${row(r3, 296, 0.7)}`;
+  return frame(t, 424, `${title(t, 'Building with Claude Code', `Since ${esc(CL.since)} · aggregate counts only, no prompts, code or project names`)}${bigs}${mbar}${mleg}${more}${spark}
+<text x="32" y="410" fill="${t.faint}" font-size="10">${esc(s0)} → ${esc(today)} · tokens per day · square-root scale</text>`);
 }
 
 // ---------- 5b. Claude Code heatmap (same layout as the GitHub one, orange, tokens per day)
@@ -249,21 +256,35 @@ function spotify() {
 <path d="M10.4 18.8c4.8-1.4 10.3-.8 14.7 1.8" stroke="#000" stroke-width="2.2" fill="none" stroke-linecap="round"/>
 <path d="M11.4 23.2c3.9-1.1 8-.6 11.5 1.5" stroke="#000" stroke-width="1.8" fill="none" stroke-linecap="round"/></svg>`;
 }
-const spotifyList = () => {
+// Each track is its own rounded SVG card (cover embedded, so no external image) wrapped in a link to the song.
+const coverData = async (url) => {
+  if (!url) return null;
+  try {
+    const r = await fetch(url);
+    if (!r.ok) return null;
+    return `data:${r.headers.get('content-type') || 'image/jpeg'};base64,${Buffer.from(await r.arrayBuffer()).toString('base64')}`;
+  } catch { return null; }
+};
+const clip = (s, n) => (s.length > n ? s.slice(0, n - 1) + '…' : s);
+const spotifyList = async () => {
   const s = (D.spotify || []).slice(0, 7);
   if (!s.length) return '';
   const when = (ts) => { const p = loc(ts); return `${MONTHS[+p.month - 1]} ${+p.day}, ${p.hour}:${p.minute}`; };
-  const rows = s.map((x) => {
-    const href = x.url ? ` href="${esc(x.url)}"` : '';
-    const cover = x.art ? `<a${href}><img src="${esc(x.art)}" width="44" height="44" align="absmiddle" alt=""></a>&nbsp;&nbsp;` : '';
-    return `<tr><td align="left">${cover}<a${href}><b>${esc(x.title)}</b></a>&nbsp;&nbsp;<sub>${esc(x.artist)}</sub></td><td align="right" nowrap><sub>${when(x.t)}</sub></td></tr>`;
-  }).join('\n');
-  return `<table width="100%">
-<thead><tr><th colspan="2" align="left"><img src="assets/spotify-logo-light.svg" width="28" height="28" align="absmiddle" alt="Spotify">&nbsp;&nbsp;Recently played&nbsp;&nbsp;<sub>last tracks on Spotify · updates every 30 minutes</sub><br><img src="assets/spacer.svg" width="840" height="1" alt=""></th></tr></thead>
-<tbody>
-${rows}
-</tbody>
-</table>
+  for (const f of readdirSync('assets')) if (/^(track|spotify-head|spotify-logo)-/.test(f)) rmSync(`assets/${f}`);
+  const tag = createHash('md5').update(JSON.stringify(s.map((x) => x.t))).digest('hex').slice(0, 6);
+  const logo = spotify().replace(/<svg[^>]*>/, '<g>').replace('</svg>', '</g>');
+  const wrap = (t, h, body) => `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${h}" viewBox="0 0 ${W} ${h}" font-family="${SANS}">${CSS(t)}<rect x=".5" y=".5" width="${W - 1}" height="${h - 1}" rx="14" fill="${t.bg}" stroke="${t.stroke}"/>${body}</svg>`;
+  const covers = await Promise.all(s.map((x) => coverData(x.art)));
+  for (const [name, t] of Object.entries(THEMES)) {
+    writeFileSync(`assets/spotify-head-${tag}-${name}.svg`, wrap(t, 64, `<g transform="translate(24 14)">${logo}</g><text class="r" x="72" y="33" fill="${t.text}" font-size="17" font-weight="600">Recently played</text><text class="r" x="72" y="51" fill="${t.muted}" font-size="12" style="animation-delay:.1s">last tracks on Spotify · updates every 30 minutes</text>`));
+    s.forEach((x, i) => {
+      const img = covers[i] ? `<clipPath id="k"><rect x="14" y="14" width="52" height="52" rx="9"/></clipPath><image href="${covers[i]}" x="14" y="14" width="52" height="52" clip-path="url(#k)" preserveAspectRatio="xMidYMid slice"/>` : `<rect x="14" y="14" width="52" height="52" rx="9" fill="${t.track}"/>`;
+      writeFileSync(`assets/track-${i}-${tag}-${name}.svg`, wrap(t, 80, `<g class="r" style="animation-delay:${i * 0.07}s">${img}<text x="80" y="38" fill="${t.text}" font-size="15" font-weight="600">${esc(clip(x.title, 60))}</text><text x="80" y="58" fill="${t.muted}" font-size="12.5">${esc(clip(x.artist, 70))}</text><text x="${W - 22}" y="45" fill="${t.faint}" font-family="${MONO}" font-size="12" text-anchor="end">${when(x.t)}</text></g>`));
+    });
+  }
+  const one = (k, alt, href) => `<a${href ? ` href="${esc(href)}"` : ''}><picture><source media="(prefers-color-scheme: dark)" srcset="assets/${k}-dark.svg"><img alt="${esc(alt)}" src="assets/${k}-light.svg" width="100%"></picture></a>`;
+  const rows = s.map((x, i) => one(`track-${i}-${tag}`, `${x.title} · ${x.artist}`, x.url)).join('<br>\n');
+  return `${one(`spotify-head-${tag}`, 'Recently played on Spotify', 'https://open.spotify.com')}<br>\n${rows}
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in ${esc(D.tz.replace('_', ' '))}</sub>`;
 };
@@ -460,9 +481,10 @@ const yearBlocks = yearsWith.map((y) => {
   const inner = ms.map((k) => `<details>\n<summary>${monthName(k)} · ${fmt(C.filter((c) => c.date.startsWith(k)).length)} commits</summary>\n<br>\n\n${pic('period-' + k, monthName(k))}\n\n</details>`).join('\n\n');
   return `<details>\n<summary><b>${y}</b> · ${fmt(n)} commits</summary>\n<br>\n\n${pic('period-' + y, y)}\n\n${inner}\n\n</details>`;
 }).join('\n\n');
+const spotifyHtml = await spotifyList();
 writeFileSync('README.md', `<div align="center">
 
-${order.map((k) => (k === 'spotify-logo' ? spotifyList() : pic(k, ALT[k]))).join('\n\n')}
+${order.map((k) => (k === 'spotify-logo' ? spotifyHtml : pic(k, ALT[k]))).join('\n\n')}
 
 ### Zoom into a period
 <sub>click a year, then a month</sub>
