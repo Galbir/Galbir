@@ -80,5 +80,8 @@ const out = {
 };
 out.totals.toolCalls = sum((d) => Object.values(d.tl || {}).reduce((s, c) => s + c, 0));
 mkdirSync('docs', { recursive: true });
-writeFileSync(OUT, JSON.stringify(out));
+// leave the file untouched when nothing changed, so hourly runs do not create empty commits
+const strip = ({ generatedAt, ...rest }) => JSON.stringify(rest);
+if (prev.generatedAt && strip(prev) === strip(out)) console.log('unchanged');
+else writeFileSync(OUT, JSON.stringify(out));
 console.log({ files: files.length, since: out.since, ...out.totals, models: models.slice(0, 5), tools: tools.slice(0, 5) });
