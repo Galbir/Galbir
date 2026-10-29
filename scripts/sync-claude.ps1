@@ -4,7 +4,7 @@
 $ErrorActionPreference = 'Continue'
 Set-Location (Split-Path $PSScriptRoot -Parent)
 New-Item -ItemType Directory -Force .cache | Out-Null
-Start-Transcript -Path .cachesync.log -Append | Out-Null
+Start-Transcript -Path .cache/sync.log -Append | Out-Null
 "--- $(Get-Date -Format s)"
 git -c core.safecrlf=false pull --rebase --autostash 2>&1 | ForEach-Object { "$_" }
 node scripts/claude-usage.mjs 2>&1 | ForEach-Object { "$_" }
