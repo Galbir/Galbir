@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="358" viewBox="0 0 900 358" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"><style>
+@keyframes pop{from{opacity:0;transform:scale(.3)}to{opacity:1;transform:none}}
+@keyframes growY{from{transform:scaleY(0)}to{transform:none}}
+@keyframes growX{from{transform:scaleX(0)}to{transform:none}}
+@keyframes rise{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+@keyframes pulse{0%,100%{stroke-opacity:.15}50%{stroke-opacity:1}}
+.c{transform-box:fill-box;transform-origin:center;animation:pop .5s cubic-bezier(.2,.8,.2,1) both}
+.bu{transform-box:fill-box;transform-origin:50% 100%;animation:growY .7s cubic-bezier(.2,.8,.2,1) both}
+.bd{transform-box:fill-box;transform-origin:50% 0;animation:growY .7s cubic-bezier(.2,.8,.2,1) both}
+.bx{transform-box:fill-box;transform-origin:0 50%;animation:growX .8s cubic-bezier(.2,.8,.2,1) both}
+.r{animation:rise .6s ease-out both}
+.now{fill:none;stroke:#e6edf3;stroke-width:1.5;animation:pulse 2s ease-in-out infinite}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x=".5" y=".5" width="899" height="357" rx="14" fill="#0d1117" stroke="#30363d"/>
+<text class="r" x="32" y="42" fill="#e6edf3" font-size="18" font-weight="600">How I commit</text><text class="r" x="32" y="64" fill="#8b949e" font-size="12.5" style="animation-delay:.1s">Last 12 months · only conventional-commit prefixes are kept, never the messages</text>
+<text x="32" y="100" fill="#8b949e" font-size="10" letter-spacing=".08em" text-anchor="start">COMMIT TYPES</text><g class="r" style="animation-delay:0.2s"><text x="32" y="132" fill="#e6edf3" font-size="12.5">other</text>
+<rect x="112" y="124" width="274" height="8" rx="4" fill="#21262d"/><rect class="bx" style="animation-delay:0.4s" x="112" y="124" width="274.0" height="8" rx="4" fill="#26a641"/>
+<text x="430" y="132" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" text-anchor="end">646</text></g><g class="r" style="animation-delay:0.25s"><text x="32" y="160" fill="#e6edf3" font-size="12.5">fix</text>
+<rect x="112" y="152" width="274" height="8" rx="4" fill="#21262d"/><rect class="bx" style="animation-delay:0.45s" x="112" y="152" width="73.0" height="8" rx="4" fill="#26a641"/>
+<text x="430" y="160" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" text-anchor="end">172</text></g><g class="r" style="animation-delay:0.30000000000000004s"><text x="32" y="188" fill="#e6edf3" font-size="12.5">feat</text>
+<rect x="112" y="180" width="274" height="8" rx="4" fill="#21262d"/><rect class="bx" style="animation-delay:0.5s" x="112" y="180" width="55.1" height="8" rx="4" fill="#26a641"/>
+<text x="430" y="188" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" text-anchor="end">130</text></g><g class="r" style="animation-delay:0.35000000000000003s"><text x="32" y="216" fill="#e6edf3" font-size="12.5">chore</text>
+<rect x="112" y="208" width="274" height="8" rx="4" fill="#21262d"/><rect class="bx" style="animation-delay:0.55s" x="112" y="208" width="15.3" height="8" rx="4" fill="#26a641"/>
+<text x="430" y="216" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" text-anchor="end">36</text></g><g class="r" style="animation-delay:0.4s"><text x="32" y="244" fill="#e6edf3" font-size="12.5">style</text>
+<rect x="112" y="236" width="274" height="8" rx="4" fill="#21262d"/><rect class="bx" style="animation-delay:0.6000000000000001s" x="112" y="236" width="7.6" height="8" rx="4" fill="#26a641"/>
+<text x="430" y="244" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" text-anchor="end">18</text></g><g class="r" style="animation-delay:0.45s"><text x="32" y="272" fill="#e6edf3" font-size="12.5">docs</text>
+<rect x="112" y="264" width="274" height="8" rx="4" fill="#21262d"/><rect class="bx" style="animation-delay:0.65s" x="112" y="264" width="5.5" height="8" rx="4" fill="#26a641"/>
+<text x="430" y="272" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" text-anchor="end">13</text></g><g class="r" style="animation-delay:0.5s"><text x="32" y="300" fill="#e6edf3" font-size="12.5">refactor</text>
+<rect x="112" y="292" width="274" height="8" rx="4" fill="#21262d"/><rect class="bx" style="animation-delay:0.7000000000000001s" x="112" y="292" width="4.7" height="8" rx="4" fill="#26a641"/>
+<text x="430" y="300" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" text-anchor="end">11</text></g><g class="r" style="animation-delay:0.55s"><text x="32" y="328" fill="#e6edf3" font-size="12.5">perf</text>
+<rect x="112" y="320" width="274" height="8" rx="4" fill="#21262d"/><rect class="bx" style="animation-delay:0.75s" x="112" y="320" width="4.2" height="8" rx="4" fill="#26a641"/>
+<text x="430" y="328" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" text-anchor="end">10</text></g>
+<text x="470" y="100" fill="#8b949e" font-size="10" letter-spacing=".08em" text-anchor="start">COMMIT SIZE · MEDIAN 32 LINES</text><g class="r" style="animation-delay:0.4s"><text x="470" y="132" fill="#e6edf3" font-size="12.5">1–10 lines</text>
+<rect x="560" y="124" width="264" height="8" rx="4" fill="#21262d"/><rect class="bx" style="animation-delay:0.6000000000000001s" x="560" y="124" width="257.6" height="8" rx="4" fill="#26a641"/>
+<text x="868" y="132" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" text-anchor="end">281</text></g><g class="r" style="animation-delay:0.45s"><text x="470" y="160" fill="#e6edf3" font-size="12.5">11–50 lines</text>
+<rect x="560" y="152" width="264" height="8" rx="4" fill="#21262d"/><rect class="bx" style="animation-delay:0.6500000000000001s" x="560" y="152" width="264.0" height="8" rx="4" fill="#26a641"/>
+<text x="868" y="160" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" text-anchor="end">288</text></g><g class="r" style="animation-delay:0.5s"><text x="470" y="188" fill="#e6edf3" font-size="12.5">51–200 lines</text>
+<rect x="560" y="180" width="264" height="8" rx="4" fill="#21262d"/><rect class="bx" style="animation-delay:0.7000000000000001s" x="560" y="180" width="221.8" height="8" rx="4" fill="#26a641"/>
+<text x="868" y="188" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" text-anchor="end">242</text></g><g class="r" style="animation-delay:0.55s"><text x="470" y="216" fill="#e6edf3" font-size="12.5">201–1k lines</text>
+<rect x="560" y="208" width="264" height="8" rx="4" fill="#21262d"/><rect class="bx" style="animation-delay:0.7500000000000001s" x="560" y="208" width="123.8" height="8" rx="4" fill="#26a641"/>
+<text x="868" y="216" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" text-anchor="end">135</text></g><g class="r" style="animation-delay:0.6000000000000001s"><text x="470" y="244" fill="#e6edf3" font-size="12.5">1k–5k lines</text>
+<rect x="560" y="236" width="264" height="8" rx="4" fill="#21262d"/><rect class="bx" style="animation-delay:0.8s" x="560" y="236" width="53.2" height="8" rx="4" fill="#26a641"/>
+<text x="868" y="244" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" text-anchor="end">58</text></g><g class="r" style="animation-delay:0.65s"><text x="470" y="272" fill="#e6edf3" font-size="12.5">5k+ lines</text>
+<rect x="560" y="264" width="264" height="8" rx="4" fill="#21262d"/><rect class="bx" style="animation-delay:0.8500000000000001s" x="560" y="264" width="16.5" height="8" rx="4" fill="#26a641"/>
+<text x="868" y="272" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" text-anchor="end">18</text></g>
+</svg>

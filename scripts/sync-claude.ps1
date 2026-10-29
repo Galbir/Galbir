@@ -7,7 +7,7 @@ Set-Location (Split-Path $PSScriptRoot -Parent)
 git -c core.safecrlf=false pull --rebase --autostash 2>&1 | ForEach-Object { "$_" }
 node scripts/claude-usage.mjs 2>&1 | ForEach-Object { "$_" }
 node scripts/render.mjs 2>&1 | ForEach-Object { "$_" }
-git -c core.safecrlf=false add docs/claude.json assets 2>&1 | Out-Null
+git -c core.safecrlf=false add docs/claude.json assets README.md 2>&1 | Out-Null
 git diff --cached --quiet
 if ($LASTEXITCODE -ne 0) {
   git commit -q -m "chore: update Claude Code usage" 2>&1 | ForEach-Object { "$_" }

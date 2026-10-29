@@ -1,6 +1,6 @@
 // Renders docs/data.json (+ docs/claude.json when present) into animated, themed SVGs for the profile README.
 // GitHub strips JS and hover from README images, but CSS animations survive, so everything here is CSS-only.
-import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs';
+import { readFileSync, writeFileSync, mkdirSync, existsSync, readdirSync, rmSync } from 'node:fs';
 
 const D = JSON.parse(readFileSync('docs/data.json', 'utf8'));
 const CL = existsSync('docs/claude.json') ? JSON.parse(readFileSync('docs/claude.json', 'utf8')) : null;
@@ -33,7 +33,7 @@ const f = new Intl.DateTimeFormat('en-CA', { timeZone: D.tz, hourCycle: 'h23', y
 const loc = (t) => Object.fromEntries(f.formatToParts(new Date(t * 1000)).map((x) => [x.type, x.value]));
 const C = D.commits.map((r) => {
   const p = loc(r[0]);
-  return { t: r[0], p: r[1], ca: r[4], cd: r[5], l: r[8], date: `${p.year}-${p.month}-${p.day}`, h: +p.hour % 24 };
+  return { t: r[0], p: r[1], ca: r[4], cd: r[5], y: r[7], l: r[8], date: `${p.year}-${p.month}-${p.day}`, h: +p.hour % 24 };
 }).sort((a, b) => a.t - b.t);
 C.forEach((c, i) => { const g = i ? (c.t - C[i - 1].t) / 60 : Infinity; c.mins = g <= 120 ? Math.max(g, 1) : 30; });
 const g0 = loc(Date.parse(D.generatedAt) / 1000);
@@ -217,11 +217,208 @@ function spotify(t) {
   return frame(t, 96 + s.length * 36 + 8, `${title(t, 'Recently played', 'Last tracks on Spotify')}${rows}`);
 }
 
-for (const [name, t] of Object.entries(THEMES)) {
-  writeFileSync(`assets/activity-${name}.svg`, activity(t));
-  writeFileSync(`assets/churn-${name}.svg`, churn(t));
-  writeFileSync(`assets/rhythm-${name}.svg`, rhythm(t));
-  writeFileSync(`assets/languages-${name}.svg`, languages(t));
-  for (const [k, fn] of [['claude', claude], ['spotify', spotify]]) { const s = fn(t); if (s) writeFileSync(`assets/${k}-${name}.svg`, s); }
+// ---------- shared helpers for the remaining cards
+const sumBy = (a, fn) => a.reduce((s, x) => s + fn(x), 0);
+const MONTHF = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+const monthName = (k) => `${MONTHF[+k.slice(5, 7) - 1]} ${k.slice(0, 4)}`;
+const fmtDate = (s) => `${MONTHS[+s.slice(5, 7) - 1]} ${+s.slice(8)}, ${s.slice(0, 4)}`;
+const PARTS = ['Morning', 'Daytime', 'Evening', 'Night'];
+const kpiRow = (t, y, items, delay = 0) => {
+  const cw = (W - 64) / items.length;
+  return items.map(([v, l, col, sub], i) => `<g class="r" style="animation-delay:${delay + i * 0.07}s"><text x="${32 + i * cw}" y="${y}" fill="${col || t.text}" font-family="${MONO}" font-size="22" font-weight="600">${v}</text>${label(t, 32 + i * cw, y + 20, l.toUpperCase())}${sub ? label(t, 32 + i * cw, y + 36, sub, { color: t.faint }) : ''}</g>`).join('');
+};
+// horizontal bar rows: items [{name, v, label, color?}]
+const hrows = (t, x, y, w, items, { nameW = 120, labelW = 100, step = 28, delay = 0.2 } = {}) => {
+  const mx = Math.max(1, ...items.map((r) => r.v)), tx = x + nameW, tw = Math.max(20, w - nameW - labelW);
+  return items.map((r, i) => {
+    const yy = y + i * step, col = r.color || t.ramp[3];
+    return `<g class="r" style="animation-delay:${delay + i * 0.05}s"><text x="${x}" y="${yy + 4}" fill="${t.text}" font-size="12.5">${esc(r.name)}</text>
+<rect x="${tx}" y="${yy - 4}" width="${tw}" height="8" rx="4" fill="${t.track}"/><rect class="bx" style="animation-delay:${delay + 0.2 + i * 0.05}s" x="${tx}" y="${yy - 4}" width="${Math.max(3, (r.v / mx) * tw).toFixed(1)}" height="8" rx="4" fill="${col}"/>
+<text x="${x + w}" y="${yy + 4}" fill="${t.muted}" font-family="${MONO}" font-size="12" text-anchor="end">${esc(r.label)}</text></g>`;
+  }).join('');
+};
+const langMins = (cs) => {
+  const m = {};
+  cs.forEach((c) => {
+    const tot = c.l.reduce((s, x) => s + x[1], 0);
+    if (!tot) { m.Other = (m.Other || 0) + c.mins; return; }
+    c.l.forEach(([li, ch]) => { const k = D.L[li]; m[k] = (m[k] || 0) + c.mins * (ch / tot); });
+  });
+  return Object.entries(m).sort((a, b) => b[1] - a[1]);
+};
+const projMins = (cs) => {
+  const m = {};
+  cs.forEach((c) => { const o = (m[c.p] ||= { n: 0, mins: 0, a: 0, d: 0 }); o.n++; o.mins += c.mins; o.a += c.ca; o.d += c.cd; });
+  return Object.entries(m).map(([p, o]) => ({ id: D.projects[p].id, lang: D.projects[p].lang, ...o })).sort((a, b) => b.mins - a.mins);
+};
+const longestStreak = (dates) => {
+  const s = [...new Set(dates)].sort(); let best = 0, run = 0;
+  s.forEach((d, i) => { run = i && addD(s[i - 1], 1) === d ? run + 1 : 1; best = Math.max(best, run); });
+  return best;
+};
+
+// ---------- 7. overview (the dashboard's KPI row)
+function overview(t) {
+  const s = (cs) => ({ n: cs.length, a: sumBy(cs, (c) => c.ca), d: sumBy(cs, (c) => c.cd), m: sumBy(cs, (c) => c.mins), days: new Set(cs.map((c) => c.date)).size, pr: new Set(cs.map((c) => c.p)).size });
+  const w = s(win), a = s(C), net = (o) => (o.a - o.d >= 0 ? '+' : '−') + cmp(Math.abs(o.a - o.d));
+  const r1 = [[fmt(w.n), 'commits', t.text, `ALL TIME ${fmt(a.n)}`], ['+' + fmt(w.a), 'lines added', t.add, `ALL TIME +${cmp(a.a)}`], ['−' + fmt(w.d), 'lines removed', t.del, `ALL TIME −${cmp(a.d)}`], [net(w), 'net lines', t.text, `ALL TIME ${net(a)}`]];
+  const r2 = [[hrs(w.m), 'est. coding time', t.text, `ALL TIME ${hrs(a.m)}`], [fmt(w.days), 'active days', t.text, `ALL TIME ${fmt(a.days)}`], [fmt(w.pr), 'projects', t.text, `ALL TIME ${fmt(a.pr)}`], [(w.n / Math.max(1, w.days)).toFixed(1), 'commits per active day', t.text, `ALL TIME ${(a.n / Math.max(1, a.days)).toFixed(1)}`]];
+  return frame(t, 248, `${title(t, 'Overview', 'Last 12 months · lines exclude lockfiles and generated files · all-time totals underneath')}${kpiRow(t, 104, r1)}
+<line x1="32" x2="${W - 32}" y1="158" y2="158" stroke="${t.stroke}" stroke-dasharray="2 4"/>${kpiRow(t, 190, r2, 0.3)}`);
 }
-console.log({ commits: win.length, today, claude: !!CL });
+
+// ---------- 8. punchcard: weekday x hour
+function punchcard(t) {
+  const m = Array.from({ length: 7 }, () => Array(24).fill(0));
+  win.forEach((c) => m[dowOf(c.date)][c.h]++);
+  const all = m.flat().filter(Boolean).sort((a, b) => a - b), mx = Math.max(1, ...all);
+  const q = (p) => all[Math.min(all.length - 1, Math.floor(p * all.length))] || 1, cuts = [q(0.25), q(0.5), q(0.75)];
+  const x0 = 80, cw = (W - 32 - x0) / 24, rh = 26, T = 92, order = [1, 2, 3, 4, 5, 6, 0];
+  let dots = '';
+  order.forEach((d, r) => {
+    dots += `<text x="32" y="${T + r * rh + 4}" fill="${t.muted}" font-size="11">${DOWS[d]}</text>`;
+    for (let h = 0; h < 24; h++) {
+      const v = m[d][h], cx = x0 + h * cw + cw / 2, cy = T + r * rh;
+      if (!v) { dots += `<circle cx="${cx.toFixed(1)}" cy="${cy}" r="1.6" fill="${t.stroke}"/>`; continue; }
+      const lv = v <= cuts[0] ? 1 : v <= cuts[1] ? 2 : v <= cuts[2] ? 3 : 4;
+      dots += `<circle class="c" style="animation-delay:${(h * 18 + r * 40) / 1000}s" cx="${cx.toFixed(1)}" cy="${cy}" r="${Math.max(3, Math.sqrt(v / mx) * (rh / 2 - 1)).toFixed(1)}" fill="${t.ramp[lv]}"/>`;
+    }
+  });
+  const hl = Array.from({ length: 8 }, (_, i) => `<text x="${(x0 + i * 3 * cw + cw / 2).toFixed(1)}" y="${T + 7 * rh + 6}" fill="${t.muted}" font-size="10" text-anchor="middle">${String(i * 3).padStart(2, '0')}</text>`).join('');
+  return frame(t, T + 7 * rh + 28, `${title(t, 'Punchcard', 'Commits by weekday and hour · last 12 months · dot size and shade = how many')}${dots}${hl}`);
+}
+
+// ---------- 9. time by project (anonymised)
+function projectsCard(t) {
+  const rows = projMins(win).slice(0, 10).map((p) => ({ name: `${p.id}${p.lang ? ' · ' + p.lang : ''}`, v: p.mins, label: `${hrs(p.mins)} · ${p.n}` }));
+  return frame(t, 100 + rows.length * 28 + 8, `${title(t, 'Time by project', 'Estimated hours · commits · last 12 months · project names are anonymised')}${hrows(t, 32, 100, W - 64, rows, { nameW: 170, labelW: 110 })}`);
+}
+
+// ---------- 10. commit types + sizes
+function styleCard(t) {
+  const cnt = Array(D.types.length).fill(0); win.forEach((c) => cnt[c.y]++);
+  const types = cnt.map((v, i) => ({ name: D.types[i], v, label: String(v) })).filter((r) => r.v).sort((a, b) => b.v - a.v).slice(0, 8);
+  const B = [['1–10', 1, 10], ['11–50', 11, 50], ['51–200', 51, 200], ['201–1k', 201, 1000], ['1k–5k', 1001, 5000], ['5k+', 5001, 1e12]];
+  const sizes = B.map(([n, lo, hi]) => { const v = win.filter((c) => { const s = c.ca + c.cd; return s >= lo && s <= hi; }).length; return { name: n + ' lines', v, label: String(v) }; });
+  const sorted = win.map((c) => c.ca + c.cd).sort((a, b) => a - b), med = sorted[Math.floor(sorted.length / 2)] || 0;
+  const cw = (W - 64 - 40) / 2;
+  return frame(t, 130 + Math.max(types.length, sizes.length) * 28 + 4, `${title(t, 'How I commit', 'Last 12 months · only conventional-commit prefixes are kept, never the messages')}
+${label(t, 32, 100, 'COMMIT TYPES')}${hrows(t, 32, 128, cw, types, { nameW: 80, labelW: 44 })}
+${label(t, 32 + cw + 40, 100, `COMMIT SIZE · MEDIAN ${fmt(med)} LINES`)}${hrows(t, 32 + cw + 40, 128, cw, sizes, { nameW: 90, labelW: 44, delay: 0.4 })}`);
+}
+
+// ---------- 11. highlights + records
+function insights(t) {
+  const cs = win; if (!cs.length) return null;
+  const cnt = (fn, n) => { const a = Array(n).fill(0); cs.forEach((c) => a[fn(c)]++); return a; };
+  const top = (a) => a.indexOf(Math.max(...a));
+  const hh = cnt((c) => c.h, 24), wd = cnt((c) => dowOf(c.date), 7), pt = cnt((c) => part(c.h), 4);
+  const byD = {}; cs.forEach((c) => (byD[c.date] ||= []).push(c));
+  const busiest = Object.entries(byD).sort((a, b) => b[1].length - a[1].length)[0];
+  const bigC = [...cs].sort((a, b) => b.ca + b.cd - (a.ca + a.cd))[0];
+  const ses = []; let cur = [cs[0]];
+  for (let i = 1; i < cs.length; i++) { if ((cs[i].t - cs[i - 1].t) / 60 <= 120) cur.push(cs[i]); else { ses.push(cur); cur = [cs[i]]; } }
+  ses.push(cur);
+  const dur = (s) => (s[s.length - 1].t - s[0].t) / 60 + 30, long = [...ses].sort((a, b) => dur(b) - dur(a))[0];
+  const mth = {}; cs.forEach((c) => (mth[c.date.slice(0, 7)] = (mth[c.date.slice(0, 7)] || 0) + 1));
+  const bm = Object.entries(mth).sort((a, b) => b[1] - a[1])[0], nd = Object.keys(byD).length;
+  const b = (s) => `<tspan fill="${t.text}" font-weight="600">${s}</tspan>`;
+  const lines = [
+    `Most commits happen in the ${b(PARTS[top(pt)].toLowerCase())} (${Math.round((Math.max(...pt) / cs.length) * 100)}%), peaking around ${b(String(top(hh)).padStart(2, '0') + ':00')}.`,
+    `Busiest weekday is ${b(['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'][top(wd)])}.`,
+    `${b(Math.round((pt[3] / cs.length) * 100) + '%')} of commits land between 22:00 and 05:00.`,
+    `A typical active day has ${b((cs.length / nd).toFixed(1))} commits across ${b((sumBy(cs, (c) => c.mins) / 60 / nd).toFixed(1) + ' h')}.`,
+    bm && Object.keys(mth).length > 1 ? `Biggest month: ${b(monthName(bm[0]))} with ${b(bm[1])} commits.` : null,
+  ].filter(Boolean);
+  const list = lines.map((l, i) => `<g class="r" style="animation-delay:${0.1 + i * 0.08}s"><circle cx="38" cy="${96 + i * 26}" r="3" fill="${t.ramp[3]}"/><text x="52" y="${100 + i * 26}" fill="${t.muted}" font-size="13">${l}</text></g>`).join('');
+  const y0 = 100 + lines.length * 26 + 26;
+  const st = longestStreak(cs.map((c) => c.date));
+  const rec = [[busiest[1].length + ' commits', 'busiest day', fmtDate(busiest[0])], [fmt(bigC.ca + bigC.cd) + ' lines', 'biggest commit', `${fmtDate(bigC.date)} · ${D.projects[bigC.p].id}`],
+    [hrs(dur(long)), 'longest session', `${fmtDate(long[0].date)} · ${long.length} commits`], [st + (st === 1 ? ' day' : ' days'), 'longest commit streak', 'consecutive days with commits']];
+  return frame(t, y0 + 78, `${title(t, 'Highlights &amp; records', 'Last 12 months')}${list}
+<line x1="32" x2="${W - 32}" y1="${y0 - 14}" y2="${y0 - 14}" stroke="${t.stroke}" stroke-dasharray="2 4"/>${kpiRow(t, y0 + 12, rec.map(([v, l, s]) => [v, l, t.text, s]), 0.5)}`);
+}
+
+// ---------- 12. month by month (last 12 months)
+function monthsCard(t) {
+  const ks = []; for (let i = 11; i >= 0; i--) { const d = new Date(today + 'T00:00:00Z'); d.setUTCMonth(d.getUTCMonth() - i, 1); ks.push(d.toISOString().slice(0, 7)); }
+  const m = Object.fromEntries(ks.map((k) => [k, { n: 0, a: 0, d: 0, mins: 0, days: new Set() }]));
+  C.forEach((c) => { const o = m[c.date.slice(0, 7)]; if (o) { o.n++; o.a += c.ca; o.d += c.cd; o.mins += c.mins; o.days.add(c.date); } });
+  const mx = Math.max(1, ...ks.map((k) => m[k].n)), T = 110, rh = 26;
+  const head = [[32, 'MONTH', 'start'], [150, 'COMMITS', 'start'], [560, 'ADDED', 'end'], [680, 'REMOVED', 'end'], [770, 'EST. TIME', 'end'], [868, 'ACTIVE DAYS', 'end']].map(([x, s, a]) => label(t, x, 90, s, { anchor: a, color: t.faint })).join('');
+  const rows = ks.slice().reverse().map((k, i) => {
+    const o = m[k], y = T + i * rh, dim = o.n ? t.text : t.faint;
+    return `<g class="r" style="animation-delay:${0.1 + i * 0.04}s"><text x="32" y="${y + 4}" fill="${dim}" font-size="12.5">${monthName(k)}</text>
+<text x="150" y="${y + 4}" fill="${dim}" font-family="${MONO}" font-size="12">${o.n}</text><rect class="bx" style="animation-delay:${0.3 + i * 0.04}s" x="200" y="${y - 4}" width="${Math.max(o.n ? 3 : 0, (o.n / mx) * 280).toFixed(1)}" height="8" rx="4" fill="${t.ramp[3]}"/>
+<text x="560" y="${y + 4}" fill="${o.n ? t.add : t.faint}" font-family="${MONO}" font-size="12" text-anchor="end">+${fmt(o.a)}</text><text x="680" y="${y + 4}" fill="${o.n ? t.del : t.faint}" font-family="${MONO}" font-size="12" text-anchor="end">−${fmt(o.d)}</text>
+<text x="770" y="${y + 4}" fill="${dim}" font-family="${MONO}" font-size="12" text-anchor="end">${o.n ? hrs(o.mins) : '—'}</text><text x="868" y="${y + 4}" fill="${dim}" font-family="${MONO}" font-size="12" text-anchor="end">${o.days.size}</text></g>`;
+  }).join('');
+  return frame(t, T + 12 * rh + 6, `${title(t, 'Month by month', 'Commits, lines and estimated time per month · last 12 months')}${head}${rows}`);
+}
+
+// ---------- 13. one period (a year or a month): the dashboard's filtered view, pre-rendered
+function periodCard(t, name, cs, kind, from, to) {
+  const n = cs.length, days = new Set(cs.map((c) => c.date)).size, m = sumBy(cs, (c) => c.mins);
+  const kp = kpiRow(t, 104, [[fmt(n), 'commits'], ['+' + cmp(sumBy(cs, (c) => c.ca)), 'added', t.add], ['−' + cmp(sumBy(cs, (c) => c.cd)), 'removed', t.del], [hrs(m), 'est. time'], [fmt(days), 'active days'], [fmt(new Set(cs.map((c) => c.p)).size), 'projects']]);
+  const month = kind === 'month', keyOf = month ? (d) => d : wkStart;
+  const keys = []; for (let k = month ? from : wkStart(from); k <= to; k = addD(k, month ? 1 : 7)) keys.push(k);
+  const cnt = {}; cs.forEach((c) => { const k = keyOf(c.date); cnt[k] = (cnt[k] || 0) + 1; });
+  const mx = Math.sqrt(Math.max(1, ...keys.map((k) => cnt[k] || 0))), bw = (W - 64) / keys.length, base = 218;
+  let prevM = '', axis = '', lastLab = -9;
+  const bs = keys.map((k, i) => {
+    const v = cnt[k] || 0, h = (Math.sqrt(v) / mx) * 56, x = 32 + i * bw;
+    const labelIt = month ? i % 5 === 0 : addD(k, 3).slice(5, 7) !== prevM && addD(k, 3).slice(0, 4) === from.slice(0, 4) && i - lastLab >= 3;
+    if (labelIt) lastLab = i;
+    if (labelIt) axis += `<text x="${(x + bw / 2).toFixed(1)}" y="${base + 16}" fill="${t.muted}" font-size="10" text-anchor="middle">${month ? +k.slice(8) : MONTHS[+addD(k, 3).slice(5, 7) - 1]}</text>`;
+    prevM = addD(k, 3).slice(5, 7);
+    return v ? `<rect class="bu" style="animation-delay:${0.3 + i * 0.012}s" x="${(x + 1).toFixed(1)}" y="${(base - h).toFixed(1)}" width="${Math.max(1.5, bw - 2).toFixed(1)}" height="${Math.max(2, h).toFixed(1)}" rx="${bw > 8 ? 3 : 1.5}" fill="${t.ramp[3]}"/>` : `<rect x="${(x + 1).toFixed(1)}" y="${base - 1.5}" width="${Math.max(1.5, bw - 2).toFixed(1)}" height="1.5" rx=".75" fill="${t.stroke}"/>`;
+  }).join('');
+  const pt = [0, 0, 0, 0]; cs.forEach((c) => pt[part(c.h)]++);
+  const cw = (W - 64 - 48) / 3, x1 = 32, x2 = 32 + cw + 24, x3 = 32 + 2 * (cw + 24), Y = 282;
+  const parts = PARTS.map((p, i) => ({ name: p, v: pt[i], label: Math.round((pt[i] / Math.max(1, n)) * 100) + '%' }));
+  const pr = projMins(cs).slice(0, 4).map((p) => ({ name: p.id, v: p.mins, label: hrs(p.mins) }));
+  const lg = langMins(cs).slice(0, 4).map(([k, v]) => ({ name: k, v, label: hrs(v), color: LANGC[k] || t.faint }));
+  const sub = `${fmt(n)} commits across ${days} active days · ${month ? 'daily' : 'weekly'} commits below`;
+  return frame(t, Y + 4 * 28 + 18, `${title(t, esc(name), sub)}${kp}${bs}${axis}
+<line x1="32" x2="${W - 32}" y1="${base}" y2="${base}" stroke="${t.stroke}"/>
+${label(t, x1, Y - 14, 'TIME OF DAY', { color: t.faint })}${hrows(t, x1, Y + 8, cw, parts, { nameW: 70, labelW: 44 })}
+${label(t, x2, Y - 14, 'TOP PROJECTS · HOURS', { color: t.faint })}${hrows(t, x2, Y + 8, cw, pr, { nameW: 70, labelW: 52, delay: 0.4 })}
+${label(t, x3, Y - 14, 'TOP LANGUAGES · HOURS', { color: t.faint })}${hrows(t, x3, Y + 8, cw, lg, { nameW: 84, labelW: 52, delay: 0.5 })}`);
+}
+
+// ---------- write everything
+for (const f of readdirSync('assets')) if (f.startsWith('period-')) rmSync(`assets/${f}`);
+const lastDay = (k) => { const d = new Date(Date.UTC(+k.slice(0, 4), +k.slice(5, 7), 0)); return d.toISOString().slice(0, 10); };
+const monthsWith = [...new Set(C.map((c) => c.date.slice(0, 7)))].sort().reverse();
+const yearsWith = [...new Set(C.map((c) => c.date.slice(0, 4)))].sort().reverse();
+const CARDS = { overview, activity, churn, rhythm, punchcard, projects: projectsCard, languages, style: styleCard, insights, months: monthsCard, claude, spotify };
+const have = new Set();
+for (const [name, t] of Object.entries(THEMES)) {
+  for (const [k, fn] of Object.entries(CARDS)) { const s = fn(t); if (s) { writeFileSync(`assets/${k}-${name}.svg`, s); have.add(k); } }
+  for (const y of yearsWith) writeFileSync(`assets/period-${y}-${name}.svg`, periodCard(t, y, C.filter((c) => c.date.startsWith(y)), 'year', `${y}-01-01`, y === today.slice(0, 4) ? today : `${y}-12-31`));
+  for (const k of monthsWith) writeFileSync(`assets/period-${k}-${name}.svg`, periodCard(t, monthName(k), C.filter((c) => c.date.startsWith(k)), 'month', `${k}-01`, k === today.slice(0, 7) ? today : lastDay(k)));
+}
+
+// ---------- README (generated, so the period selector always matches the data)
+const pic = (k, alt) => `<picture>\n  <source media="(prefers-color-scheme: dark)" srcset="assets/${k}-dark.svg">\n  <img alt="${alt}" src="assets/${k}-light.svg" width="100%">\n</picture>`;
+const ALT = { overview: 'Overview', activity: 'Activity heatmap', churn: 'Code churn', rhythm: 'When I code', punchcard: 'Punchcard', projects: 'Time by project', languages: 'Languages', style: 'How I commit', insights: 'Highlights and records', months: 'Month by month', claude: 'Building with Claude Code', spotify: 'Recently played' };
+const order = ['overview', 'activity', 'churn', 'rhythm', 'punchcard', 'projects', 'languages', 'style', 'insights', 'months', 'claude', 'spotify'].filter((k) => have.has(k));
+const yearBlocks = yearsWith.map((y) => {
+  const ms = monthsWith.filter((k) => k.startsWith(y)), n = C.filter((c) => c.date.startsWith(y)).length;
+  const inner = ms.map((k) => `<details>\n<summary>${monthName(k)} · ${fmt(C.filter((c) => c.date.startsWith(k)).length)} commits</summary>\n<br>\n\n${pic('period-' + k, monthName(k))}\n\n</details>`).join('\n\n');
+  return `<details>\n<summary><b>${y}</b> · ${fmt(n)} commits</summary>\n<br>\n\n${pic('period-' + y, y)}\n\n${inner}\n\n</details>`;
+}).join('\n\n');
+writeFileSync('README.md', `<div align="center">
+
+${order.map((k) => pic(k, ALT[k])).join('\n\n')}
+
+### Zoom into a period
+<sub>click a year, then a month</sub>
+
+${yearBlocks}
+
+<sub>Generated from the GitHub API, private repos included (aggregates only, no repo names). Source in <code>scripts/</code> · <a href="https://galbir.github.io/Galbir/">live filterable version</a></sub>
+
+</div>
+`);
+console.log({ commits: win.length, today, claude: !!CL, cards: order.length, periods: yearsWith.length + monthsWith.length });

@@ -24,5 +24,5 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets docs/data.json
+          git add assets README.md docs/data.json
           git diff --cached --quiet || (git commit -m "chore: update stats" && git push)

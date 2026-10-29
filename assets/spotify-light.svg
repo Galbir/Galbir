@@ -15,13 +15,13 @@
 <rect x=".5" y=".5" width="899" height="283" rx="14" fill="#ffffff" stroke="#d0d7de"/>
 <text class="r" x="32" y="42" fill="#1f2328" font-size="18" font-weight="600">Recently played</text><text class="r" x="32" y="64" fill="#59636e" font-size="12.5" style="animation-delay:.1s">Last tracks on Spotify</text><g class="r" style="animation-delay:0.1s"><circle cx="40" cy="96" r="4" fill="#30a14e"/>
 <text x="56" y="100" fill="#1f2328" font-size="13" font-weight="600">Over It<tspan fill="#59636e" font-weight="400"> · Maxé Lune</tspan></text>
-<text x="868" y="100" fill="#818b98" font-size="12" text-anchor="end">3m ago</text></g><g class="r" style="animation-delay:0.18s"><circle cx="40" cy="132" r="4" fill="#30a14e"/>
+<text x="868" y="100" fill="#818b98" font-size="12" text-anchor="end">10m ago</text></g><g class="r" style="animation-delay:0.18s"><circle cx="40" cy="132" r="4" fill="#30a14e"/>
 <text x="56" y="136" fill="#1f2328" font-size="13" font-weight="600">Say Something<tspan fill="#59636e" font-weight="400"> · Sonny Fodera, Becky Hill</tspan></text>
-<text x="868" y="136" fill="#818b98" font-size="12" text-anchor="end">5m ago</text></g><g class="r" style="animation-delay:0.26s"><circle cx="40" cy="168" r="4" fill="#30a14e"/>
+<text x="868" y="136" fill="#818b98" font-size="12" text-anchor="end">12m ago</text></g><g class="r" style="animation-delay:0.26s"><circle cx="40" cy="168" r="4" fill="#30a14e"/>
 <text x="56" y="172" fill="#1f2328" font-size="13" font-weight="600">Beg For Your Love<tspan fill="#59636e" font-weight="400"> · Melodream</tspan></text>
-<text x="868" y="172" fill="#818b98" font-size="12" text-anchor="end">9m ago</text></g><g class="r" style="animation-delay:0.33999999999999997s"><circle cx="40" cy="204" r="4" fill="#30a14e"/>
+<text x="868" y="172" fill="#818b98" font-size="12" text-anchor="end">16m ago</text></g><g class="r" style="animation-delay:0.33999999999999997s"><circle cx="40" cy="204" r="4" fill="#30a14e"/>
 <text x="56" y="208" fill="#1f2328" font-size="13" font-weight="600">Nothing Lasts Forever<tspan fill="#59636e" font-weight="400"> · BUNT., RØAM</tspan></text>
-<text x="868" y="208" fill="#818b98" font-size="12" text-anchor="end">12m ago</text></g><g class="r" style="animation-delay:0.42000000000000004s"><circle cx="40" cy="240" r="4" fill="#30a14e"/>
+<text x="868" y="208" fill="#818b98" font-size="12" text-anchor="end">18m ago</text></g><g class="r" style="animation-delay:0.42000000000000004s"><circle cx="40" cy="240" r="4" fill="#30a14e"/>
 <text x="56" y="244" fill="#1f2328" font-size="13" font-weight="600">Whisper (Henry Himself Remix)<tspan fill="#59636e" font-weight="400"> · Joel Corry, Henry Himself</tspan></text>
-<text x="868" y="244" fill="#818b98" font-size="12" text-anchor="end">15m ago</text></g>
+<text x="868" y="244" fill="#818b98" font-size="12" text-anchor="end">21m ago</text></g>
 </svg>

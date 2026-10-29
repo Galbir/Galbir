@@ -12,8 +12,8 @@ const REDIRECT = 'http://127.0.0.1:8888/callback';
 const SCOPE = 'user-read-recently-played';
 
 const rl = createInterface({ input: process.stdin, output: process.stdout });
-const id = (await rl.question('Spotify Client ID: ')).trim();
-const secret = (await rl.question('Spotify Client Secret: ')).trim();
+const id = (process.env.SPOTIFY_CLIENT_ID || await rl.question('Spotify Client ID: ')).trim();
+const secret = (process.env.SPOTIFY_CLIENT_SECRET || await rl.question('Spotify Client Secret: ')).trim();
 rl.close();
 if (!id || !secret) { console.error('Need both values.'); process.exit(1); }
 
