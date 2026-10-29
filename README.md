@@ -56,7 +56,7 @@
 </picture>
 
 <table width="100%">
-<thead><tr><th colspan="2" align="left"><img src="assets/spotify-logo-light.svg" width="28" height="28" align="absmiddle" alt="Spotify">&nbsp;&nbsp;Recently played&nbsp;&nbsp;<sub>last tracks on Spotify · updates every 30 minutes</sub></th></tr></thead>
+<thead><tr><th colspan="2" align="left"><img src="assets/spotify-logo-light.svg" width="28" height="28" align="absmiddle" alt="Spotify">&nbsp;&nbsp;Recently played&nbsp;&nbsp;<sub>last tracks on Spotify · updates every 30 minutes</sub><br><img src="assets/spacer.svg" width="840" height="1" alt=""></th></tr></thead>
 <tbody>
 <tr><td align="left"><a href="https://open.spotify.com/track/7f9WkDtkzDEZNwJOxb76PE"><img src="https://i.scdn.co/image/ab67616d00001e0287578efc738ea39e8bbba649" width="44" height="44" align="absmiddle" alt=""></a>&nbsp;&nbsp;<a href="https://open.spotify.com/track/7f9WkDtkzDEZNwJOxb76PE"><b>Familiar</b></a>&nbsp;&nbsp;<sub>Distant Matter</sub></td><td align="right" nowrap><sub>Oct 29, 11:19</sub></td></tr>
 <tr><td align="left"><a href="https://open.spotify.com/track/5e2BpBdCMBu0fh9IvUpJNN"><img src="https://i.scdn.co/image/ab67616d00001e023102eea8e1a27519137f7224" width="44" height="44" align="absmiddle" alt=""></a>&nbsp;&nbsp;<a href="https://open.spotify.com/track/5e2BpBdCMBu0fh9IvUpJNN"><b>In The Name Of Beauty (feat. Britta B)</b></a>&nbsp;&nbsp;<sub>Brad Mullins, Britta B</sub></td><td align="right" nowrap><sub>Oct 29, 11:14</sub></td></tr>

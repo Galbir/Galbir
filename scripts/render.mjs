@@ -226,7 +226,7 @@ const spotifyList = () => {
     return `<tr><td align="left">${cover}<a${href}><b>${esc(x.title)}</b></a>&nbsp;&nbsp;<sub>${esc(x.artist)}</sub></td><td align="right" nowrap><sub>${when(x.t)}</sub></td></tr>`;
   }).join('\n');
   return `<table width="100%">
-<thead><tr><th colspan="2" align="left"><img src="assets/spotify-logo-light.svg" width="28" height="28" align="absmiddle" alt="Spotify">&nbsp;&nbsp;Recently played&nbsp;&nbsp;<sub>last tracks on Spotify · updates every 30 minutes</sub></th></tr></thead>
+<thead><tr><th colspan="2" align="left"><img src="assets/spotify-logo-light.svg" width="28" height="28" align="absmiddle" alt="Spotify">&nbsp;&nbsp;Recently played&nbsp;&nbsp;<sub>last tracks on Spotify · updates every 30 minutes</sub><br><img src="assets/spacer.svg" width="840" height="1" alt=""></th></tr></thead>
 <tbody>
 ${rows}
 </tbody>
@@ -405,6 +405,7 @@ ${label(t, x3, Y - 14, 'TOP LANGUAGES · HOURS', { color: t.faint })}${hrows(t, 
 }
 
 // ---------- write everything
+writeFileSync('assets/spacer.svg', '<svg xmlns="http://www.w3.org/2000/svg" width="1" height="1"/>');
 for (const f of readdirSync('assets')) if (f.startsWith('period-')) rmSync(`assets/${f}`);
 const lastDay = (k) => { const d = new Date(Date.UTC(+k.slice(0, 4), +k.slice(5, 7), 0)); return d.toISOString().slice(0, 10); };
 const monthsWith = [...new Set(C.map((c) => c.date.slice(0, 7)))].sort().reverse();
