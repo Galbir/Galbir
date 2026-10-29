@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-862b98-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-862b98-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4oe9OFiMu3CsL0GAYwdxuV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-862b98-dark.svg"><img alt="Mutt · Swimming Paul" src="assets/track-0-862b98-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/33ZblfFQwhEHjTEHYPwmtQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-862b98-dark.svg"><img alt="Lost You - Avaris Remix · oskar med k, Avaris" src="assets/track-1-862b98-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7tZSQgFyzWAAtsb7OUUDbn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-862b98-dark.svg"><img alt="Sunny · Disco Lines, GUDFELLA" src="assets/track-2-862b98-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3zPco1u9i9bCjkG5pngR5t"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-862b98-dark.svg"><img alt="Clouds · BUNT., Nate Traveller" src="assets/track-3-862b98-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0FoCv0glfiTP2lmEcdreAu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-862b98-dark.svg"><img alt="Shaking Things Up · nimino" src="assets/track-4-862b98-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0FBdJP7yzvq88bG1keGgt4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-862b98-dark.svg"><img alt="High and I Like it · it&#39;s murph, Evalyn" src="assets/track-5-862b98-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-862b98-dark.svg"><img alt="Hold Me · Lavern" src="assets/track-6-862b98-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-0a4073-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-0a4073-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5J5mQKqZVxMDKZ3xPKgABa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-0a4073-dark.svg"><img alt="Rest Easy · nimino" src="assets/track-0-0a4073-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0vxf8HSKtY4xsbIzYUv9Fa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-0a4073-dark.svg"><img alt="Supersonic · it&#39;s murph, Nonô, Jimmy James" src="assets/track-1-0a4073-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4cEwZe5CTeONJ8cBseGm4E"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-0a4073-dark.svg"><img alt="Are You Real? · MIND" src="assets/track-2-0a4073-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/461X8Jhd6zxueWPDwH7OjK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-0a4073-dark.svg"><img alt="Different Time · Swimming Paul" src="assets/track-3-0a4073-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7IVknx3CTsqJbJbUL9xtjj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-0a4073-dark.svg"><img alt="Say No Prayer · oskar med k, Izzy Bizu" src="assets/track-4-0a4073-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6XIh9BtczdxO7HRQwrIPti"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-0a4073-dark.svg"><img alt="I Don&#39;t Trust A Soul · Disco Lines, Ship Wrek" src="assets/track-5-0a4073-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7A1QLN9c3uKeQdhp05o0jp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-0a4073-dark.svg"><img alt="Best Day of My Life (BUNT. Version) (feat. Tom Odell) · BUNT., Tom Odell" src="assets/track-6-0a4073-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,445 commits</summary>
+<summary><b>2026</b> · 1,447 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>October 2026 · 365 commits</summary>
+<summary>October 2026 · 367 commits</summary>
 <br>
 
 <picture>
