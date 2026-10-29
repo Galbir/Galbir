@@ -18,7 +18,7 @@ const files = [];
 })(ROOT);
 
 const cleanModel = (m) => (m || 'unknown').replace(/^claude-/, '').replace(/-\d{8}$/, '').replace(/\[.*\]$/, '');
-const msgs = new Map();   // message.id -> best usage seen (streamed blocks repeat the same usage)
+const msgs = [];          // every assistant usage line, counted like Claude Code's /usage does (streamed blocks included)
 const first = new Map();  // sessionId -> {date, hour}
 const days = {};
 const day = (d) => (days[d] ||= { s: 0, p: 0, i: 0, o: 0, cr: 0, cc: 0, t: 0, m: {}, tl: {}, h: {} });
@@ -42,8 +42,7 @@ for (const file of files) {
     } else if (o.type === 'assistant' && o.message?.usage && o.message.model !== '<synthetic>') {
       const u = o.message.usage, id = o.message.id || o.uuid;
       const rec = { date: when.date, model: cleanModel(o.message.model), i: u.input_tokens || 0, o: u.output_tokens || 0, cr: u.cache_read_input_tokens || 0, cc: u.cache_creation_input_tokens || 0 };
-      const prev = msgs.get(id);
-      if (!prev || rec.o >= prev.o) msgs.set(id, rec);
+      msgs.push(rec);
       for (const b of o.message.content || []) {
         if (b.type !== 'tool_use') continue;
         const name = b.name.startsWith('mcp__') ? 'MCP' : b.name;
@@ -52,11 +51,26 @@ for (const file of files) {
     }
   }
 }
-for (const r of msgs.values()) {
+for (const r of msgs) {
   const d = day(r.date), t = r.i + r.o + r.cr + r.cc;
   d.i += r.i; d.o += r.o; d.cr += r.cr; d.cc += r.cc; d.t += t; d.m[r.model] = (d.m[r.model] || 0) + t;
 }
 for (const f of first.values()) day(f.date).s++;
+
+// Claude Code's own lifetime stats also cover days whose transcripts were pruned: use them as a per-day floor
+const SC = join(homedir(), '.claude', 'stats-cache.json');
+if (existsSync(SC)) {
+  try {
+    const sc = JSON.parse(readFileSync(SC, 'utf8'));
+    for (const x of sc.dailyModelTokens || []) {
+      const d = day(x.date);
+      for (const [m, v] of Object.entries(x.tokensByModel || {})) {
+        const n = cleanModel(m), have = d.m[n] || 0;
+        if (v > have) { d.m[n] = v; d.t += v - have; }
+      }
+    }
+  } catch {}
+}
 
 // merge with the previous run: keep any day whose old numbers were larger (transcripts may have been pruned since)
 const prev = existsSync(OUT) ? JSON.parse(readFileSync(OUT, 'utf8')) : { days: {}, projects: 0 };
