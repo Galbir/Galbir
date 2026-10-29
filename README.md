@@ -60,14 +60,14 @@
   <img alt="Claude Code activity heatmap" src="assets/claudeheat-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-fbb152-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-fbb152-light.svg" width="100%"></picture></a><br>
-<a href="https://open.spotify.com/track/5Bvm3jjiMal1ME0flasrBV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-fbb152-dark.svg"><img alt="Spellbound · oskar med k" src="assets/track-0-fbb152-light.svg" width="100%"></picture></a><br>
-<a href="https://open.spotify.com/track/4zXG4SBvsjsW0EN1mjCxaV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-fbb152-dark.svg"><img alt="No Broke Boys - AVELLO Remix · Disco Lines, Tinashe, AVELLO" src="assets/track-1-fbb152-light.svg" width="100%"></picture></a><br>
-<a href="https://open.spotify.com/track/3C2OYWQFRVEo4QoHZKTNBK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-fbb152-dark.svg"><img alt="You · BUNT., Oaks" src="assets/track-2-fbb152-light.svg" width="100%"></picture></a><br>
-<a href="https://open.spotify.com/track/58o0HSUXC0oHTU7UvhyWuI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-fbb152-dark.svg"><img alt="Beside Of Me · nimino, Maverick Sabre" src="assets/track-3-fbb152-light.svg" width="100%"></picture></a><br>
-<a href="https://open.spotify.com/track/6q6GR1UxIkyaVJuUNYtEjw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-fbb152-dark.svg"><img alt="My Love - Rework · it&#39;s murph" src="assets/track-4-fbb152-light.svg" width="100%"></picture></a><br>
-<a href="https://open.spotify.com/track/618b4IeoPFq5kTP1QMwUDS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-fbb152-dark.svg"><img alt="Don&#39;t Fret! · Tobiahs" src="assets/track-5-fbb152-light.svg" width="100%"></picture></a><br>
-<a href="https://open.spotify.com/track/5cG2xC4qPmUTerZdWupWNi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-fbb152-dark.svg"><img alt="Need It · Ship Wrek" src="assets/track-6-fbb152-light.svg" width="100%"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-862b98-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-862b98-light.svg" width="100%"></picture></a><br>
+<a href="https://open.spotify.com/track/4oe9OFiMu3CsL0GAYwdxuV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-862b98-dark.svg"><img alt="Mutt · Swimming Paul" src="assets/track-0-862b98-light.svg" width="100%"></picture></a><br>
+<a href="https://open.spotify.com/track/33ZblfFQwhEHjTEHYPwmtQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-862b98-dark.svg"><img alt="Lost You - Avaris Remix · oskar med k, Avaris" src="assets/track-1-862b98-light.svg" width="100%"></picture></a><br>
+<a href="https://open.spotify.com/track/7tZSQgFyzWAAtsb7OUUDbn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-862b98-dark.svg"><img alt="Sunny · Disco Lines, GUDFELLA" src="assets/track-2-862b98-light.svg" width="100%"></picture></a><br>
+<a href="https://open.spotify.com/track/3zPco1u9i9bCjkG5pngR5t"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-862b98-dark.svg"><img alt="Clouds · BUNT., Nate Traveller" src="assets/track-3-862b98-light.svg" width="100%"></picture></a><br>
+<a href="https://open.spotify.com/track/0FoCv0glfiTP2lmEcdreAu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-862b98-dark.svg"><img alt="Shaking Things Up · nimino" src="assets/track-4-862b98-light.svg" width="100%"></picture></a><br>
+<a href="https://open.spotify.com/track/0FBdJP7yzvq88bG1keGgt4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-862b98-dark.svg"><img alt="High and I Like it · it&#39;s murph, Evalyn" src="assets/track-5-862b98-light.svg" width="100%"></picture></a><br>
+<a href="https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-862b98-dark.svg"><img alt="Hold Me · Lavern" src="assets/track-6-862b98-light.svg" width="100%"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -75,7 +75,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,443 commits</summary>
+<summary><b>2026</b> · 1,445 commits</summary>
 <br>
 
 <picture>
@@ -84,7 +84,7 @@
 </picture>
 
 <details>
-<summary>October 2026 · 363 commits</summary>
+<summary>October 2026 · 365 commits</summary>
 <br>
 
 <picture>
