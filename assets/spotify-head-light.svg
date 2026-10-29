@@ -13,8 +13,8 @@
 @media (prefers-reduced-motion:reduce){*{animation:none!important}}
 </style>
 <rect x=".5" y=".5" width="899" height="83" rx="14" fill="#ffffff" stroke="#d0d7de"/>
-<text class="r" x="32" y="42" fill="#1f2328" font-size="18" font-weight="600">Recently played</text><text class="r" x="32" y="64" fill="#59636e" font-size="12.5" style="animation-delay:.1s">Last tracks on Spotify · click a cover to open the song</text><g class="r" transform="translate(832 22)"><circle cx="18" cy="18" r="18" fill="#1DB954"/>
+<text class="r" x="32" y="42" fill="#1f2328" font-size="18" font-weight="600">Recently played</text><text class="r" x="32" y="64" fill="#59636e" font-size="12.5" style="animation-delay:.1s">Last tracks on Spotify · click a cover to open the song</text><g transform="translate(832 24)"><g class="r"><circle cx="18" cy="18" r="18" fill="#1DB954"/>
 <path d="M9.3 13.8c5.7-1.7 12.4-1.1 17.7 2" stroke="#000" stroke-width="2.7" fill="none" stroke-linecap="round"/>
 <path d="M10.4 18.8c4.8-1.4 10.3-.8 14.7 1.8" stroke="#000" stroke-width="2.2" fill="none" stroke-linecap="round"/>
-<path d="M11.4 23.2c3.9-1.1 8-.6 11.5 1.5" stroke="#000" stroke-width="1.8" fill="none" stroke-linecap="round"/></g>
+<path d="M11.4 23.2c3.9-1.1 8-.6 11.5 1.5" stroke="#000" stroke-width="1.8" fill="none" stroke-linecap="round"/></g></g>
 </svg>

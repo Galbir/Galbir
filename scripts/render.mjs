@@ -210,10 +210,10 @@ function claude(t) {
 function spotify(t) {
   if (!(D.spotify || []).length) return null;
   // header only: the track list itself is real HTML in the README, so covers and links work
-  const logo = `<g class="r" transform="translate(${W - 32 - 36} 22)"><circle cx="18" cy="18" r="18" fill="#1DB954"/>
+  const logo = `<g transform="translate(${W - 32 - 36} 24)"><g class="r"><circle cx="18" cy="18" r="18" fill="#1DB954"/>
 <path d="M9.3 13.8c5.7-1.7 12.4-1.1 17.7 2" stroke="#000" stroke-width="2.7" fill="none" stroke-linecap="round"/>
 <path d="M10.4 18.8c4.8-1.4 10.3-.8 14.7 1.8" stroke="#000" stroke-width="2.2" fill="none" stroke-linecap="round"/>
-<path d="M11.4 23.2c3.9-1.1 8-.6 11.5 1.5" stroke="#000" stroke-width="1.8" fill="none" stroke-linecap="round"/></g>`;
+<path d="M11.4 23.2c3.9-1.1 8-.6 11.5 1.5" stroke="#000" stroke-width="1.8" fill="none" stroke-linecap="round"/></g></g>`;
   return frame(t, 84, `${title(t, 'Recently played', 'Last tracks on Spotify · click a cover to open the song')}${logo}`);
 }
 const spotifyList = () => {
@@ -226,8 +226,6 @@ const spotifyList = () => {
     return `${cover}<a${href}><b>${esc(x.title)}</b></a>&nbsp;&nbsp;<sub>${esc(x.artist)}</sub>${i === 0 ? '&nbsp;&nbsp;<sub>last played · ' + when(x.t) + '</sub>' : '&nbsp;&nbsp;<sub>' + when(x.t) + '</sub>'}`;
   }).join('<br><sub>&nbsp;</sub><br>');
   return `<div align="left">
-
-&nbsp;
 
 ${rows}
 
