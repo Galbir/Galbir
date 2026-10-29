@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-05da06-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-05da06-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6YOg0daCavgHVBZ3u9hZWc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-05da06-dark.svg"><img alt="Death By Love · Walker &amp; Royce" src="assets/track-0-05da06-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1o1fTm5rHhmfOJXasEtYCj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-05da06-dark.svg"><img alt="Is This Love · Disco Lines" src="assets/track-1-05da06-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4Nh7Umpl8YPFPcggcby6JW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-05da06-dark.svg"><img alt="Runaway (U &amp; I) · Ian Asher, Galantis" src="assets/track-2-05da06-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6YiIWuVXS4AqF1KvUGMwyx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-05da06-dark.svg"><img alt="crystallized (feat. Inéz) · John Summit, Inéz" src="assets/track-3-05da06-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-05da06-dark.svg"><img alt="No Bad Vibes · Jazzy, KILIMANJARO" src="assets/track-4-05da06-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4o7QPoipEGv0GEmdpV480r"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-05da06-dark.svg"><img alt="We R Who We R · Gravagerz" src="assets/track-5-05da06-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2ikOn3cqLFKmuMjNciUEPU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-05da06-dark.svg"><img alt="Stay - Ely Oaks Version · Ely Oaks, Misdemeanor" src="assets/track-6-05da06-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-b7f033-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-b7f033-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2AJzSl2iYq7Thk2P535MwI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-b7f033-dark.svg"><img alt="Diet Coke · Fallon" src="assets/track-0-b7f033-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/63HwAAXuSV2tzIUPoHOwZa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-b7f033-dark.svg"><img alt="Atmosphere · FISHER, Kita Alexander" src="assets/track-1-b7f033-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6rcerIu8o23dsDCuAwRRYz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-b7f033-dark.svg"><img alt="Turn off the Lights - Cages Remix · Chris Lake, Alexis Roberts, Cages" src="assets/track-2-b7f033-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7pCu8T3dNcNNt1nIMtsQqB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-b7f033-dark.svg"><img alt="Low Again · BOVSKI" src="assets/track-3-b7f033-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/77MN0cd5C97q1KIGNfNVA4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-b7f033-dark.svg"><img alt="Edge of Seventeen · Wuki" src="assets/track-4-b7f033-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3EthY53s7VOoanEIyQVelI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-b7f033-dark.svg"><img alt="Help Me Lose My Mind · Gravagerz" src="assets/track-5-b7f033-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-b7f033-dark.svg"><img alt="Saving Up · Dom Dolla" src="assets/track-6-b7f033-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,457 commits</summary>
+<summary><b>2026</b> · 1,458 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>October 2026 · 377 commits</summary>
+<summary>October 2026 · 378 commits</summary>
 <br>
 
 <picture>
