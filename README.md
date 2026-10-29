@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-bd6da8-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-bd6da8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3aBNMuz8S7wZguV8xuwLem"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-bd6da8-dark.svg"><img alt="Get This Party Started · Westend" src="assets/track-0-bd6da8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6qJhrI2BMuA8qHcmycD3fL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-bd6da8-dark.svg"><img alt="TESLA · Mau P" src="assets/track-1-bd6da8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2YhEJoYccyE5wpdAkZWbPk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-bd6da8-dark.svg"><img alt="RWEOK? · Disco Lines, demotapes" src="assets/track-2-bd6da8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3pMuJthG4asb1jPrP2Llnu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-bd6da8-dark.svg"><img alt="Satellite Signal · MIND" src="assets/track-3-bd6da8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3pUz2qJe5nqZemi3hhIxMk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-bd6da8-dark.svg"><img alt="Where You Are · John Summit, HAYLA" src="assets/track-4-bd6da8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5w9upngVRHNjdZcRC7Xxr2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-bd6da8-dark.svg"><img alt="Delilah (pull me out of this) · Fred again.., Delilah Montagu" src="assets/track-5-bd6da8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5C6IIw94zDPZMH8TT4VIOm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-bd6da8-dark.svg"><img alt="Fknow It · Swimming Paul" src="assets/track-6-bd6da8-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-42987e-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-42987e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0VQFB7SgdmNTniqLU9cgL7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-42987e-dark.svg"><img alt="Same Thing · Ely Oaks, LAVINIA" src="assets/track-0-42987e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5HlctFqbvJLSHM07UjjUqq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-42987e-dark.svg"><img alt="Chihiro - Ice Version · Gravagerz" src="assets/track-1-42987e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/002mQ6kXOWDP2i5IZcwDVc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-42987e-dark.svg"><img alt="shine · Disco Lines, wes mills" src="assets/track-2-42987e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/74VnRwe3IU9SSVU2ZKQTfK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-42987e-dark.svg"><img alt="DRENCH · AYYBO, Preme" src="assets/track-3-42987e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1KbLVz3ZcdUOt2wBXqU2cG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-42987e-dark.svg"><img alt="What A Life · John Summit, Guz, Stevie Appleton" src="assets/track-4-42987e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6Kl0BmROA5CAwtQOEFd99y"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-42987e-dark.svg"><img alt="Human · Lavern" src="assets/track-5-42987e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3ZxEXb4YeEWGTUPAmn2Xhe"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-42987e-dark.svg"><img alt="Vhs · Swimming Paul" src="assets/track-6-42987e-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,459 commits</summary>
+<summary><b>2026</b> · 1,460 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>October 2026 · 379 commits</summary>
+<summary>October 2026 · 380 commits</summary>
 <br>
 
 <picture>
