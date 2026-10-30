@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-157ff7-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-157ff7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5PXsZaT8cOxb4mXrA20PMQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-157ff7-dark.svg"><img alt="Baila Baila Baila · Ozuna" src="assets/track-0-157ff7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7C1trmcQQ5n5RNy4l6ziCv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-157ff7-dark.svg"><img alt="Some Say - Felix Jaehn Remix · Nea, felix jaehn" src="assets/track-1-157ff7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-157ff7-dark.svg"><img alt="Summer · Calvin Harris" src="assets/track-2-157ff7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-157ff7-dark.svg"><img alt="The Less I Know The Better · Tame Impala" src="assets/track-3-157ff7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2vTmp13DDKIRWTHPRYNfEh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-157ff7-dark.svg"><img alt="Assumptions · Sam Gellaitry" src="assets/track-4-157ff7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-157ff7-dark.svg"><img alt="Wake Me Up · Avicii" src="assets/track-5-157ff7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-157ff7-dark.svg"><img alt="Last Last · Burna Boy" src="assets/track-6-157ff7-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-9b6358-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-9b6358-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-9b6358-dark.svg"><img alt="One Kiss (with Dua Lipa) · Calvin Harris, Dua Lipa" src="assets/track-0-9b6358-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-9b6358-dark.svg"><img alt="A Sky Full of Stars · Coldplay" src="assets/track-1-9b6358-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3AeicLnm55RqcXGBKYQolM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-9b6358-dark.svg"><img alt="King · Olly Alexander (Years &amp; Years)" src="assets/track-2-9b6358-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-9b6358-dark.svg"><img alt="Levels - Radio Edit · Avicii" src="assets/track-3-9b6358-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-9b6358-dark.svg"><img alt="The Days - NOTION Remix · Chrystal, NOTION" src="assets/track-4-9b6358-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-9b6358-dark.svg"><img alt="DESPECHÁ · ROSALÍA" src="assets/track-5-9b6358-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/13plQdOoWSSXPRUSZc5FuM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-9b6358-dark.svg"><img alt="I Know You Want Me (Calle Ocho) · Pitbull" src="assets/track-6-9b6358-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,482 commits</summary>
+<summary><b>2026</b> · 1,483 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>October 2026 · 402 commits</summary>
+<summary>October 2026 · 403 commits</summary>
 <br>
 
 <picture>
