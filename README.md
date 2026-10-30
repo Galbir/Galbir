@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-3e647d-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-3e647d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6eAdBskdGxnbUVXxEUu3io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-3e647d-dark.svg"><img alt="Not At This Party - David Guetta Remix · Dasha, David Guetta" src="assets/track-0-3e647d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0UeYCHOETPfai02uskjJ3x"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-3e647d-dark.svg"><img alt="Shooting Stars · Bag Raiders" src="assets/track-1-3e647d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-3e647d-dark.svg"><img alt="BED · Joel Corry, RAYE, David Guetta" src="assets/track-2-3e647d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0yAcyZzElbaGwa3eIqRk7t"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-3e647d-dark.svg"><img alt="Clouds · BUNT., Nate Traveller" src="assets/track-3-3e647d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-3e647d-dark.svg"><img alt="Head &amp; Heart (feat. MNEK) · Joel Corry, MNEK" src="assets/track-4-3e647d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-3e647d-dark.svg"><img alt="Easy Love · Sigala" src="assets/track-5-3e647d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0x4hqWguXOxlO1sEwVXB7V"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-3e647d-dark.svg"><img alt="Manhattan · Carlita, SOFI TUKKER" src="assets/track-6-3e647d-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-4ea868-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-4ea868-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-4ea868-dark.svg"><img alt="Free Your Mind · Prospa, Cloonee, Sybil" src="assets/track-0-4ea868-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/023H4I7HJnxRqsc9cqeFKV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-4ea868-dark.svg"><img alt="I Got U · Duke Dumont, Jax Jones" src="assets/track-1-4ea868-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-4ea868-dark.svg"><img alt="There She Goes · CYRIL, MOONLGHT, The La&#39;s" src="assets/track-2-4ea868-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6C09ToLEI6k4HOaXBRW49m"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-4ea868-dark.svg"><img alt="More Than You Know · Axwell /\ Ingrosso, Axwell, Sebastian Ingrosso" src="assets/track-3-4ea868-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4AWwa8me7EnMp6xCXnRTWo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-4ea868-dark.svg"><img alt="Rock My Body (with INNA &amp; Sash!) · R3HAB, INNA, Sash!" src="assets/track-4-4ea868-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4N1MFKjziFHH4IS3RYYUrU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-4ea868-dark.svg"><img alt="My Love · Route 94, Jess Glynne" src="assets/track-5-4ea868-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-4ea868-dark.svg"><img alt="Crying On The Dancefloor · Sam Feldt, Jonas Blue, Endless Summer, Violet Days" src="assets/track-6-4ea868-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,483 commits</summary>
+<summary><b>2026</b> · 1,484 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>October 2026 · 403 commits</summary>
+<summary>October 2026 · 404 commits</summary>
 <br>
 
 <picture>
