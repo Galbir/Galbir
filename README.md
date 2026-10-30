@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-77b623-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-77b623-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7t1SuBddByBghdAD47acYa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-77b623-dark.svg"><img alt="Damn I Love Miami · Pitbull, Lil Jon" src="assets/track-0-77b623-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/77MN0cd5C97q1KIGNfNVA4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-77b623-dark.svg"><img alt="Edge of Seventeen · Wuki" src="assets/track-1-77b623-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-77b623-dark.svg"><img alt="Where Are You Now · Lost Frequencies, Calum Scott" src="assets/track-2-77b623-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-77b623-dark.svg"><img alt="TAKE IT OFF · FISHER, Aatig" src="assets/track-3-77b623-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7ks6AZmFcm3Y6PGGxGSmlB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-77b623-dark.svg"><img alt="Where Them Girls At (feat. Nicki Minaj &amp; Flo Rida) · David Guetta, Flo Rida, Nicki Minaj" src="assets/track-4-77b623-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0GWGZA5mxo9nHuSyrj70uo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-77b623-dark.svg"><img alt="When Love Takes Over (feat. Kelly Rowland) · David Guetta, Kelly Rowland" src="assets/track-5-77b623-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-77b623-dark.svg"><img alt="I Like It · Cardi B, Bad Bunny, J Balvin" src="assets/track-6-77b623-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-4d5836-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-4d5836-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-4d5836-dark.svg"><img alt="Piece Of Your Heart · MEDUZA, Goodboys" src="assets/track-0-4d5836-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3d0WouFnFmr0K3kjeza3fF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-4d5836-dark.svg"><img alt="Hips Don&#39;t Lie (feat. Wyclef Jean) · Shakira, Wyclef Jean" src="assets/track-1-4d5836-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4HB7ECLzrbgapiZyLlFbxz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-4d5836-dark.svg"><img alt="Never Walk Alone · BLOND:ISH, Stevie Appleton" src="assets/track-2-4d5836-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5wAxcO9N89pLKRo68vMqJL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-4d5836-dark.svg"><img alt="Where You Need To Be · Skin On Skin" src="assets/track-3-4d5836-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2e7s0oEzUoJtDSPtYJuVvD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-4d5836-dark.svg"><img alt="Lean On (feat. MØ &amp; DJ Snake) · Major Lazer, MØ, DJ Snake" src="assets/track-4-4d5836-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2ynaRz7EuNbDrNrlr3QUjP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-4d5836-dark.svg"><img alt="Danza Kuduro - Version MTO · Lucenzo, Don Omar" src="assets/track-5-4d5836-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-4d5836-dark.svg"><img alt="Lasting Lover · Sigala, James Arthur" src="assets/track-6-4d5836-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,485 commits</summary>
+<summary><b>2026</b> · 1,486 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>October 2026 · 405 commits</summary>
+<summary>October 2026 · 406 commits</summary>
 <br>
 
 <picture>
