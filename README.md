@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-4ea868-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-4ea868-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-4ea868-dark.svg"><img alt="Free Your Mind · Prospa, Cloonee, Sybil" src="assets/track-0-4ea868-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/023H4I7HJnxRqsc9cqeFKV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-4ea868-dark.svg"><img alt="I Got U · Duke Dumont, Jax Jones" src="assets/track-1-4ea868-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-4ea868-dark.svg"><img alt="There She Goes · CYRIL, MOONLGHT, The La&#39;s" src="assets/track-2-4ea868-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6C09ToLEI6k4HOaXBRW49m"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-4ea868-dark.svg"><img alt="More Than You Know · Axwell /\ Ingrosso, Axwell, Sebastian Ingrosso" src="assets/track-3-4ea868-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4AWwa8me7EnMp6xCXnRTWo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-4ea868-dark.svg"><img alt="Rock My Body (with INNA &amp; Sash!) · R3HAB, INNA, Sash!" src="assets/track-4-4ea868-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4N1MFKjziFHH4IS3RYYUrU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-4ea868-dark.svg"><img alt="My Love · Route 94, Jess Glynne" src="assets/track-5-4ea868-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-4ea868-dark.svg"><img alt="Crying On The Dancefloor · Sam Feldt, Jonas Blue, Endless Summer, Violet Days" src="assets/track-6-4ea868-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-77b623-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-77b623-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7t1SuBddByBghdAD47acYa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-77b623-dark.svg"><img alt="Damn I Love Miami · Pitbull, Lil Jon" src="assets/track-0-77b623-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/77MN0cd5C97q1KIGNfNVA4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-77b623-dark.svg"><img alt="Edge of Seventeen · Wuki" src="assets/track-1-77b623-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-77b623-dark.svg"><img alt="Where Are You Now · Lost Frequencies, Calum Scott" src="assets/track-2-77b623-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-77b623-dark.svg"><img alt="TAKE IT OFF · FISHER, Aatig" src="assets/track-3-77b623-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7ks6AZmFcm3Y6PGGxGSmlB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-77b623-dark.svg"><img alt="Where Them Girls At (feat. Nicki Minaj &amp; Flo Rida) · David Guetta, Flo Rida, Nicki Minaj" src="assets/track-4-77b623-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0GWGZA5mxo9nHuSyrj70uo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-77b623-dark.svg"><img alt="When Love Takes Over (feat. Kelly Rowland) · David Guetta, Kelly Rowland" src="assets/track-5-77b623-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-77b623-dark.svg"><img alt="I Like It · Cardi B, Bad Bunny, J Balvin" src="assets/track-6-77b623-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,484 commits</summary>
+<summary><b>2026</b> · 1,485 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>October 2026 · 404 commits</summary>
+<summary>October 2026 · 405 commits</summary>
 <br>
 
 <picture>
