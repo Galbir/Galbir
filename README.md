@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-08f160-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-08f160-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4255amV4enzl28KAn16rUO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-08f160-dark.svg"><img alt="Are You With Me · Lost Frequencies" src="assets/track-0-08f160-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-08f160-dark.svg"><img alt="Temperature · Sean Paul" src="assets/track-1-08f160-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-08f160-dark.svg"><img alt="Cold Heart - PNAU Remix · Elton John, Dua Lipa, PNAU" src="assets/track-2-08f160-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3c8iiZGfEammKJuWTErE5x"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-08f160-dark.svg"><img alt="Ain&#39;t Nobody (Loves Me Better) (feat. Jasmine Thompson) · felix jaehn, Jasmine Thompson" src="assets/track-3-08f160-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-08f160-dark.svg"><img alt="Dancing in the Moonlight (feat. NEIMY) · Jubël, NEIMY" src="assets/track-4-08f160-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1hDYcjBSsAShpTSekSyyzC"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-08f160-dark.svg"><img alt="Beautiful People (feat. Benny Benassi) - Radio Edit · Chris Brown, Benny Benassi" src="assets/track-5-08f160-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-08f160-dark.svg"><img alt="Told You So · Martin Garrix, Jex" src="assets/track-6-08f160-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-4aa871-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-4aa871-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5tALkmrC4bRfrSDLimAzuq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-4aa871-dark.svg"><img alt="Don&#39;t You Worry Child (feat. John Martin) - Radio Edit · Swedish House Mafia, John Martin" src="assets/track-0-4aa871-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3HeZam86SuxGp1wZ3XMIjE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-4aa871-dark.svg"><img alt="She Said (Big Jet Plane) · Trinix, Queen D" src="assets/track-1-4aa871-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-4aa871-dark.svg"><img alt="Talk To You (ft. 54 Ultra) · ANOTR, 54 Ultra" src="assets/track-2-4aa871-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1kKYjjfNYxE0YYgLa7vgVY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-4aa871-dark.svg"><img alt="Higher Love · Kygo, Whitney Houston" src="assets/track-3-4aa871-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2HvaJzLOotkXbplceNSHaK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-4aa871-dark.svg"><img alt="My Friend Has a Swimming Pool · Mausi" src="assets/track-4-4aa871-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-4aa871-dark.svg"><img alt="Beautiful People · David Guetta, Sia" src="assets/track-5-4aa871-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0Fnw1np7UlQKWPcxFm0sE3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-4aa871-dark.svg"><img alt="Belly Dancer · Imanbek, BYOR" src="assets/track-6-4aa871-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,552 commits</summary>
+<summary><b>2026</b> · 1,553 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>October 2026 · 472 commits</summary>
+<summary>October 2026 · 473 commits</summary>
 <br>
 
 <picture>
