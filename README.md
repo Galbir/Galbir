@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-350d7c-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-350d7c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-350d7c-dark.svg"><img alt="Afraid To Feel · LF SYSTEM" src="assets/track-0-350d7c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7jLoUQCN6HeC4MNQxr0wcD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-350d7c-dark.svg"><img alt="Body Talk · Ofenbach, SVEA" src="assets/track-1-350d7c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-350d7c-dark.svg"><img alt="Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix · Lana Del Rey, Cedric Gervais" src="assets/track-2-350d7c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-350d7c-dark.svg"><img alt="Thunder · Gabry Ponte, LUM!X, Prezioso" src="assets/track-3-350d7c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-350d7c-dark.svg"><img alt="This Girl (Kungs Vs. Cookin&#39; On 3 Burners) · Kungs, Cookin&#39; On 3 Burners" src="assets/track-4-350d7c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-350d7c-dark.svg"><img alt="China · Anuel AA, Daddy Yankee, KAROL G, J Balvin, Ozuna" src="assets/track-5-350d7c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1zsFr9rPcsMwRtqjDJJpnC"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-350d7c-dark.svg"><img alt="Hypnotized · Purple Disco Machine, Sophie and the Giants" src="assets/track-6-350d7c-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-07bc98-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-07bc98-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4DMvvYvDNiEv2QUciZCyp7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-07bc98-dark.svg"><img alt="These Days (feat. Jess Glynne, Macklemore &amp; Dan Caplen) - AJR Remix · Rudimental, Jess Glynne, Macklemore, Dan Caplen, AJR" src="assets/track-0-07bc98-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-07bc98-dark.svg"><img alt="I Had Some Help (Feat. Morgan Wallen) · Post Malone, Morgan Wallen" src="assets/track-1-07bc98-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-07bc98-dark.svg"><img alt="Words (feat. Zara Larsson) · Alesso, Zara Larsson" src="assets/track-2-07bc98-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-07bc98-dark.svg"><img alt="On &amp; On · Armin van Buuren, Punctual, Alika" src="assets/track-3-07bc98-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0Oe49j06Bjrxs8PltuVeaW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-07bc98-dark.svg"><img alt="On The Floor - Radio Edit · Jennifer Lopez, Pitbull" src="assets/track-4-07bc98-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-07bc98-dark.svg"><img alt="Fireball (feat. John Ryan) · Pitbull, John Ryan" src="assets/track-5-07bc98-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-07bc98-dark.svg"><img alt="(It Goes Like) Nanana - Edit · Peggy Gou" src="assets/track-6-07bc98-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,481 commits</summary>
+<summary><b>2026</b> · 1,482 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>October 2026 · 401 commits</summary>
+<summary>October 2026 · 402 commits</summary>
 <br>
 
 <picture>
