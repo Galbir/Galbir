@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-25a148-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-25a148-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6UK7PodvHTVM9vItl0VOKh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-25a148-dark.svg"><img alt="Holding Your Hand · SACHI, Poppy Baskcomb" src="assets/track-0-25a148-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/61SkRhKUIDaUG3CiP0XQU3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-25a148-dark.svg"><img alt="JOY (By My Side) · Joy Anonymous, Sammy Virji" src="assets/track-1-25a148-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-25a148-dark.svg"><img alt="Murder On The Dancefloor - PNAU Remix · Sophie Ellis-Bextor, PNAU" src="assets/track-2-25a148-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-25a148-dark.svg"><img alt="Baddy On The Floor · Jamie xx, Honey Dijon" src="assets/track-3-25a148-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6doi1FwFmq4eroLXAM4TyO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-25a148-dark.svg"><img alt="In It · Selena Faider" src="assets/track-4-25a148-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5r29ub7D58nOi0vZbnvWGv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-25a148-dark.svg"><img alt="Our Home · Myd" src="assets/track-5-25a148-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5mg9TnSnfc89gcYStpOsVL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-25a148-dark.svg"><img alt="How You Feel (ft Leven Kali) · ANOTR, Leven Kali, Erik Bandt" src="assets/track-6-25a148-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-ce3541-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-ce3541-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5Byvs8uIVgPZVQN3Pw7UgL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-ce3541-dark.svg"><img alt="ONANON · Killen." src="assets/track-0-ce3541-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7zV1nVIqzSvoRKfdRdN853"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-ce3541-dark.svg"><img alt="MEMORY · Alex LeMirage, Fi Sullivan" src="assets/track-1-ce3541-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3AxAoddb3bAQOQShUP6S3G"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-ce3541-dark.svg"><img alt="Keep On Running · Nico Saint" src="assets/track-2-ce3541-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6mQuPZ0b3YF53flZe0YBns"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-ce3541-dark.svg"><img alt="Nothing Perfect · nimino" src="assets/track-3-ce3541-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6tXebnSmy1ZEZANFRHRoCO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-ce3541-dark.svg"><img alt="WASTED ON ME · Angrybaby" src="assets/track-4-ce3541-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7E4k65CjSEhmEUZ0y2E47A"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-ce3541-dark.svg"><img alt="WHEN IT COMES TO YOU · Angrybaby" src="assets/track-5-ce3541-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7E4k65CjSEhmEUZ0y2E47A"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-ce3541-dark.svg"><img alt="WHEN IT COMES TO YOU · Angrybaby" src="assets/track-6-ce3541-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,477 commits</summary>
+<summary><b>2026</b> · 1,478 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>October 2026 · 397 commits</summary>
+<summary>October 2026 · 398 commits</summary>
 <br>
 
 <picture>
