@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-1dba7b-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-1dba7b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0F3v8p8ZnEGtZDxNcJ5Klq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-1dba7b-dark.svg"><img alt="Unstoppable - R3HAB Remix · Sia, R3HAB" src="assets/track-0-1dba7b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0qc4QlcCxVTGyShurEv1UU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-1dba7b-dark.svg"><img alt="Post Malone (feat. RANI) · Sam Feldt, RANI" src="assets/track-1-1dba7b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-1dba7b-dark.svg"><img alt="Waves - Robin Schulz Radio Edit · Mr. Probz, Robin Schulz" src="assets/track-2-1dba7b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-1dba7b-dark.svg"><img alt="Bad Memories (feat. Elley Duhé &amp; FAST BOY) · MEDUZA, James Carter, Elley Duhé, FAST BOY" src="assets/track-3-1dba7b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5mblkVhuszeZGe1W00bno8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-1dba7b-dark.svg"><img alt="TEN · Sam Feldt, joki" src="assets/track-4-1dba7b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-1dba7b-dark.svg"><img alt="21 Reasons (feat. Ella Henderson) · Nathan Dawe, Ella Henderson" src="assets/track-5-1dba7b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-1dba7b-dark.svg"><img alt="Dior (feat. Chrystal) · MK, Chrystal" src="assets/track-6-1dba7b-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-308f6d-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-308f6d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-308f6d-dark.svg"><img alt="I&#39;m Good (Blue) · David Guetta, Bebe Rexha" src="assets/track-0-308f6d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-308f6d-dark.svg"><img alt="Friday (feat. Mufasa &amp; Hypeman) - Dopamine Re-Edit · Riton, Nightcrawlers, Mufasa &amp; Hypeman, Mufasa, Dopamine" src="assets/track-1-308f6d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4356Typ82hUiFAynbLYbPn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-308f6d-dark.svg"><img alt="DJ Got Us Fallin&#39; In Love (feat. Pitbull) · USHER, Pitbull" src="assets/track-2-308f6d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2ADVGcSy2z8tDFXGhDottE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-308f6d-dark.svg"><img alt="Ear Candy · Pure Shores" src="assets/track-3-308f6d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-308f6d-dark.svg"><img alt="Pepas · Farruko" src="assets/track-4-308f6d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-308f6d-dark.svg"><img alt="As It Was · Harry Styles" src="assets/track-5-308f6d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-308f6d-dark.svg"><img alt="Breaking Me · Topic, A7S" src="assets/track-6-308f6d-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,480 commits</summary>
+<summary><b>2026</b> · 1,481 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>October 2026 · 400 commits</summary>
+<summary>October 2026 · 401 commits</summary>
 <br>
 
 <picture>
