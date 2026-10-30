@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-7a5b02-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-7a5b02-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0U10zFw4GlBacOy9VDGfGL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-7a5b02-dark.svg"><img alt="We Found Love · Rihanna, Calvin Harris" src="assets/track-0-7a5b02-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4atLPkcljMp14JBaigYFKC"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-7a5b02-dark.svg"><img alt="We Are The People - southstar Remix · Empire Of The Sun, southstar" src="assets/track-1-7a5b02-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4zPVMv84MMHehLNZYIS1Zv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-7a5b02-dark.svg"><img alt="Barbie Girl - Tiësto Remix · Aqua, Tiësto" src="assets/track-2-7a5b02-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0ccoGCaOFCxI6pHixrQpKj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-7a5b02-dark.svg"><img alt="Neverender · Justice, Tame Impala" src="assets/track-3-7a5b02-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2rHUyJioDOKDshDDxzbISl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-7a5b02-dark.svg"><img alt="Espresso - Mark Ronson x FNZ Working Late Remix · Sabrina Carpenter, Mark Ronson, FNZ" src="assets/track-4-7a5b02-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7JVNRVPeXFAOdMrxOHNjVv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-7a5b02-dark.svg"><img alt="Blue Jeans - RAC Mix · Lana Del Rey, RAC" src="assets/track-5-7a5b02-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-7a5b02-dark.svg"><img alt="Substitution (feat. Julian Perretta) · Purple Disco Machine, Kungs, Julian Perretta" src="assets/track-6-7a5b02-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-20bb19-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-20bb19-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1G8yVHxDLlEjDAt02Dfbmi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-20bb19-dark.svg"><img alt="Is This Love - Remix · Bob Marley &amp; The Wailers, LVNDSCAPE, Bolier" src="assets/track-0-20bb19-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-20bb19-dark.svg"><img alt="REACT · Switch Disco, Ella Henderson, Robert Miles" src="assets/track-1-20bb19-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-20bb19-dark.svg"><img alt="REACT · Switch Disco, Ella Henderson, Robert Miles" src="assets/track-2-20bb19-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/78Mqt7lWuaxVhN0ZptsuCY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-20bb19-dark.svg"><img alt="Summer Jam 2003 - DJ F.R.A.N.K&#39;s Summermix Short · The Underdog Project" src="assets/track-3-20bb19-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-20bb19-dark.svg"><img alt="Good Feeling · Flo Rida" src="assets/track-4-20bb19-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-20bb19-dark.svg"><img alt="Don&#39;t Be Shy · Tiësto, KAROL G" src="assets/track-5-20bb19-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-20bb19-dark.svg"><img alt="Rush · Troye Sivan" src="assets/track-6-20bb19-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,479 commits</summary>
+<summary><b>2026</b> · 1,480 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>October 2026 · 399 commits</summary>
+<summary>October 2026 · 400 commits</summary>
 <br>
 
 <picture>
