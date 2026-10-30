@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-3f2739-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-3f2739-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-3f2739-dark.svg"><img alt="Cry for You · September" src="assets/track-0-3f2739-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-3f2739-dark.svg"><img alt="Timber · Pitbull, Kesha" src="assets/track-1-3f2739-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-3f2739-dark.svg"><img alt="Bad Habits · Ed Sheeran" src="assets/track-2-3f2739-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4Mn0mNcjY2GpycbCChNLej"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-3f2739-dark.svg"><img alt="Technicolor Dream · My Friend Catie" src="assets/track-3-3f2739-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4Mn0mNcjY2GpycbCChNLej"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-3f2739-dark.svg"><img alt="Technicolor Dream · My Friend Catie" src="assets/track-4-3f2739-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-3f2739-dark.svg"><img alt="Cooler Than Me - Single Mix · Mike Posner, Gigamesh" src="assets/track-5-3f2739-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1Oka1iKmhLiHvQohbQyvta"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-3f2739-dark.svg"><img alt="Spirit Higher · LP Giobbi, EMJIE" src="assets/track-6-3f2739-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-fec80e-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-fec80e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-fec80e-dark.svg"><img alt="Substitution (feat. Julian Perretta) · Purple Disco Machine, Kungs, Julian Perretta" src="assets/track-0-fec80e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/03vLVYmqX7k3gKm3kOQIai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-fec80e-dark.svg"><img alt="Sunset In Pretoria · Shimza, Demayä" src="assets/track-1-fec80e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1gJbFyxVnTF8RTGCLyQxCL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-fec80e-dark.svg"><img alt="Million Voices - Radio Edit · Otto Knows" src="assets/track-2-fec80e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6habFhsOp2NvshLv26DqMb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-fec80e-dark.svg"><img alt="Despacito · Luis Fonsi, Daddy Yankee" src="assets/track-3-fec80e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-fec80e-dark.svg"><img alt="Ferrari · James Hype, Miggy Dela Rosa" src="assets/track-4-fec80e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-fec80e-dark.svg"><img alt="ily (i love you baby) (feat. Emilee) · Surf Mesa, Emilee" src="assets/track-5-fec80e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-fec80e-dark.svg"><img alt="Dance The Night - From Barbie The Album · Dua Lipa" src="assets/track-6-fec80e-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,555 commits</summary>
+<summary><b>2026</b> · 1,557 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>October 2026 · 475 commits</summary>
+<summary>October 2026 · 477 commits</summary>
 <br>
 
 <picture>
