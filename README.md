@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-03ebbe-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-03ebbe-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0ADSe6fsaqyzdoK2G446Ja"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-03ebbe-dark.svg"><img alt="Will You Be There · nimino" src="assets/track-0-03ebbe-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3wHbYADUo6Jj2YjPPXYZKr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-03ebbe-dark.svg"><img alt="BACK TO LIFE - MashBit Remix · Angrybaby, MashBit" src="assets/track-1-03ebbe-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7E4k65CjSEhmEUZ0y2E47A"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-03ebbe-dark.svg"><img alt="WHEN IT COMES TO YOU · Angrybaby" src="assets/track-2-03ebbe-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-03ebbe-dark.svg"><img alt="Ascend · Dezko" src="assets/track-3-03ebbe-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/45Q6hkvGtzW0VUybDnQ4n8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-03ebbe-dark.svg"><img alt="Beyond the Fire · Don Diablo" src="assets/track-4-03ebbe-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2XOoOrYb8ZptaoTxQdoqfk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-03ebbe-dark.svg"><img alt="Where the Sun Goes Down · Badflite, RYVM" src="assets/track-5-03ebbe-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3OOzl993eMNrpI3c3aMGAr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-03ebbe-dark.svg"><img alt="I FOUND LOVE · Angrybaby, Alida" src="assets/track-6-03ebbe-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-dc2bb0-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-dc2bb0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6habFhsOp2NvshLv26DqMb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-dc2bb0-dark.svg"><img alt="Despacito · Luis Fonsi, Daddy Yankee" src="assets/track-0-dc2bb0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-dc2bb0-dark.svg"><img alt="Ferrari · James Hype, Miggy Dela Rosa" src="assets/track-1-dc2bb0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-dc2bb0-dark.svg"><img alt="ily (i love you baby) (feat. Emilee) · Surf Mesa, Emilee" src="assets/track-2-dc2bb0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-dc2bb0-dark.svg"><img alt="Dance The Night - From Barbie The Album · Dua Lipa" src="assets/track-3-dc2bb0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/51ODNNDZm21HU7wI7cccRr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-dc2bb0-dark.svg"><img alt="Latch · Disclosure, Sam Smith" src="assets/track-4-dc2bb0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0koayp1WcjhQjN5kS5JxoE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-dc2bb0-dark.svg"><img alt="The Way It Goes · Swimming Paul" src="assets/track-5-dc2bb0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7f9WkDtkzDEZNwJOxb76PE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-dc2bb0-dark.svg"><img alt="Familiar · Distant Matter" src="assets/track-6-dc2bb0-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,478 commits</summary>
+<summary><b>2026</b> · 1,479 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>October 2026 · 398 commits</summary>
+<summary>October 2026 · 399 commits</summary>
 <br>
 
 <picture>
