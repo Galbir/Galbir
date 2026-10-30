@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-949d25-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-949d25-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1kKYjjfNYxE0YYgLa7vgVY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-949d25-dark.svg"><img alt="Higher Love · Kygo, Whitney Houston" src="assets/track-0-949d25-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2HvaJzLOotkXbplceNSHaK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-949d25-dark.svg"><img alt="My Friend Has a Swimming Pool · Mausi" src="assets/track-1-949d25-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-949d25-dark.svg"><img alt="Beautiful People · David Guetta, Sia" src="assets/track-2-949d25-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0Fnw1np7UlQKWPcxFm0sE3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-949d25-dark.svg"><img alt="Belly Dancer · Imanbek, BYOR" src="assets/track-3-949d25-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-949d25-dark.svg"><img alt="Con Calma · Daddy Yankee, Snow" src="assets/track-4-949d25-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-949d25-dark.svg"><img alt="Summer Days (feat. Macklemore &amp; Patrick Stump of Fall Out Boy) · Martin Garrix, Macklemore, Fall Out Boy" src="assets/track-5-949d25-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4255amV4enzl28KAn16rUO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-949d25-dark.svg"><img alt="Are You With Me · Lost Frequencies" src="assets/track-6-949d25-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-228278-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-228278-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-228278-dark.svg"><img alt="How Deep Is Your Love · Calvin Harris, Disciples" src="assets/track-0-228278-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1MtlL1N2wTI08qiMjcwEu7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-228278-dark.svg"><img alt="that&#39;s my beach! · horsegiirL" src="assets/track-1-228278-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/60ZRKTMc94bcjiN4FI0XDm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-228278-dark.svg"><img alt="Lola&#39;s Theme - Radio Edit · The Shapeshifters" src="assets/track-2-228278-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/29CvrDmscTVF9tD5Pyd8hQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-228278-dark.svg"><img alt="Magic In The Air · Francis Mercier, MAGIC SYSTEM, Chawki" src="assets/track-3-228278-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-228278-dark.svg"><img alt="Quevedo: Bzrp Music Sessions, Vol. 52/66 · Bizarrap, Quevedo" src="assets/track-4-228278-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-228278-dark.svg"><img alt="OUT OUT (feat. Charli XCX &amp; Saweetie) · Joel Corry, Jax Jones, Charli xcx, Saweetie" src="assets/track-5-228278-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-228278-dark.svg"><img alt="Move · Adam Port, Stryv, Keinemusik, Orso, Malachiii" src="assets/track-6-228278-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,554 commits</summary>
+<summary><b>2026</b> · 1,555 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>October 2026 · 474 commits</summary>
+<summary>October 2026 · 475 commits</summary>
 <br>
 
 <picture>
