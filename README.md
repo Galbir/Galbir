@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-5fc1e5-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-5fc1e5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4kiXSFHJQKODIl4iWkcEjv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-5fc1e5-dark.svg"><img alt="In The Middle · Daniel Allan, Arden Jones" src="assets/track-0-5fc1e5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4ohdD3RmVyy1LNrlHdDRdp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-5fc1e5-dark.svg"><img alt="Chemical Light (Gravagerz REMIX) · JIMRO!" src="assets/track-1-5fc1e5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5QUQKfOB6b9rIIYT9RVbdp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-5fc1e5-dark.svg"><img alt="Fly High · Toby Romeo" src="assets/track-2-5fc1e5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1JaXMVaSuDbuL0U9Vub1G3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-5fc1e5-dark.svg"><img alt="With U · Palm, Opi" src="assets/track-3-5fc1e5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/620nKA2eC0ItixHC1pGHBA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-5fc1e5-dark.svg"><img alt="CLENCH MY FIST · Angrybaby, Jon Casey" src="assets/track-4-5fc1e5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/79BY6QNQu7FeL6DnaKu5wT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-5fc1e5-dark.svg"><img alt="Take Me (To The Moon) · Ian Asher, D A N N Y" src="assets/track-5-5fc1e5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0w6h053ER8qaIsyJhEtdGu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-5fc1e5-dark.svg"><img alt="Eat Me Better · nimino" src="assets/track-6-5fc1e5-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-d56eb9-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-d56eb9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1RWFB7LoHnVbaaK6hA5mgi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-d56eb9-dark.svg"><img alt="theclubrock - Remix · MADAX" src="assets/track-0-d56eb9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4kiXSFHJQKODIl4iWkcEjv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-d56eb9-dark.svg"><img alt="In The Middle · Daniel Allan, Arden Jones" src="assets/track-1-d56eb9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4ohdD3RmVyy1LNrlHdDRdp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-d56eb9-dark.svg"><img alt="Chemical Light (Gravagerz REMIX) · JIMRO!" src="assets/track-2-d56eb9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5QUQKfOB6b9rIIYT9RVbdp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-d56eb9-dark.svg"><img alt="Fly High · Toby Romeo" src="assets/track-3-d56eb9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1JaXMVaSuDbuL0U9Vub1G3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-d56eb9-dark.svg"><img alt="With U · Palm, Opi" src="assets/track-4-d56eb9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/620nKA2eC0ItixHC1pGHBA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-d56eb9-dark.svg"><img alt="CLENCH MY FIST · Angrybaby, Jon Casey" src="assets/track-5-d56eb9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/79BY6QNQu7FeL6DnaKu5wT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-d56eb9-dark.svg"><img alt="Take Me (To The Moon) · Ian Asher, D A N N Y" src="assets/track-6-d56eb9-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,564 commits</summary>
+<summary><b>2026</b> · 1,565 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>October 2026 · 484 commits</summary>
+<summary>October 2026 · 485 commits</summary>
 <br>
 
 <picture>
