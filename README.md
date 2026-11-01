@@ -70,13 +70,24 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,565 commits</summary>
+<summary><b>2026</b> · 1,566 commits</summary>
 <br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/period-2026-dark.svg">
   <img alt="2026" src="assets/period-2026-light.svg" width="100%">
 </picture>
+
+<details>
+<summary>November 2026 · 1 commits</summary>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/period-2026-11-dark.svg">
+  <img alt="November 2026" src="assets/period-2026-11-light.svg" width="100%">
+</picture>
+
+</details>
 
 <details>
 <summary>October 2026 · 485 commits</summary>
