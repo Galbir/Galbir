@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-9d6aa8-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-9d6aa8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7yP7JEBNqFLL2qtG55etFY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-9d6aa8-dark.svg"><img alt="Offline · Lion" src="assets/track-0-9d6aa8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3Ulp1eAMmhPq8NaxzxXbDw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-9d6aa8-dark.svg"><img alt="Wind Me Up · Iyam Fine" src="assets/track-1-9d6aa8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3ZcYHFnraOC9hRA3ReHRCv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-9d6aa8-dark.svg"><img alt="Alone · Ash Vanz" src="assets/track-2-9d6aa8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/15PQScprGMbbQ4ZOOi6Yce"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-9d6aa8-dark.svg"><img alt="MORENA · SP3CTRUM" src="assets/track-3-9d6aa8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7wDUex6yCktoyRyBweRanO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-9d6aa8-dark.svg"><img alt="cheap talks · PET3RPUNX" src="assets/track-4-9d6aa8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4MX4VyYyd36joubmqhv0rI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-9d6aa8-dark.svg"><img alt="All Night · bradeazy, Nina Nevra" src="assets/track-5-9d6aa8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0wqlOY5o3sEMHIHauJ4Bgh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-9d6aa8-dark.svg"><img alt="Don&#39;t Talk · WLCH" src="assets/track-6-9d6aa8-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-963326-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-963326-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/51XUEoPA04upyf0IrEosDA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-963326-dark.svg"><img alt="Me &amp; You · K3YN0T3, Distan" src="assets/track-0-963326-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0phIDu3THhp5WvjCzK7dHW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-963326-dark.svg"><img alt="Gas Pedal · Galwaro, PET3RPUNX" src="assets/track-1-963326-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7cPQFd7QPRoL2NAydwXIDX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-963326-dark.svg"><img alt="Talking Body - Speed Garage · Misdemeanor, Velmar" src="assets/track-2-963326-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2mpp0EV5NdslbTl9nWTAhr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-963326-dark.svg"><img alt="Standards High · MelyJones" src="assets/track-3-963326-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3GZIfEmDqifJv0eVCYTBeG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-963326-dark.svg"><img alt="Magic · Boxi" src="assets/track-4-963326-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3djzoCW9uxQFwqXNYEOa3k"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-963326-dark.svg"><img alt="feelin&#39; fine · PET3RPUNX, CERES" src="assets/track-5-963326-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3ptl1PxgvFVz4Qr5RDs21L"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-963326-dark.svg"><img alt="Everybody · Dwin" src="assets/track-6-963326-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,606 commits</summary>
+<summary><b>2026</b> · 1,608 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 27 commits</summary>
+<summary>November 2026 · 29 commits</summary>
 <br>
 
 <picture>
