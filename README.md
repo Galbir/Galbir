@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-bda249-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-bda249-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/38V33Xqt4FUwrtMbJozXK4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-bda249-dark.svg"><img alt="Walk (feat. Kwabs) · BOVSKI, Kwabs" src="assets/track-0-bda249-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5UovzDCYQ5GrVAeKjaReTK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-bda249-dark.svg"><img alt="DAYS GO BY · AVSTN" src="assets/track-1-bda249-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1WcXdZOoIN1apxXQ2iTPh2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-bda249-dark.svg"><img alt="Pull Me Back · Maxé Lune" src="assets/track-2-bda249-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0SwFvEtigRrGz75JLYgf26"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-bda249-dark.svg"><img alt="Fendi · MONOH, Pritt" src="assets/track-3-bda249-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6HUiMVn3tuR2ImYtJIZGAe"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-bda249-dark.svg"><img alt="endgame - Sped Up · PET3RPUNX" src="assets/track-4-bda249-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/56WBtFTZuHEUCa7atK2uT7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-bda249-dark.svg"><img alt="I Just Can&#39;t Stop · Supafly, Carter Walsh, Greg Stainer" src="assets/track-5-bda249-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4kmxETbclaI5PF9uqKKM8q"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-bda249-dark.svg"><img alt="Waves of Luv · Matt Sassari, Mont Rouge" src="assets/track-6-bda249-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-6833e7-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-6833e7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/35spVTdvW9peUEud9XhXvi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-6833e7-dark.svg"><img alt="Stuck On You · Josh Fawaz" src="assets/track-0-6833e7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7v2D2Unijl6LvUsjZ6R2Hg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-6833e7-dark.svg"><img alt="Genie in a Bottle · MOONLGHT" src="assets/track-1-6833e7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3L0yrUo75upkwirBwahU6e"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-6833e7-dark.svg"><img alt="LEFT 2 RIGHT - Sped Up · Tom Right, KAIVA" src="assets/track-2-6833e7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6z6GEjPCSXHzr410jXlT06"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-6833e7-dark.svg"><img alt="AGAIN · AVSTN" src="assets/track-3-6833e7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2FcpOyFM5JRkKW7Y5xB3vX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-6833e7-dark.svg"><img alt="For The Girls · Hayden James, Bipolar Sunshine" src="assets/track-4-6833e7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/78px1NQ03fTMZd8SCiIZO9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-6833e7-dark.svg"><img alt="Over N Over · DJ Katch, Crudu" src="assets/track-5-6833e7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3YfUZLQgUTsYv26pVwgDPj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-6833e7-dark.svg"><img alt="back to 2016 · Lion" src="assets/track-6-6833e7-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,599 commits</summary>
+<summary><b>2026</b> · 1,602 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 20 commits</summary>
+<summary>November 2026 · 23 commits</summary>
 <br>
 
 <picture>
