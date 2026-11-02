@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-a95f83-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-a95f83-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4eBPKscpvBc1SA71ltphjD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-a95f83-dark.svg"><img alt="Games - Sped Up · Gaullin, WLCH" src="assets/track-0-a95f83-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2L7YT0lFVYeBwpgoH0ks8f"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-a95f83-dark.svg"><img alt="Superstar · Dan Port" src="assets/track-1-a95f83-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3QQfzdKZov5axxIfxCGICc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-a95f83-dark.svg"><img alt="Naughty · bradeazy, Jakey KRUMM" src="assets/track-2-a95f83-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/41F7oT8ZNC7WpI2iNyzVnI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-a95f83-dark.svg"><img alt="Tonight (Sped Up) · Brian Zeno" src="assets/track-3-a95f83-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3JTneJNdJjxR0fpN92jUyH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-a95f83-dark.svg"><img alt="Wanna Talk · ALEXYS, Strn." src="assets/track-4-a95f83-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5A9Kpa9IrgJvjphLeYVhCF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-a95f83-dark.svg"><img alt="Closer · Bass Mode" src="assets/track-5-a95f83-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/58AUk27TOxwKnyy2WJ76lK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-a95f83-dark.svg"><img alt="temptations · bbyclose" src="assets/track-6-a95f83-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-f1b7ad-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-f1b7ad-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2DPuThpjUJH3kyBp2509th"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-f1b7ad-dark.svg"><img alt="TAKE A PICTURE · SIDD" src="assets/track-0-f1b7ad-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1mIdgV3sIcCQ16gGZPGVyn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-f1b7ad-dark.svg"><img alt="Play That Song Again · PET3RPUNX" src="assets/track-1-f1b7ad-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5LNBK2mH3Q32yKDYWBmK0l"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-f1b7ad-dark.svg"><img alt="All Of Me · Garnic" src="assets/track-2-f1b7ad-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3Enqz3uzpALXh4fMCUwsul"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-f1b7ad-dark.svg"><img alt="Too Far Gone · Dan Port" src="assets/track-3-f1b7ad-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1gpNYOJk4JE1wmUjiK34Mf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-f1b7ad-dark.svg"><img alt="ORBIT · Marzi" src="assets/track-4-f1b7ad-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1slFn4P1k6661TTjPcEZQj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-f1b7ad-dark.svg"><img alt="Eyes On U · Melsen" src="assets/track-5-f1b7ad-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6qYDvibBf06AVYdW98XILe"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-f1b7ad-dark.svg"><img alt="Hostage · ALEXYS, Strn." src="assets/track-6-f1b7ad-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,609 commits</summary>
+<summary><b>2026</b> · 1,610 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 30 commits</summary>
+<summary>November 2026 · 31 commits</summary>
 <br>
 
 <picture>
