@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-8bc454-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-8bc454-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6XMs277BRC8vQ4LUSgkne8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-8bc454-dark.svg"><img alt="Pushing Me Away - sped up · TRFN, PET3RPUNX" src="assets/track-0-8bc454-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/782EcmrSvkOJw56D6vbNQk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-8bc454-dark.svg"><img alt="I Run - Ely Oaks Remix · HAVEN., Kaitlin Aragon, Ely Oaks" src="assets/track-1-8bc454-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5AnnVVZhm4emLTZFBcyQAB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-8bc454-dark.svg"><img alt="On and Off · TRFN" src="assets/track-2-8bc454-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0FXkwBGyWQr3uFsXeBntBm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-8bc454-dark.svg"><img alt="Don&#39;t Call My Name · CARTFISH" src="assets/track-3-8bc454-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7zndnXJeCdn98pRaxszdz3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-8bc454-dark.svg"><img alt="Hung Up · Danell Arma, Dan Port" src="assets/track-4-8bc454-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2JnUEV6je5PlUtVyKXPull"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-8bc454-dark.svg"><img alt="Never Really Mine · KYVN" src="assets/track-5-8bc454-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0JGC40P6QaZd9iEtrPIo4V"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-8bc454-dark.svg"><img alt="BASS REPEAT · WAVES" src="assets/track-6-8bc454-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-82ceaf-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-82ceaf-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/14FcwsKzWwJ68J1wLa4tMe"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-82ceaf-dark.svg"><img alt="Disappear · OOVA" src="assets/track-0-82ceaf-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1DznCjR8ml1o2j2bEG5kN6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-82ceaf-dark.svg"><img alt="Butterfly 2026 · bradeazy, Crazy Town" src="assets/track-1-82ceaf-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0oFcUbBp4UAsrI6QIrL67i"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-82ceaf-dark.svg"><img alt="Reasons - Anton Powers Remix · Anton Powers, LAVINIA, Ely Oaks" src="assets/track-2-82ceaf-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5aII2U8VFUK3arIjFWbwbh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-82ceaf-dark.svg"><img alt="Unstoppable - Sped Up · ATALE" src="assets/track-3-82ceaf-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1GtQKQsGy2RSvev3ZgBnKy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-82ceaf-dark.svg"><img alt="Bad Girl Energy (feat. kamille) · BL3SS, kamille" src="assets/track-4-82ceaf-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5hdb9JtFLjAsPlMVKuxkE7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-82ceaf-dark.svg"><img alt="Sexy Lady · Danell Arma" src="assets/track-5-82ceaf-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7hKFbpYgx3CqOKtOS7wlUp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-82ceaf-dark.svg"><img alt="Wicked Wonderland - Garage · Insania" src="assets/track-6-82ceaf-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,604 commits</summary>
+<summary><b>2026</b> · 1,605 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 25 commits</summary>
+<summary>November 2026 · 26 commits</summary>
 <br>
 
 <picture>
