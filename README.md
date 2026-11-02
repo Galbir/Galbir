@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-9489ee-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-9489ee-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5D7td0raKtVu2xYHl4JGhk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-9489ee-dark.svg"><img alt="Danger - Sped Up · Tom Right" src="assets/track-0-9489ee-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1q7LFN5v2484wluDmx2N5z"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-9489ee-dark.svg"><img alt="Goodies · who.am.i" src="assets/track-1-9489ee-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2kLLiHK0IBCQYudhNMomP6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-9489ee-dark.svg"><img alt="Fired Up · Blair Muir, ESSEL" src="assets/track-2-9489ee-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5M4zvTkcuww0J7jxvJDLPe"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-9489ee-dark.svg"><img alt="cheap talks - slowed · PET3RPUNX" src="assets/track-3-9489ee-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0jxq5tdp6JAo1iIYM6BBow"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-9489ee-dark.svg"><img alt="No More Sorries · Kid Kobe" src="assets/track-4-9489ee-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3xmMXgOYkXYvhyB7UtAmHK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-9489ee-dark.svg"><img alt="4AM BENZ · NOL3NT, spvcedream" src="assets/track-5-9489ee-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/38ALHjEvNGpS2A0fLeaPwy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-9489ee-dark.svg"><img alt="1 Thing · Bruno Motta, OldPlay" src="assets/track-6-9489ee-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-5d421f-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-5d421f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/715mcBjei75yGRf4jyKpfs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-5d421f-dark.svg"><img alt="Alive · OFF ME" src="assets/track-0-5d421f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5em17WhdkNOVFsKirRZnxS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-5d421f-dark.svg"><img alt="All Lies - Sped Up · mxbeats, DRYFTMODE, Suzi" src="assets/track-1-5d421f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2LVHyw1tiLBTOBi3MTZQoT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-5d421f-dark.svg"><img alt="Gas Pedal - slowed · Galwaro, PET3RPUNX" src="assets/track-2-5d421f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1PfzYGWUwAIP6dx8Agwal0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-5d421f-dark.svg"><img alt="No Loyalty · Harry T, Digital Farm Animals, Carla Frigo" src="assets/track-3-5d421f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5lkaUPrTZJZxWDNkLnoyzx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-5d421f-dark.svg"><img alt="Can&#39;t Survive · K3YN0T3, T3CHN0T3, J3RY, DR3AMY" src="assets/track-4-5d421f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1glrWJfVRQ0da0Rpaa0WRs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-5d421f-dark.svg"><img alt="By Chance · Axel Cooper" src="assets/track-5-5d421f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3ndwlgsuikWXrfEGKDVSpK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-5d421f-dark.svg"><img alt="Devil - Extended · BL3SS" src="assets/track-6-5d421f-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,610 commits</summary>
+<summary><b>2026</b> · 1,611 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 31 commits</summary>
+<summary>November 2026 · 32 commits</summary>
 <br>
 
 <picture>
