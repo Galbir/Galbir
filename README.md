@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-b240ee-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-b240ee-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6MKiPmkj1j3fdRA3oaGEvs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-b240ee-dark.svg"><img alt="Dreaming &amp; Breathing · ELFIGO, HVRR, AYAREZ" src="assets/track-0-b240ee-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6FegSqra9pDjcaRjW0RtOP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-b240ee-dark.svg"><img alt="MATERIAL LOVER - UKG / SPEED GARAGE · SAiiLOR" src="assets/track-1-b240ee-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1CY6Jw1jYwi74n9cKNwMm4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-b240ee-dark.svg"><img alt="Want More · Ben Leuman" src="assets/track-2-b240ee-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0xxjnGyAvEInpoj67I2eZX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-b240ee-dark.svg"><img alt="Spin It · Matway" src="assets/track-3-b240ee-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1cVAIGhAut8ivIHx02Gv4z"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-b240ee-dark.svg"><img alt="Night Decide - Slowed · ATALE" src="assets/track-4-b240ee-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1E5NsA5N9Noohhmf2cGx5B"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-b240ee-dark.svg"><img alt="terms and conditions - Beave Remix · BL3SS, Beave" src="assets/track-5-b240ee-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5b9vNfNr0AvZzVDCbJyEU2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-b240ee-dark.svg"><img alt="Ride On Time (Take Control Of Me) · Yofunders" src="assets/track-6-b240ee-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-72e792-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-72e792-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5QRY2tgQ1dysU1eQKkqDR2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-72e792-dark.svg"><img alt="Fade Me Out - Sped Up · Lion" src="assets/track-0-72e792-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4fFa2Tq9AGG7Q8tAtmf392"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-72e792-dark.svg"><img alt="That GIRL · CARTFISH" src="assets/track-1-72e792-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6DhMGuzgZ9BYyQrdwd9ajK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-72e792-dark.svg"><img alt="It&#39;s Over - Sped Up · ATALE" src="assets/track-2-72e792-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5CmtPf5ovzhKo6yZf0JOU1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-72e792-dark.svg"><img alt="Empty Space · WLCH" src="assets/track-3-72e792-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5rmYeR05g62DqwysDD3rIQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-72e792-dark.svg"><img alt="Turn It Up · Matway" src="assets/track-4-72e792-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1v76uCjyj0UrEIPdOZKWin"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-72e792-dark.svg"><img alt="Dreaming · Ryan Reed" src="assets/track-5-72e792-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4dRzsKeUhCmOfoDQ0KrOFK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-72e792-dark.svg"><img alt="Bad Habits · Jerri" src="assets/track-6-72e792-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,605 commits</summary>
+<summary><b>2026</b> · 1,606 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 26 commits</summary>
+<summary>November 2026 · 27 commits</summary>
 <br>
 
 <picture>
