@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-bc7235-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-bc7235-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1S8BcAaNQNfINgFSNPLSFl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-bc7235-dark.svg"><img alt="Rooftop - Sped Up · Tom Right" src="assets/track-0-bc7235-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4kCBrjg9lEXQ5xcQavWDSM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-bc7235-dark.svg"><img alt="BAD 4 ME · Lonelysoul." src="assets/track-1-bc7235-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6NzlMQOrTSRegWEhWwAbrz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-bc7235-dark.svg"><img alt="Miami To L.A. · Bass Mode" src="assets/track-2-bc7235-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3BCeFWjQnilohEzUHSIRng"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-bc7235-dark.svg"><img alt="On and Off - slowed · TRFN" src="assets/track-3-bc7235-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7yT0jKXViTgeDuoKhyRI8j"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-bc7235-dark.svg"><img alt="wild rides · daylight" src="assets/track-4-bc7235-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5GOxjlNtCSY2RKVkOX3JhG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-bc7235-dark.svg"><img alt="First Class · Alex Pizzuti" src="assets/track-5-bc7235-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0SZKacJ8DMFQjmdUfSJX2C"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-bc7235-dark.svg"><img alt="Seratonin · James Hype" src="assets/track-6-bc7235-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-a7b8a9-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-a7b8a9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/70qtAm86ihQQybd93tprHZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-a7b8a9-dark.svg"><img alt="If U Had My Love · Ian Asher" src="assets/track-0-a7b8a9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6h0iOBoBk4Vm44tk49JbWy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-a7b8a9-dark.svg"><img alt="In The Dark - Sped Up · Tom Right" src="assets/track-1-a7b8a9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3zBgyblLVca62srEQa1RPC"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-a7b8a9-dark.svg"><img alt="Afters · BL3SS, Gravagerz" src="assets/track-2-a7b8a9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3PDAyzNEtUFip5rkxxwwHb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-a7b8a9-dark.svg"><img alt="Favorite Place - Sped Up · Ryan Reed" src="assets/track-3-a7b8a9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1VDfvBUMwL3m1Sd9dMorR4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-a7b8a9-dark.svg"><img alt="Money Made Me A Savage - Calabria · Ely Oaks, LAVINIA" src="assets/track-4-a7b8a9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4qDBXgjpBItXeXoCLdEuS6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-a7b8a9-dark.svg"><img alt="Meet Me In The Dark · AVE" src="assets/track-5-a7b8a9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/74ulWk192IiJDpj3SYKoLU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-a7b8a9-dark.svg"><img alt="I Run - James Hype Remix · HAVEN., Kaitlin Aragon, James Hype" src="assets/track-6-a7b8a9-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,572 commits</summary>
+<summary><b>2026</b> · 1,573 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 7 commits</summary>
+<summary>November 2026 · 8 commits</summary>
 <br>
 
 <picture>
