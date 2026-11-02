@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-7ae354-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-7ae354-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2OlWj3MnKCEOELsZ1uM4Mb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-7ae354-dark.svg"><img alt="I look sh!t (and i‘m fine with it) · LAVINIA, Ely Oaks" src="assets/track-0-7ae354-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5X69OHSdaRKTsjvxxpTe5L"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-7ae354-dark.svg"><img alt="Wait For Me · AVSTN, Kid Kobe" src="assets/track-1-7ae354-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1NPfiTCBjiYUya7npwzbAY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-7ae354-dark.svg"><img alt="terms and conditions · BL3SS" src="assets/track-2-7ae354-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3o7mpMwFQ9iGCKQIi4SomV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-7ae354-dark.svg"><img alt="I&#39;ll Be Waiting · Ryan Reed" src="assets/track-3-7ae354-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1CWYS3DP2iY8DsqT8EFDJG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-7ae354-dark.svg"><img alt="Dubai by night · PET3RPUNX" src="assets/track-4-7ae354-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6WUxcpdLCTlp8kHK79vRMQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-7ae354-dark.svg"><img alt="Uh Na Na · Ely Oaks" src="assets/track-5-7ae354-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2WfG0jkWpWoqV5CRrWQIxP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-7ae354-dark.svg"><img alt="Mercy · AVE, Jack Light" src="assets/track-6-7ae354-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-bda249-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-bda249-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/38V33Xqt4FUwrtMbJozXK4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-bda249-dark.svg"><img alt="Walk (feat. Kwabs) · BOVSKI, Kwabs" src="assets/track-0-bda249-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5UovzDCYQ5GrVAeKjaReTK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-bda249-dark.svg"><img alt="DAYS GO BY · AVSTN" src="assets/track-1-bda249-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1WcXdZOoIN1apxXQ2iTPh2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-bda249-dark.svg"><img alt="Pull Me Back · Maxé Lune" src="assets/track-2-bda249-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0SwFvEtigRrGz75JLYgf26"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-bda249-dark.svg"><img alt="Fendi · MONOH, Pritt" src="assets/track-3-bda249-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6HUiMVn3tuR2ImYtJIZGAe"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-bda249-dark.svg"><img alt="endgame - Sped Up · PET3RPUNX" src="assets/track-4-bda249-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/56WBtFTZuHEUCa7atK2uT7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-bda249-dark.svg"><img alt="I Just Can&#39;t Stop · Supafly, Carter Walsh, Greg Stainer" src="assets/track-5-bda249-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4kmxETbclaI5PF9uqKKM8q"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-bda249-dark.svg"><img alt="Waves of Luv · Matt Sassari, Mont Rouge" src="assets/track-6-bda249-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,573 commits</summary>
+<summary><b>2026</b> · 1,599 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 8 commits</summary>
+<summary>November 2026 · 20 commits</summary>
 <br>
 
 <picture>
@@ -90,7 +90,7 @@
 </details>
 
 <details>
-<summary>October 2026 · 485 commits</summary>
+<summary>October 2026 · 499 commits</summary>
 <br>
 
 <picture>
