@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-6d15a1-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-6d15a1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2uQgl88vJe4vQ4yDETrlG8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-6d15a1-dark.svg"><img alt="DEADLY · WAVES" src="assets/track-0-6d15a1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7vba2tffz7ritRz8HnkRUl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-6d15a1-dark.svg"><img alt="Does Your Father Know You Dance Like That? · Steve Aoki, Sebastian Maniscalco" src="assets/track-1-6d15a1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2XO4hilIfKBdTA6nNxm24B"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-6d15a1-dark.svg"><img alt="Flashback · Kastuvas" src="assets/track-2-6d15a1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4ysB6upWRz6pFieLUmrayO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-6d15a1-dark.svg"><img alt="Maneater · Danell Arma" src="assets/track-3-6d15a1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2dtkwUwklMqgShkoqzFwqt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-6d15a1-dark.svg"><img alt="Somebody&#39;s Watching Me · Xd" src="assets/track-4-6d15a1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7wFwf1j6nn7uneEF6oTAiR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-6d15a1-dark.svg"><img alt="Long Jacket · Chris Lake, Chris Lorenzo, Kenny Beats, CAKE" src="assets/track-5-6d15a1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0clHsShVOKyXflPbH5adcg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-6d15a1-dark.svg"><img alt="YOU GOT ME · Angrybaby, Marzi" src="assets/track-6-6d15a1-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-6ff419-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-6ff419-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/04lstvqbiDDdlQFlhPnHg2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-6ff419-dark.svg"><img alt="RUN · SEUNG" src="assets/track-0-6ff419-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/04lstvqbiDDdlQFlhPnHg2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-6ff419-dark.svg"><img alt="RUN · SEUNG" src="assets/track-1-6ff419-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3VQ9PTSXUBVPRGvfja4nik"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-6ff419-dark.svg"><img alt="Paint The Town Red · Danell Arma" src="assets/track-2-6ff419-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5jaOy1MAA0FLJh7ivFW4Cc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-6ff419-dark.svg"><img alt="seaside_demo · Xd" src="assets/track-3-6ff419-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0V6AdB19y7HVXxCzuYG0ag"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-6ff419-dark.svg"><img alt="Redbone - Remix · Roaz, Lost Generation" src="assets/track-4-6ff419-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1kWwqxnPVagRRahHhK1qDk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-6ff419-dark.svg"><img alt="Piece Of Your Heart · Kastuvas" src="assets/track-5-6ff419-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2hSKm553fDy4Gtzx7yQDRf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-6ff419-dark.svg"><img alt="Get Busy · who.am.i" src="assets/track-6-6ff419-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,623 commits</summary>
+<summary><b>2026</b> · 1,624 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 44 commits</summary>
+<summary>November 2026 · 45 commits</summary>
 <br>
 
 <picture>
