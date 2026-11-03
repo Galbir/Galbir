@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-683d65-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-683d65-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1uOAD1Q0AgmE1jcosLY4HY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-683d65-dark.svg"><img alt="Feeling Of You (feat. Lilly Ahlberg) · Drove, Lilly Ahlberg" src="assets/track-0-683d65-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0bhHPERhSMKnog5ZbOgOJT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-683d65-dark.svg"><img alt="SMALL WORLD · METTE" src="assets/track-1-683d65-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-683d65-dark.svg"><img alt="brand new chanel$ · Slayyyter" src="assets/track-2-683d65-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0Fscl5Gt6r9UfJR6OWG1wI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-683d65-dark.svg"><img alt="Melatonin · Tinashe" src="assets/track-3-683d65-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0w6h053ER8qaIsyJhEtdGu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-683d65-dark.svg"><img alt="Eat Me Better · nimino" src="assets/track-4-683d65-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-683d65-dark.svg"><img alt="Happiness Is So Sad · Swedish House Mafia, Lykke Li" src="assets/track-5-683d65-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1hRazzupiYrnYYUdpNhncL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-683d65-dark.svg"><img alt="Ain&#39;t No Game · Duke Dumont" src="assets/track-6-683d65-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-524a13-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-524a13-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/75OhFRdm605ZpAyi5PaWvu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-524a13-dark.svg"><img alt="Voodoo · Funk Tribu" src="assets/track-0-524a13-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4PgcKyByDFEXm5RQA07WD2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-524a13-dark.svg"><img alt="Repeaty · Sammy Virji" src="assets/track-1-524a13-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0l36pn7VQtGkqdarml0F9o"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-524a13-dark.svg"><img alt="Magic · No/Me" src="assets/track-2-524a13-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7rvmTYVaJYbj2RNXnAeJRh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-524a13-dark.svg"><img alt="Push it (cardiac) · Reysha Rami" src="assets/track-3-524a13-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1EDkkMHuzz1Fx4Wxrcbt0V"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-524a13-dark.svg"><img alt="SYW (feat. Cecile Believe) · Empress Of, Cecile Believe" src="assets/track-4-524a13-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2CG3lX8ddjTEQL4kwBHkw3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-524a13-dark.svg"><img alt="Don’t Leave Me on the Dance Floor · Carly Rae Jepsen" src="assets/track-5-524a13-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3PmAydfzjWQoLFpSQDYehP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-524a13-dark.svg"><img alt="Fade Into Nothing · it&#39;s murph, Arlo, Lizzy Land" src="assets/track-6-524a13-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,620 commits</summary>
+<summary><b>2026</b> · 1,621 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 41 commits</summary>
+<summary>November 2026 · 42 commits</summary>
 <br>
 
 <picture>
