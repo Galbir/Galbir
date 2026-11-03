@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-7d1670-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-7d1670-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7tIkEd5g0uw5AaFkPbdqJE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-7d1670-dark.svg"><img alt="OUT LATE. · Loud Luxury, SadBoi" src="assets/track-0-7d1670-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5GVQRPECRonHnvwdXgOMiS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-7d1670-dark.svg"><img alt="First Class · who.am.i" src="assets/track-1-7d1670-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1J6ALajhZI6mzwUOM0QybV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-7d1670-dark.svg"><img alt="Running · daumantasvin, LIUFO" src="assets/track-2-7d1670-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2gHEOycWoK3NeWkpFNDVHf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-7d1670-dark.svg"><img alt="Seven Nation Army · Kastuvas" src="assets/track-3-7d1670-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3HVeRwFre7mmEWi3l3GhTK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-7d1670-dark.svg"><img alt="Money On The Dash · LUCØ, Alice Gray" src="assets/track-4-7d1670-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/653o0WYz9lwVwEG4TlUg9I"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-7d1670-dark.svg"><img alt="Y I&#39;M HOT · .EXA, Eva Shaw" src="assets/track-5-7d1670-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2XagOizQgSWf6f2XJKUW35"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-7d1670-dark.svg"><img alt="Body Poppin · Wahlstedt" src="assets/track-6-7d1670-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-d91bbd-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-d91bbd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0clHsShVOKyXflPbH5adcg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-d91bbd-dark.svg"><img alt="YOU GOT ME · Angrybaby, Marzi" src="assets/track-0-d91bbd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7tIkEd5g0uw5AaFkPbdqJE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-d91bbd-dark.svg"><img alt="OUT LATE. · Loud Luxury, SadBoi" src="assets/track-1-d91bbd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5GVQRPECRonHnvwdXgOMiS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-d91bbd-dark.svg"><img alt="First Class · who.am.i" src="assets/track-2-d91bbd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1J6ALajhZI6mzwUOM0QybV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-d91bbd-dark.svg"><img alt="Running · daumantasvin, LIUFO" src="assets/track-3-d91bbd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2gHEOycWoK3NeWkpFNDVHf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-d91bbd-dark.svg"><img alt="Seven Nation Army · Kastuvas" src="assets/track-4-d91bbd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3HVeRwFre7mmEWi3l3GhTK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-d91bbd-dark.svg"><img alt="Money On The Dash · LUCØ, Alice Gray" src="assets/track-5-d91bbd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/653o0WYz9lwVwEG4TlUg9I"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-d91bbd-dark.svg"><img alt="Y I&#39;M HOT · .EXA, Eva Shaw" src="assets/track-6-d91bbd-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,613 commits</summary>
+<summary><b>2026</b> · 1,614 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 34 commits</summary>
+<summary>November 2026 · 35 commits</summary>
 <br>
 
 <picture>
