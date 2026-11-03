@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-0310e1-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-0310e1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2yl370uwa8aDwBn07fIplH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-0310e1-dark.svg"><img alt="Dance Till I Die · Timmy Trumpet, Olivia Sebastianelli" src="assets/track-0-0310e1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0QMZ5UMH66vqfzEUZGx3Ez"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-0310e1-dark.svg"><img alt="l0st the pl0t · Becky Hill" src="assets/track-1-0310e1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6O1Amd1GbUPMg2ugA4OIqh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-0310e1-dark.svg"><img alt="Back To The Start · BUNT." src="assets/track-2-0310e1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7vPagNQR5CifjAK9O4LBVC"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-0310e1-dark.svg"><img alt="Masochist · Tsatsamis" src="assets/track-3-0310e1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3OvgA9rjBeKPR4BDI6TrhB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-0310e1-dark.svg"><img alt="Bora · Leigh-Anne" src="assets/track-4-0310e1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4qUwfqV0XXJP4VWPlM4J4D"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-0310e1-dark.svg"><img alt="BE MY LOVER · Dallas Austin, Felix Da Housecat, Darlene McCoy" src="assets/track-5-0310e1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5fdyY4Pm6lbuMJ1pjT88gN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-0310e1-dark.svg"><img alt="Peace &amp; Patience · Jazzy" src="assets/track-6-0310e1-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-a7bb4a-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-a7bb4a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5DjhmpY6Trw2OQs7xip2l7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-a7bb4a-dark.svg"><img alt="Fake or true · Jersey" src="assets/track-0-a7bb4a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7zZWMR7611shuYcV6W96ou"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-a7bb4a-dark.svg"><img alt="WYWD · Carlita, Justine Skye" src="assets/track-1-a7bb4a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0v4MtRCfE9YrXUGYJL0nrQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-a7bb4a-dark.svg"><img alt="Promise You · D.O.D, Flynn" src="assets/track-2-a7bb4a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2JfbXVeuhArnP3ASJfIT7d"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-a7bb4a-dark.svg"><img alt="Baby · The Chainsmokers" src="assets/track-3-a7bb4a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0IEKKqwiTDVh6I3M9XlrAQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-a7bb4a-dark.svg"><img alt="Before You Know It · Kygo, Ava Max" src="assets/track-4-a7bb4a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1ZiY6y9yI46xKiA3vFCLkx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-a7bb4a-dark.svg"><img alt="Nobody Wanna Dance Anymore · Tinashe" src="assets/track-5-a7bb4a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5r51JWgvnz3E3MT06adcCw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-a7bb4a-dark.svg"><img alt="Here &amp; Now · Hayden James, Maria Hazell" src="assets/track-6-a7bb4a-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,614 commits</summary>
+<summary><b>2026</b> · 1,615 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 35 commits</summary>
+<summary>November 2026 · 36 commits</summary>
 <br>
 
 <picture>
