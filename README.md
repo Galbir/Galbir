@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-6132df-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-6132df-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/29yce0XPCBsgvOQRLn8cnK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-6132df-dark.svg"><img alt="LET ME IN · Pixie Lane" src="assets/track-0-6132df-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2nJa6C2eIDDcxESn7sS0cl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-6132df-dark.svg"><img alt="Confession · James Hype" src="assets/track-1-6132df-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4tVACv3zcfxSC4M1P43X9y"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-6132df-dark.svg"><img alt="Some Kind Of High · NEIKED, Portugal. The Man" src="assets/track-2-6132df-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7ml5FWDyEkYjiqFkyn7rhn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-6132df-dark.svg"><img alt="Talk Is Boring · JEV, Conrad." src="assets/track-3-6132df-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4RDJePvro9z2X1r8FFgSxt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-6132df-dark.svg"><img alt="Nothing Lasts Forever · BUNT., RØAM" src="assets/track-4-6132df-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5A8YVeEtelHwCxWodW6KrP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-6132df-dark.svg"><img alt="Blink Twice · Rose Gray" src="assets/track-5-6132df-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6vx7h9Og7Aa1nb1ktu6mdd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-6132df-dark.svg"><img alt="My Lover · Otto Knows" src="assets/track-6-6132df-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-25acfd-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-25acfd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1VixD42StOF93a1naJMGnb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-25acfd-dark.svg"><img alt="Company · Clean Bandit, Chlöe, OMAH LAY" src="assets/track-0-25acfd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0hVOaQJ9anyS9jylMcqg9s"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-25acfd-dark.svg"><img alt="are we on a break · Tove Lo" src="assets/track-1-25acfd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3OEhcaHabVo4Oc2fdMb6DO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-25acfd-dark.svg"><img alt="Party · Troye Sivan" src="assets/track-2-25acfd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5IAhDcnnXyUwTzkWWqSoRW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-25acfd-dark.svg"><img alt="HYPER (with REINEN) · VITA, REINEN" src="assets/track-3-25acfd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2SIs6QlFZQ3aBckuM66LWV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-25acfd-dark.svg"><img alt="Way That You Look at Me · Amy Wiles" src="assets/track-4-25acfd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/53JHWqpWfXwoGlbJsxfZjJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-25acfd-dark.svg"><img alt="KEEP ME BELIEVING · Angrybaby, Abi Flynn" src="assets/track-5-25acfd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6QmYmxft6ZLXvLJz8UBVqe"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-25acfd-dark.svg"><img alt="7 Miles High · Audien, LUKE ALEXANDER" src="assets/track-6-25acfd-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,617 commits</summary>
+<summary><b>2026</b> · 1,618 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 38 commits</summary>
+<summary>November 2026 · 39 commits</summary>
 <br>
 
 <picture>
