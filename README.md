@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-130b60-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-130b60-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3gXGtYT41b4FXYctdxMwCI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-130b60-dark.svg"><img alt="Can I Ride · SIDEPIECE, 95 South" src="assets/track-0-130b60-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0BK6ACxpzK8nkWa3YKuunX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-130b60-dark.svg"><img alt="Fancy Footwork · Chris Lorenzo, Chromeo" src="assets/track-1-130b60-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1lJy3U8YfZFW7nIYGe7jLR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-130b60-dark.svg"><img alt="Out of My Head · ANOTR" src="assets/track-2-130b60-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1GwI8ik0vvF625erRXLYY8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-130b60-dark.svg"><img alt="Caught Up · Marlon Hoffstadt, David Guetta" src="assets/track-3-130b60-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1wyzwFsSpEh65mQqApmd7o"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-130b60-dark.svg"><img alt="Memories · Interplanetary Criminal" src="assets/track-4-130b60-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6zdKacNxfO8UcYE02a2TcP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-130b60-dark.svg"><img alt="Noise Keeper · Chloé Caillet, D Stone" src="assets/track-5-130b60-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/62hqNk13CuFLOpCw1cPMAF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-130b60-dark.svg"><img alt="Sexy Magic (from GTAVI: The Album) · CA7RIEL &amp; Paco Amoroso, PinkPantheress, Fred again.., Etienne de Crécy , Grand Theft Auto VI" src="assets/track-6-130b60-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-526f24-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-526f24-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5rjtekAXWrmLGQKCYQ3ytF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-526f24-dark.svg"><img alt="Hard To be Around · Tiësto, Cleopard2000, CH4YN" src="assets/track-0-526f24-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/64zclJhMujuU4lzEUTelQo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-526f24-dark.svg"><img alt="MOLLY TALK · ISOxo, Madeon" src="assets/track-1-526f24-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2nbye27S8Nv1JSrmxl1Ycf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-526f24-dark.svg"><img alt="Slipping Away · Levity, K.Flay" src="assets/track-2-526f24-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3BgLZtFdHRKKtC9Gvpsgzk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-526f24-dark.svg"><img alt="Neckwear · Mochakk, Channel Tres" src="assets/track-3-526f24-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5ykLR5Vvk8BmajyW6duOf5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-526f24-dark.svg"><img alt="Move · Linska, Chris Avantgarde, Benni Ola" src="assets/track-4-526f24-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4CoAqkFt9rCpZq92hFGmCF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-526f24-dark.svg"><img alt="The Resistance (feat. Theo Nasa) · Charlotte de Witte, Theo Nasa" src="assets/track-5-526f24-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2X9niMzzXId2fNe3wu6l2e"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-526f24-dark.svg"><img alt="Frequency · Eli Brown, Dimension" src="assets/track-6-526f24-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,622 commits</summary>
+<summary><b>2026</b> · 1,623 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 43 commits</summary>
+<summary>November 2026 · 44 commits</summary>
 <br>
 
 <picture>
