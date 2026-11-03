@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-b7db96-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-b7db96-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3qRsAya7AG5b8eKTcwguPv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-b7db96-dark.svg"><img alt="You&#39;re Still The One - Candy Crush Version · Shania Twain, Zedd" src="assets/track-0-b7db96-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4Kv3BQhoqR0YboA8xvTyWC"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-b7db96-dark.svg"><img alt="Close My Eyes (feat. SACHA) · Marshmello, ILLENIUM, SACHA" src="assets/track-1-b7db96-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/072EYLKY3RnrcSssCX55gq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-b7db96-dark.svg"><img alt="The Box · LEXXE" src="assets/track-2-b7db96-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0GsTXeq8b6wccYxQxfZzYi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-b7db96-dark.svg"><img alt="dancingthruthesummer · Babsy., LAYNE" src="assets/track-3-b7db96-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2Js4tt42TKBXl6pI1uZHCk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-b7db96-dark.svg"><img alt="I&#39;ll Be There · D.O.D, Aya Anne" src="assets/track-4-b7db96-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5DUwBSCftJFQC6uk6Ktw2F"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-b7db96-dark.svg"><img alt="Get This Started · Jazzy" src="assets/track-5-b7db96-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6DgMjSTiKodctEfV68Azlf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-b7db96-dark.svg"><img alt="Met my match · Say Now" src="assets/track-6-b7db96-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-aa8e4e-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-aa8e4e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0cnx25C8BdsEEumqvzXjAF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-aa8e4e-dark.svg"><img alt="Missing Piece · Frank Walker, Alexander Stewart" src="assets/track-0-aa8e4e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/40kozRGxfmRAofu3ueL0Kj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-aa8e4e-dark.svg"><img alt="THINK ABOUT US · Łaszewo" src="assets/track-1-aa8e4e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4pxQFRHVlZtxrssIqNoXHJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-aa8e4e-dark.svg"><img alt="HandsOn · Empress Of" src="assets/track-2-aa8e4e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3mlGZG9LEBTBlTaR9EVS99"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-aa8e4e-dark.svg"><img alt="Lucky - Spotify Singles · Namasenda" src="assets/track-3-aa8e4e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3gElwRzfAWrTpGi5Tf6aax"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-aa8e4e-dark.svg"><img alt="Breathless · CYRIL" src="assets/track-4-aa8e4e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5tAcpqwkuMxKN3iXyn6afo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-aa8e4e-dark.svg"><img alt="Leaving (feat. Tristan Henry) · MK, Tristan Henry" src="assets/track-5-aa8e4e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5HMtBl8DxbofmAiUFbokXp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-aa8e4e-dark.svg"><img alt="Dirty Dirty Disco · Rogue Traders, Dannii Minogue" src="assets/track-6-aa8e4e-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,618 commits</summary>
+<summary><b>2026</b> · 1,619 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 39 commits</summary>
+<summary>November 2026 · 40 commits</summary>
 <br>
 
 <picture>
