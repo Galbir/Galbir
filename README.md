@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-d7de07-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-d7de07-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/70efSjz6RtfxrahQ4WpECX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-d7de07-dark.svg"><img alt="Falling · ARMNHMR, Oaks" src="assets/track-0-d7de07-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1GwI8ik0vvF625erRXLYY8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-d7de07-dark.svg"><img alt="Caught Up · Marlon Hoffstadt, David Guetta" src="assets/track-1-d7de07-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7mIwqQouqiZVRYa0b13RLK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-d7de07-dark.svg"><img alt="Don&#39;t Forget (About Me) · Lost Frequencies" src="assets/track-2-d7de07-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/44Ac5ReqR5sNoBxpdn35qU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-d7de07-dark.svg"><img alt="Test My Luck · Purple Disco Machine, MEEK" src="assets/track-3-d7de07-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7LIqrRSXHMzlzT9NyuYsX3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-d7de07-dark.svg"><img alt="I Do This For You · Troye Sivan" src="assets/track-4-d7de07-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3mptnmnBcxx5M1psyLAZDY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-d7de07-dark.svg"><img alt="Change · PNAU" src="assets/track-5-d7de07-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4H7K86ED2CD527gllnpF0F"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-d7de07-dark.svg"><img alt="Whole Room Dancing · Riva Starr, Adam Port, JRM" src="assets/track-6-d7de07-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-b3e596-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-b3e596-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3Xbfw6oJBNh4t2M8pNWglg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-b3e596-dark.svg"><img alt="Madonna · Maisi and the Disco" src="assets/track-0-b3e596-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0uI8zAUhinOJDIfWYam8lX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-b3e596-dark.svg"><img alt="Bye Bye Inhibitions · Alok, NAYEON, TWICE" src="assets/track-1-b3e596-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2uC70BVK4qURmcuAe9WGYr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-b3e596-dark.svg"><img alt="Think About Us · Louis The Child, Saint Monet, Darby" src="assets/track-2-b3e596-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5naE2RTuFzv12BDWROZCSL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-b3e596-dark.svg"><img alt="Need That Love · Sam Feldt, ÁSDÍS" src="assets/track-3-b3e596-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6hPPwiXH4Y4kmc121v9Fdg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-b3e596-dark.svg"><img alt="TRALALA · manifest" src="assets/track-4-b3e596-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-b3e596-dark.svg"><img alt="This Dream Of You · Martin Garrix" src="assets/track-5-b3e596-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/32igac7UX96WwPlOOjAGlT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-b3e596-dark.svg"><img alt="zombie · Two Friends, Alexander Stewart, LØLØ" src="assets/track-6-b3e596-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,615 commits</summary>
+<summary><b>2026</b> · 1,616 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 36 commits</summary>
+<summary>November 2026 · 37 commits</summary>
 <br>
 
 <picture>
