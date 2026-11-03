@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-524a13-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-524a13-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/75OhFRdm605ZpAyi5PaWvu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-524a13-dark.svg"><img alt="Voodoo · Funk Tribu" src="assets/track-0-524a13-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4PgcKyByDFEXm5RQA07WD2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-524a13-dark.svg"><img alt="Repeaty · Sammy Virji" src="assets/track-1-524a13-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0l36pn7VQtGkqdarml0F9o"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-524a13-dark.svg"><img alt="Magic · No/Me" src="assets/track-2-524a13-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7rvmTYVaJYbj2RNXnAeJRh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-524a13-dark.svg"><img alt="Push it (cardiac) · Reysha Rami" src="assets/track-3-524a13-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1EDkkMHuzz1Fx4Wxrcbt0V"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-524a13-dark.svg"><img alt="SYW (feat. Cecile Believe) · Empress Of, Cecile Believe" src="assets/track-4-524a13-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2CG3lX8ddjTEQL4kwBHkw3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-524a13-dark.svg"><img alt="Don’t Leave Me on the Dance Floor · Carly Rae Jepsen" src="assets/track-5-524a13-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3PmAydfzjWQoLFpSQDYehP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-524a13-dark.svg"><img alt="Fade Into Nothing · it&#39;s murph, Arlo, Lizzy Land" src="assets/track-6-524a13-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-d0252b-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-d0252b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3Ke6mheKxEbsfuP2p0W2Kz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-d0252b-dark.svg"><img alt="Fight For Love · Alesso, Kaitlin Aragon" src="assets/track-0-d0252b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3Mep8LVvhULlNgkn6oTLNu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-d0252b-dark.svg"><img alt="PEOPLE IN THE PLACE · A.B.C., Silva Bumpa, Rossi." src="assets/track-1-d0252b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2q1i9lcsBPBtQRSWTu8gDp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-d0252b-dark.svg"><img alt="Woops · Dimitri Vegas, Dj Bountyhunter, BRANDON" src="assets/track-2-d0252b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-d0252b-dark.svg"><img alt="Happiness Is So Sad · Swedish House Mafia, Lykke Li" src="assets/track-3-d0252b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3wRO9Pt5iPbZTs8YT1x69Q"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-d0252b-dark.svg"><img alt="Just A Little Bit More · Mau P" src="assets/track-4-d0252b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4G7SaOQ8RFtvmCKVhIeN1V"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-d0252b-dark.svg"><img alt="Feel 4 U (feat. Saint Monet) · Sara Landry, Alt8, Saint Monet" src="assets/track-5-d0252b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/49fqtR2gcZXvJRQNbwrGkU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-d0252b-dark.svg"><img alt="DANGER DANGER (feat. Skepta) · Dom Dolla, Solomun, Skepta" src="assets/track-6-d0252b-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,621 commits</summary>
+<summary><b>2026</b> · 1,622 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 42 commits</summary>
+<summary>November 2026 · 43 commits</summary>
 <br>
 
 <picture>
