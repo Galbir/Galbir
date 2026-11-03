@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-b3e596-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-b3e596-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3Xbfw6oJBNh4t2M8pNWglg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-b3e596-dark.svg"><img alt="Madonna · Maisi and the Disco" src="assets/track-0-b3e596-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0uI8zAUhinOJDIfWYam8lX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-b3e596-dark.svg"><img alt="Bye Bye Inhibitions · Alok, NAYEON, TWICE" src="assets/track-1-b3e596-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2uC70BVK4qURmcuAe9WGYr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-b3e596-dark.svg"><img alt="Think About Us · Louis The Child, Saint Monet, Darby" src="assets/track-2-b3e596-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5naE2RTuFzv12BDWROZCSL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-b3e596-dark.svg"><img alt="Need That Love · Sam Feldt, ÁSDÍS" src="assets/track-3-b3e596-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6hPPwiXH4Y4kmc121v9Fdg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-b3e596-dark.svg"><img alt="TRALALA · manifest" src="assets/track-4-b3e596-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-b3e596-dark.svg"><img alt="This Dream Of You · Martin Garrix" src="assets/track-5-b3e596-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/32igac7UX96WwPlOOjAGlT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-b3e596-dark.svg"><img alt="zombie · Two Friends, Alexander Stewart, LØLØ" src="assets/track-6-b3e596-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-abd817-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-abd817-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2nJa6C2eIDDcxESn7sS0cl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-abd817-dark.svg"><img alt="Confession · James Hype" src="assets/track-0-abd817-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4tVACv3zcfxSC4M1P43X9y"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-abd817-dark.svg"><img alt="Some Kind Of High · NEIKED, Portugal. The Man" src="assets/track-1-abd817-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7ml5FWDyEkYjiqFkyn7rhn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-abd817-dark.svg"><img alt="Talk Is Boring · JEV, Conrad." src="assets/track-2-abd817-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4RDJePvro9z2X1r8FFgSxt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-abd817-dark.svg"><img alt="Nothing Lasts Forever · BUNT., RØAM" src="assets/track-3-abd817-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5A8YVeEtelHwCxWodW6KrP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-abd817-dark.svg"><img alt="Blink Twice · Rose Gray" src="assets/track-4-abd817-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6vx7h9Og7Aa1nb1ktu6mdd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-abd817-dark.svg"><img alt="My Lover · Otto Knows" src="assets/track-5-abd817-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0cLQo9kMwh075LzY4vWit0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-abd817-dark.svg"><img alt="DIP · Sean Paul, Sommer Ray" src="assets/track-6-abd817-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,616 commits</summary>
+<summary><b>2026</b> · 1,617 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 37 commits</summary>
+<summary>November 2026 · 38 commits</summary>
 <br>
 
 <picture>
