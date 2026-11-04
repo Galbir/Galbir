@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-a29c0a-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-a29c0a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/43FNnp0KnanReB8KCTl97p"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-a29c0a-dark.svg"><img alt="Hold on Me · Why U So, SHELLS" src="assets/track-0-a29c0a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7d6bWTHr7EZgygynnxAKCA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-a29c0a-dark.svg"><img alt="Electric Feel · James Carter, Malou" src="assets/track-1-a29c0a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2gAIGFwHzOd9td8uwqkeZl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-a29c0a-dark.svg"><img alt="Too Heavy · Neon Tide" src="assets/track-2-a29c0a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2nfCQnzvjapzfLlv5Efdku"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-a29c0a-dark.svg"><img alt="I DON&#39;T WANT TO FALL IN LOVE · Angrybaby" src="assets/track-3-a29c0a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4TpVesGZdBvHErCYo9bexj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-a29c0a-dark.svg"><img alt="Lost In This Moment · Nico Saint" src="assets/track-4-a29c0a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0FCABIXhXHI4mi0qao8gTR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-a29c0a-dark.svg"><img alt="SAFE WITH ME (SECRETOS) · Jhay Rivas" src="assets/track-5-a29c0a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1GCyyYAFCfFwbu1z5sbI6S"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-a29c0a-dark.svg"><img alt="Opening Credits · nimino" src="assets/track-6-a29c0a-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-cc3e4d-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-cc3e4d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3GzOzqeVI5tLKJDc0azDQx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-cc3e4d-dark.svg"><img alt="Why Don&#39;t You Stay · Lynnic, ItsArius, Dinia" src="assets/track-0-cc3e4d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6ZIPhmgKBg48ncKM1EpeYx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-cc3e4d-dark.svg"><img alt="can i come · kalm" src="assets/track-1-cc3e4d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0FoCv0glfiTP2lmEcdreAu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-cc3e4d-dark.svg"><img alt="Shaking Things Up · nimino" src="assets/track-2-cc3e4d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4mD6xnWbbhIjVZe4E7oDkk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-cc3e4d-dark.svg"><img alt="Inner Light · PALASTIC, Malou" src="assets/track-3-cc3e4d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2or0kZ7jts6ps2508BVQab"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-cc3e4d-dark.svg"><img alt="BACK TO LIFE · Angrybaby" src="assets/track-4-cc3e4d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/43waB46j3xD67j7Tq23cPw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-cc3e4d-dark.svg"><img alt="Driving Fast · Swimming Paul, Beaux Neptune" src="assets/track-5-cc3e4d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6aU6kSA8OT4nnpJiX7PW91"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-cc3e4d-dark.svg"><img alt="Sunlight · 19Clouds" src="assets/track-6-cc3e4d-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,763 commits</summary>
+<summary><b>2026</b> · 1,764 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 126 commits</summary>
+<summary>November 2026 · 127 commits</summary>
 <br>
 
 <picture>
