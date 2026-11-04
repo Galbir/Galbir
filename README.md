@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-57cdb0-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-57cdb0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3flWoQdYrWyqUsHbURIJby"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-57cdb0-dark.svg"><img alt="Stephanie - HNTR Remix · Cloonee, Young M.A, InntRaw, HNTR" src="assets/track-0-57cdb0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1N2sFj45WQQBRDTYGV0BdF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-57cdb0-dark.svg"><img alt="Shake That · Ship Wrek" src="assets/track-1-57cdb0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6qJhrI2BMuA8qHcmycD3fL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-57cdb0-dark.svg"><img alt="TESLA · Mau P" src="assets/track-2-57cdb0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-57cdb0-dark.svg"><img alt="TAKE IT OFF · FISHER, Aatig" src="assets/track-3-57cdb0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7tZSQgFyzWAAtsb7OUUDbn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-57cdb0-dark.svg"><img alt="Sunny · Disco Lines, GUDFELLA" src="assets/track-4-57cdb0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1Dld6bXk0APdXdZYlq9Bj2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-57cdb0-dark.svg"><img alt="Electric Bongo · SIDEPIECE" src="assets/track-5-57cdb0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1qVlXWReJaQAjz0zhbfxjA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-57cdb0-dark.svg"><img alt="Maximum · Anti Up" src="assets/track-6-57cdb0-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-82fb2e-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-82fb2e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-82fb2e-dark.svg"><img alt="The Less I Know The Better · Mau P" src="assets/track-0-82fb2e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-82fb2e-dark.svg"><img alt="Boost Up · FISHER, Flowdan" src="assets/track-1-82fb2e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/74X66DXVuSLDEOp3sR8GFL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-82fb2e-dark.svg"><img alt="Up Front · DREYA V" src="assets/track-2-82fb2e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-82fb2e-dark.svg"><img alt="4U · Matroda, Martin Ikin, Sian-Lee" src="assets/track-3-82fb2e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4fX5TrTpbze93zEzkhDOBb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-82fb2e-dark.svg"><img alt="Hell Yeah (Feat. Waxmaster) · Chris Lorenzo, Parris Mitchell, Waxmaster" src="assets/track-4-82fb2e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5YW51YDCI9uyH71V3oQlF0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-82fb2e-dark.svg"><img alt="Operate · Deeper Purpose" src="assets/track-5-82fb2e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5kRzvJXEsODhLA3pB1DvHS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-82fb2e-dark.svg"><img alt="Ease My Mind - Odd Mob Remix · Chris Lake, Odd Mob" src="assets/track-6-82fb2e-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,733 commits</summary>
+<summary><b>2026</b> · 1,736 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 96 commits</summary>
+<summary>November 2026 · 99 commits</summary>
 <br>
 
 <picture>
