@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-3bcefe-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-3bcefe-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5ALKOITz7HU3m3Ac3aVDXk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-3bcefe-dark.svg"><img alt="Bullshit · Matroda, KLP" src="assets/track-0-3bcefe-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/22acuTSWUyTktH4HgohqTR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-3bcefe-dark.svg"><img alt="Girls Like That · GREG 99" src="assets/track-1-3bcefe-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0kcM5HzMLTc3K15an6nZcJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-3bcefe-dark.svg"><img alt="Midnight Trip · TOYZZ" src="assets/track-2-3bcefe-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1tTB3KS0tRyvFeqpqsOat2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-3bcefe-dark.svg"><img alt="Not About You · Walker &amp; Royce, Nala" src="assets/track-3-3bcefe-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0IoD88QDxy5GPip9IzlzyI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-3bcefe-dark.svg"><img alt="Certified · AYYBO" src="assets/track-4-3bcefe-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3jIFcrHrnLgBio9z8mkMBo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-3bcefe-dark.svg"><img alt="Acrobatic · SIDEPIECE" src="assets/track-5-3bcefe-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7ABEZFYxZV6JuhVUXzReGJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-3bcefe-dark.svg"><img alt="We Got The Bass · bradeazy" src="assets/track-6-3bcefe-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-670981-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-670981-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-670981-dark.svg"><img alt="About To Lose It · Matroda" src="assets/track-0-670981-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0JrEm4vEEzpHsdcxHlRJop"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-670981-dark.svg"><img alt="Raw Control · Discip" src="assets/track-1-670981-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6jhAJgaS9OttFwP5Cn8WII"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-670981-dark.svg"><img alt="Ocean · FISHER, AR/CO" src="assets/track-2-670981-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/00kiqMQGZQFH8YSiyrN8Ew"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-670981-dark.svg"><img alt="Dress Code · Mau P" src="assets/track-3-670981-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4PJYVBDYTKwK1hODEfytY7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-670981-dark.svg"><img alt="Tension · Kamino, Kyra Mastro" src="assets/track-4-670981-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3ACGEHYrvkK5lfWtLLoFoi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-670981-dark.svg"><img alt="I Don&#39;t Remember · Walker &amp; Royce, VNSSA" src="assets/track-5-670981-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-670981-dark.svg"><img alt="Sextacy · SIDEPIECE" src="assets/track-6-670981-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,742 commits</summary>
+<summary><b>2026</b> · 1,749 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 105 commits</summary>
+<summary>November 2026 · 112 commits</summary>
 <br>
 
 <picture>
