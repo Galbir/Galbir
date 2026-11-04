@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-11936c-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-11936c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/10LCFChcEluNFZXVFVDanE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-11936c-dark.svg"><img alt="Double Dutch · Walker &amp; Royce, Kyle Watson" src="assets/track-0-11936c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-11936c-dark.svg"><img alt="It&#39;s That Time - FISHER Remix · Marlon Hoffstadt, FISHER" src="assets/track-1-11936c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3RfxKkaMLWzKC5fE7jHSGs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-11936c-dark.svg"><img alt="Sex Sells · SIDEPIECE" src="assets/track-2-11936c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3WBeUXMYcRePMS2DwaNwUD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-11936c-dark.svg"><img alt="MERTHER · Mau P" src="assets/track-3-11936c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/74y1VgzL668hynrvA59WQB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-11936c-dark.svg"><img alt="Stay · FISHER" src="assets/track-4-11936c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2H9SdFmXgiHM5MhwLOuBm3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-11936c-dark.svg"><img alt="Ménage À Trois · SIDEPIECE, Barney Bones" src="assets/track-5-11936c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6XIh9BtczdxO7HRQwrIPti"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-11936c-dark.svg"><img alt="I Don&#39;t Trust A Soul · Disco Lines, Ship Wrek" src="assets/track-6-11936c-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-57cdb0-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-57cdb0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3flWoQdYrWyqUsHbURIJby"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-57cdb0-dark.svg"><img alt="Stephanie - HNTR Remix · Cloonee, Young M.A, InntRaw, HNTR" src="assets/track-0-57cdb0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1N2sFj45WQQBRDTYGV0BdF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-57cdb0-dark.svg"><img alt="Shake That · Ship Wrek" src="assets/track-1-57cdb0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6qJhrI2BMuA8qHcmycD3fL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-57cdb0-dark.svg"><img alt="TESLA · Mau P" src="assets/track-2-57cdb0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-57cdb0-dark.svg"><img alt="TAKE IT OFF · FISHER, Aatig" src="assets/track-3-57cdb0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7tZSQgFyzWAAtsb7OUUDbn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-57cdb0-dark.svg"><img alt="Sunny · Disco Lines, GUDFELLA" src="assets/track-4-57cdb0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1Dld6bXk0APdXdZYlq9Bj2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-57cdb0-dark.svg"><img alt="Electric Bongo · SIDEPIECE" src="assets/track-5-57cdb0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1qVlXWReJaQAjz0zhbfxjA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-57cdb0-dark.svg"><img alt="Maximum · Anti Up" src="assets/track-6-57cdb0-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,702 commits</summary>
+<summary><b>2026</b> · 1,733 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 65 commits</summary>
+<summary>November 2026 · 96 commits</summary>
 <br>
 
 <picture>
