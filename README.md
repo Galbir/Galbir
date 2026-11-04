@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-7f6729-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-7f6729-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1AS1oLvEr6PNsCLnuEUmCi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-7f6729-dark.svg"><img alt="Blackberries · FISHER, bbyclose" src="assets/track-0-7f6729-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1T7fTFxkosqEF8AZzDvm6I"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-7f6729-dark.svg"><img alt="Can’t Fight The Feeling · Matroda" src="assets/track-1-7f6729-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3MqzqG6fij34pDxd29mikA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-7f6729-dark.svg"><img alt="Temptation · SIDEPIECE" src="assets/track-2-7f6729-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3NWERP0Tt6CTnBp86jFRxB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-7f6729-dark.svg"><img alt="Faded (Blacklizt Version) - HNTR Remix · ZHU, HNTR" src="assets/track-3-7f6729-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1gkTO34Xg6FO8W9HrxYR4E"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-7f6729-dark.svg"><img alt="Drum Death · Westend, HOSANNA" src="assets/track-4-7f6729-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2xazqBgWjJ6mDyprFbfFtG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-7f6729-dark.svg"><img alt="Supersonic · Kamino" src="assets/track-5-7f6729-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6YOg0daCavgHVBZ3u9hZWc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-7f6729-dark.svg"><img alt="Death By Love · Walker &amp; Royce" src="assets/track-6-7f6729-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-3bcefe-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-3bcefe-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5ALKOITz7HU3m3Ac3aVDXk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-3bcefe-dark.svg"><img alt="Bullshit · Matroda, KLP" src="assets/track-0-3bcefe-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/22acuTSWUyTktH4HgohqTR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-3bcefe-dark.svg"><img alt="Girls Like That · GREG 99" src="assets/track-1-3bcefe-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0kcM5HzMLTc3K15an6nZcJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-3bcefe-dark.svg"><img alt="Midnight Trip · TOYZZ" src="assets/track-2-3bcefe-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1tTB3KS0tRyvFeqpqsOat2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-3bcefe-dark.svg"><img alt="Not About You · Walker &amp; Royce, Nala" src="assets/track-3-3bcefe-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0IoD88QDxy5GPip9IzlzyI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-3bcefe-dark.svg"><img alt="Certified · AYYBO" src="assets/track-4-3bcefe-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3jIFcrHrnLgBio9z8mkMBo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-3bcefe-dark.svg"><img alt="Acrobatic · SIDEPIECE" src="assets/track-5-3bcefe-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7ABEZFYxZV6JuhVUXzReGJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-3bcefe-dark.svg"><img alt="We Got The Bass · bradeazy" src="assets/track-6-3bcefe-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,738 commits</summary>
+<summary><b>2026</b> · 1,742 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 101 commits</summary>
+<summary>November 2026 · 105 commits</summary>
 <br>
 
 <picture>
