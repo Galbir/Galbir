@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-200025-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-200025-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7u38KYuUzBy0I6wOh17Ckc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-200025-dark.svg"><img alt="Fading · Swimming Paul" src="assets/track-0-200025-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6eLaP1VW9Moy2AHijWfhxl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-200025-dark.svg"><img alt="Help Me Lose My Mind - Slowed Down · Gravagerz" src="assets/track-1-200025-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4FJr3Il9uh42V0C1COCQb7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-200025-dark.svg"><img alt="Feel This Too · LUCØ" src="assets/track-2-200025-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5LUjt4SKSokxFN5qF0T3rS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-200025-dark.svg"><img alt="All My Life · Duke Dumont, Panama" src="assets/track-3-200025-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6tXebnSmy1ZEZANFRHRoCO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-200025-dark.svg"><img alt="WASTED ON ME · Angrybaby" src="assets/track-4-200025-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0AGPwnBhKj3RbhREHgh2wt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-200025-dark.svg"><img alt="Black Friday - pretty like the sun (deluxe version) · Lost Frequencies, Tom Odell" src="assets/track-5-200025-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1iEcVbeqVcHIp5xWykFBvt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-200025-dark.svg"><img alt="disfruto · NOVEMBER KID" src="assets/track-6-200025-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-77d51f-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-77d51f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2T3hmxdfYj2alR0Iv2Tl0c"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-77d51f-dark.svg"><img alt="Chihiro · Gravagerz" src="assets/track-0-77d51f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5YOcEEKHgs1IgqudZ5vx8Q"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-77d51f-dark.svg"><img alt="HOLD YOU · Angrybaby" src="assets/track-1-77d51f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4Q535IbjIL402WEM8mdBbB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-77d51f-dark.svg"><img alt="Need You · Crunkz" src="assets/track-2-77d51f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0SxiTCCjGsqE2ATGRTCvvd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-77d51f-dark.svg"><img alt="Can&#39;t Help But Worry (Every Night Every Day) · Soluna" src="assets/track-3-77d51f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1VRopNuMgcjxvejtfdhpmh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-77d51f-dark.svg"><img alt="State Of Mind · Kaskade, Lipless" src="assets/track-4-77d51f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6I3vPqMmEv0pjRBxKBnrk7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-77d51f-dark.svg"><img alt="Nobody · 19Clouds" src="assets/track-5-77d51f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0J2CLBNjk7lSiVBatKtj02"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-77d51f-dark.svg"><img alt="You · Zen/it" src="assets/track-6-77d51f-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,758 commits</summary>
+<summary><b>2026</b> · 1,759 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 121 commits</summary>
+<summary>November 2026 · 122 commits</summary>
 <br>
 
 <picture>
