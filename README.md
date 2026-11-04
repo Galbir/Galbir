@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-43440e-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-43440e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6TIZPCn9PQ9kmfK4SbhIKS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-43440e-dark.svg"><img alt="The Stutter · Deeper Purpose" src="assets/track-0-43440e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6PuSrhsfW1SuB26lDtahRJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-43440e-dark.svg"><img alt="Obsession · AYYBO, Taylr Renee" src="assets/track-1-43440e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0mtnlkOy6zw5h4bDx5KqZG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-43440e-dark.svg"><img alt="Westside · SIDEPIECE" src="assets/track-2-43440e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-43440e-dark.svg"><img alt="Animal · Ship Wrek, Datti" src="assets/track-3-43440e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6t4VHEcJ7Kek9pgGHlDp6R"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-43440e-dark.svg"><img alt="Push To Start (feat. No/Me) · Noizu, Westend, No/Me" src="assets/track-4-43440e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0ckYQwxryH6ahhOYuzCoiF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-43440e-dark.svg"><img alt="Sensational · Westend, Twin Diplomacy" src="assets/track-5-43440e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-43440e-dark.svg"><img alt="Appetite · Chris Lorenzo" src="assets/track-6-43440e-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-23c428-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-23c428-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4SevuM9vs3a3RcKBPPfpym"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-23c428-dark.svg"><img alt="When It Kicks · Layton Giordani, Green Velvet" src="assets/track-0-23c428-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7brE4PDHUmdJMFle4OTTAA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-23c428-dark.svg"><img alt="Serotonine · Discip" src="assets/track-1-23c428-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/552jByF1mNaSPnTYF71sPy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-23c428-dark.svg"><img alt="Bad Boy · Linska" src="assets/track-2-23c428-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0jY0i6kA20ZrD4AhkcZZPG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-23c428-dark.svg"><img alt="Run From Me · Walker &amp; Royce, No/Me" src="assets/track-3-23c428-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2jGlVbdMM7pzUl5RyeSJrX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-23c428-dark.svg"><img alt="Saturday Love · Matroda, Dino DZ" src="assets/track-4-23c428-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6XUplgv5tgkebAEieWUPYB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-23c428-dark.svg"><img alt="What You Need · SIDEPIECE" src="assets/track-5-23c428-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6507rh4LJxpJUGtsOZoYGR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-23c428-dark.svg"><img alt="Vibe Check · Kamino, Tima Dee" src="assets/track-6-23c428-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,749 commits</summary>
+<summary><b>2026</b> · 1,752 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 112 commits</summary>
+<summary>November 2026 · 115 commits</summary>
 <br>
 
 <picture>
