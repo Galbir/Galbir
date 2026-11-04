@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-77d51f-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-77d51f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2T3hmxdfYj2alR0Iv2Tl0c"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-77d51f-dark.svg"><img alt="Chihiro · Gravagerz" src="assets/track-0-77d51f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5YOcEEKHgs1IgqudZ5vx8Q"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-77d51f-dark.svg"><img alt="HOLD YOU · Angrybaby" src="assets/track-1-77d51f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4Q535IbjIL402WEM8mdBbB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-77d51f-dark.svg"><img alt="Need You · Crunkz" src="assets/track-2-77d51f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0SxiTCCjGsqE2ATGRTCvvd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-77d51f-dark.svg"><img alt="Can&#39;t Help But Worry (Every Night Every Day) · Soluna" src="assets/track-3-77d51f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1VRopNuMgcjxvejtfdhpmh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-77d51f-dark.svg"><img alt="State Of Mind · Kaskade, Lipless" src="assets/track-4-77d51f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6I3vPqMmEv0pjRBxKBnrk7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-77d51f-dark.svg"><img alt="Nobody · 19Clouds" src="assets/track-5-77d51f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0J2CLBNjk7lSiVBatKtj02"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-77d51f-dark.svg"><img alt="You · Zen/it" src="assets/track-6-77d51f-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-ee0462-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-ee0462-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7bdLGiuQZ0ylUvzSI2tHHS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-ee0462-dark.svg"><img alt="like that · butter" src="assets/track-0-ee0462-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7zV1nVIqzSvoRKfdRdN853"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-ee0462-dark.svg"><img alt="MEMORY · Alex LeMirage, Fi Sullivan" src="assets/track-1-ee0462-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7Ic9cwzLcMB0yXL4ZyDQUM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-ee0462-dark.svg"><img alt="PRESSURE · Jhay Rivas, Alex LeMirage, DNC" src="assets/track-2-ee0462-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6MYEUJvfayr3aOyhlSL9Z0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-ee0462-dark.svg"><img alt="BACK TO LIFE - MashBit VIP Remix · Angrybaby, MashBit" src="assets/track-3-ee0462-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4KROMNcJMv5m9gVBacwcYj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-ee0462-dark.svg"><img alt="CAN&#39;T FIND YOU · AVAION, oskar med k" src="assets/track-4-ee0462-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3HvnYVNNNJ1YC4zRNi1Aox"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-ee0462-dark.svg"><img alt="Tough - Gravagerz Remix · Quavo, Lana Del Rey, Gravagerz" src="assets/track-5-ee0462-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7mNXqJNUEPqiALzp1I9Yk1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-ee0462-dark.svg"><img alt="Losing You · Julien Fade" src="assets/track-6-ee0462-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,759 commits</summary>
+<summary><b>2026</b> · 1,760 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 122 commits</summary>
+<summary>November 2026 · 123 commits</summary>
 <br>
 
 <picture>
