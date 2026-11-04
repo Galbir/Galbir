@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-6433a1-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-6433a1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3JWKhPP6muh6tjR8b7PDOb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-6433a1-dark.svg"><img alt="Paperplanes · BUNT." src="assets/track-0-6433a1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/461X8Jhd6zxueWPDwH7OjK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-6433a1-dark.svg"><img alt="Different Time · Swimming Paul" src="assets/track-1-6433a1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6qKGw4mPngMJ43oING2nTV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-6433a1-dark.svg"><img alt="drown · AVAION" src="assets/track-2-6433a1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-6433a1-dark.svg"><img alt="I Only Smoke When I Drink · nimino" src="assets/track-3-6433a1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7ADkaL9vcA3wZAgxZIGy7M"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-6433a1-dark.svg"><img alt="Push It · MIND" src="assets/track-4-6433a1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/72clwH22fwZF7utiFGJ9Ho"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-6433a1-dark.svg"><img alt="LIGHTS DOWN LOW (feat. Sly Jr.) · Angrybaby, Sly Jr." src="assets/track-5-6433a1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3ipy5ap1gVSdERpF5ays6F"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-6433a1-dark.svg"><img alt="Dance In The Sunlight · Lost Frequencies, Bandit" src="assets/track-6-6433a1-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-09f5e1-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-09f5e1-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3QH0yMbfhZEScAcIgZUbHb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-09f5e1-dark.svg"><img alt="Without You · 19Clouds" src="assets/track-0-09f5e1-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1VodD4Is6m6syXNV1J317T"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-09f5e1-dark.svg"><img alt="So Sweet · NOVEMBER KID" src="assets/track-1-09f5e1-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5sldxFuM496Xu7dt6r8Ckl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-09f5e1-dark.svg"><img alt="Other Side · AVAION" src="assets/track-2-09f5e1-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4TpVesGZdBvHErCYo9bexj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-09f5e1-dark.svg"><img alt="Lost In This Moment · Nico Saint" src="assets/track-3-09f5e1-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4TpVesGZdBvHErCYo9bexj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-09f5e1-dark.svg"><img alt="Lost In This Moment · Nico Saint" src="assets/track-4-09f5e1-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3DflANsb2wjmuVyGWfQdxs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-09f5e1-dark.svg"><img alt="Into The Lights · Lavern" src="assets/track-5-09f5e1-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5Byvs8uIVgPZVQN3Pw7UgL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-09f5e1-dark.svg"><img alt="ONANON · Killen." src="assets/track-6-09f5e1-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,760 commits</summary>
+<summary><b>2026</b> · 1,763 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 123 commits</summary>
+<summary>November 2026 · 126 commits</summary>
 <br>
 
 <picture>
