@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-5c179b-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-5c179b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/54hA0ldJYyT1huGfSeOjdQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-5c179b-dark.svg"><img alt="On My Mind · Diplo, SIDEPIECE" src="assets/track-0-5c179b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1DCMbDfllB5W69T7xxoLu7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-5c179b-dark.svg"><img alt="Cash Out - Dave Summer Remix · SIDEPIECE, Bobby Shmurda, Dave Summer" src="assets/track-1-5c179b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4SlGZwTjgOXjOK7Pqw7xGW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-5c179b-dark.svg"><img alt="Get Stupid · GREG 99" src="assets/track-2-5c179b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3yBdKw7lvhn5u4vpeWRDTV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-5c179b-dark.svg"><img alt="License To Be Bad · Matroda, Ciszak, Lovlee" src="assets/track-3-5c179b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3H9Dl9t32WRuS1sPZhEM9L"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-5c179b-dark.svg"><img alt="Take Over Control (feat. Eva Simons) [HILLS Remix] · AFROJACK, Eva Simons, HILLS" src="assets/track-4-5c179b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4BFoLiWDZusUKvEvXDpDAF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-5c179b-dark.svg"><img alt="Up N Down · Kamino, MERYLL" src="assets/track-5-5c179b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4u8ZVQIFgT18sB7WzpFM1W"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-5c179b-dark.svg"><img alt="Mind On Beat · Ship Wrek, Twin Diplomacy" src="assets/track-6-5c179b-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-05a791-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-05a791-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3shstEV0fzPeSvby1ENMUs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-05a791-dark.svg"><img alt="Whispers · GREG 99" src="assets/track-0-05a791-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1GRaV94WGXx0bN1Qoka3hy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-05a791-dark.svg"><img alt="Take The Pill · Kamino, Stalking Gia" src="assets/track-1-05a791-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5B5onCeur5UE2jbTCCkUiK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-05a791-dark.svg"><img alt="Still My Baby · Cloonee, GREG 99" src="assets/track-2-05a791-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/69EEyee0qJltlXswEaOaNS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-05a791-dark.svg"><img alt="Wanna See You · SIDEPIECE" src="assets/track-3-05a791-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3zW2p2IIK885aOrjfDJEXv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-05a791-dark.svg"><img alt="Elevator · Discip" src="assets/track-4-05a791-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5sfFDkrcu5BpJNPzRSpSfZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-05a791-dark.svg"><img alt="MERTHER (Extended Mix) - Mixed · Mau P" src="assets/track-5-05a791-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-05a791-dark.svg"><img alt="Toxic · Chris Lake, Ragie Ban" src="assets/track-6-05a791-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,752 commits</summary>
+<summary><b>2026</b> · 1,753 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 115 commits</summary>
+<summary>November 2026 · 116 commits</summary>
 <br>
 
 <picture>
