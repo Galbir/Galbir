@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-6c0159-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-6c0159-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6hPPwiXH4Y4kmc121v9Fdg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-6c0159-dark.svg"><img alt="TRALALA · manifest" src="assets/track-0-6c0159-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-6c0159-dark.svg"><img alt="This Dream Of You · Martin Garrix" src="assets/track-1-6c0159-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/32igac7UX96WwPlOOjAGlT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-6c0159-dark.svg"><img alt="zombie · Two Friends, Alexander Stewart, LØLØ" src="assets/track-2-6c0159-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2rZTC37sROpuUvMM3oEZKr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-6c0159-dark.svg"><img alt="Lights Out · Bella Renee, OddKidOut" src="assets/track-3-6c0159-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5rjtekAXWrmLGQKCYQ3ytF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-6c0159-dark.svg"><img alt="Hard To be Around · Tiësto, Cleopard2000, CH4YN" src="assets/track-4-6c0159-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6tXigQ1u91pcakrezKtC8R"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-6c0159-dark.svg"><img alt="Twice As Nice · D.O.D, Armand Van Helden, Sam Harper" src="assets/track-5-6c0159-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/70efSjz6RtfxrahQ4WpECX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-6c0159-dark.svg"><img alt="Falling · ARMNHMR, Oaks" src="assets/track-6-6c0159-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-1b638f-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-1b638f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7ml5FWDyEkYjiqFkyn7rhn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-1b638f-dark.svg"><img alt="Talk Is Boring · JEV, Conrad." src="assets/track-0-1b638f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4RDJePvro9z2X1r8FFgSxt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-1b638f-dark.svg"><img alt="Nothing Lasts Forever · BUNT., RØAM" src="assets/track-1-1b638f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5A8YVeEtelHwCxWodW6KrP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-1b638f-dark.svg"><img alt="Blink Twice · Rose Gray" src="assets/track-2-1b638f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6vx7h9Og7Aa1nb1ktu6mdd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-1b638f-dark.svg"><img alt="My Lover · Otto Knows" src="assets/track-3-1b638f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0cLQo9kMwh075LzY4vWit0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-1b638f-dark.svg"><img alt="DIP · Sean Paul, Sommer Ray" src="assets/track-4-1b638f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4jVuZjOuBL2yj4R3fgeBAf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-1b638f-dark.svg"><img alt="Stay For Love · Kaskade, Brieanna Grace" src="assets/track-5-1b638f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3Xbfw6oJBNh4t2M8pNWglg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-1b638f-dark.svg"><img alt="Madonna · Maisi and the Disco" src="assets/track-6-1b638f-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,783 commits</summary>
+<summary><b>2026</b> · 1,785 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 146 commits</summary>
+<summary>November 2026 · 148 commits</summary>
 <br>
 
 <picture>
