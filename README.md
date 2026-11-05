@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-1ea608-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-1ea608-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-1ea608-dark.svg"><img alt="Heaven Takes You Home (feat. Connie Constance) · Swedish House Mafia, Constance Power" src="assets/track-0-1ea608-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2S0cDiESFavccXSNsulm4W"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-1ea608-dark.svg"><img alt="Refuse You · Lavern" src="assets/track-1-1ea608-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7E4k65CjSEhmEUZ0y2E47A"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-1ea608-dark.svg"><img alt="WHEN IT COMES TO YOU · Angrybaby" src="assets/track-2-1ea608-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2gLzx57Ab129kxjmbIjFCE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-1ea608-dark.svg"><img alt="Tell me, who am I? · SAVED" src="assets/track-3-1ea608-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/40QdEchi3gLmZitmXFef9z"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-1ea608-dark.svg"><img alt="Stay Blessed · Swimming Paul, Alecc Crisostomo, D38" src="assets/track-4-1ea608-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/74miq4ubMDpEZWtdEh8u9R"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-1ea608-dark.svg"><img alt="Sunday · Møme, Goldwash" src="assets/track-5-1ea608-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/74miq4ubMDpEZWtdEh8u9R"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-1ea608-dark.svg"><img alt="Sunday · Møme, Goldwash" src="assets/track-6-1ea608-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-391254-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-391254-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0geBRxOySw9Fz21wrHv82L"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-391254-dark.svg"><img alt="THERE 4 U · Alex LeMirage" src="assets/track-0-391254-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6YzWNNWyxVGC0eczvuUtmF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-391254-dark.svg"><img alt="Say Yes To Heaven - Anyma Remix · Lana Del Rey, Anyma" src="assets/track-1-391254-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4RV1xl2Y3yuYiw4hz5WPxr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-391254-dark.svg"><img alt="love yourself · iilliaa" src="assets/track-2-391254-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/41JMkYGCl35JbOrFqdDwM6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-391254-dark.svg"><img alt="Sail Away · Don Diablo, Au/Ra" src="assets/track-3-391254-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1bE98D49uKNetOyLiaB8tG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-391254-dark.svg"><img alt="Never Walk Alone · BLOND:ISH, Stevie Appleton" src="assets/track-4-391254-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6pqZjgc1HAGImauB9sCGU1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-391254-dark.svg"><img alt="DESTINATIONS · Mild Minds" src="assets/track-5-391254-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/05VS9ifTEUpV6RiajKLxxW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-391254-dark.svg"><img alt="Underwater · 19Clouds" src="assets/track-6-391254-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,821 commits</summary>
+<summary><b>2026</b> · 1,822 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 184 commits</summary>
+<summary>November 2026 · 185 commits</summary>
 <br>
 
 <picture>
