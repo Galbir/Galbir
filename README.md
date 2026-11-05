@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-b09817-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-b09817-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6VLEP2a1vS5k2IUugZrn0z"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-b09817-dark.svg"><img alt="Make Me Feel · oskar med k" src="assets/track-0-b09817-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1T4U8Q2DRfs6OUg8DEsRZf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-b09817-dark.svg"><img alt="Bad · Don Diablo, Zak Abel" src="assets/track-1-b09817-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4bgwxCIzkyWCrXsc3EfVsc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-b09817-dark.svg"><img alt="The Darkside - Extended · PALASTIC, Ekko" src="assets/track-2-b09817-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6WYRMJqj9wpYmIdSfHQuEO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-b09817-dark.svg"><img alt="This Love · Klangkarussell, Poppy Baskcomb" src="assets/track-3-b09817-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4TkAUvlijBGYFlJsYah2zM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-b09817-dark.svg"><img alt="I Wish I Said Goodbye · ODNP" src="assets/track-4-b09817-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-b09817-dark.svg"><img alt="Ascend · Dezko" src="assets/track-5-b09817-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1zQ7VMzjPYDhzvr5rfAOr9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-b09817-dark.svg"><img alt="Hold Me - Autopan Version · Lavern" src="assets/track-6-b09817-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-e9f316-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-e9f316-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0uuQLn4o2ZCWiuzeyrAcAR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-e9f316-dark.svg"><img alt="Ghostkeeper - Edit · Klangkarussell, GIVVEN" src="assets/track-0-e9f316-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6klB3i7WPg51WX78i3t9yQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-e9f316-dark.svg"><img alt="Hope · AVAION" src="assets/track-1-e9f316-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2NzVDk5VdGkFlsDf8iJJFM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-e9f316-dark.svg"><img alt="Smalltown Boy · Don Diablo" src="assets/track-2-e9f316-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3JYOvFBjrtLMZp3J1l6xGJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-e9f316-dark.svg"><img alt="Fall Apart · Dayne S" src="assets/track-3-e9f316-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1uyQNwG1sFl7etjFTEHlQp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-e9f316-dark.svg"><img alt="Faisal (envelops me) · Fred again.." src="assets/track-4-e9f316-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6I3vPqMmEv0pjRBxKBnrk7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-e9f316-dark.svg"><img alt="Nobody · 19Clouds" src="assets/track-5-e9f316-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2n7A2rUONT2wWAVrOjRzHV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-e9f316-dark.svg"><img alt="Far Away Place · Xinobi, Vaarwell" src="assets/track-6-e9f316-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,814 commits</summary>
+<summary><b>2026</b> · 1,817 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 177 commits</summary>
+<summary>November 2026 · 180 commits</summary>
 <br>
 
 <picture>
