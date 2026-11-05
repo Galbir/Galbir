@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-892fe7-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-892fe7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5xan7XL4YNpsAOL7LhXUPb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-892fe7-dark.svg"><img alt="The Darkside · PALASTIC, Ekko" src="assets/track-0-892fe7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6WKu0pl1jHSuVo4PbSn2yk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-892fe7-dark.svg"><img alt="Downtown · Godford" src="assets/track-1-892fe7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5Bvm3jjiMal1ME0flasrBV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-892fe7-dark.svg"><img alt="Spellbound · oskar med k" src="assets/track-2-892fe7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1y7Ul38DIkDOWsV5jcUfgu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-892fe7-dark.svg"><img alt="Forever · Jhay Rivas, Alex LeMirage" src="assets/track-3-892fe7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5U5G6wqBsPiXVz597s0Wpq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-892fe7-dark.svg"><img alt="BACK OF MY MIND · Alex LeMirage, FARLEY" src="assets/track-4-892fe7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0VWfG35i4baw8AbN9hvYpS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-892fe7-dark.svg"><img alt="EYES · The Blaze" src="assets/track-5-892fe7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-892fe7-dark.svg"><img alt="Black Friday - pretty like the sun · Lost Frequencies, Tom Odell" src="assets/track-6-892fe7-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-b09817-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-b09817-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6VLEP2a1vS5k2IUugZrn0z"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-b09817-dark.svg"><img alt="Make Me Feel · oskar med k" src="assets/track-0-b09817-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1T4U8Q2DRfs6OUg8DEsRZf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-b09817-dark.svg"><img alt="Bad · Don Diablo, Zak Abel" src="assets/track-1-b09817-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4bgwxCIzkyWCrXsc3EfVsc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-b09817-dark.svg"><img alt="The Darkside - Extended · PALASTIC, Ekko" src="assets/track-2-b09817-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6WYRMJqj9wpYmIdSfHQuEO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-b09817-dark.svg"><img alt="This Love · Klangkarussell, Poppy Baskcomb" src="assets/track-3-b09817-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4TkAUvlijBGYFlJsYah2zM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-b09817-dark.svg"><img alt="I Wish I Said Goodbye · ODNP" src="assets/track-4-b09817-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-b09817-dark.svg"><img alt="Ascend · Dezko" src="assets/track-5-b09817-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1zQ7VMzjPYDhzvr5rfAOr9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-b09817-dark.svg"><img alt="Hold Me - Autopan Version · Lavern" src="assets/track-6-b09817-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,810 commits</summary>
+<summary><b>2026</b> · 1,814 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 173 commits</summary>
+<summary>November 2026 · 177 commits</summary>
 <br>
 
 <picture>
