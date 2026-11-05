@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-3d7fe8-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-3d7fe8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0IEKKqwiTDVh6I3M9XlrAQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-3d7fe8-dark.svg"><img alt="Before You Know It · Kygo, Ava Max" src="assets/track-0-3d7fe8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1ZiY6y9yI46xKiA3vFCLkx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-3d7fe8-dark.svg"><img alt="Nobody Wanna Dance Anymore · Tinashe" src="assets/track-1-3d7fe8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5r51JWgvnz3E3MT06adcCw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-3d7fe8-dark.svg"><img alt="Here &amp; Now · Hayden James, Maria Hazell" src="assets/track-2-3d7fe8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5qOFirGHlFXnfLc7r6pCSV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-3d7fe8-dark.svg"><img alt="Sweet Tooth · Gus Dapperton, Ledbyher" src="assets/track-3-3d7fe8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3OfzppfFlwPuHvFjsTe6d1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-3d7fe8-dark.svg"><img alt="La Dolce Vita · Clean Bandit, TÄRA" src="assets/track-4-3d7fe8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4ldTexWwh69o6yrBaho5e2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-3d7fe8-dark.svg"><img alt="Time After Time · Cyndi Lauper, CYRIL, Tones And I" src="assets/track-5-3d7fe8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2yl370uwa8aDwBn07fIplH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-3d7fe8-dark.svg"><img alt="Dance Till I Die · Timmy Trumpet, Olivia Sebastianelli" src="assets/track-6-3d7fe8-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-d9ea7b-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-d9ea7b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7LIqrRSXHMzlzT9NyuYsX3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-d9ea7b-dark.svg"><img alt="I Do This For You · Troye Sivan" src="assets/track-0-d9ea7b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3mptnmnBcxx5M1psyLAZDY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-d9ea7b-dark.svg"><img alt="Change · PNAU" src="assets/track-1-d9ea7b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4H7K86ED2CD527gllnpF0F"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-d9ea7b-dark.svg"><img alt="Whole Room Dancing · Riva Starr, Adam Port, JRM" src="assets/track-2-d9ea7b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/25LJMxtrq4cXdxSiLiQW3j"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-d9ea7b-dark.svg"><img alt="Obsession (feat. Ty Dolla $ign) · MK, Ty Dolla $ign" src="assets/track-3-d9ea7b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4Ev2R78P8cMZcdmv3RCUlI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-d9ea7b-dark.svg"><img alt="Ain&#39;t In LA - Coachella 2016 Remix · ADÉLA, Dylan Brady" src="assets/track-4-d9ea7b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3JGVhjbPvMdxKqDE7NDJEK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-d9ea7b-dark.svg"><img alt="Got To Do · Disco Lines" src="assets/track-5-d9ea7b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5DjhmpY6Trw2OQs7xip2l7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-d9ea7b-dark.svg"><img alt="Fake or true · Jersey" src="assets/track-6-d9ea7b-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,778 commits</summary>
+<summary><b>2026</b> · 1,779 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 141 commits</summary>
+<summary>November 2026 · 142 commits</summary>
 <br>
 
 <picture>
