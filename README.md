@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-ca2242-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-ca2242-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2TUFKhKl4EZYAo3D9FXU5E"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-ca2242-dark.svg"><img alt="Pieces · AVAION" src="assets/track-0-ca2242-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5aNnHIrYkxRG9ToftzsWRz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-ca2242-dark.svg"><img alt="Enjoy the Silence - Don Diablo Version · Don Diablo, MONO|CHROME" src="assets/track-1-ca2242-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7Lqb5crtS7JaNynQ0mszWh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-ca2242-dark.svg"><img alt="U&amp;ME · Dezko, CERES" src="assets/track-2-ca2242-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/45Q6hkvGtzW0VUybDnQ4n8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-ca2242-dark.svg"><img alt="Beyond the Fire · Don Diablo" src="assets/track-3-ca2242-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0mVE7ho0GazVMHVyt6cFz5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-ca2242-dark.svg"><img alt="Celebration · TOMORA, AURORA, Tom Rowlands" src="assets/track-4-ca2242-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/29yce0XPCBsgvOQRLn8cnK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-ca2242-dark.svg"><img alt="LET ME IN · Pixie Lane" src="assets/track-5-ca2242-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2nJa6C2eIDDcxESn7sS0cl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-ca2242-dark.svg"><img alt="Confession · James Hype" src="assets/track-6-ca2242-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-23eec9-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-23eec9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5m2z3gWspjmiOkKZ5QCyxp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-23eec9-dark.svg"><img alt="Ascend (My Mind Edit) · Dezko" src="assets/track-0-23eec9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0IAIsE9u9AYUH3wh7p77AE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-23eec9-dark.svg"><img alt="Time · Carlita" src="assets/track-1-23eec9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2cdCC1aCXbvz9tXFOR6CxR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-23eec9-dark.svg"><img alt="Numb · Elderbrook" src="assets/track-2-23eec9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1bE98D49uKNetOyLiaB8tG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-23eec9-dark.svg"><img alt="Never Walk Alone · BLOND:ISH, Stevie Appleton" src="assets/track-3-23eec9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5s0S3Y5Ciq1suPbzRCKYpo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-23eec9-dark.svg"><img alt="Lonely · VisionV, PHEA" src="assets/track-4-23eec9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0qHD5pzpp1zSPa5Ud74WDC"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-23eec9-dark.svg"><img alt="Ghostkeeper · Klangkarussell, GIVVEN" src="assets/track-5-23eec9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-23eec9-dark.svg"><img alt="Quiver · SILK" src="assets/track-6-23eec9-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,786 commits</summary>
+<summary><b>2026</b> · 1,790 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 149 commits</summary>
+<summary>November 2026 · 153 commits</summary>
 <br>
 
 <picture>
