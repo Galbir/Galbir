@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-b37a3d-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-b37a3d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/25eziuXzuP0USgaLErpQOF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-b37a3d-dark.svg"><img alt="Elephant · Don Diablo" src="assets/track-0-b37a3d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2fr3zUXQFLztUhpfBu6Wpq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-b37a3d-dark.svg"><img alt="Last Night · Rivo" src="assets/track-1-b37a3d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4ube140Sc6I4YXTVJSrrJr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-b37a3d-dark.svg"><img alt="Smile On My Face · Nohr" src="assets/track-2-b37a3d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1I5kKhGpUhjaW5sYUEplj6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-b37a3d-dark.svg"><img alt="Something About · CRi" src="assets/track-3-b37a3d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-b37a3d-dark.svg"><img alt="Lioness · Swedish House Mafia, Niki &amp; The Dove" src="assets/track-4-b37a3d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/07qEAvhdUdDGUSsCtTZbJQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-b37a3d-dark.svg"><img alt="Eyes Off You · Crunkz" src="assets/track-5-b37a3d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1MEiXJK91I7by4os5CxKpH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-b37a3d-dark.svg"><img alt="Electric High · Lavern" src="assets/track-6-b37a3d-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-1ea608-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-1ea608-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-1ea608-dark.svg"><img alt="Heaven Takes You Home (feat. Connie Constance) · Swedish House Mafia, Constance Power" src="assets/track-0-1ea608-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2S0cDiESFavccXSNsulm4W"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-1ea608-dark.svg"><img alt="Refuse You · Lavern" src="assets/track-1-1ea608-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7E4k65CjSEhmEUZ0y2E47A"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-1ea608-dark.svg"><img alt="WHEN IT COMES TO YOU · Angrybaby" src="assets/track-2-1ea608-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2gLzx57Ab129kxjmbIjFCE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-1ea608-dark.svg"><img alt="Tell me, who am I? · SAVED" src="assets/track-3-1ea608-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/40QdEchi3gLmZitmXFef9z"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-1ea608-dark.svg"><img alt="Stay Blessed · Swimming Paul, Alecc Crisostomo, D38" src="assets/track-4-1ea608-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/74miq4ubMDpEZWtdEh8u9R"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-1ea608-dark.svg"><img alt="Sunday · Møme, Goldwash" src="assets/track-5-1ea608-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/74miq4ubMDpEZWtdEh8u9R"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-1ea608-dark.svg"><img alt="Sunday · Møme, Goldwash" src="assets/track-6-1ea608-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,820 commits</summary>
+<summary><b>2026</b> · 1,821 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 183 commits</summary>
+<summary>November 2026 · 184 commits</summary>
 <br>
 
 <picture>
