@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-499d2c-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-499d2c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/43kSqdln7yxrRszyfugbft"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-499d2c-dark.svg"><img alt="All My Love · Elderbrook" src="assets/track-0-499d2c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-499d2c-dark.svg"><img alt="Cruise · ROYA" src="assets/track-1-499d2c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4M2pTJYh02HGpH3KqkGvoP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-499d2c-dark.svg"><img alt="Dancing Thing · VisionV" src="assets/track-2-499d2c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1zI8KdmHv3WDyaEsaA7ADe"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-499d2c-dark.svg"><img alt="VOLVERTE A VER · Soummit" src="assets/track-3-499d2c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2xwuF416Ql7MERGUpG7ClD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-499d2c-dark.svg"><img alt="Embrasse moi · VD, Bleue" src="assets/track-4-499d2c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3zPco1u9i9bCjkG5pngR5t"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-499d2c-dark.svg"><img alt="Clouds · BUNT., Nate Traveller" src="assets/track-5-499d2c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2aahxM4jGWFWgMzmHpelAR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-499d2c-dark.svg"><img alt="Caught in a Dream · PALASTIC, LissA" src="assets/track-6-499d2c-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-c6c1a0-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-c6c1a0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0f8PWE8E1UB3HqREAkqoa5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-c6c1a0-dark.svg"><img alt="Keep On Dancing · AVAION" src="assets/track-0-c6c1a0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5V7Ge7D4D5UmgzxlQFa2lD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-c6c1a0-dark.svg"><img alt="Falling · Crunkz, Maxomar" src="assets/track-1-c6c1a0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6xGVCczlvoqMRPCSX9IDH5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-c6c1a0-dark.svg"><img alt="Falling Underwater · Maxomar" src="assets/track-2-c6c1a0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-c6c1a0-dark.svg"><img alt="Miss You · Nu Aspect, Jamis, Poppy Baskcomb" src="assets/track-3-c6c1a0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7ClE91ZjLxV5do8bAAxDe0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-c6c1a0-dark.svg"><img alt="Decision · PALASTIC, Mary Jensen" src="assets/track-4-c6c1a0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0SANWT6WZgajOViFe0EkCO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-c6c1a0-dark.svg"><img alt="The Chase · Emmit Fenn" src="assets/track-5-c6c1a0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1a3u6JpaSEndtkzDyUFOqC"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-c6c1a0-dark.svg"><img alt="Weightless - jamesjamesjames Remix · Ben Böhmer, Panama, jamesjamesjames" src="assets/track-6-c6c1a0-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,794 commits</summary>
+<summary><b>2026</b> · 1,798 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 157 commits</summary>
+<summary>November 2026 · 161 commits</summary>
 <br>
 
 <picture>
