@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-e74a79-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-e74a79-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2IliOAicBXQKvoWpBb1IZR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-e74a79-dark.svg"><img alt="Passing By · Dayne S" src="assets/track-0-e74a79-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4zD2C558gvS9yfTGhyHbby"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-e74a79-dark.svg"><img alt="With You · Lynnic, ItsArius, Dinia" src="assets/track-1-e74a79-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-e74a79-dark.svg"><img alt="Hold Me · Lavern" src="assets/track-2-e74a79-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4lTC96tH07iLNHCmuFn3rS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-e74a79-dark.svg"><img alt="DREAMER · The Blaze" src="assets/track-3-e74a79-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7Kynvv4x293YNQy1wPeY5B"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-e74a79-dark.svg"><img alt="Why Do We Shake In The Cold? · Elderbrook" src="assets/track-4-e74a79-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5bdsJjT3F16HDcjatOZzzB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-e74a79-dark.svg"><img alt="volver a sentir · Lujavo" src="assets/track-5-e74a79-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1MvLmHeLkaNgUScgbUVnWJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-e74a79-dark.svg"><img alt="Breathing · Ben Böhmer, Nils Hoffmann, Malou" src="assets/track-6-e74a79-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-6f1a82-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-6f1a82-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5UTqHC0FtWx9zPKvva8i9v"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-6f1a82-dark.svg"><img alt="I Need You · Elderbrook" src="assets/track-0-6f1a82-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5N4LejUzOmy6nLe3k8nQvt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-6f1a82-dark.svg"><img alt="siempre te pienso · Lujavo" src="assets/track-1-6f1a82-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/05w04BiSjRO522rVscQ34c"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-6f1a82-dark.svg"><img alt="I don&#39;t know why - SOMMA Remix · AVAION, SOMMA" src="assets/track-2-6f1a82-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/63zjmhzDTV4DXxq0iyQsg2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-6f1a82-dark.svg"><img alt="Your Song · Swimming Paul" src="assets/track-3-6f1a82-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3pR8mmPuskvFdzVtlhfQrS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-6f1a82-dark.svg"><img alt="Tell me, who am I? - Slowed + Reverb · SAVED" src="assets/track-4-6f1a82-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2tzT3i3AofX2OAjdGJdBhw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-6f1a82-dark.svg"><img alt="Far Away Place - Jody Wisternoff &amp; James Grant Remix · Xinobi, James Grant, Jody Wisternoff" src="assets/track-5-6f1a82-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1I7OOfvmTiu1qfdEMZcFnM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-6f1a82-dark.svg"><img alt="Heaven Takes You Home (feat. Connie Constance) - Alternative Mix · Swedish House Mafia, Constance Power" src="assets/track-6-6f1a82-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,819 commits</summary>
+<summary><b>2026</b> · 1,820 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 182 commits</summary>
+<summary>November 2026 · 183 commits</summary>
 <br>
 
 <picture>
