@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-7411b7-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-7411b7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3OvgA9rjBeKPR4BDI6TrhB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-7411b7-dark.svg"><img alt="Bora · Leigh-Anne" src="assets/track-0-7411b7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4qUwfqV0XXJP4VWPlM4J4D"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-7411b7-dark.svg"><img alt="BE MY LOVER · Dallas Austin, Felix Da Housecat, Darlene McCoy" src="assets/track-1-7411b7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5fdyY4Pm6lbuMJ1pjT88gN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-7411b7-dark.svg"><img alt="Peace &amp; Patience · Jazzy" src="assets/track-2-7411b7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5CTWar6EERdWazrPD2giMp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-7411b7-dark.svg"><img alt="Heaven · PALASTIC, ALLKNIGHT" src="assets/track-3-7411b7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1GCyyYAFCfFwbu1z5sbI6S"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-7411b7-dark.svg"><img alt="Opening Credits · nimino" src="assets/track-4-7411b7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3JdUOnFa2xuKvrlDsuJZct"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-7411b7-dark.svg"><img alt="LONELY · Alex LeMirage" src="assets/track-5-7411b7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2nfCQnzvjapzfLlv5Efdku"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-7411b7-dark.svg"><img alt="I DON&#39;T WANT TO FALL IN LOVE · Angrybaby" src="assets/track-6-7411b7-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-3d7fe8-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-3d7fe8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0IEKKqwiTDVh6I3M9XlrAQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-3d7fe8-dark.svg"><img alt="Before You Know It · Kygo, Ava Max" src="assets/track-0-3d7fe8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1ZiY6y9yI46xKiA3vFCLkx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-3d7fe8-dark.svg"><img alt="Nobody Wanna Dance Anymore · Tinashe" src="assets/track-1-3d7fe8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5r51JWgvnz3E3MT06adcCw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-3d7fe8-dark.svg"><img alt="Here &amp; Now · Hayden James, Maria Hazell" src="assets/track-2-3d7fe8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5qOFirGHlFXnfLc7r6pCSV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-3d7fe8-dark.svg"><img alt="Sweet Tooth · Gus Dapperton, Ledbyher" src="assets/track-3-3d7fe8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3OfzppfFlwPuHvFjsTe6d1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-3d7fe8-dark.svg"><img alt="La Dolce Vita · Clean Bandit, TÄRA" src="assets/track-4-3d7fe8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4ldTexWwh69o6yrBaho5e2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-3d7fe8-dark.svg"><img alt="Time After Time · Cyndi Lauper, CYRIL, Tones And I" src="assets/track-5-3d7fe8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2yl370uwa8aDwBn07fIplH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-3d7fe8-dark.svg"><img alt="Dance Till I Die · Timmy Trumpet, Olivia Sebastianelli" src="assets/track-6-3d7fe8-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,770 commits</summary>
+<summary><b>2026</b> · 1,778 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 133 commits</summary>
+<summary>November 2026 · 141 commits</summary>
 <br>
 
 <picture>
