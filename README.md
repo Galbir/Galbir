@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-4b35fb-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-4b35fb-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3gcC4CmEKS75ixD3izcwHc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-4b35fb-dark.svg"><img alt="Pumpin Blood - Franne Remix · NONONO, Franne" src="assets/track-0-4b35fb-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/33H8UijE4CQKQ0hVKBJ7WK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-4b35fb-dark.svg"><img alt="Open Your Mind · Jhay Rivas" src="assets/track-1-4b35fb-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6u4CLgult9hhrCqr86B5JW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-4b35fb-dark.svg"><img alt="Hear My Call · H:dn" src="assets/track-2-4b35fb-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4FVEkhtXSoRCOZqoo4T8Cg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-4b35fb-dark.svg"><img alt="Rivers · Thandi" src="assets/track-3-4b35fb-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5aYA3xB53IuRAMp0jZ1al1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-4b35fb-dark.svg"><img alt="Lucky Ones · Don Diablo" src="assets/track-4-4b35fb-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3uBy64hFwBlmt48c2xnUlg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-4b35fb-dark.svg"><img alt="Rise · Lynnic" src="assets/track-5-4b35fb-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6oyGwvrnxDLpa6xJx0xgAh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-4b35fb-dark.svg"><img alt="half of you is not enough · oskar med k, Marini" src="assets/track-6-4b35fb-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-9869c7-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-9869c7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1d3Y9gXjoEgNmakTetmqrl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-9869c7-dark.svg"><img alt="Journey (Don&#39;t Let Me Go) · ERIICE" src="assets/track-0-9869c7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5Lm0xkrtZFYz1waA9gwqYP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-9869c7-dark.svg"><img alt="Got Me Like · Lavern" src="assets/track-1-9869c7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/30nygP64gBZqbLoWC72vNq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-9869c7-dark.svg"><img alt="One Last Call · Ben Böhmer, Felix Raphael" src="assets/track-2-9869c7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7cPh6HC3sTiKaaiRaxRGCG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-9869c7-dark.svg"><img alt="Take Me Higher · BLR, NBLM" src="assets/track-3-9869c7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5CoyehKB0YLoZXEadvCFOP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-9869c7-dark.svg"><img alt="The Unknown · PALASTIC, Sam Welch" src="assets/track-4-9869c7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6UmUCUiczf3vnvWR8HB42N"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-9869c7-dark.svg"><img alt="Petrichor - Edit · Klangkarussell, GIVVEN" src="assets/track-5-9869c7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/32fmwlkq7srmOAb5N0vdyj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-9869c7-dark.svg"><img alt="Echo · RSCL, Repiet, Julia Kleijn" src="assets/track-6-9869c7-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,817 commits</summary>
+<summary><b>2026</b> · 1,818 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 180 commits</summary>
+<summary>November 2026 · 181 commits</summary>
 <br>
 
 <picture>
