@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-d07806-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-d07806-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/45c9wiUAAYRgbAnBcfPEsk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-d07806-dark.svg"><img alt="In My Mind · Lavern" src="assets/track-0-d07806-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/002imz3C62IODPorW2MXiE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-d07806-dark.svg"><img alt="Have It All · ANDREA CALABRIA" src="assets/track-1-d07806-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5nNlaap4V5M0ezYYEswHj7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-d07806-dark.svg"><img alt="Another Day · Crunkz" src="assets/track-2-d07806-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0pJT9XkLwjXnYBi84DTKeL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-d07806-dark.svg"><img alt="Through the Fire · PALASTIC, Sam Welch" src="assets/track-3-d07806-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0uNyb8YPD5LDM4gpb4hqry"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-d07806-dark.svg"><img alt="I Feel Fine · Klangkarussell" src="assets/track-4-d07806-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2mHYjjjoCvqF4ZFXY6CIZn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-d07806-dark.svg"><img alt="Next To You · Romain Garcia" src="assets/track-5-d07806-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5eYt43KKoozTGthKRNQ6JW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-d07806-dark.svg"><img alt="gone for life · iilliaa" src="assets/track-6-d07806-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-680818-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-680818-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0d3NXuG0S5X0lIvYkTp0vt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-680818-dark.svg"><img alt="Too Tense · oskar med k" src="assets/track-0-680818-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3O40kUWNXfoIPMzU0eojn0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-680818-dark.svg"><img alt="I Care · PALASTIC, Youkii" src="assets/track-1-680818-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3hoPCBEX8OJTJ7WglVEji9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-680818-dark.svg"><img alt="Broke Me · Aylone" src="assets/track-2-680818-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5HlctFqbvJLSHM07UjjUqq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-680818-dark.svg"><img alt="Chihiro - Ice Version · Gravagerz" src="assets/track-3-680818-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2Zk9i8ayiwYLZIEJemuhl9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-680818-dark.svg"><img alt="Moment · PaulWetz, Dillistone" src="assets/track-4-680818-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3pUz2qJe5nqZemi3hhIxMk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-680818-dark.svg"><img alt="Where You Are · John Summit, HAYLA" src="assets/track-5-680818-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1JFt4HzBxWRDKbMyHRFvpP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-680818-dark.svg"><img alt="Inside of My Eyelids · DLG." src="assets/track-6-680818-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,818 commits</summary>
+<summary><b>2026</b> · 1,819 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 181 commits</summary>
+<summary>November 2026 · 182 commits</summary>
 <br>
 
 <picture>
