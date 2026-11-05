@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-d9ea7b-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-d9ea7b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7LIqrRSXHMzlzT9NyuYsX3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-d9ea7b-dark.svg"><img alt="I Do This For You · Troye Sivan" src="assets/track-0-d9ea7b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3mptnmnBcxx5M1psyLAZDY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-d9ea7b-dark.svg"><img alt="Change · PNAU" src="assets/track-1-d9ea7b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4H7K86ED2CD527gllnpF0F"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-d9ea7b-dark.svg"><img alt="Whole Room Dancing · Riva Starr, Adam Port, JRM" src="assets/track-2-d9ea7b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/25LJMxtrq4cXdxSiLiQW3j"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-d9ea7b-dark.svg"><img alt="Obsession (feat. Ty Dolla $ign) · MK, Ty Dolla $ign" src="assets/track-3-d9ea7b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4Ev2R78P8cMZcdmv3RCUlI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-d9ea7b-dark.svg"><img alt="Ain&#39;t In LA - Coachella 2016 Remix · ADÉLA, Dylan Brady" src="assets/track-4-d9ea7b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3JGVhjbPvMdxKqDE7NDJEK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-d9ea7b-dark.svg"><img alt="Got To Do · Disco Lines" src="assets/track-5-d9ea7b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5DjhmpY6Trw2OQs7xip2l7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-d9ea7b-dark.svg"><img alt="Fake or true · Jersey" src="assets/track-6-d9ea7b-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-6c0159-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-6c0159-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6hPPwiXH4Y4kmc121v9Fdg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-6c0159-dark.svg"><img alt="TRALALA · manifest" src="assets/track-0-6c0159-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-6c0159-dark.svg"><img alt="This Dream Of You · Martin Garrix" src="assets/track-1-6c0159-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/32igac7UX96WwPlOOjAGlT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-6c0159-dark.svg"><img alt="zombie · Two Friends, Alexander Stewart, LØLØ" src="assets/track-2-6c0159-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2rZTC37sROpuUvMM3oEZKr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-6c0159-dark.svg"><img alt="Lights Out · Bella Renee, OddKidOut" src="assets/track-3-6c0159-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5rjtekAXWrmLGQKCYQ3ytF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-6c0159-dark.svg"><img alt="Hard To be Around · Tiësto, Cleopard2000, CH4YN" src="assets/track-4-6c0159-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6tXigQ1u91pcakrezKtC8R"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-6c0159-dark.svg"><img alt="Twice As Nice · D.O.D, Armand Van Helden, Sam Harper" src="assets/track-5-6c0159-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/70efSjz6RtfxrahQ4WpECX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-6c0159-dark.svg"><img alt="Falling · ARMNHMR, Oaks" src="assets/track-6-6c0159-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,779 commits</summary>
+<summary><b>2026</b> · 1,783 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 142 commits</summary>
+<summary>November 2026 · 146 commits</summary>
 <br>
 
 <picture>
