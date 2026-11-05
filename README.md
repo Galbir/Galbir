@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-c6c1a0-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-c6c1a0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0f8PWE8E1UB3HqREAkqoa5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-c6c1a0-dark.svg"><img alt="Keep On Dancing · AVAION" src="assets/track-0-c6c1a0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5V7Ge7D4D5UmgzxlQFa2lD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-c6c1a0-dark.svg"><img alt="Falling · Crunkz, Maxomar" src="assets/track-1-c6c1a0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6xGVCczlvoqMRPCSX9IDH5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-c6c1a0-dark.svg"><img alt="Falling Underwater · Maxomar" src="assets/track-2-c6c1a0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-c6c1a0-dark.svg"><img alt="Miss You · Nu Aspect, Jamis, Poppy Baskcomb" src="assets/track-3-c6c1a0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7ClE91ZjLxV5do8bAAxDe0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-c6c1a0-dark.svg"><img alt="Decision · PALASTIC, Mary Jensen" src="assets/track-4-c6c1a0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0SANWT6WZgajOViFe0EkCO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-c6c1a0-dark.svg"><img alt="The Chase · Emmit Fenn" src="assets/track-5-c6c1a0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1a3u6JpaSEndtkzDyUFOqC"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-c6c1a0-dark.svg"><img alt="Weightless - jamesjamesjames Remix · Ben Böhmer, Panama, jamesjamesjames" src="assets/track-6-c6c1a0-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-3b6f1e-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-3b6f1e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1krkRXhxSvCycz3XE9eG0q"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-3b6f1e-dark.svg"><img alt="siempre te pienso - v2 · Lujavo" src="assets/track-0-3b6f1e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3JuLu3PF1EyVBK2gI82Oxd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-3b6f1e-dark.svg"><img alt="Afterlife · Nu Aspect, jewels, MAGNUS" src="assets/track-1-3b6f1e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/66kKvfWMqmdQCvjSvld2t3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-3b6f1e-dark.svg"><img alt="Dance With Me · PALASTIC" src="assets/track-2-3b6f1e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6zMU2vqQ30YjN20oOVeDDO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-3b6f1e-dark.svg"><img alt="Hope · CAMELPHAT, Max Milner" src="assets/track-3-3b6f1e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2p2ovbp0ocjyVb5QRvi2R0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-3b6f1e-dark.svg"><img alt="belong to one · oskar med k" src="assets/track-4-3b6f1e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3NWRapFZSlpHXO38LW21rw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-3b6f1e-dark.svg"><img alt="La leçon particulière · Lavern, Francis Lai" src="assets/track-5-3b6f1e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1wRxmrzdn2EVMsogiWeTp1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-3b6f1e-dark.svg"><img alt="Leaving Something Behind · Graz" src="assets/track-6-3b6f1e-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,798 commits</summary>
+<summary><b>2026</b> · 1,802 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 161 commits</summary>
+<summary>November 2026 · 165 commits</summary>
 <br>
 
 <picture>
