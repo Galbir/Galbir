@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-4e2e86-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-4e2e86-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3yLU2Rd0k3AKYdCWECAyeo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-4e2e86-dark.svg"><img alt="Words · Nu Aspect" src="assets/track-0-4e2e86-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1cySCPmQberVRpv8vEmjXX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-4e2e86-dark.svg"><img alt="Break The Silence (feat. CAROLINA) · Nosi, CAROLINA" src="assets/track-1-4e2e86-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-4e2e86-dark.svg"><img alt="Sleepless · AVAION, PaulWetz, Nu Aspect, YUMA" src="assets/track-2-4e2e86-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6wQaKs1COnCnqPIsIKsccx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-4e2e86-dark.svg"><img alt="Fall Back Down · PALASTIC, James French" src="assets/track-3-4e2e86-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4rhJvRw9vVDcYAZ0ARaWA3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-4e2e86-dark.svg"><img alt="Flames · Diielex" src="assets/track-4-4e2e86-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0Zwn67tX4xwrgk4lVroMCS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-4e2e86-dark.svg"><img alt="Love · BUNT., Johan Lenox" src="assets/track-5-4e2e86-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3cXX26hB3R4lHbZC2LFBao"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-4e2e86-dark.svg"><img alt="I Just Need (with Lyrah) · Daniel Allan, Lyrah" src="assets/track-6-4e2e86-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-42a376-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-42a376-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0JLiYHwL8CXEysiurWmdow"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-42a376-dark.svg"><img alt="Light · Nu Aspect" src="assets/track-0-42a376-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/54geSCMua3Ktz7HXrsop9Z"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-42a376-dark.svg"><img alt="Wait For Me · FranBroon" src="assets/track-1-42a376-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3EuCzwip1usR3WsjxLAFp9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-42a376-dark.svg"><img alt="You&#39;re Not Alone · Nyday" src="assets/track-2-42a376-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5CGwVoSCM3jHWpZi4u6Jgc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-42a376-dark.svg"><img alt="Into The Bloom · Tobtok, Jack Kelly, Betty Bloom" src="assets/track-3-42a376-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1PI6MPyMGeRLbKDCaQ3BDi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-42a376-dark.svg"><img alt="Be Strong · Spada, Korolova" src="assets/track-4-42a376-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3yLU2Rd0k3AKYdCWECAyeo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-42a376-dark.svg"><img alt="Words · Nu Aspect" src="assets/track-5-42a376-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1cySCPmQberVRpv8vEmjXX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-42a376-dark.svg"><img alt="Break The Silence (feat. CAROLINA) · Nosi, CAROLINA" src="assets/track-6-42a376-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,831 commits</summary>
+<summary><b>2026</b> · 1,833 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 194 commits</summary>
+<summary>November 2026 · 196 commits</summary>
 <br>
 
 <picture>
