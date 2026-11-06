@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-72eaa9-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-72eaa9-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5xPhrDvXdThMM2Tsr3ffbK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-72eaa9-dark.svg"><img alt="My Focus Is You · Diielex" src="assets/track-0-72eaa9-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1nH2pd5hVjPldGJchmsKMY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-72eaa9-dark.svg"><img alt="Lonely - Sped Up Version · VisionV, PHEA" src="assets/track-1-72eaa9-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4woipfCAkLPEBxKowGcB9G"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-72eaa9-dark.svg"><img alt="BYE. · 19Clouds, B Martin" src="assets/track-2-72eaa9-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/71ubEHUyawsJZ6wJPPLEtL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-72eaa9-dark.svg"><img alt="Gemini · Tom Enzy, PALASTIC, Sam Welch" src="assets/track-3-72eaa9-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1BLmmt0E0WunAZIuhT7SSi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-72eaa9-dark.svg"><img alt="weightless · Nosi" src="assets/track-4-72eaa9-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0JLiYHwL8CXEysiurWmdow"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-72eaa9-dark.svg"><img alt="Light · Nu Aspect" src="assets/track-5-72eaa9-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/54geSCMua3Ktz7HXrsop9Z"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-72eaa9-dark.svg"><img alt="Wait For Me · FranBroon" src="assets/track-6-72eaa9-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-9e027b-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-9e027b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4iZsLw6fOxL00DIyqIpq9T"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-9e027b-dark.svg"><img alt="DE CERO A CIEN · Lujavo" src="assets/track-0-9e027b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1vaTfarCycbDq2ijgmhldi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-9e027b-dark.svg"><img alt="Your Love Is · ODNP" src="assets/track-1-9e027b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6IgrVPiDCngrNRAnc3SW1X"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-9e027b-dark.svg"><img alt="PARIS · 19Clouds" src="assets/track-2-9e027b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7CeRQbOG5b7fOlj7Prm7zJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-9e027b-dark.svg"><img alt="Don&#39;t Go · Nosi, Emi" src="assets/track-3-9e027b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-9e027b-dark.svg"><img alt="Miss You · Nu Aspect, Jamis, Poppy Baskcomb" src="assets/track-4-9e027b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6GuY5rqgm8jqKTazXy80T4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-9e027b-dark.svg"><img alt="Dream · FranBroon" src="assets/track-5-9e027b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2jw3MwD32xBNUnORMzQaFW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-9e027b-dark.svg"><img alt="Where did you go · AVAION, MAGNUS" src="assets/track-6-9e027b-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,834 commits</summary>
+<summary><b>2026</b> · 1,837 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 197 commits</summary>
+<summary>November 2026 · 200 commits</summary>
 <br>
 
 <picture>
