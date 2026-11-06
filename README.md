@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-42a376-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-42a376-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0JLiYHwL8CXEysiurWmdow"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-42a376-dark.svg"><img alt="Light · Nu Aspect" src="assets/track-0-42a376-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/54geSCMua3Ktz7HXrsop9Z"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-42a376-dark.svg"><img alt="Wait For Me · FranBroon" src="assets/track-1-42a376-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3EuCzwip1usR3WsjxLAFp9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-42a376-dark.svg"><img alt="You&#39;re Not Alone · Nyday" src="assets/track-2-42a376-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5CGwVoSCM3jHWpZi4u6Jgc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-42a376-dark.svg"><img alt="Into The Bloom · Tobtok, Jack Kelly, Betty Bloom" src="assets/track-3-42a376-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1PI6MPyMGeRLbKDCaQ3BDi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-42a376-dark.svg"><img alt="Be Strong · Spada, Korolova" src="assets/track-4-42a376-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3yLU2Rd0k3AKYdCWECAyeo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-42a376-dark.svg"><img alt="Words · Nu Aspect" src="assets/track-5-42a376-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1cySCPmQberVRpv8vEmjXX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-42a376-dark.svg"><img alt="Break The Silence (feat. CAROLINA) · Nosi, CAROLINA" src="assets/track-6-42a376-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-72eaa9-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-72eaa9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5xPhrDvXdThMM2Tsr3ffbK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-72eaa9-dark.svg"><img alt="My Focus Is You · Diielex" src="assets/track-0-72eaa9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1nH2pd5hVjPldGJchmsKMY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-72eaa9-dark.svg"><img alt="Lonely - Sped Up Version · VisionV, PHEA" src="assets/track-1-72eaa9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4woipfCAkLPEBxKowGcB9G"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-72eaa9-dark.svg"><img alt="BYE. · 19Clouds, B Martin" src="assets/track-2-72eaa9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/71ubEHUyawsJZ6wJPPLEtL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-72eaa9-dark.svg"><img alt="Gemini · Tom Enzy, PALASTIC, Sam Welch" src="assets/track-3-72eaa9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1BLmmt0E0WunAZIuhT7SSi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-72eaa9-dark.svg"><img alt="weightless · Nosi" src="assets/track-4-72eaa9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0JLiYHwL8CXEysiurWmdow"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-72eaa9-dark.svg"><img alt="Light · Nu Aspect" src="assets/track-5-72eaa9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/54geSCMua3Ktz7HXrsop9Z"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-72eaa9-dark.svg"><img alt="Wait For Me · FranBroon" src="assets/track-6-72eaa9-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,833 commits</summary>
+<summary><b>2026</b> · 1,834 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 196 commits</summary>
+<summary>November 2026 · 197 commits</summary>
 <br>
 
 <picture>
