@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-aec8de-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-aec8de-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1SOS6qtdtNNyNkcdRMs3ig"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-aec8de-dark.svg"><img alt="Beautiful Mind · MashBit, Alto Moon" src="assets/track-0-aec8de-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4HGkSFYxxhBDcNvdiXSLVf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-aec8de-dark.svg"><img alt="777 · Pato Shoucair, 19Clouds" src="assets/track-1-aec8de-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0J2CLBNjk7lSiVBatKtj02"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-aec8de-dark.svg"><img alt="You · Zen/it" src="assets/track-2-aec8de-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/72mNfLGgX3Z2ojJgdQFZQg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-aec8de-dark.svg"><img alt="Signals · Tobtok, farfetch&#39;d, STO CULTR" src="assets/track-3-aec8de-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2lHzG4hIWX8E4d0IcGMs8b"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-aec8de-dark.svg"><img alt="Broken · AVAION" src="assets/track-4-aec8de-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/56k8mo5C75QM4GrdIdzMXQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-aec8de-dark.svg"><img alt="Lost You · oskar med k" src="assets/track-5-aec8de-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5s0S3Y5Ciq1suPbzRCKYpo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-aec8de-dark.svg"><img alt="Lonely · VisionV, PHEA" src="assets/track-6-aec8de-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-5fc402-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-5fc402-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0D3R3tViQUgPvuzcVX5Yku"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-5fc402-dark.svg"><img alt="Hollow Ground · NOTSOBAD, Able Faces" src="assets/track-0-5fc402-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7a7FMaC8Kaayk2xYYlzFHS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-5fc402-dark.svg"><img alt="Alone Together · Astrality, Georgia Blackwell" src="assets/track-1-5fc402-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1SOS6qtdtNNyNkcdRMs3ig"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-5fc402-dark.svg"><img alt="Beautiful Mind · MashBit, Alto Moon" src="assets/track-2-5fc402-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4HGkSFYxxhBDcNvdiXSLVf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-5fc402-dark.svg"><img alt="777 · Pato Shoucair, 19Clouds" src="assets/track-3-5fc402-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0J2CLBNjk7lSiVBatKtj02"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-5fc402-dark.svg"><img alt="You · Zen/it" src="assets/track-4-5fc402-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/72mNfLGgX3Z2ojJgdQFZQg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-5fc402-dark.svg"><img alt="Signals · Tobtok, farfetch&#39;d, STO CULTR" src="assets/track-5-5fc402-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2lHzG4hIWX8E4d0IcGMs8b"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-5fc402-dark.svg"><img alt="Broken · AVAION" src="assets/track-6-5fc402-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,839 commits</summary>
+<summary><b>2026</b> · 1,840 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 202 commits</summary>
+<summary>November 2026 · 203 commits</summary>
 <br>
 
 <picture>
