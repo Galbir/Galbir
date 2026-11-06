@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-fe6a27-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-fe6a27-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5lebcpNhPX5sAPUjKyyYgY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-fe6a27-dark.svg"><img alt="All I Want Is You · Lavern, NEIMY" src="assets/track-0-fe6a27-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6imQI6vgJSuryIk1RsncJn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-fe6a27-dark.svg"><img alt="Chihiro · ODNP" src="assets/track-1-fe6a27-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5Pjs5I7sQPgip0iabFNip6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-fe6a27-dark.svg"><img alt="Missing You · 19Clouds, Dezko" src="assets/track-2-fe6a27-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4gBkrpJoPBZKY0T1gyJ4iU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-fe6a27-dark.svg"><img alt="Run Deep · Nu Aspect" src="assets/track-3-fe6a27-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0oeoFnzBtWeWhkzISedXTS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-fe6a27-dark.svg"><img alt="Haunted By You · Kisaya" src="assets/track-4-fe6a27-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4a9WGmpSTpy2C7mYixenDq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-fe6a27-dark.svg"><img alt="Feeling The Same · Nyday" src="assets/track-5-fe6a27-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0jzy9oTh78XVEv6yXtJ5ZQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-fe6a27-dark.svg"><img alt="Lost In The Lights (feat. Joel Marques) · Nosi, Joel Marques" src="assets/track-6-fe6a27-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-267656-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-267656-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2oBje7u1mBFIxurtNHBbjF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-267656-dark.svg"><img alt="Regret · Astrality, Arinn, B-Goss" src="assets/track-0-267656-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6MAfxjDn1I84Q2fZw3NlUa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-267656-dark.svg"><img alt="Lose It All (I Don&#39;t Wanna) · BUNT." src="assets/track-1-267656-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/55vxJOfCXlkiFzELyNTYQm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-267656-dark.svg"><img alt="All Mine · D.O.D" src="assets/track-2-267656-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4LOZluaGCD0yueMvqDfZn8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-267656-dark.svg"><img alt="Something Real · Nu Aspect" src="assets/track-3-267656-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0AKsM62IUY8IaOqGtB0u8n"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-267656-dark.svg"><img alt="Endless · Pato Shoucair" src="assets/track-4-267656-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3RLaSPsdvw5pZXPIaSbcfG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-267656-dark.svg"><img alt="Anything For You · Nyday" src="assets/track-5-267656-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0kL4tQLRGQeYD57CikCx4E"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-267656-dark.svg"><img alt="Cry · 19Clouds" src="assets/track-6-267656-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,830 commits</summary>
+<summary><b>2026</b> · 1,831 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 193 commits</summary>
+<summary>November 2026 · 194 commits</summary>
 <br>
 
 <picture>
