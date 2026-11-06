@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-ef5c75-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-ef5c75-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4y5sV6XvDRviooN6Zuw7oD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-ef5c75-dark.svg"><img alt="too close · Nosi, TROJANA" src="assets/track-0-ef5c75-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2iw1y2erkvtpho3gttovcy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-ef5c75-dark.svg"><img alt="Flying In A Nightmare · VisionV, Nosi, Chris Howard" src="assets/track-1-ef5c75-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6Kl0BmROA5CAwtQOEFd99y"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-ef5c75-dark.svg"><img alt="Human · Lavern" src="assets/track-2-ef5c75-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/25ogqcFBb5rZ4BZtoPr8zr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-ef5c75-dark.svg"><img alt="Something Real - Extended · Nu Aspect" src="assets/track-3-ef5c75-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/12VCcXBvOlraAB1G7DAWH6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-ef5c75-dark.svg"><img alt="Running Back to You · Astrality, Miggy Dela Rosa" src="assets/track-4-ef5c75-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6I3vPqMmEv0pjRBxKBnrk7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-ef5c75-dark.svg"><img alt="Nobody · 19Clouds" src="assets/track-5-ef5c75-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6cwNyD7UDIGD2CSnpObpkl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-ef5c75-dark.svg"><img alt="THINKIN&#39; BOUT U · Mattilo, Julian" src="assets/track-6-ef5c75-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-d94196-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-d94196-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2ARN7wBXxusGxT1plo4X6O"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-d94196-dark.svg"><img alt="Sign Of The Times · VisionV, Fylo, Nathan Nicholson" src="assets/track-0-d94196-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1qhdqpo6lgejiIOoaACXNG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-d94196-dark.svg"><img alt="Let Go · Lavern" src="assets/track-1-d94196-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2ImM5YvrrSoWGfojPkx8FO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-d94196-dark.svg"><img alt="Find Me · Jhay Rivas" src="assets/track-2-d94196-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6TYqyxLVoJm6qGpg96Iaw4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-d94196-dark.svg"><img alt="Closer · TWO LANES" src="assets/track-3-d94196-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4FJr3Il9uh42V0C1COCQb7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-d94196-dark.svg"><img alt="Feel This Too · LUCØ" src="assets/track-4-d94196-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1lY2Uhz2R15ks7kqDc0tGD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-d94196-dark.svg"><img alt="Take Me Up · PALASTIC" src="assets/track-5-d94196-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1FAj2NPpH9xyKGEqmH3xtQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-d94196-dark.svg"><img alt="Of The Void · Pato Shoucair, Jordy Medina" src="assets/track-6-d94196-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,837 commits</summary>
+<summary><b>2026</b> · 1,838 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 200 commits</summary>
+<summary>November 2026 · 201 commits</summary>
 <br>
 
 <picture>
