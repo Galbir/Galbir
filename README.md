@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-714507-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-714507-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7rF8qrVzCGu9gVHO1Q9RdJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-714507-dark.svg"><img alt="Numb · Goodboys, AVAION" src="assets/track-0-714507-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6LbA4zFOqvuHx3Zn1FyLiR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-714507-dark.svg"><img alt="Higher · VisionV" src="assets/track-1-714507-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4Ukzy4l4mqn7AidALsnt9i"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-714507-dark.svg"><img alt="Just Friends · Haasy, Maggi" src="assets/track-2-714507-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/43FNnp0KnanReB8KCTl97p"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-714507-dark.svg"><img alt="Hold on Me · Why U So, SHELLS" src="assets/track-3-714507-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4DxpIvvjgpaZDhoHwlfaY1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-714507-dark.svg"><img alt="Echo · Lynnic, ItsArius, Dinia" src="assets/track-4-714507-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7a7FMaC8Kaayk2xYYlzFHS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-714507-dark.svg"><img alt="Alone Together · Astrality, Georgia Blackwell" src="assets/track-5-714507-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1Dm2upt1NMd9Yd3pIYmCQb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-714507-dark.svg"><img alt="OTRA NOCHE QUE NO · Mario Santander" src="assets/track-6-714507-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-441dc1-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-441dc1-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6Ai5x8QqLOwrbqm67Q8ldW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-441dc1-dark.svg"><img alt="Solace · Kyle Watson, Apple Gule" src="assets/track-0-441dc1-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6lZ8eGS8xEWmHJRY1igdfS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-441dc1-dark.svg"><img alt="Saturate · Kamil Ghaouti, Big O, Alimish" src="assets/track-1-441dc1-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3U88n6ha0Tq3Y5el5vV6is"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-441dc1-dark.svg"><img alt="Light · MashBit" src="assets/track-2-441dc1-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2XOoOrYb8ZptaoTxQdoqfk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-441dc1-dark.svg"><img alt="Where the Sun Goes Down · Badflite, RYVM" src="assets/track-3-441dc1-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7rF8qrVzCGu9gVHO1Q9RdJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-441dc1-dark.svg"><img alt="Numb · Goodboys, AVAION" src="assets/track-4-441dc1-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6LbA4zFOqvuHx3Zn1FyLiR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-441dc1-dark.svg"><img alt="Higher · VisionV" src="assets/track-5-441dc1-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4Ukzy4l4mqn7AidALsnt9i"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-441dc1-dark.svg"><img alt="Just Friends · Haasy, Maggi" src="assets/track-6-441dc1-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,840 commits</summary>
+<summary><b>2026</b> · 1,841 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 203 commits</summary>
+<summary>November 2026 · 204 commits</summary>
 <br>
 
 <picture>
