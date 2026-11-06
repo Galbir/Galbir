@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-b48738-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-b48738-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0FCABIXhXHI4mi0qao8gTR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-b48738-dark.svg"><img alt="SAFE WITH ME (SECRETOS) · Jhay Rivas" src="assets/track-0-b48738-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4gQ1tiFAtTetRxrTYVqUpY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-b48738-dark.svg"><img alt="In the Leaves · Lyrah" src="assets/track-1-b48738-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5f9t61TRxZ3ancJadJyrHm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-b48738-dark.svg"><img alt="Better Days · Oliver Cricket" src="assets/track-2-b48738-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4madkqL1bB8rweDVBG8FvR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-b48738-dark.svg"><img alt="Let It Go · NOTSOBAD, MA:RK" src="assets/track-3-b48738-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3DdXn5PsneOqOe1YNbiyjp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-b48738-dark.svg"><img alt="Fear · Pato Shoucair" src="assets/track-4-b48738-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4woprVN4PLmhBhqAVi09YF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-b48738-dark.svg"><img alt="What&#39;s in My Head · Nu Aspect" src="assets/track-5-b48738-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/45k29cwlDYeVhwaz0IDhDF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-b48738-dark.svg"><img alt="Contraluz - urboi. remix · Urbøi, urboi." src="assets/track-6-b48738-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-d93fb8-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-d93fb8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/56k8mo5C75QM4GrdIdzMXQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-d93fb8-dark.svg"><img alt="Lost You · oskar med k" src="assets/track-0-d93fb8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5s0S3Y5Ciq1suPbzRCKYpo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-d93fb8-dark.svg"><img alt="Lonely · VisionV, PHEA" src="assets/track-1-d93fb8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6KVSyHCJQUaoIbT0xiMLCa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-d93fb8-dark.svg"><img alt="AÚN TE PIENSO · Mario Santander" src="assets/track-2-d93fb8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/478kvOP37KUNyqRoqy2VEq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-d93fb8-dark.svg"><img alt="So Cold · Spada, Steand" src="assets/track-3-d93fb8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4XZkyLMgMYtnIxObLlfAuZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-d93fb8-dark.svg"><img alt="Echoes Of You · Diielex" src="assets/track-4-d93fb8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4AEoF6pEqe4YTu2qMUERaT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-d93fb8-dark.svg"><img alt="Heartbeat Slow · Astrality, Jyll, Dillistone" src="assets/track-5-d93fb8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6aevLJZYhcT7IW8WVspnIS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-d93fb8-dark.svg"><img alt="Stuck On You · MashBit" src="assets/track-6-d93fb8-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,838 commits</summary>
+<summary><b>2026</b> · 1,839 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 201 commits</summary>
+<summary>November 2026 · 202 commits</summary>
 <br>
 
 <picture>
