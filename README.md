@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-2aeced-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-2aeced-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6zNsny6K0qqrHcOfIySksN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-2aeced-dark.svg"><img alt="Signs · 19Clouds" src="assets/track-0-2aeced-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/45Q6hkvGtzW0VUybDnQ4n8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-2aeced-dark.svg"><img alt="Beyond the Fire · Don Diablo" src="assets/track-1-2aeced-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6zNsny6K0qqrHcOfIySksN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-2aeced-dark.svg"><img alt="Signs · 19Clouds" src="assets/track-2-2aeced-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5YzaostcCu9Sgp5T7bFuX3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-2aeced-dark.svg"><img alt="JUVENILE · The Blaze" src="assets/track-3-2aeced-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4pEEaVhg7B1JJks7HmBNQI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-2aeced-dark.svg"><img alt="Sail Away · Møme, Ricky Ducati" src="assets/track-4-2aeced-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0BoN65Yg0SA6SkKZRIHCZf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-2aeced-dark.svg"><img alt="On My Mind · Lynnic, ItsArius, Kezano" src="assets/track-5-2aeced-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/45Q6hkvGtzW0VUybDnQ4n8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-2aeced-dark.svg"><img alt="Beyond the Fire · Don Diablo" src="assets/track-6-2aeced-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-d83c56-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-d83c56-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7jNnW7e1prkMtR7EKsTElp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-d83c56-dark.svg"><img alt="Price · PALASTIC" src="assets/track-0-d83c56-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4O08MXwFgXuoyjmbz8boTe"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-d83c56-dark.svg"><img alt="Love Tonight · 19Clouds" src="assets/track-1-d83c56-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5N0gYjiv1nM1Q7pg7PsgYZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-d83c56-dark.svg"><img alt="Moment · FranBroon" src="assets/track-2-d83c56-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3eKdMlPONnxz5quSb2VpKU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-d83c56-dark.svg"><img alt="Ice &amp; Cold · Tom Enzy, LissA" src="assets/track-3-d83c56-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2Yp20FZndUt36hb0NJHZI8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-d83c56-dark.svg"><img alt="Strings Attached · Nu Aspect, Arkaden, Sam Welch" src="assets/track-4-d83c56-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0BEJUhnPtISHltKfMZ530B"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-d83c56-dark.svg"><img alt="Again · Pato Shoucair" src="assets/track-5-d83c56-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3vzBf1egEjRliBlnIJTW1T"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-d83c56-dark.svg"><img alt="Goodbye · AVAION, Sam Welch" src="assets/track-6-d83c56-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,827 commits</summary>
+<summary><b>2026</b> · 1,828 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 190 commits</summary>
+<summary>November 2026 · 191 commits</summary>
 <br>
 
 <picture>
