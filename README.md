@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-d83c56-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-d83c56-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7jNnW7e1prkMtR7EKsTElp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-d83c56-dark.svg"><img alt="Price · PALASTIC" src="assets/track-0-d83c56-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4O08MXwFgXuoyjmbz8boTe"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-d83c56-dark.svg"><img alt="Love Tonight · 19Clouds" src="assets/track-1-d83c56-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5N0gYjiv1nM1Q7pg7PsgYZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-d83c56-dark.svg"><img alt="Moment · FranBroon" src="assets/track-2-d83c56-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3eKdMlPONnxz5quSb2VpKU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-d83c56-dark.svg"><img alt="Ice &amp; Cold · Tom Enzy, LissA" src="assets/track-3-d83c56-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2Yp20FZndUt36hb0NJHZI8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-d83c56-dark.svg"><img alt="Strings Attached · Nu Aspect, Arkaden, Sam Welch" src="assets/track-4-d83c56-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0BEJUhnPtISHltKfMZ530B"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-d83c56-dark.svg"><img alt="Again · Pato Shoucair" src="assets/track-5-d83c56-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3vzBf1egEjRliBlnIJTW1T"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-d83c56-dark.svg"><img alt="Goodbye · AVAION, Sam Welch" src="assets/track-6-d83c56-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-fe6a27-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-fe6a27-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5lebcpNhPX5sAPUjKyyYgY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-fe6a27-dark.svg"><img alt="All I Want Is You · Lavern, NEIMY" src="assets/track-0-fe6a27-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6imQI6vgJSuryIk1RsncJn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-fe6a27-dark.svg"><img alt="Chihiro · ODNP" src="assets/track-1-fe6a27-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5Pjs5I7sQPgip0iabFNip6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-fe6a27-dark.svg"><img alt="Missing You · 19Clouds, Dezko" src="assets/track-2-fe6a27-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4gBkrpJoPBZKY0T1gyJ4iU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-fe6a27-dark.svg"><img alt="Run Deep · Nu Aspect" src="assets/track-3-fe6a27-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0oeoFnzBtWeWhkzISedXTS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-fe6a27-dark.svg"><img alt="Haunted By You · Kisaya" src="assets/track-4-fe6a27-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4a9WGmpSTpy2C7mYixenDq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-fe6a27-dark.svg"><img alt="Feeling The Same · Nyday" src="assets/track-5-fe6a27-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0jzy9oTh78XVEv6yXtJ5ZQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-fe6a27-dark.svg"><img alt="Lost In The Lights (feat. Joel Marques) · Nosi, Joel Marques" src="assets/track-6-fe6a27-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,828 commits</summary>
+<summary><b>2026</b> · 1,830 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 191 commits</summary>
+<summary>November 2026 · 193 commits</summary>
 <br>
 
 <picture>
