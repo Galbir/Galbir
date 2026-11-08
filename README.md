@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-bcfc0f-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-bcfc0f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6MNUzV1jeVjRuR0EtOdZH5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-bcfc0f-dark.svg"><img alt="Postman · H:dn" src="assets/track-0-bcfc0f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3RzMm7UF45THfWav8wVdQa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-bcfc0f-dark.svg"><img alt="Hello (The Sun Is Up Where Are You) · Mizmo" src="assets/track-1-bcfc0f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0QDKg5HKt97od5Hcye67WG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-bcfc0f-dark.svg"><img alt="pretend · butter" src="assets/track-2-bcfc0f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2ZGSXWF4H5HogHxtKbyckj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-bcfc0f-dark.svg"><img alt="We Run · Small Town Kid" src="assets/track-3-bcfc0f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/29hajMCDyDKUxcex3p927H"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-bcfc0f-dark.svg"><img alt="The World Slows Down · NOVEMBER KID" src="assets/track-4-bcfc0f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2qxg6IDl6zfTDBI6M7xeTM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-bcfc0f-dark.svg"><img alt="Cold World · Why U So" src="assets/track-5-bcfc0f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6zebgbvTnD3NsCgNgRRnk8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-bcfc0f-dark.svg"><img alt="That&#39;s Where I Should Be · MA:RK" src="assets/track-6-bcfc0f-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-239f21-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-239f21-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2q2FKh3z8T67C3r6vZJwON"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-239f21-dark.svg"><img alt="higher · kenu" src="assets/track-0-239f21-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6MNUzV1jeVjRuR0EtOdZH5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-239f21-dark.svg"><img alt="Postman · H:dn" src="assets/track-1-239f21-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3RzMm7UF45THfWav8wVdQa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-239f21-dark.svg"><img alt="Hello (The Sun Is Up Where Are You) · Mizmo" src="assets/track-2-239f21-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0QDKg5HKt97od5Hcye67WG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-239f21-dark.svg"><img alt="pretend · butter" src="assets/track-3-239f21-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2ZGSXWF4H5HogHxtKbyckj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-239f21-dark.svg"><img alt="We Run · Small Town Kid" src="assets/track-4-239f21-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/29hajMCDyDKUxcex3p927H"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-239f21-dark.svg"><img alt="The World Slows Down · NOVEMBER KID" src="assets/track-5-239f21-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2qxg6IDl6zfTDBI6M7xeTM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-239f21-dark.svg"><img alt="Cold World · Why U So" src="assets/track-6-239f21-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,851 commits</summary>
+<summary><b>2026</b> · 1,852 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 214 commits</summary>
+<summary>November 2026 · 215 commits</summary>
 <br>
 
 <picture>
