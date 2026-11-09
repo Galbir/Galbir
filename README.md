@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-351bf4-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-351bf4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0v4MtRCfE9YrXUGYJL0nrQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-351bf4-dark.svg"><img alt="Promise You · D.O.D, Flynn" src="assets/track-0-351bf4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-351bf4-dark.svg"><img alt="Victory Lap · Fred again.., Skepta, PlaqueBoyMax" src="assets/track-1-351bf4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7fvuJP8GXsloNyoQ0iLUzv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-351bf4-dark.svg"><img alt="Boston · Ian Asher, STELLA LEFTY" src="assets/track-2-351bf4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5KBM1vB9oIFyw95YgAfRbN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-351bf4-dark.svg"><img alt="Babydoll · Ely Oaks" src="assets/track-3-351bf4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2C96iPyCRXL5sOKivhlOWp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-351bf4-dark.svg"><img alt="tell you straight · jigitz" src="assets/track-4-351bf4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0Vcss0GZ1rbNI7QQPfXeg4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-351bf4-dark.svg"><img alt="Jamaican (Bam Bam) · HUGEL, SOLTO (FR)" src="assets/track-5-351bf4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-351bf4-dark.svg"><img alt="Giving Me · Jazzy" src="assets/track-6-351bf4-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-fc1a3e-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-fc1a3e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0i6IwA0yEGjxHaY7O2PKMH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-fc1a3e-dark.svg"><img alt="Self Aware · Ely Oaks" src="assets/track-0-fc1a3e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1xtDflWAisSMU7k6QHG71U"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-fc1a3e-dark.svg"><img alt="Rain · FISHER" src="assets/track-1-fc1a3e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3CPhCNH8rV1czzGSmXm9TH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-fc1a3e-dark.svg"><img alt="messy · Łaszewo" src="assets/track-2-fc1a3e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/76dIZzTdrNO15mGBrU3MHi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-fc1a3e-dark.svg"><img alt="One Kiss (with Dua Lipa) · Calvin Harris, Dua Lipa" src="assets/track-3-fc1a3e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6RLBwMcxEX9QS2XYO7Xc52"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-fc1a3e-dark.svg"><img alt="Heartbeat · MIND" src="assets/track-4-fc1a3e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2M7S8QWAYNkYiA6lSl47YB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-fc1a3e-dark.svg"><img alt="SET ME FREE · Mattilo" src="assets/track-5-fc1a3e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5duVr8P4QByYmuK5gV4pvm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-fc1a3e-dark.svg"><img alt="Sweet Dreams · Blair Muir" src="assets/track-6-fc1a3e-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,868 commits</summary>
+<summary><b>2026</b> · 1,869 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 231 commits</summary>
+<summary>November 2026 · 232 commits</summary>
 <br>
 
 <picture>
