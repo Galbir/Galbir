@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-bcada3-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-bcada3-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1NlIoNToanthaXHzapI3ct"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-bcada3-dark.svg"><img alt="Lovers On The Dancefloor · BLOND:ISH, Kurtis Wells" src="assets/track-0-bcada3-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2gRcRlKTI8WSQhufYPlO1Z"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-bcada3-dark.svg"><img alt="s.o.s · jigitz, Tabi" src="assets/track-1-bcada3-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5oWdQV5ydvmB4uwDgJrDov"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-bcada3-dark.svg"><img alt="Side To Side · nate band" src="assets/track-2-bcada3-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7wNKtCzafd3om6QKiub1Js"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-bcada3-dark.svg"><img alt="Moment · BUNT." src="assets/track-3-bcada3-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7cUbp94LSOVsWEIIm5Hj2s"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-bcada3-dark.svg"><img alt="TIME WITH YOU · John Summit, KILIMANJARO" src="assets/track-4-bcada3-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-bcada3-dark.svg"><img alt="Wait So Long (Why Do I Have To) · Swedish House Mafia" src="assets/track-5-bcada3-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6RmHESttla4I4g4vr0NLkQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-bcada3-dark.svg"><img alt="Stunner · Deeper Purpose, Jack Orley, Michael Ekow" src="assets/track-6-bcada3-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-5633eb-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-5633eb-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5UBJLjnWWPU2dPwhfyVYqy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-5633eb-dark.svg"><img alt="thumbs · jigitz, Lambb" src="assets/track-0-5633eb-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0JFFdd5YYR28x6CNN3VWHX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-5633eb-dark.svg"><img alt="Talking Body · MOONLGHT, Mr. Moon" src="assets/track-1-5633eb-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7wFwf1j6nn7uneEF6oTAiR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-5633eb-dark.svg"><img alt="Long Jacket · Chris Lake, Chris Lorenzo, Kenny Beats, CAKE" src="assets/track-2-5633eb-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0FBdJP7yzvq88bG1keGgt4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-5633eb-dark.svg"><img alt="High and I Like it · it&#39;s murph, Evalyn" src="assets/track-3-5633eb-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-5633eb-dark.svg"><img alt="Got Me Started · Troye Sivan" src="assets/track-4-5633eb-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5Z8Dj3LtbyCMiwE86rhg2f"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-5633eb-dark.svg"><img alt="Marea (we’ve lost dancing) · Fred again.., The Blessed Madonna" src="assets/track-5-5633eb-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2PxJ5XoT05UT8bsX13umqx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-5633eb-dark.svg"><img alt="skinny love · BL3SS" src="assets/track-6-5633eb-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,875 commits</summary>
+<summary><b>2026</b> · 1,876 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 238 commits</summary>
+<summary>November 2026 · 239 commits</summary>
 <br>
 
 <picture>
