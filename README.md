@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-eaba77-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-eaba77-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1VDfvBUMwL3m1Sd9dMorR4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-eaba77-dark.svg"><img alt="Money Made Me A Savage - Calabria · Ely Oaks, LAVINIA" src="assets/track-0-eaba77-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7Dev2VJdJKwIIUdj3lcQl9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-eaba77-dark.svg"><img alt="Release The Pressure · Calvin Harris, Kasabian" src="assets/track-1-eaba77-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-eaba77-dark.svg"><img alt="The Less I Know The Better · Mau P" src="assets/track-2-eaba77-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5fdyY4Pm6lbuMJ1pjT88gN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-eaba77-dark.svg"><img alt="Peace &amp; Patience · Jazzy" src="assets/track-3-eaba77-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7JHkJ5mDS868b5j5h67cwL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-eaba77-dark.svg"><img alt="Coming Up (It’s Dare) · Odd Mob, OMNOM, HYPERBEAM" src="assets/track-4-eaba77-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-eaba77-dark.svg"><img alt="This Girl (Kungs Vs. Cookin&#39; On 3 Burners) · Kungs, Cookin&#39; On 3 Burners" src="assets/track-5-eaba77-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-eaba77-dark.svg"><img alt="This Girl (Kungs Vs. Cookin&#39; On 3 Burners) · Kungs, Cookin&#39; On 3 Burners" src="assets/track-6-eaba77-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-29a23f-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-29a23f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2M3FZEyvrGDgsiXipszMbR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-29a23f-dark.svg"><img alt="Say My Name - Dub Remix · Morgan Seatree" src="assets/track-0-29a23f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/68rzcUjhfEQt1Xlkh7l56a"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-29a23f-dark.svg"><img alt="Asking · Sonny Fodera, MK, Clementine Douglas" src="assets/track-1-29a23f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2wRKES8HKm4EutRHz7JD1x"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-29a23f-dark.svg"><img alt="light years (feat. Inéz) · John Summit, Inéz" src="assets/track-2-29a23f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6vbgxOSyw64p5VzkQOHT8g"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-29a23f-dark.svg"><img alt="We Used To Dance Here · Sigala" src="assets/track-3-29a23f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-29a23f-dark.svg"><img alt="Saving Up · Dom Dolla" src="assets/track-4-29a23f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/34HK6GBLgLAvH8uZVqpYX3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-29a23f-dark.svg"><img alt="Loving Me · CAMELPHAT, Malandra Jr." src="assets/track-5-29a23f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4jVuZjOuBL2yj4R3fgeBAf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-29a23f-dark.svg"><img alt="Stay For Love · Kaskade, Brieanna Grace" src="assets/track-6-29a23f-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,873 commits</summary>
+<summary><b>2026</b> · 1,874 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 236 commits</summary>
+<summary>November 2026 · 237 commits</summary>
 <br>
 
 <picture>
