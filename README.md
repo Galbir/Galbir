@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-47f0a2-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-47f0a2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-47f0a2-dark.svg"><img alt="No Bad Vibes · Jazzy, KILIMANJARO" src="assets/track-0-47f0a2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/44wR4NqR75eJMETxrz59Sr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-47f0a2-dark.svg"><img alt="Favour · FISHER, Tones And I" src="assets/track-1-47f0a2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5r51JWgvnz3E3MT06adcCw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-47f0a2-dark.svg"><img alt="Here &amp; Now · Hayden James, Maria Hazell" src="assets/track-2-47f0a2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3wRO9Pt5iPbZTs8YT1x69Q"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-47f0a2-dark.svg"><img alt="Just A Little Bit More · Mau P" src="assets/track-3-47f0a2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6O1Amd1GbUPMg2ugA4OIqh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-47f0a2-dark.svg"><img alt="Back To The Start · BUNT." src="assets/track-4-47f0a2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3zEtrCrypOOIWKEapaTpq5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-47f0a2-dark.svg"><img alt="Think About Us · Sonny Fodera, D.O.D, Poppy Baskcomb" src="assets/track-5-47f0a2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4krcWtZK3AsVE1Jl4oqH8w"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-47f0a2-dark.svg"><img alt="ALL THE TIME · John Summit, The Chainsmokers, Ilsey" src="assets/track-6-47f0a2-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-0ef052-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-0ef052-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-0ef052-dark.svg"><img alt="Running Around · Ely Oaks" src="assets/track-0-0ef052-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7czFYbkjbMdgbUXbkt7jUU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-0ef052-dark.svg"><img alt="I Run · HAVEN., Kaitlin Aragon" src="assets/track-1-0ef052-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-0ef052-dark.svg"><img alt="Movin&#39; To The Sun · HUGEL, Ultra Naté" src="assets/track-2-0ef052-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-0ef052-dark.svg"><img alt="No Bad Vibes · Jazzy, KILIMANJARO" src="assets/track-3-0ef052-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/44wR4NqR75eJMETxrz59Sr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-0ef052-dark.svg"><img alt="Favour · FISHER, Tones And I" src="assets/track-4-0ef052-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5r51JWgvnz3E3MT06adcCw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-0ef052-dark.svg"><img alt="Here &amp; Now · Hayden James, Maria Hazell" src="assets/track-5-0ef052-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3wRO9Pt5iPbZTs8YT1x69Q"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-0ef052-dark.svg"><img alt="Just A Little Bit More · Mau P" src="assets/track-6-0ef052-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,861 commits</summary>
+<summary><b>2026</b> · 1,862 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 224 commits</summary>
+<summary>November 2026 · 225 commits</summary>
 <br>
 
 <picture>
