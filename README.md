@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-23b71a-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-23b71a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5TbTOkgK8UAjtjIuIVPAjE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-23b71a-dark.svg"><img alt="DON&#39;T BELIEVE IT · John Summit, Absolutely" src="assets/track-0-23b71a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2FMERdGJeSKefMyz80oYyi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-23b71a-dark.svg"><img alt="Manhattan · Carlita, SOFI TUKKER" src="assets/track-1-23b71a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0zVYrhlpgLHLqnEtv38Fko"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-23b71a-dark.svg"><img alt="Ease My Mind · Chris Lake, Abel Balder" src="assets/track-2-23b71a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-23b71a-dark.svg"><img alt="You &amp; Me - Rivo Remix · Disclosure, Rivo, Eliza Doolittle" src="assets/track-3-23b71a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-23b71a-dark.svg"><img alt="Words (feat. Zara Larsson) · Alesso, Zara Larsson" src="assets/track-4-23b71a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6s2vYgLML3ClOtlJhYyYKR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-23b71a-dark.svg"><img alt="Hit &#39;Em Up Style (Oops!) · ESSEL, James Hurr" src="assets/track-5-23b71a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-23b71a-dark.svg"><img alt="Blessings · Calvin Harris, Clementine Douglas" src="assets/track-6-23b71a-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-351bf4-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-351bf4-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0v4MtRCfE9YrXUGYJL0nrQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-351bf4-dark.svg"><img alt="Promise You · D.O.D, Flynn" src="assets/track-0-351bf4-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-351bf4-dark.svg"><img alt="Victory Lap · Fred again.., Skepta, PlaqueBoyMax" src="assets/track-1-351bf4-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7fvuJP8GXsloNyoQ0iLUzv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-351bf4-dark.svg"><img alt="Boston · Ian Asher, STELLA LEFTY" src="assets/track-2-351bf4-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5KBM1vB9oIFyw95YgAfRbN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-351bf4-dark.svg"><img alt="Babydoll · Ely Oaks" src="assets/track-3-351bf4-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2C96iPyCRXL5sOKivhlOWp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-351bf4-dark.svg"><img alt="tell you straight · jigitz" src="assets/track-4-351bf4-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0Vcss0GZ1rbNI7QQPfXeg4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-351bf4-dark.svg"><img alt="Jamaican (Bam Bam) · HUGEL, SOLTO (FR)" src="assets/track-5-351bf4-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-351bf4-dark.svg"><img alt="Giving Me · Jazzy" src="assets/track-6-351bf4-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,866 commits</summary>
+<summary><b>2026</b> · 1,868 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 229 commits</summary>
+<summary>November 2026 · 231 commits</summary>
 <br>
 
 <picture>
