@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-76b0d0-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-76b0d0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6b86AhZ0bwJrjLaRqFnB7L"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-76b0d0-dark.svg"><img alt="i need u · BUNT., Malou" src="assets/track-0-76b0d0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/273ESJO18WuQ1u0EdiY1rq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-76b0d0-dark.svg"><img alt="SHADOWS · John Summit, LAVINIA" src="assets/track-1-76b0d0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4sWahbvbrftSvMr9gEuSys"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-76b0d0-dark.svg"><img alt="Let Me Be In Your Arms · Sonny Fodera, Libianca" src="assets/track-2-76b0d0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7zBUd2g1tvHbnWUazGo5rR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-76b0d0-dark.svg"><img alt="Slow Down · MIND" src="assets/track-3-76b0d0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6oUgmZK0McW4706SLJlfDh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-76b0d0-dark.svg"><img alt="Better · nimino, Manta" src="assets/track-4-76b0d0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/485nLJZerU3hNinB1WQ9ms"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-76b0d0-dark.svg"><img alt="R U Mine · D.O.D, MALARKEY, Marlo Rex" src="assets/track-5-76b0d0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2Etc5USEJgKXyNd53YVZxO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-76b0d0-dark.svg"><img alt="50 ballerinas · jigitz, okgiorgio, Tabi" src="assets/track-6-76b0d0-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-5adbc5-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-5adbc5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0eUP3XYOCAj7lGoz4LOhyQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-5adbc5-dark.svg"><img alt="Talk To You (ft. 54 Ultra) · ANOTR, 54 Ultra" src="assets/track-0-5adbc5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2GRNBHkLmYVmrtFhtZpW8w"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-5adbc5-dark.svg"><img alt="Running Blind · NOTSOBAD, i.am.u." src="assets/track-1-5adbc5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6r7b1UHvO3fBZe7wBXWTaZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-5adbc5-dark.svg"><img alt="Black Out Days (Stay Away) · Ian Asher, Phantogram" src="assets/track-2-5adbc5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0VFmkwR6SCmT7TIJThlCn9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-5adbc5-dark.svg"><img alt="Orla · nimino" src="assets/track-3-5adbc5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-5adbc5-dark.svg"><img alt="Still Sleepless · D.O.D, Carla Monroe" src="assets/track-4-5adbc5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6xq0LSTHQqpI4YOa41w5Bm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-5adbc5-dark.svg"><img alt="Missing You · PALASTIC" src="assets/track-5-5adbc5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6jhAJgaS9OttFwP5Cn8WII"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-5adbc5-dark.svg"><img alt="Ocean · FISHER, AR/CO" src="assets/track-6-5adbc5-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,872 commits</summary>
+<summary><b>2026</b> · 1,873 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 235 commits</summary>
+<summary>November 2026 · 236 commits</summary>
 <br>
 
 <picture>
