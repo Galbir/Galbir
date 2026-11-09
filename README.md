@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-2e0a44-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-2e0a44-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-2e0a44-dark.svg"><img alt="Rasputin · Majestic, Boney M." src="assets/track-0-2e0a44-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1KbLVz3ZcdUOt2wBXqU2cG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-2e0a44-dark.svg"><img alt="What A Life · John Summit, Guz, Stevie Appleton" src="assets/track-1-2e0a44-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-2e0a44-dark.svg"><img alt="If U Need It · Sammy Virji" src="assets/track-2-2e0a44-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-2e0a44-dark.svg"><img alt="Summer 91 (Looking Back) · Noizu" src="assets/track-3-2e0a44-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-2e0a44-dark.svg"><img alt="You Little Beauty · FISHER" src="assets/track-4-2e0a44-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1PnmXdkqRktZT67tE8fv7d"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-2e0a44-dark.svg"><img alt="I Follow Rivers - The Magician Remix · Lykke Li, The Magician" src="assets/track-5-2e0a44-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3JGvqlIZr8pvabWHmZwPsU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-2e0a44-dark.svg"><img alt="In the Moment - Adriatique Remix · RÜFÜS DU SOL, Adriatique" src="assets/track-6-2e0a44-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-b6f7dd-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-b6f7dd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1VSRfRr9ZLbVqgankVYuGo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-b6f7dd-dark.svg"><img alt="Show Me Love · WizTheMc, bees &amp; honey" src="assets/track-0-b6f7dd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7J3YKBt70o8iB3UXGtUiho"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-b6f7dd-dark.svg"><img alt="I Wanna Go - John Summit Remix · John Summit, Britney Spears" src="assets/track-1-b6f7dd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5rjtekAXWrmLGQKCYQ3ytF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-b6f7dd-dark.svg"><img alt="Hard To be Around · Tiësto, Cleopard2000, CH4YN" src="assets/track-2-b6f7dd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5TSosWUBCHu3s2se2XdAi7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-b6f7dd-dark.svg"><img alt="Mania - Alice Merton Remix · Ely Oaks, LAVINIA, Alice Merton" src="assets/track-3-b6f7dd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6xupcsJHo3wW2tSVKwu4mf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-b6f7dd-dark.svg"><img alt="Self Aware · LUM!X" src="assets/track-4-b6f7dd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7dX72nBWi8thmjq0JI8EBk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-b6f7dd-dark.svg"><img alt="Reasons · LAVINIA, Ely Oaks" src="assets/track-5-b6f7dd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6tcgndx199nRpSI7RIzNg9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-b6f7dd-dark.svg"><img alt="The Days - D.O.D Remix · Chrystal, D.O.D" src="assets/track-6-b6f7dd-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,874 commits</summary>
+<summary><b>2026</b> · 1,875 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 237 commits</summary>
+<summary>November 2026 · 238 commits</summary>
 <br>
 
 <picture>
