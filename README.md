@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-ba2463-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-ba2463-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4sMR8fuTzbUyzB0asxifV0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-ba2463-dark.svg"><img alt="Desire · Ian Asher, Olly Alexander (Years &amp; Years)" src="assets/track-0-ba2463-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1O8jgjoGRcRwcD4QPQbz8S"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-ba2463-dark.svg"><img alt="Talk of the Town · Fred again.., Sammy Virji, Reggie" src="assets/track-1-ba2463-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5qyUnWGjc9CR778BlKTAn5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-ba2463-dark.svg"><img alt="what i feel · jigitz" src="assets/track-2-ba2463-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7hb5jmdxk9qOwZeSkYJpqb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-ba2463-dark.svg"><img alt="WACUKA · AVAION, Sofiya Nzau" src="assets/track-3-ba2463-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7KUPK7cI9Fs5ySmvLjZDx7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-ba2463-dark.svg"><img alt="Sober · VisionV, Courtney Storm" src="assets/track-4-ba2463-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-ba2463-dark.svg"><img alt="Stumblin&#39; In · CYRIL" src="assets/track-5-ba2463-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2OF6kU2IoJU68h8w9exPLV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-ba2463-dark.svg"><img alt="Aftertaste · CARTFISH" src="assets/track-6-ba2463-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-fa1ef8-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-fa1ef8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5jXj96xdtF03bTwkSYj2rT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-fa1ef8-dark.svg"><img alt="Bulletproof (This Time Baby) [feat. La Roux] · Ian Asher, La Roux" src="assets/track-0-fa1ef8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/00lIRIor6J7ZEW6hSP6dDL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-fa1ef8-dark.svg"><img alt="2AM · MOONLGHT, Mr. Moon" src="assets/track-1-fa1ef8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4UTQePjmFLhOCmKtxjCp4y"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-fa1ef8-dark.svg"><img alt="free myself · jigitz" src="assets/track-2-fa1ef8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4fZLc0wDQI58O19N5rkK2K"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-fa1ef8-dark.svg"><img alt="Feel Again · Sonny Fodera" src="assets/track-3-fa1ef8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/77MN0cd5C97q1KIGNfNVA4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-fa1ef8-dark.svg"><img alt="Edge of Seventeen · Wuki" src="assets/track-4-fa1ef8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3k5VWLIsJQFYrJvIrNLLvK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-fa1ef8-dark.svg"><img alt="Stone Cold Eyes · it&#39;s murph, Emi Grace" src="assets/track-5-fa1ef8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1Fxe2KrFhDFrPRYDEuzXYL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-fa1ef8-dark.svg"><img alt="Something Real · BUNT., Deyaz" src="assets/track-6-fa1ef8-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,870 commits</summary>
+<summary><b>2026</b> · 1,871 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 233 commits</summary>
+<summary>November 2026 · 234 commits</summary>
 <br>
 
 <picture>
