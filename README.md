@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-aa8e23-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-aa8e23-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7f9WkDtkzDEZNwJOxb76PE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-aa8e23-dark.svg"><img alt="Familiar · Distant Matter" src="assets/track-0-aa8e23-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/58K8ZHVr7AjSFRju3Mlxvp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-aa8e23-dark.svg"><img alt="Somedays · Sonny Fodera, Jazzy, D.O.D" src="assets/track-1-aa8e23-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2Ud0U3EGKc2phvO5XTwusv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-aa8e23-dark.svg"><img alt="All Good Things (Come To An End) · Ian Asher, Nelly Furtado" src="assets/track-2-aa8e23-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-aa8e23-dark.svg"><img alt="The Days - NOTION Remix · Chrystal, NOTION" src="assets/track-3-aa8e23-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7iTvPYqoZ5mN2kUikWLGo0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-aa8e23-dark.svg"><img alt="car crash · jigitz, Charlotte Plank" src="assets/track-4-aa8e23-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1Eqdkt6DfGNWElHpeujHGJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-aa8e23-dark.svg"><img alt="HIGHJACK (right back) · Alok, Łaszewo, A$AP Rocky" src="assets/track-5-aa8e23-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-aa8e23-dark.svg"><img alt="She’s Gone, Dance On · Disclosure" src="assets/track-6-aa8e23-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-bdb47c-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-bdb47c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1z6pTKnrEpokcfwked9cNx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-bdb47c-dark.svg"><img alt="I&#39;m Not Alone - MPH Remix · Calvin Harris, MPH" src="assets/track-0-bdb47c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4Nh7Umpl8YPFPcggcby6JW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-bdb47c-dark.svg"><img alt="Runaway (U &amp; I) · Ian Asher, Galantis" src="assets/track-1-bdb47c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1Xwmm4J0BYmSRush63By5y"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-bdb47c-dark.svg"><img alt="Jungle · Fred again.." src="assets/track-2-bdb47c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/50mqyqeQdq5WSgjHyoXeMz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-bdb47c-dark.svg"><img alt="overtime · jigitz, KUČKA" src="assets/track-3-bdb47c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-bdb47c-dark.svg"><img alt="Ferrari · James Hype, Miggy Dela Rosa" src="assets/track-4-bdb47c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1eazMLblFwx60PlH6e506v"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-bdb47c-dark.svg"><img alt="Borderline · Ely Oaks, LAVINIA" src="assets/track-5-bdb47c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2NP35GAj6usPBqYRV9fA3L"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-bdb47c-dark.svg"><img alt="Choice (feat. Kareen Lomax) · MK, Kareen Lomax" src="assets/track-6-bdb47c-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,869 commits</summary>
+<summary><b>2026</b> · 1,870 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 232 commits</summary>
+<summary>November 2026 · 233 commits</summary>
 <br>
 
 <picture>
