@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-02e350-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-02e350-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4b8cLJwAyjgridt9WzQLWO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-02e350-dark.svg"><img alt="Be Free · D.O.D" src="assets/track-0-02e350-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2rkUhGw5iWbBY1PE5AnCl8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-02e350-dark.svg"><img alt="Way Too Self Aware · Ian Asher" src="assets/track-1-02e350-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5fYovldszObZhx7XdvMbgN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-02e350-dark.svg"><img alt="Hideaway · Kiesza" src="assets/track-2-02e350-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2weibCrIRBDPColZHhL88Y"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-02e350-dark.svg"><img alt="Utopia · Walker &amp; Royce, FENIK" src="assets/track-3-02e350-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/50qTL5C9JZ1BNU2VqHD5zV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-02e350-dark.svg"><img alt="From Your Eyes · BUNT., Damzz" src="assets/track-4-02e350-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-02e350-dark.svg"><img alt="Losing It · FISHER" src="assets/track-5-02e350-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4CfcXnwLf2MUfnjCnqUMvj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-02e350-dark.svg"><img alt="Go Back (feat. Julia Church) · John Summit, Sub Focus, Julia Church" src="assets/track-6-02e350-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-53444d-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-53444d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3vF5tKs2uDgmFd3TzwrJ17"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-53444d-dark.svg"><img alt="I Can Dance · BYOR, Mentum" src="assets/track-0-53444d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-53444d-dark.svg"><img alt="Forever · ZULAN" src="assets/track-1-53444d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3vVapQ0417yRGO66kWT2V3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-53444d-dark.svg"><img alt="Comes and Goes - Dom Dolla Remix · KETTAMA, Dom Dolla" src="assets/track-2-53444d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1H1w1u2Z9FPHeaEONhbt9x"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-53444d-dark.svg"><img alt="like i can · Biscits" src="assets/track-3-53444d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6YiIWuVXS4AqF1KvUGMwyx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-53444d-dark.svg"><img alt="crystallized (feat. Inéz) · John Summit, Inéz" src="assets/track-4-53444d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2h8PCZRGBv7ayMVmWidpvd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-53444d-dark.svg"><img alt="leavemealone · Fred again.., Baby Keem" src="assets/track-5-53444d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2hJrcyEOlsMU2UNJdajYoW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-53444d-dark.svg"><img alt="All This Time · Sonny Fodera, Jazzy" src="assets/track-6-53444d-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,871 commits</summary>
+<summary><b>2026</b> · 1,872 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 234 commits</summary>
+<summary>November 2026 · 235 commits</summary>
 <br>
 
 <picture>
