@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-a6f77f-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-a6f77f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1yPRNFhue7yteEtFKn32W6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-a6f77f-dark.svg"><img alt="dots · all things break" src="assets/track-0-a6f77f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3bcuj62DusW3T4UhAgdlOU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-a6f77f-dark.svg"><img alt="WILD · BOVSKI, Valexus" src="assets/track-1-a6f77f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6hxDnTsyOeuisitIJ0YluH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-a6f77f-dark.svg"><img alt="Slow Me Down · H:dn" src="assets/track-2-a6f77f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1sDujG051zXKNA9Na89qzD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-a6f77f-dark.svg"><img alt="Welcome To Miami · Bass Mode" src="assets/track-3-a6f77f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6ilevjTuIVGyRkS6xDumYP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-a6f77f-dark.svg"><img alt="Disparate Youth · Danell Arma" src="assets/track-4-a6f77f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5eVx4amYTu9v9vSAJLCcpC"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-a6f77f-dark.svg"><img alt="Disco Bus - Original Mix · Deeper Purpose" src="assets/track-5-a6f77f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/66EtAQ9uBQwoOBn4QSqm5R"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-a6f77f-dark.svg"><img alt="Vertigo - ODNP Remix · Lyrah, ODNP" src="assets/track-6-a6f77f-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-75b00c-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-75b00c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5NcEmaUy1EGAV41jTDiPzz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-75b00c-dark.svg"><img alt="Chromatic · Anti Up" src="assets/track-0-75b00c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7IxEPP3CRoqZEpzOZIk4fQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-75b00c-dark.svg"><img alt="Don&#39;t Call Me Back · Canpulse" src="assets/track-1-75b00c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1sQbCylbTuYgh3gFOA9NYG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-75b00c-dark.svg"><img alt="I GOT U · Moonkids" src="assets/track-2-75b00c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7HhEt94NDY99LtWUeNwbLh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-75b00c-dark.svg"><img alt="you feel like home · iilliaa, sadagain" src="assets/track-3-75b00c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1Q3YfC1onmq3WQWA8l8j2N"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-75b00c-dark.svg"><img alt="Sailor Moon - Sped Up · NONSENSE" src="assets/track-4-75b00c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3ZcYHFnraOC9hRA3ReHRCv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-75b00c-dark.svg"><img alt="Alone · Ash Vanz" src="assets/track-5-75b00c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-75b00c-dark.svg"><img alt="You &amp; Me - Rivo Remix · Disclosure, Rivo, Eliza Doolittle" src="assets/track-6-75b00c-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,908 commits</summary>
+<summary><b>2026</b> · 1,909 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 271 commits</summary>
+<summary>November 2026 · 272 commits</summary>
 <br>
 
 <picture>
