@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-f596da-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-f596da-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0xfaueObN3HUHzVQg0fFyS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-f596da-dark.svg"><img alt="Call Me · Onlyfriends" src="assets/track-0-f596da-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5eHn6hw35OHJpXWc4jtSMV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-f596da-dark.svg"><img alt="scars · imposter" src="assets/track-1-f596da-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4d2RVaW1zU6Fo70VNN9U4m"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-f596da-dark.svg"><img alt="Sex on Fire · Guala" src="assets/track-2-f596da-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6OLoMpjjN41h5PE7SiRmC7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-f596da-dark.svg"><img alt="Good Girls · Matroda" src="assets/track-3-f596da-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0Hot8NQqkCgWmeQjJv3817"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-f596da-dark.svg"><img alt="MOVE LIKE THIS · AYYBO" src="assets/track-4-f596da-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0oM1DNoFDkf0dXLMBUZlvt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-f596da-dark.svg"><img alt="Number 1 · James Hype, Major Lazer" src="assets/track-5-f596da-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/44sJ8Y4MgY5gJMV5aNKD6P"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-f596da-dark.svg"><img alt="Ocean Eyes · Neptunica, 1 World" src="assets/track-6-f596da-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-7286bc-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-7286bc-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/241ezUiAMh6OvAySRzIfHl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-7286bc-dark.svg"><img alt="Every Time I Think About You · Subsurface" src="assets/track-0-7286bc-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2TiZ7uGPMZpsE5Y0y2gOsP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-7286bc-dark.svg"><img alt="SOMEDAYS · AVSTN, am.SOCIETY" src="assets/track-1-7286bc-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1DznCjR8ml1o2j2bEG5kN6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-7286bc-dark.svg"><img alt="Butterfly 2026 · bradeazy, Crazy Town" src="assets/track-2-7286bc-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1rtKyOgrNiqSNJbLl5Fdzp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-7286bc-dark.svg"><img alt="you&#39;re everywhere · Ecchi.mp4, Orlando, Kilu" src="assets/track-3-7286bc-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1T7fTFxkosqEF8AZzDvm6I"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-7286bc-dark.svg"><img alt="Can’t Fight The Feeling · Matroda" src="assets/track-4-7286bc-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2ohrcIyKheKGz3OOD46Azm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-7286bc-dark.svg"><img alt="BUSY · AYYBO, Calumdj" src="assets/track-5-7286bc-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0JrEm4vEEzpHsdcxHlRJop"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-7286bc-dark.svg"><img alt="Raw Control · Discip" src="assets/track-6-7286bc-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,884 commits</summary>
+<summary><b>2026</b> · 1,885 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 247 commits</summary>
+<summary>November 2026 · 248 commits</summary>
 <br>
 
 <picture>
