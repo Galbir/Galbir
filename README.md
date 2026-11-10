@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-688eab-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-688eab-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7brE4PDHUmdJMFle4OTTAA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-688eab-dark.svg"><img alt="Serotonine · Discip" src="assets/track-0-688eab-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2NZABaUZUleW2mIuDlh5ZA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-688eab-dark.svg"><img alt="Chill Like That · Sunday Scaries, PiCKUPLiNES" src="assets/track-1-688eab-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2E7AvgTYsaavMkKeH9TH6d"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-688eab-dark.svg"><img alt="ALREADY OVER IT · bystander, emerge" src="assets/track-2-688eab-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2E152c7Sxfrsm6zOgTusx1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-688eab-dark.svg"><img alt="Body High · it&#39;s murph, Emi Grace" src="assets/track-3-688eab-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2zX2viSugU43hOWCZvLiXi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-688eab-dark.svg"><img alt="On The Ground · oskar med k" src="assets/track-4-688eab-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1eaZvmJgzgIC8qjCGsYTRQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-688eab-dark.svg"><img alt="Snake Charmer · Fourword" src="assets/track-5-688eab-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3BbD2sqk7P7Rc9V0KF9o4s"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-688eab-dark.svg"><img alt="My Humps · Joshwa, Lee Foss" src="assets/track-6-688eab-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-b3a591-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-b3a591-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0e1mJ9n253zvfi1cdvHk6s"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-b3a591-dark.svg"><img alt="Hustlin&#39; · Martin Ikin" src="assets/track-0-b3a591-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-b3a591-dark.svg"><img alt="It&#39;s Not Right But It&#39;s Okay · Mr. Belt &amp; Wezol" src="assets/track-1-b3a591-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5JvbNbrYRVcavrsIIt8l9C"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-b3a591-dark.svg"><img alt="free to dream · BLISSFOOL" src="assets/track-2-b3a591-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6aisjMfoTpJoDa8jeXddkz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-b3a591-dark.svg"><img alt="Paparazzi · Gang Speed, Emilio" src="assets/track-3-b3a591-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2p2ovbp0ocjyVb5QRvi2R0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-b3a591-dark.svg"><img alt="belong to one · oskar med k" src="assets/track-4-b3a591-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3f5LJiAEHHZtW8bzF4qpNr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-b3a591-dark.svg"><img alt="I Got Feelings · Twin Diplomacy" src="assets/track-5-b3a591-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4PJYVBDYTKwK1hODEfytY7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-b3a591-dark.svg"><img alt="Tension · Kamino, Kyra Mastro" src="assets/track-6-b3a591-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,894 commits</summary>
+<summary><b>2026</b> · 1,896 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 257 commits</summary>
+<summary>November 2026 · 259 commits</summary>
 <br>
 
 <picture>
