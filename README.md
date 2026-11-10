@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-ec5848-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-ec5848-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0EccaqIxHxttldj2UK5yDV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-ec5848-dark.svg"><img alt="Ya Didn&#39;t · FISHER" src="assets/track-0-ec5848-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7yg9ediwcEiJ4p3is5bfoV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-ec5848-dark.svg"><img alt="around · Arden Jones" src="assets/track-1-ec5848-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5Zx3Uh6dGIVHWGUlWGnSlb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-ec5848-dark.svg"><img alt="Every Morning · Chris Lorenzo" src="assets/track-2-ec5848-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1dP519dbEob8H6wiouRdaY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-ec5848-dark.svg"><img alt="Family Affair (Dance For Me) · David Guetta" src="assets/track-3-ec5848-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4bhe0PVXsnv9Zvo9DKD27N"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-ec5848-dark.svg"><img alt="Let&#39;s Go Dancing - Matroda Remix · Tiga, Audion, Matroda" src="assets/track-4-ec5848-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3DLWVhaowApIGw1JnJj6GS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-ec5848-dark.svg"><img alt="Lose Control · James Hype" src="assets/track-5-ec5848-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0Ko5SpOe66Q1kADA4LiIk3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-ec5848-dark.svg"><img alt="Wicked Game · Toby Romeo" src="assets/track-6-ec5848-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-063c02-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-063c02-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2SweUwDKRlXeCDyaJddhWJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-063c02-dark.svg"><img alt="Wanna Go Dancin&#39; · FISHER" src="assets/track-0-063c02-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4SevuM9vs3a3RcKBPPfpym"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-063c02-dark.svg"><img alt="When It Kicks · Layton Giordani, Green Velvet" src="assets/track-1-063c02-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2YfUY8WzMU41T4WqDZidti"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-063c02-dark.svg"><img alt="3AM · Alden Martin, Carla Frigo" src="assets/track-2-063c02-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1C3AMOSfHfoLZ04rtQ7CeH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-063c02-dark.svg"><img alt="Stay - Sped Up · Misdemeanor" src="assets/track-3-063c02-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7dfqSBe3I7m2GxuigR0zGk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-063c02-dark.svg"><img alt="Right Here · Ely Oaks" src="assets/track-4-063c02-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-063c02-dark.svg"><img alt="Be The One · Eli Brown" src="assets/track-5-063c02-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2Uhdghg9xSrnVroK9KaJQa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-063c02-dark.svg"><img alt="Favorite Place · Ryan Reed" src="assets/track-6-063c02-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,880 commits</summary>
+<summary><b>2026</b> · 1,881 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 243 commits</summary>
+<summary>November 2026 · 244 commits</summary>
 <br>
 
 <picture>
