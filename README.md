@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-ec34cf-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-ec34cf-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6EsaaWaAf1uZKCQrdVtJCU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-ec34cf-dark.svg"><img alt="I Don&#39;t Care · Crunkz" src="assets/track-0-ec34cf-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5pDCSfBNQd7Vvuq5u8RH5q"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-ec34cf-dark.svg"><img alt="Waterfalls (feat. Sam Harper &amp; Bobby Harvey) [Ely Oaks Remix] · James Hype, Sam Harper, Bobby Harvey, Ely Oaks" src="assets/track-1-ec34cf-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1uAkm588k9NUecIuN3VVGq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-ec34cf-dark.svg"><img alt="Trap Queen - Garage · Insania" src="assets/track-2-ec34cf-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6jJlkCpr5ztFNIhEUWbMrE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-ec34cf-dark.svg"><img alt="Turn On The Lights again.. (feat. Future) · Fred again.., Swedish House Mafia, Future" src="assets/track-3-ec34cf-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-ec34cf-dark.svg"><img alt="Finally · Swedish House Mafia, Alicia Keys" src="assets/track-4-ec34cf-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5rBGnandqJr5LbMUUcFa4B"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-ec34cf-dark.svg"><img alt="Sweet Little Lies · Luca Schreiner" src="assets/track-5-ec34cf-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2KXwJZv1pRQFQ95Kj60jBN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-ec34cf-dark.svg"><img alt="Losing It - Radio Edit · FISHER" src="assets/track-6-ec34cf-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-437c36-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-437c36-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5ieDmw52mEIGA30Edkvy0H"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-437c36-dark.svg"><img alt="Don&#39;t Wake Me Up - Extended Mix · James Hype" src="assets/track-0-437c36-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4qQfSj0Z96zWwgyd0ISWr9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-437c36-dark.svg"><img alt="whiteout · Arden Jones" src="assets/track-1-437c36-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4ewaOSkjBDXsi07rIizr2d"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-437c36-dark.svg"><img alt="New Soul · PdeX" src="assets/track-2-437c36-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/76OalTYUc5Jv3RpMpc72tr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-437c36-dark.svg"><img alt="tell you straight - Ely Oaks’ version · jigitz, Ely Oaks" src="assets/track-3-437c36-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1uVdPnmULLUvPRkX4YLW6a"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-437c36-dark.svg"><img alt="What If? - Extended Mix · Neptunica" src="assets/track-4-437c36-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2ncmdVcaW4yTrPkXOIgV6Q"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-437c36-dark.svg"><img alt="Crowd Control · FISHER" src="assets/track-5-437c36-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5kSjpJysF6Wv9gLrnNiMa8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-437c36-dark.svg"><img alt="Borderline - AVELLO Remix · Ely Oaks, LAVINIA, AVELLO" src="assets/track-6-437c36-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,878 commits</summary>
+<summary><b>2026</b> · 1,879 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 241 commits</summary>
+<summary>November 2026 · 242 commits</summary>
 <br>
 
 <picture>
