@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-56c218-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-56c218-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1liOVY9Dw57B5nu3ZWI26q"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-56c218-dark.svg"><img alt="Only One · BOVSKI" src="assets/track-0-56c218-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0Kh1JKeJMAvFxv91HZ8uYU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-56c218-dark.svg"><img alt="Bump Bump Bump (Bom Bom) · Wax Motif" src="assets/track-1-56c218-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/00WOe6UJfFOOLjS5vQjiOk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-56c218-dark.svg"><img alt="When You&#39;re Around · H:dn" src="assets/track-2-56c218-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3UVhnqrvb2ZuVFLuK7K9cK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-56c218-dark.svg"><img alt="WILDFIRE · FUZION, Zeli" src="assets/track-3-56c218-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-56c218-dark.svg"><img alt="Makeba - Ian Asher Remix · Jain, Ian Asher" src="assets/track-4-56c218-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6KCmJ8VI6VYNRNubSqi0Ck"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-56c218-dark.svg"><img alt="Lennon · ESSEL" src="assets/track-5-56c218-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0eKOn3pMNfyrG2FvJNkbcc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-56c218-dark.svg"><img alt="Mind Games · Discip" src="assets/track-6-56c218-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-18e2a7-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-18e2a7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6AN6ILWZaDOgqXd57WVffY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-18e2a7-dark.svg"><img alt="Keep Raving · Wax Motif" src="assets/track-0-18e2a7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6kwg646UuaI6u9I8LSsrwC"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-18e2a7-dark.svg"><img alt="Not My Problem · Gravagerz, GRAHAM" src="assets/track-1-18e2a7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3T00mhdOYUuM5yiuPs3xhs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-18e2a7-dark.svg"><img alt="San Frandisco · Dom Dolla" src="assets/track-2-18e2a7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-18e2a7-dark.svg"><img alt="About To Lose It · Matroda" src="assets/track-3-18e2a7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2HiT3zN8AxWnlYp7tOb0cW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-18e2a7-dark.svg"><img alt="After Hours · Sonny Fodera, Julia Church" src="assets/track-4-18e2a7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5GOxjlNtCSY2RKVkOX3JhG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-18e2a7-dark.svg"><img alt="First Class · Alex Pizzuti" src="assets/track-5-18e2a7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-18e2a7-dark.svg"><img alt="Drugs From Amsterdam · Mau P" src="assets/track-6-18e2a7-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,903 commits</summary>
+<summary><b>2026</b> · 1,905 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 266 commits</summary>
+<summary>November 2026 · 268 commits</summary>
 <br>
 
 <picture>
