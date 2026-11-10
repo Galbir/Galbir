@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-a01bf3-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-a01bf3-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7uRMCCWFz9ytLAq2c0dQBz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-a01bf3-dark.svg"><img alt="Down Low · it&#39;s murph" src="assets/track-0-a01bf3-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4O3APpGNhOldqDsPF8IaS5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-a01bf3-dark.svg"><img alt="Welcome To The People · JADED" src="assets/track-1-a01bf3-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0tolD1pEMxfhqDxizcnkIp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-a01bf3-dark.svg"><img alt="I Choose You (Night) · Small Town Kid" src="assets/track-2-a01bf3-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3nPfGNo5uN3lTXRKYs71KD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-a01bf3-dark.svg"><img alt="IT AINT RIGHT · AVSTN" src="assets/track-3-a01bf3-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6naA2kx3P4uRTjWbNuSdDX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-a01bf3-dark.svg"><img alt="Dreamin&#39; About You · Josh Hunter, Lily Denning" src="assets/track-4-a01bf3-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3fmODsLQ1bc7N06KPJ1oJ5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-a01bf3-dark.svg"><img alt="We R Who We R - Sped Up · Gravagerz" src="assets/track-5-a01bf3-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1ssJjiolZ0VQuo81JQzIyQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-a01bf3-dark.svg"><img alt="Wild (Alex Now (ES) Remix) · James Hype, Alex Now (ES)" src="assets/track-6-a01bf3-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-cfc1dc-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-cfc1dc-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7gDgphzQU0urJU3AtoLJup"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-cfc1dc-dark.svg"><img alt="Dance No More (with Kaleena Zanders) · Sunday Scaries, Kaleena Zanders" src="assets/track-0-cfc1dc-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2I5faAdg3IZbd6HEn6Blfz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-cfc1dc-dark.svg"><img alt="Issa Vibe · Wax Motif, BRKLYN" src="assets/track-1-cfc1dc-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0RpzCyD1s8xfriJDf6R5Q9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-cfc1dc-dark.svg"><img alt="back to friends - Garage · Emely" src="assets/track-2-cfc1dc-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4h6qnP94JWzDmXLZFdRnn7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-cfc1dc-dark.svg"><img alt="Breathing · Twin Diplomacy, it&#39;s murph" src="assets/track-3-cfc1dc-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/69sk5k8MoK7HJguu2K2NhB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-cfc1dc-dark.svg"><img alt="Give Your Heart A Break · Robert Falcon, OLIVIA" src="assets/track-4-cfc1dc-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3EJpdBgJr8iRch5wNq46Cy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-cfc1dc-dark.svg"><img alt="4am · Crunkz" src="assets/track-5-cfc1dc-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5vASuVQkngtFoCOczem52V"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-cfc1dc-dark.svg"><img alt="On Again · Mau P" src="assets/track-6-cfc1dc-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,900 commits</summary>
+<summary><b>2026</b> · 1,901 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 263 commits</summary>
+<summary>November 2026 · 264 commits</summary>
 <br>
 
 <picture>
