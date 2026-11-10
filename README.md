@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-8c72d8-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-8c72d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0kXPycOtpXRjNu6ckJQNZC"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-8c72d8-dark.svg"><img alt="Highs &amp; Lows · Toby Romeo, Klangkarussell, Ely Oaks" src="assets/track-0-8c72d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4fdnp49RLeOlUKWjoYx4F0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-8c72d8-dark.svg"><img alt="SEX, DRUGS, ETC. (TECHNO) · TECHNO N TEQUILLA, chloe evee" src="assets/track-1-8c72d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5VGel8rVmBQrr7mSAtpW2u"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-8c72d8-dark.svg"><img alt="Dancin (feat. Luvli) - southstar Remix · Aaron Smith, Luvli, southstar" src="assets/track-2-8c72d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0kcM5HzMLTc3K15an6nZcJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-8c72d8-dark.svg"><img alt="Midnight Trip · TOYZZ" src="assets/track-3-8c72d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5Bux70wDJzKgKS7JVhxJLZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-8c72d8-dark.svg"><img alt="Release Me · oskar med k" src="assets/track-4-8c72d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7qGzkq4QuTK7tIb7XGqwR7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-8c72d8-dark.svg"><img alt="Like Whoa · Black V Neck" src="assets/track-5-8c72d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6pqMQuAiZz7s2wY5ofoFIF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-8c72d8-dark.svg"><img alt="Shake Shake · missed." src="assets/track-6-8c72d8-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-688eab-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-688eab-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7brE4PDHUmdJMFle4OTTAA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-688eab-dark.svg"><img alt="Serotonine · Discip" src="assets/track-0-688eab-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2NZABaUZUleW2mIuDlh5ZA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-688eab-dark.svg"><img alt="Chill Like That · Sunday Scaries, PiCKUPLiNES" src="assets/track-1-688eab-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2E7AvgTYsaavMkKeH9TH6d"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-688eab-dark.svg"><img alt="ALREADY OVER IT · bystander, emerge" src="assets/track-2-688eab-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2E152c7Sxfrsm6zOgTusx1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-688eab-dark.svg"><img alt="Body High · it&#39;s murph, Emi Grace" src="assets/track-3-688eab-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2zX2viSugU43hOWCZvLiXi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-688eab-dark.svg"><img alt="On The Ground · oskar med k" src="assets/track-4-688eab-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1eaZvmJgzgIC8qjCGsYTRQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-688eab-dark.svg"><img alt="Snake Charmer · Fourword" src="assets/track-5-688eab-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3BbD2sqk7P7Rc9V0KF9o4s"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-688eab-dark.svg"><img alt="My Humps · Joshwa, Lee Foss" src="assets/track-6-688eab-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,891 commits</summary>
+<summary><b>2026</b> · 1,894 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 254 commits</summary>
+<summary>November 2026 · 257 commits</summary>
 <br>
 
 <picture>
