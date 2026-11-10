@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-18e2a7-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-18e2a7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6AN6ILWZaDOgqXd57WVffY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-18e2a7-dark.svg"><img alt="Keep Raving · Wax Motif" src="assets/track-0-18e2a7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6kwg646UuaI6u9I8LSsrwC"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-18e2a7-dark.svg"><img alt="Not My Problem · Gravagerz, GRAHAM" src="assets/track-1-18e2a7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3T00mhdOYUuM5yiuPs3xhs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-18e2a7-dark.svg"><img alt="San Frandisco · Dom Dolla" src="assets/track-2-18e2a7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-18e2a7-dark.svg"><img alt="About To Lose It · Matroda" src="assets/track-3-18e2a7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2HiT3zN8AxWnlYp7tOb0cW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-18e2a7-dark.svg"><img alt="After Hours · Sonny Fodera, Julia Church" src="assets/track-4-18e2a7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5GOxjlNtCSY2RKVkOX3JhG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-18e2a7-dark.svg"><img alt="First Class · Alex Pizzuti" src="assets/track-5-18e2a7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-18e2a7-dark.svg"><img alt="Drugs From Amsterdam · Mau P" src="assets/track-6-18e2a7-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-f9b7bb-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-f9b7bb-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3shstEV0fzPeSvby1ENMUs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-f9b7bb-dark.svg"><img alt="Whispers · GREG 99" src="assets/track-0-f9b7bb-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6rlIST66eL6pBc6znNRytz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-f9b7bb-dark.svg"><img alt="let me go* pt 2 · jigitz" src="assets/track-1-f9b7bb-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1lE05OUq0chdD67s3Su6uH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-f9b7bb-dark.svg"><img alt="All That She Wants · missed." src="assets/track-2-f9b7bb-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-f9b7bb-dark.svg"><img alt="Lifetime · Tobiahs" src="assets/track-3-f9b7bb-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3RlKHYyGxEHDCOuHBStMI2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-f9b7bb-dark.svg"><img alt="ALL MY FRIENDS · SIDD, Capri Everitt" src="assets/track-4-f9b7bb-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7Dx32Vmx6GmOIDQ42vhbgq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-f9b7bb-dark.svg"><img alt="LOST MYSELF · Palm" src="assets/track-5-f9b7bb-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0ytDnkYrIbFCVu7kyE1XRV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-f9b7bb-dark.svg"><img alt="Sundown · H:dn" src="assets/track-6-f9b7bb-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,905 commits</summary>
+<summary><b>2026</b> · 1,907 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 268 commits</summary>
+<summary>November 2026 · 270 commits</summary>
 <br>
 
 <picture>
