@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-3ec6e6-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-3ec6e6-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1XfysUtqJY1G9KCT0LVu2d"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-3ec6e6-dark.svg"><img alt="STAY · D A N N Y" src="assets/track-0-3ec6e6-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1SIvPp7W5mMXLmkf4RSItq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-3ec6e6-dark.svg"><img alt="LOL · BOVSKI" src="assets/track-1-3ec6e6-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5eY5g7JL0iSGp34bUjZbKR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-3ec6e6-dark.svg"><img alt="California Girls - Garage · Insania" src="assets/track-2-3ec6e6-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0wdSMNuYk8c3fANOL2ZTxr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-3ec6e6-dark.svg"><img alt="IKNOW · cos" src="assets/track-3-3ec6e6-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/03jV5KFpuBqXWNxhsjvTEO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-3ec6e6-dark.svg"><img alt="Come On · Malia" src="assets/track-4-3ec6e6-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/00M5ara85QmCOTVGgOlbIw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-3ec6e6-dark.svg"><img alt="I Don&#39;t Want To · AYYBO, Ragie Ban" src="assets/track-5-3ec6e6-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/044mDyguM9nLSOoJNDGS6F"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-3ec6e6-dark.svg"><img alt="Around The World · Niklas Dee, René Miller" src="assets/track-6-3ec6e6-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-d3cfcb-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-d3cfcb-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/18wl6iXCZE6s0MHdwBfEHv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-d3cfcb-dark.svg"><img alt="heaven in your room · Ecchi.mp4, Charlotte Plank" src="assets/track-0-d3cfcb-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/29rOgXA7hXdKKbT6EIBvmW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-d3cfcb-dark.svg"><img alt="Lose My Mind · Chris Lake" src="assets/track-1-d3cfcb-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5se4SpUxbStmWGZngKWqLU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-d3cfcb-dark.svg"><img alt="Let&#39;s Go Dancing · Layton Giordani, Tiga, Audion" src="assets/track-2-d3cfcb-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2qxg6IDl6zfTDBI6M7xeTM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-d3cfcb-dark.svg"><img alt="Cold World · Why U So" src="assets/track-3-d3cfcb-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0IESuTl4fLg6bZW0qahmyS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-d3cfcb-dark.svg"><img alt="f@NtA$y · Mike Crook" src="assets/track-4-d3cfcb-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2uKDT02ZyIuW0FlXDHpPrn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-d3cfcb-dark.svg"><img alt="BASS GLIDE · AYYBO" src="assets/track-5-d3cfcb-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4C7LPGCce5AI0O6glhDf1Y"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-d3cfcb-dark.svg"><img alt="Good Boys (Hide Away) · Daya, Albi" src="assets/track-6-d3cfcb-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,885 commits</summary>
+<summary><b>2026</b> · 1,886 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 248 commits</summary>
+<summary>November 2026 · 249 commits</summary>
 <br>
 
 <picture>
