@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-b31978-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-b31978-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/41T043SzZ8VPpQgvg301ZS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-b31978-dark.svg"><img alt="The Rhythm of the Night · Neptunica, Corona" src="assets/track-0-b31978-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4g4qip63Kos44xZA2DjOnV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-b31978-dark.svg"><img alt="Black Beatles · Leo Walt" src="assets/track-1-b31978-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-b31978-dark.svg"><img alt="Rainfall (Praise You) · Tom Santa" src="assets/track-2-b31978-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-b31978-dark.svg"><img alt="Beggin&#39; · Chris Lake, Aluna" src="assets/track-3-b31978-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1znJWibinMhVodZelReFab"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-b31978-dark.svg"><img alt="F_ck it (I don‘t want you back) · Ely Oaks, sirinens" src="assets/track-4-b31978-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4mVtLF2vsHUQctUrc7fDIR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-b31978-dark.svg"><img alt="Waterfalls (feat. Sam Harper &amp; Bobby Harvey) [HAVEN. Remix] · James Hype, Sam Harper, Bobby Harvey, HAVEN." src="assets/track-5-b31978-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6u4CLgult9hhrCqr86B5JW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-b31978-dark.svg"><img alt="Hear My Call · H:dn" src="assets/track-6-b31978-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-982822-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-982822-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5Ly2w3jKYFvHbOv6Jf4HNM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-982822-dark.svg"><img alt="Sweat · ESSEL" src="assets/track-0-982822-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5roFM0I1K6um2yIYL6kGq2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-982822-dark.svg"><img alt="365 · Biscits, Camden Cox" src="assets/track-1-982822-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3GcwJt2uA4pq2EUGb9KiIx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-982822-dark.svg"><img alt="skipping seasons · Arden Jones" src="assets/track-2-982822-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4madkqL1bB8rweDVBG8FvR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-982822-dark.svg"><img alt="Let It Go · NOTSOBAD, MA:RK" src="assets/track-3-982822-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5e5hE3DuPYFh7pJHzZ6YeL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-982822-dark.svg"><img alt="House x Pressure · Matroda" src="assets/track-4-982822-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7vDgSKa1c1hx0piUajViBM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-982822-dark.svg"><img alt="WHIPLASH · AYYBO" src="assets/track-5-982822-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4o1t8bOiuHwjijH2b0LrmA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-982822-dark.svg"><img alt="It Feels So Good - Jamy Nox Remix · Matt Sassari, HUGEL, Sonique, Jamy Nox" src="assets/track-6-982822-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,881 commits</summary>
+<summary><b>2026</b> · 1,884 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 244 commits</summary>
+<summary>November 2026 · 247 commits</summary>
 <br>
 
 <picture>
