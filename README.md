@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-8c1469-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-8c1469-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-8c1469-dark.svg"><img alt="Appetite · Chris Lorenzo" src="assets/track-0-8c1469-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-8c1469-dark.svg"><img alt="I Adore You (feat. Daecolm) · HUGEL, Topic, Arash, Daecolm" src="assets/track-1-8c1469-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7DK2J9oOTqXCdMYkluYfjX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-8c1469-dark.svg"><img alt="Low Again - Niall T Remix · BOVSKI, Niall T" src="assets/track-2-8c1469-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4Fa5NRPSHMDuGWjrt1aJXT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-8c1469-dark.svg"><img alt="blurry · Arden Jones" src="assets/track-3-8c1469-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4uMysPrBfE2pDVwAoSV4gn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-8c1469-dark.svg"><img alt="Ten Thousand Times · Punctual, Jem Cooke" src="assets/track-4-8c1469-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3QAAnrgDyRsdBEYNLcJg6Q"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-8c1469-dark.svg"><img alt="Feel This · DÏVÄG" src="assets/track-5-8c1469-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/74X66DXVuSLDEOp3sR8GFL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-8c1469-dark.svg"><img alt="Up Front · DREYA V" src="assets/track-6-8c1469-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-d08cb1-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-d08cb1-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7igzyhUbcM75ETumhe4nzO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-d08cb1-dark.svg"><img alt="Free (You Got To Live) · HUGEL, Ultra Naté" src="assets/track-0-d08cb1-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/51jCLL8miEyjbRPdN49rs0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-d08cb1-dark.svg"><img alt="Lights · Crunkz" src="assets/track-1-d08cb1-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1MXrvYih9N3QEuEPMcsyhX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-d08cb1-dark.svg"><img alt="deadlove · Arden Jones" src="assets/track-2-d08cb1-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6joEpIEWpZYrezVvqrbvxy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-d08cb1-dark.svg"><img alt="Give It to Me · Matt Sassari" src="assets/track-3-d08cb1-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0kkbThggJteiUSqtHxyhZ6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-d08cb1-dark.svg"><img alt="Choose me · Cathleen Kleinert" src="assets/track-4-d08cb1-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-d08cb1-dark.svg"><img alt="Happiness Is So Sad · Swedish House Mafia, Lykke Li" src="assets/track-5-d08cb1-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/73Aj6vBOimEVHMMm67YmcU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-d08cb1-dark.svg"><img alt="Don&#39;t Stop · Biscits" src="assets/track-6-d08cb1-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,877 commits</summary>
+<summary><b>2026</b> · 1,878 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 240 commits</summary>
+<summary>November 2026 · 241 commits</summary>
 <br>
 
 <picture>
