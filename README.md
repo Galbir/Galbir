@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-83545f-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-83545f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/29d8SWZYrIRH9ORzvmkLJc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-83545f-dark.svg"><img alt="We Are Mirage - Radio Edit · Empire Of The Sun, Eric Prydz" src="assets/track-0-83545f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/63HwAAXuSV2tzIUPoHOwZa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-83545f-dark.svg"><img alt="Atmosphere · FISHER, Kita Alexander" src="assets/track-1-83545f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5cyHqE6XsCHVf9LdJE4s1m"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-83545f-dark.svg"><img alt="See The Moon · Subsurface" src="assets/track-2-83545f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1WGPOivrkVZPQTYS7yagu0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-83545f-dark.svg"><img alt="Whole Again · Lavern" src="assets/track-3-83545f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5AAOCZfpsUHwCL2EXZJq3S"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-83545f-dark.svg"><img alt="Oh, Lover - Slowed · NONSENSE" src="assets/track-4-83545f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3JWKhPP6muh6tjR8b7PDOb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-83545f-dark.svg"><img alt="Paperplanes · BUNT." src="assets/track-5-83545f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5VhHd1NH4lxUGddilFQBmY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-83545f-dark.svg"><img alt="Shine · HUGEL, David Guetta, French Montana, Aidan Martin" src="assets/track-6-83545f-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-06bdaa-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-06bdaa-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0AyagXVnTZnbUp5hlOHdXy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-06bdaa-dark.svg"><img alt="Just The Way You Are · Milky, Ely Oaks" src="assets/track-0-06bdaa-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5AAOCZfpsUHwCL2EXZJq3S"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-06bdaa-dark.svg"><img alt="Oh, Lover - Slowed · NONSENSE" src="assets/track-1-06bdaa-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/51ebEtVMk572G7rln7lims"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-06bdaa-dark.svg"><img alt="Stay Sexy · HUGEL, LaBritney, Mili" src="assets/track-2-06bdaa-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-06bdaa-dark.svg"><img alt="Memories (feat. Kid Cudi) - 2021 Remix · David Guetta, Kid Cudi" src="assets/track-3-06bdaa-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4bzg313TTEN9z17oQDJJqY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-06bdaa-dark.svg"><img alt="Think About Us - VIP Mix · Sonny Fodera, D.O.D, Poppy Baskcomb" src="assets/track-4-06bdaa-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5cyHqE6XsCHVf9LdJE4s1m"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-06bdaa-dark.svg"><img alt="See The Moon · Subsurface" src="assets/track-5-06bdaa-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1rf4SX7dduNbrNnOmupLzi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-06bdaa-dark.svg"><img alt="adore u · Fred again.., Obongjayar" src="assets/track-6-06bdaa-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,876 commits</summary>
+<summary><b>2026</b> · 1,877 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 239 commits</summary>
+<summary>November 2026 · 240 commits</summary>
 <br>
 
 <picture>
