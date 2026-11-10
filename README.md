@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-cfc1dc-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-cfc1dc-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7gDgphzQU0urJU3AtoLJup"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-cfc1dc-dark.svg"><img alt="Dance No More (with Kaleena Zanders) · Sunday Scaries, Kaleena Zanders" src="assets/track-0-cfc1dc-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2I5faAdg3IZbd6HEn6Blfz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-cfc1dc-dark.svg"><img alt="Issa Vibe · Wax Motif, BRKLYN" src="assets/track-1-cfc1dc-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0RpzCyD1s8xfriJDf6R5Q9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-cfc1dc-dark.svg"><img alt="back to friends - Garage · Emely" src="assets/track-2-cfc1dc-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4h6qnP94JWzDmXLZFdRnn7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-cfc1dc-dark.svg"><img alt="Breathing · Twin Diplomacy, it&#39;s murph" src="assets/track-3-cfc1dc-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/69sk5k8MoK7HJguu2K2NhB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-cfc1dc-dark.svg"><img alt="Give Your Heart A Break · Robert Falcon, OLIVIA" src="assets/track-4-cfc1dc-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3EJpdBgJr8iRch5wNq46Cy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-cfc1dc-dark.svg"><img alt="4am · Crunkz" src="assets/track-5-cfc1dc-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5vASuVQkngtFoCOczem52V"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-cfc1dc-dark.svg"><img alt="On Again · Mau P" src="assets/track-6-cfc1dc-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-caf932-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-caf932-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2e2yKavdT6WQzzMHwNtPFa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-caf932-dark.svg"><img alt="In The Yuma (feat. Aatig) · Chris Lake, Aatig" src="assets/track-0-caf932-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7f9WkDtkzDEZNwJOxb76PE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-caf932-dark.svg"><img alt="Familiar · Distant Matter" src="assets/track-1-caf932-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7MysdJNLp89Xl3zoSd5bC5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-caf932-dark.svg"><img alt="WET · Wax Motif" src="assets/track-2-caf932-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-caf932-dark.svg"><img alt="Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix · Lana Del Rey, Cedric Gervais" src="assets/track-3-caf932-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2DxTALSmWy9h6WEv4cm94f"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-caf932-dark.svg"><img alt="Beauty And A Beat - Garage · Emely" src="assets/track-4-caf932-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/72rSqTaduChfXy5sJQpBCa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-caf932-dark.svg"><img alt="BPM · Twin Diplomacy" src="assets/track-5-caf932-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3CPhCNH8rV1czzGSmXm9TH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-caf932-dark.svg"><img alt="messy · Łaszewo" src="assets/track-6-caf932-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,901 commits</summary>
+<summary><b>2026</b> · 1,902 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 264 commits</summary>
+<summary>November 2026 · 265 commits</summary>
 <br>
 
 <picture>
