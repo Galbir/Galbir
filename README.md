@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-cd2436-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-cd2436-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0CyprQxMwhiRfOz0vgowVr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-cd2436-dark.svg"><img alt="Help Me Lose My Mind (Sped Up) · Gravagerz" src="assets/track-0-cd2436-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1PQa2w0XBxmQamrLStjNHP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-cd2436-dark.svg"><img alt="Missing U Again · Diielex" src="assets/track-1-cd2436-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5ssdNWKiyzSdoEiPO3o25l"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-cd2436-dark.svg"><img alt="it&#39;s you · BLISSFOOL, Jake St Ange" src="assets/track-2-cd2436-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0s6Ya5ipe4CrzYHMI19Wdd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-cd2436-dark.svg"><img alt="paranoid · Arden Jones" src="assets/track-3-cd2436-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-cd2436-dark.svg"><img alt="Fine Night · Cloonee" src="assets/track-4-cd2436-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5lbFVZ3g63LLssXLKirfjA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-cd2436-dark.svg"><img alt="Gimme Some Keys · Matroda" src="assets/track-5-cd2436-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2MGRnjJc7C0z3EOEWRqcMw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-cd2436-dark.svg"><img alt="Love Is Gone - Fred Riester &amp; Joachim Garraud Radio Edit Remix · David Guetta, Chris Willis, Fred Riesterer, Joachim Garraud" src="assets/track-6-cd2436-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-8c72d8-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-8c72d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0kXPycOtpXRjNu6ckJQNZC"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-8c72d8-dark.svg"><img alt="Highs &amp; Lows · Toby Romeo, Klangkarussell, Ely Oaks" src="assets/track-0-8c72d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4fdnp49RLeOlUKWjoYx4F0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-8c72d8-dark.svg"><img alt="SEX, DRUGS, ETC. (TECHNO) · TECHNO N TEQUILLA, chloe evee" src="assets/track-1-8c72d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5VGel8rVmBQrr7mSAtpW2u"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-8c72d8-dark.svg"><img alt="Dancin (feat. Luvli) - southstar Remix · Aaron Smith, Luvli, southstar" src="assets/track-2-8c72d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0kcM5HzMLTc3K15an6nZcJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-8c72d8-dark.svg"><img alt="Midnight Trip · TOYZZ" src="assets/track-3-8c72d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5Bux70wDJzKgKS7JVhxJLZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-8c72d8-dark.svg"><img alt="Release Me · oskar med k" src="assets/track-4-8c72d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7qGzkq4QuTK7tIb7XGqwR7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-8c72d8-dark.svg"><img alt="Like Whoa · Black V Neck" src="assets/track-5-8c72d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6pqMQuAiZz7s2wY5ofoFIF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-8c72d8-dark.svg"><img alt="Shake Shake · missed." src="assets/track-6-8c72d8-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,888 commits</summary>
+<summary><b>2026</b> · 1,891 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 251 commits</summary>
+<summary>November 2026 · 254 commits</summary>
 <br>
 
 <picture>
