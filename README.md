@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-309024-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-309024-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7iACUyBFiz6Opfy0hZKIH5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-309024-dark.svg"><img alt="In The Streets · Martin Ikin" src="assets/track-0-309024-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7seWTRRSUDaxSAq1m7QPFh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-309024-dark.svg"><img alt="time to turn it right - sped up · bbygirl" src="assets/track-1-309024-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2nljjiWhzVIugb5vgEMQQk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-309024-dark.svg"><img alt="My Love (2024) · Alex Wann, Route 94, Jess Glynne" src="assets/track-2-309024-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/48HjuSOCti5mGKg6rUjAfB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-309024-dark.svg"><img alt="Crown · BUNT." src="assets/track-3-309024-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1o1HkxzI2xyCRSBZrIaQPE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-309024-dark.svg"><img alt="GDB · AYYBO" src="assets/track-4-309024-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-309024-dark.svg"><img alt="Somebody (2024) · Gotye, FISHER, Chris Lake, Kimbra, Sante Sansone" src="assets/track-5-309024-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0Vjt7hOqRpq5fAVyCYXAnl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-309024-dark.svg"><img alt="Lifestyles · Guala" src="assets/track-6-309024-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-cd2436-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-cd2436-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0CyprQxMwhiRfOz0vgowVr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-cd2436-dark.svg"><img alt="Help Me Lose My Mind (Sped Up) · Gravagerz" src="assets/track-0-cd2436-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1PQa2w0XBxmQamrLStjNHP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-cd2436-dark.svg"><img alt="Missing U Again · Diielex" src="assets/track-1-cd2436-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5ssdNWKiyzSdoEiPO3o25l"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-cd2436-dark.svg"><img alt="it&#39;s you · BLISSFOOL, Jake St Ange" src="assets/track-2-cd2436-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0s6Ya5ipe4CrzYHMI19Wdd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-cd2436-dark.svg"><img alt="paranoid · Arden Jones" src="assets/track-3-cd2436-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-cd2436-dark.svg"><img alt="Fine Night · Cloonee" src="assets/track-4-cd2436-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5lbFVZ3g63LLssXLKirfjA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-cd2436-dark.svg"><img alt="Gimme Some Keys · Matroda" src="assets/track-5-cd2436-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2MGRnjJc7C0z3EOEWRqcMw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-cd2436-dark.svg"><img alt="Love Is Gone - Fred Riester &amp; Joachim Garraud Radio Edit Remix · David Guetta, Chris Willis, Fred Riesterer, Joachim Garraud" src="assets/track-6-cd2436-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,886 commits</summary>
+<summary><b>2026</b> · 1,888 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 249 commits</summary>
+<summary>November 2026 · 251 commits</summary>
 <br>
 
 <picture>
