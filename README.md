@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-24bcab-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-24bcab-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5PnRQ71QUVVMQY4bv3eKHM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-24bcab-dark.svg"><img alt="Janice STFU - Garage · Emely" src="assets/track-0-24bcab-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2Suk7DzVMim77YswOSMvJL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-24bcab-dark.svg"><img alt="Mi Amor · Cloonee, Wade" src="assets/track-1-24bcab-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5ql2deM1GIt9YOFvFOkyLQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-24bcab-dark.svg"><img alt="FUNK 2000 · AYYBO" src="assets/track-2-24bcab-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6q5wkwldXvaikgjIEpOUNu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-24bcab-dark.svg"><img alt="11:11 · nate band" src="assets/track-3-24bcab-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5Y2n6pW4Vqr4Mzkd9V4Uk8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-24bcab-dark.svg"><img alt="Ray Of Solar · Swedish House Mafia" src="assets/track-4-24bcab-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3v2Hy8J5Lz6MjfL9tEbxB5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-24bcab-dark.svg"><img alt="Your Eyes · KarmaVioletta" src="assets/track-5-24bcab-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/62cC7C7e8buEM15ReSWjff"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-24bcab-dark.svg"><img alt="i&#39;m way too self aware · oskar med k" src="assets/track-6-24bcab-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-260b0f-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-260b0f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6TvCNh37pSO9rp9fIhskKN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-260b0f-dark.svg"><img alt="Numb · Twin Diplomacy, Sunday Scaries" src="assets/track-0-260b0f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2xOtP9kLhKElespbFZRuam"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-260b0f-dark.svg"><img alt="Little Talks · Carter Walsh" src="assets/track-1-260b0f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1898OX73OtBk5BdYu1tdbA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-260b0f-dark.svg"><img alt="Running Thru My Mind · D A N N Y" src="assets/track-2-260b0f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2DyP03O6zbss0LUxrur45b"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-260b0f-dark.svg"><img alt="Hold On · Lavern" src="assets/track-3-260b0f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2dwnD6tMYqp8zQmfg1XvNQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-260b0f-dark.svg"><img alt="Way It Is · Mr. Belt &amp; Wezol, RSCL" src="assets/track-4-260b0f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4aiIC5QqNtzPQcjzvB06sp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-260b0f-dark.svg"><img alt="Fade Together · it&#39;s murph" src="assets/track-5-260b0f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3EthY53s7VOoanEIyQVelI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-260b0f-dark.svg"><img alt="Help Me Lose My Mind · Gravagerz" src="assets/track-6-260b0f-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,899 commits</summary>
+<summary><b>2026</b> · 1,900 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 262 commits</summary>
+<summary>November 2026 · 263 commits</summary>
 <br>
 
 <picture>
