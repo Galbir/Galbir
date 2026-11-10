@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-b3a591-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-b3a591-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0e1mJ9n253zvfi1cdvHk6s"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-b3a591-dark.svg"><img alt="Hustlin&#39; · Martin Ikin" src="assets/track-0-b3a591-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-b3a591-dark.svg"><img alt="It&#39;s Not Right But It&#39;s Okay · Mr. Belt &amp; Wezol" src="assets/track-1-b3a591-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5JvbNbrYRVcavrsIIt8l9C"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-b3a591-dark.svg"><img alt="free to dream · BLISSFOOL" src="assets/track-2-b3a591-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6aisjMfoTpJoDa8jeXddkz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-b3a591-dark.svg"><img alt="Paparazzi · Gang Speed, Emilio" src="assets/track-3-b3a591-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2p2ovbp0ocjyVb5QRvi2R0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-b3a591-dark.svg"><img alt="belong to one · oskar med k" src="assets/track-4-b3a591-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3f5LJiAEHHZtW8bzF4qpNr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-b3a591-dark.svg"><img alt="I Got Feelings · Twin Diplomacy" src="assets/track-5-b3a591-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4PJYVBDYTKwK1hODEfytY7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-b3a591-dark.svg"><img alt="Tension · Kamino, Kyra Mastro" src="assets/track-6-b3a591-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-f8467a-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-f8467a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7v9mYX2KjcQQtunwVbaKx4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-f8467a-dark.svg"><img alt="Count On You · Martin Ikin, Sian-Lee" src="assets/track-0-f8467a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1FJ4EgUAtiZ8ruj4ZW3Vsk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-f8467a-dark.svg"><img alt="Key To My Heart · BOVSKI" src="assets/track-1-f8467a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/60J99wkrOFwqBQeEimCNuY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-f8467a-dark.svg"><img alt="luv me now · BLISSFOOL" src="assets/track-2-f8467a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0B6BPNZ7gmg80qKIa7Rug1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-f8467a-dark.svg"><img alt="NEW DANCE · AYYBO" src="assets/track-3-f8467a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/37B2h1BG6Rz5W7yKE5LbKE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-f8467a-dark.svg"><img alt="Need Your Body · bradeazy" src="assets/track-4-f8467a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/65FZnyfMHuh8DvN4SJZ64C"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-f8467a-dark.svg"><img alt="My Way To U · D A N N Y" src="assets/track-5-f8467a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3kilvzZa0VhRBFcqC0msc4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-f8467a-dark.svg"><img alt="It&#39;s Over · ATALE" src="assets/track-6-f8467a-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,896 commits</summary>
+<summary><b>2026</b> · 1,899 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 259 commits</summary>
+<summary>November 2026 · 262 commits</summary>
 <br>
 
 <picture>
