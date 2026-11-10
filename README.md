@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-374a86-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-374a86-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/786FMDQ37ga3AjgNWXdD0U"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-374a86-dark.svg"><img alt="Out Of My Mind · LYOD" src="assets/track-0-374a86-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3MO5M9pvY2R0Jkpgkq0vW6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-374a86-dark.svg"><img alt="Deeper We Go · Lincoln Jesser, Coco &amp; Breezy, Ultra Naté" src="assets/track-1-374a86-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5eyQtnfJVtgH4dJR6IzgNI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-374a86-dark.svg"><img alt="wildfire · origins" src="assets/track-2-374a86-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/74yE8KUKjYd65ZaXOMc04B"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-374a86-dark.svg"><img alt="Mara · Small Town Kid" src="assets/track-3-374a86-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2JI4l38QEH9Qi7OtC21H3a"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-374a86-dark.svg"><img alt="Losing My Head - CamrinWatsin Remix · BL3SS, CamrinWatsin" src="assets/track-4-374a86-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/55DwjFdPowTjzvukCzJEho"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-374a86-dark.svg"><img alt="LEVELS · FUZION" src="assets/track-5-374a86-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4L6I4Jj8kLkzYipPOjsxdT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-374a86-dark.svg"><img alt="I got you · Disclaimer" src="assets/track-6-374a86-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-bc672a-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-bc672a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3S8QF2kvA3fqO4HM3ZSwKg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-bc672a-dark.svg"><img alt="Follow You Into the Dark · Guala, salem." src="assets/track-0-bc672a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7KhT1uCXFocwzoDXwdNtYO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-bc672a-dark.svg"><img alt="Pool - Gravagerz Version · Gravagerz, kiki wera" src="assets/track-1-bc672a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6Ar3apWGoJLPZ3zy6Eb94F"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-bc672a-dark.svg"><img alt="Fancy $hit · CID, Taylr Renee" src="assets/track-2-bc672a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6oWmcKVK6atTCoWVYTdSg1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-bc672a-dark.svg"><img alt="Dreamin (feat. Daya) · Dom Dolla, Daya" src="assets/track-3-bc672a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2ZGSXWF4H5HogHxtKbyckj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-bc672a-dark.svg"><img alt="We Run · Small Town Kid" src="assets/track-4-bc672a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5lfuQ9C0UOnmH4tRXrDjIK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-bc672a-dark.svg"><img alt="Last 2 Leave · BL3SS, LAVINIA" src="assets/track-5-bc672a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6dC6bV7XptzHcwFFpIY553"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-bc672a-dark.svg"><img alt="Without You · Crunkz" src="assets/track-6-bc672a-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,907 commits</summary>
+<summary><b>2026</b> · 1,908 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 270 commits</summary>
+<summary>November 2026 · 271 commits</summary>
 <br>
 
 <picture>
