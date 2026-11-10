@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-8aa6f5-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-8aa6f5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/21RqIEkcOMcrVGeOPE7IP9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-8aa6f5-dark.svg"><img alt="I Like Dancing · AYYBO, MERYLL" src="assets/track-0-8aa6f5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1fKnpml7V0VImOFQA7XXyj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-8aa6f5-dark.svg"><img alt="Funky Town · ACRAZE" src="assets/track-1-8aa6f5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7DdWzRlhzOToeHdOYbBt8z"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-8aa6f5-dark.svg"><img alt="Free Your Body · Chris Lake, Solardo" src="assets/track-2-8aa6f5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/44wR4NqR75eJMETxrz59Sr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-8aa6f5-dark.svg"><img alt="Favour · FISHER, Tones And I" src="assets/track-3-8aa6f5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4vgGLSuAksJkvCCoLf4tSX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-8aa6f5-dark.svg"><img alt="Open Up · NONSENSE" src="assets/track-4-8aa6f5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/715mcBjei75yGRf4jyKpfs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-8aa6f5-dark.svg"><img alt="Alive · OFF ME" src="assets/track-5-8aa6f5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6t4VHEcJ7Kek9pgGHlDp6R"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-8aa6f5-dark.svg"><img alt="Push To Start (feat. No/Me) · Noizu, Westend, No/Me" src="assets/track-6-8aa6f5-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-44053f-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-44053f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-44053f-dark.svg"><img alt="Sextacy · SIDEPIECE" src="assets/track-0-44053f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7oFSKhgxWic1lRc2DCQjAN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-44053f-dark.svg"><img alt="Love Tonight - David Guetta Remix Edit · Shouse, David Guetta" src="assets/track-1-44053f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/23u8Srx4MNpBjrM66Tj7On"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-44053f-dark.svg"><img alt="Ya Kidding · FISHER" src="assets/track-2-44053f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6ByN6v7D5YUogv622VMGrk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-44053f-dark.svg"><img alt="Calling On · Swedish House Mafia" src="assets/track-3-44053f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5D1zGVDJTOqwaGSzYw5TtP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-44053f-dark.svg"><img alt="Red Light Green Light - For Club Play Only, Pt. 6 · Duke Dumont, Shaun Ross" src="assets/track-4-44053f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/14fIlfcmFPlj4V2IazeJ25"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-44053f-dark.svg"><img alt="Take It · Dom Dolla" src="assets/track-5-44053f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4r27ROgwPBpqLKU2r7Z0Yj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-44053f-dark.svg"><img alt="iloveitiloveitiloveit - Garage · Insania" src="assets/track-6-44053f-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,879 commits</summary>
+<summary><b>2026</b> · 1,880 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 242 commits</summary>
+<summary>November 2026 · 243 commits</summary>
 <br>
 
 <picture>
