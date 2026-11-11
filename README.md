@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-c5d6fc-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-c5d6fc-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6yraFyhgbavO2amB2lhpfi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-c5d6fc-dark.svg"><img alt="Waiting All Night (feat. Ella Eyre) · Rudimental, Ella Eyre" src="assets/track-0-c5d6fc-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0RoGOiZUCQyqAZSPBSk75T"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-c5d6fc-dark.svg"><img alt="Make Me Feel · John Summit" src="assets/track-1-c5d6fc-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/303ccTay2FiDTZ9fZ2AdBt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-c5d6fc-dark.svg"><img alt="Music Sounds Better With You · Stardust, Benjamin Diamond, Alan Braxe, Thomas Bangalter" src="assets/track-2-c5d6fc-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-c5d6fc-dark.svg"><img alt="Baby Don&#39;t Hurt Me · David Guetta, Anne-Marie, Coi Leray" src="assets/track-3-c5d6fc-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-c5d6fc-dark.svg"><img alt="Feel So Close - Radio Edit · Calvin Harris" src="assets/track-4-c5d6fc-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-c5d6fc-dark.svg"><img alt="We Found Love · Rihanna, Calvin Harris" src="assets/track-5-c5d6fc-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5qGIfWDRdyO67LCTqA2sEn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-c5d6fc-dark.svg"><img alt="Heads Will Roll - A-Trak Remix Radio Edit · Yeah Yeah Yeahs, A-Trak" src="assets/track-6-c5d6fc-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-ea1a9f-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-ea1a9f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/24LS4lQShWyixJ0ZrJXfJ5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-ea1a9f-dark.svg"><img alt="Sweet Nothing (feat. Florence Welch) · Calvin Harris, Florence Welch" src="assets/track-0-ea1a9f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4eAq60OUx6CFS05PJQHWVC"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-ea1a9f-dark.svg"><img alt="Love Tonight · Shouse" src="assets/track-1-ea1a9f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-ea1a9f-dark.svg"><img alt="Show Me Love · Robin S" src="assets/track-2-ea1a9f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6KzkqZqhUBEsWYJJa2aBOd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-ea1a9f-dark.svg"><img alt="The Weekend - Radio Edit · Michael Gray" src="assets/track-3-ea1a9f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2SdMEke7JCBEo8t60iyw2r"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-ea1a9f-dark.svg"><img alt="Changes - Radio Mix · Faul &amp; Wad, PNAU" src="assets/track-4-ea1a9f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-ea1a9f-dark.svg"><img alt="Runaway (U &amp; I) · Galantis" src="assets/track-5-ea1a9f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2unqiEdHtabnsbv6TJ7gCW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-ea1a9f-dark.svg"><img alt="Lose Control · MEDUZA, Becky Hill, Goodboys" src="assets/track-6-ea1a9f-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,910 commits</summary>
+<summary><b>2026</b> · 1,911 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 273 commits</summary>
+<summary>November 2026 · 274 commits</summary>
 <br>
 
 <picture>
