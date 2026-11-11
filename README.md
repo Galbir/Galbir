@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-3651f4-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-3651f4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-3651f4-dark.svg"><img alt="Stole the Show · Kygo, Parson James" src="assets/track-0-3651f4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/48QmG1dfvMuYLxMPt7KSRA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-3651f4-dark.svg"><img alt="No Lie · Sean Paul, Dua Lipa" src="assets/track-1-3651f4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4iPRGxmZMGmeGrDhPLQE7t"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-3651f4-dark.svg"><img alt="Get Up And Dance · Cloonee" src="assets/track-2-3651f4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7yNX3ZFBWZoR52pbeU4Mcl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-3651f4-dark.svg"><img alt="Gold · Kiiara" src="assets/track-3-3651f4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6auDCEMr5aHTNu4Kw9h5U6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-3651f4-dark.svg"><img alt="Promises (with Sam Smith) · Calvin Harris, Sam Smith" src="assets/track-4-3651f4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5RdlhEqXNlVNvOXorJCYAr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-3651f4-dark.svg"><img alt="What A Life - OMRI. Remix · John Summit, Guz, Stevie Appleton, OMRI." src="assets/track-5-3651f4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3bvjsHQd792zIO4SKFxXKs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-3651f4-dark.svg"><img alt="Love on Me · Galantis, Hook N Sling" src="assets/track-6-3651f4-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-b7d5f9-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-b7d5f9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/10AsRVRdU07cMAFHeGYO3c"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-b7d5f9-dark.svg"><img alt="Solo Dance · Martin Jensen" src="assets/track-0-b7d5f9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0NNjJd8RsaUAvuJ0IgenVQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-b7d5f9-dark.svg"><img alt="Mwaki · Zerb, Sofiya Nzau" src="assets/track-1-b7d5f9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1oNOo7KjMigs4pvVPzFhLT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-b7d5f9-dark.svg"><img alt="High · James Carter, BARBZ" src="assets/track-2-b7d5f9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6zAUCritANdhceCMLVB8xR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-b7d5f9-dark.svg"><img alt="I&#39;m Not Alone - 2019 Edit · Calvin Harris" src="assets/track-3-b7d5f9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/63SevszngYpZOwf63o61K4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-b7d5f9-dark.svg"><img alt="Nevermind · Dennis Lloyd" src="assets/track-4-b7d5f9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2KklXplRtxMsBYo474Es0w"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-b7d5f9-dark.svg"><img alt="Be Mine · Ofenbach" src="assets/track-5-b7d5f9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5HGxLtYxTriF7mMiriSpaz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-b7d5f9-dark.svg"><img alt="You Were Right · RÜFÜS DU SOL" src="assets/track-6-b7d5f9-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,913 commits</summary>
+<summary><b>2026</b> · 1,914 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 276 commits</summary>
+<summary>November 2026 · 277 commits</summary>
 <br>
 
 <picture>
