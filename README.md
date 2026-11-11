@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-e10c36-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-e10c36-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2ouFrmMwYik8nQX2n9SeZu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-e10c36-dark.svg"><img alt="On My Knees · RÜFÜS DU SOL" src="assets/track-0-e10c36-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-e10c36-dark.svg"><img alt="S&amp;M · Rihanna" src="assets/track-1-e10c36-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7zT1g7FxLVIZKwrw41jBci"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-e10c36-dark.svg"><img alt="I Got U - Radio Edit · Duke Dumont, Jax Jones" src="assets/track-2-e10c36-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1KtD0xaLAikgIt5tPbteZQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-e10c36-dark.svg"><img alt="Thinking About You (feat. Ayah Marar) · Calvin Harris, Ayah Marar" src="assets/track-3-e10c36-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5Cpo7btae5aI6QtOcVzWwB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-e10c36-dark.svg"><img alt="Dancin - Krono Remix · Aaron Smith, Krono, Luvli" src="assets/track-4-e10c36-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2dWNKXTs5z7Iu1g0kYh4Xe"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-e10c36-dark.svg"><img alt="My Heart Goes (La Di Da) (feat. Topic) · Becky Hill, Topic" src="assets/track-5-e10c36-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3F9ByoUqu31xU0I3G5xfVg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-e10c36-dark.svg"><img alt="Meet Me Halfway · Black Eyed Peas" src="assets/track-6-e10c36-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-b4ca74-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-b4ca74-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-b4ca74-dark.svg"><img alt="TiK ToK · Kesha" src="assets/track-0-b4ca74-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-b4ca74-dark.svg"><img alt="Outside (feat. Ellie Goulding) · Calvin Harris, Ellie Goulding" src="assets/track-1-b4ca74-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-b4ca74-dark.svg"><img alt="Can&#39;t Feel My Face · The Weeknd" src="assets/track-2-b4ca74-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-b4ca74-dark.svg"><img alt="Rock That Body · Black Eyed Peas" src="assets/track-3-b4ca74-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0TouC5CDvcsluzTi1oSRJD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-b4ca74-dark.svg"><img alt="Changes · Faul &amp; Wad, PNAU" src="assets/track-4-b4ca74-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2gi6OllNgoSGq3jBfEuEms"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-b4ca74-dark.svg"><img alt="LIGHTS GO OUT - G-POL Remix · John Summit, G-POL" src="assets/track-5-b4ca74-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6Xe9wT5xeZETPwtaP2ynUz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-b4ca74-dark.svg"><img alt="Levels - Original Version · Avicii" src="assets/track-6-b4ca74-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,912 commits</summary>
+<summary><b>2026</b> · 1,913 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 275 commits</summary>
+<summary>November 2026 · 276 commits</summary>
 <br>
 
 <picture>
