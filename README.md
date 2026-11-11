@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-a3d2c8-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-a3d2c8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3PJWxHgimWwO9I8bPiFslX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-a3d2c8-dark.svg"><img alt="Lights On · Discip" src="assets/track-0-a3d2c8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7KsrV96ri4d2q0sdEZdp9s"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-a3d2c8-dark.svg"><img alt="I Close My Eyes · ERIICE, Matt Sway" src="assets/track-1-a3d2c8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2rtkijCiF44Uy4EqBhOsQP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-a3d2c8-dark.svg"><img alt="Feeling Good · Hypaton, David Guetta" src="assets/track-2-a3d2c8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/57Tm3QFBZuPMlF0CbsYVrD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-a3d2c8-dark.svg"><img alt="YES B!TCH · DANNY AVILA, Sam WOLFE, HNTR, Rome Fortune" src="assets/track-3-a3d2c8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/43rQ7NSVjEt1Tp9g9hQdYP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-a3d2c8-dark.svg"><img alt="Broken Heart - Speed Up · ATALE, Lion" src="assets/track-4-a3d2c8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7aFgh0G0BusHzC6gex4wP8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-a3d2c8-dark.svg"><img alt="Get Stupid · Joshwa" src="assets/track-5-a3d2c8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4qT6VghaTrJ5dUojftyDqK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-a3d2c8-dark.svg"><img alt="Came To The Club · Matroda" src="assets/track-6-a3d2c8-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-397dc4-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-397dc4-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2AJzSl2iYq7Thk2P535MwI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-397dc4-dark.svg"><img alt="Diet Coke · Fallon" src="assets/track-0-397dc4-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7MrRdAWVEmcZqnQfBiAmWp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-397dc4-dark.svg"><img alt="Sailor Moon · NONSENSE" src="assets/track-1-397dc4-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0rLWyaC6vkht17t0EjO71Y"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-397dc4-dark.svg"><img alt="Ill Behavior · Marten Hørger" src="assets/track-2-397dc4-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/39hHUnYBmyMwprzRaPODCX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-397dc4-dark.svg"><img alt="Free Your Mind · Prospa, Cloonee, Sybil" src="assets/track-3-397dc4-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6vx7h9Og7Aa1nb1ktu6mdd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-397dc4-dark.svg"><img alt="My Lover · Otto Knows" src="assets/track-4-397dc4-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7u8splHTNg4R6W1FXF5YSG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-397dc4-dark.svg"><img alt="Welcome To Miami - Sped Up · Bass Mode" src="assets/track-5-397dc4-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3CQ2QRDzwDsXOVfcgWv8fz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-397dc4-dark.svg"><img alt="Satisfied · JUNTARO" src="assets/track-6-397dc4-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,909 commits</summary>
+<summary><b>2026</b> · 1,910 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 272 commits</summary>
+<summary>November 2026 · 273 commits</summary>
 <br>
 
 <picture>
