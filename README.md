@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-1e257a-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-1e257a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1DyPR5YSPHlRhqRQQR4CGB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-1e257a-dark.svg"><img alt="POP DAT THANG - David Guetta Mix · DaBaby, David Guetta" src="assets/track-0-1e257a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-1e257a-dark.svg"><img alt="Tears (with Paige Cavell) · John Summit, Paige Cavell" src="assets/track-1-1e257a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0BZ5YlY2xnwfUmyGdiOMje"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-1e257a-dark.svg"><img alt="Call on Me - Ryan Riback Remix · Starley, Ryan Riback" src="assets/track-2-1e257a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-1e257a-dark.svg"><img alt="Give Me Everything (feat. Nayer) · Pitbull, AFROJACK, Ne-Yo, Nayer" src="assets/track-3-1e257a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-1e257a-dark.svg"><img alt="Because You Move Me · Tinlicker, Helsloot" src="assets/track-4-1e257a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-1e257a-dark.svg"><img alt="Walking On A Dream · Empire Of The Sun" src="assets/track-5-1e257a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1I8tHoNBFTuoJAlh4hfVVE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-1e257a-dark.svg"><img alt="Firestone · Kygo, Conrad Sewell" src="assets/track-6-1e257a-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-52364a-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-52364a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5JCi3pyggvk4B0yd0BK3ow"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-52364a-dark.svg"><img alt="Stay High - Habits Remix · Tove Lo, Hippie Sabotage" src="assets/track-0-52364a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-52364a-dark.svg"><img alt="Timber · Pitbull, Kesha" src="assets/track-1-52364a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3S2XST3xyKknQZPGF7rsIv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-52364a-dark.svg"><img alt="Cold Blooded · Maesic, Local Singles" src="assets/track-2-52364a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2O9O26335YYVckmRgPKY3s"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-52364a-dark.svg"><img alt="Alive · Empire Of The Sun" src="assets/track-3-52364a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2iJuuzV8P9Yz0VSurttIV5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-52364a-dark.svg"><img alt="Scream &amp; Shout · will.i.am, Britney Spears" src="assets/track-4-52364a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4zLBcDtvYNVtF9fnG6lme3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-52364a-dark.svg"><img alt="Sun Goes Down (feat. Jasmine Thompson) - Radio Mix · Robin Schulz, Jasmine Thompson" src="assets/track-5-52364a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3ejfcz0QPyV717Vd3ta04V"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-52364a-dark.svg"><img alt="My Way · Calvin Harris" src="assets/track-6-52364a-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,911 commits</summary>
+<summary><b>2026</b> · 1,912 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 274 commits</summary>
+<summary>November 2026 · 275 commits</summary>
 <br>
 
 <picture>
