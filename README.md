@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-9a22d5-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-9a22d5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6zKrj4SomgfbvsfuTAuElE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-9a22d5-dark.svg"><img alt="Want to Want Me · Jason Derulo" src="assets/track-0-9a22d5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-9a22d5-dark.svg"><img alt="One More Time · Daft Punk" src="assets/track-1-9a22d5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1sOfNRe7zyQkJj0cY6z2k8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-9a22d5-dark.svg"><img alt="Tell It To My Heart · MEDUZA, Hozier" src="assets/track-2-9a22d5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5tQTZt90XSaYpnM7AL2K3X"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-9a22d5-dark.svg"><img alt="Desire (with Sam Smith) · Calvin Harris, Sam Smith" src="assets/track-3-9a22d5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5vv3aCayCpAU6tfOZRRJMx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-9a22d5-dark.svg"><img alt="4Get The Girl - GUDFELLA &amp; Jackie Hollander Remix · Route 94, GUDFELLA, Jackie Hollander" src="assets/track-4-9a22d5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2s5rlDHeqN61tJCooYADwA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-9a22d5-dark.svg"><img alt="STATUS:AWAY · John Summit" src="assets/track-5-9a22d5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6ClI5b3S2i6cK21MsSQnJF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-9a22d5-dark.svg"><img alt="Out Of Sight, Out Of Mind · Odd Mob, SCRIPT, Goodboys" src="assets/track-6-9a22d5-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-fdd02b-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-fdd02b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4fnBNNoBiRqDgTTk3ZQo3E"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-fdd02b-dark.svg"><img alt="Tennis Court - Flume Remix · Lorde, Flume" src="assets/track-0-fdd02b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0KcEUsbDhld6ZFK2eYOVtG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-fdd02b-dark.svg"><img alt="Music Don&#39;t Stop · J. Worra, Bipolar Sunshine" src="assets/track-1-fdd02b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4lhqb6JvbHId48OUJGwymk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-fdd02b-dark.svg"><img alt="Hey Brother · Avicii" src="assets/track-2-fdd02b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3P3pw6C19j31Rnzgo3JG7o"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-fdd02b-dark.svg"><img alt="Perfect Strangers · Jonas Blue, JP Cooper" src="assets/track-3-fdd02b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5HjFR2VycnyNnct2CQsao9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-fdd02b-dark.svg"><img alt="The Way I Are · Don Diablo" src="assets/track-4-fdd02b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/61dCUoMCg28qEBzrW6htYM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-fdd02b-dark.svg"><img alt="Rather Be (feat. Jess Glynne) · Clean Bandit, Jess Glynne" src="assets/track-5-fdd02b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6zKrj4SomgfbvsfuTAuElE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-fdd02b-dark.svg"><img alt="Want to Want Me · Jason Derulo" src="assets/track-6-fdd02b-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,918 commits</summary>
+<summary><b>2026</b> · 1,920 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 281 commits</summary>
+<summary>November 2026 · 283 commits</summary>
 <br>
 
 <picture>
