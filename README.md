@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-65af97-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-65af97-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1SN1vSPsr4V4tIUTR3s8YW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-65af97-dark.svg"><img alt="Fast Car · Jonas Blue, Dakota" src="assets/track-0-65af97-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7pYfyrMNPn3wtoCyqcTVoI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-65af97-dark.svg"><img alt="Moves Like Jagger - Studio Recording From &quot;The Voice&quot; Performance · Maroon 5, Christina Aguilera" src="assets/track-1-65af97-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3JA9Jsuxr4xgHXEawAdCp4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-65af97-dark.svg"><img alt="Just Can’t Get Enough · Black Eyed Peas" src="assets/track-2-65af97-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-65af97-dark.svg"><img alt="Just Dance · Lady Gaga, Colby O&#39;Donis" src="assets/track-3-65af97-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5zPTc1mblCrVgMmPzrTMfQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-65af97-dark.svg"><img alt="Better Off (Alone, Pt. III) · Alan Walker, Dash Berlin, Vikkstar" src="assets/track-4-65af97-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/01TuObJVd7owWchVRuQbQw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-65af97-dark.svg"><img alt="#thatPOWER · will.i.am, Justin Bieber" src="assets/track-5-65af97-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4J7CKHCF3mdL4diUsmW8lq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-65af97-dark.svg"><img alt="Under Control (feat. Hurts) · Calvin Harris, Alesso, Hurts" src="assets/track-6-65af97-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-9a22d5-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-9a22d5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6zKrj4SomgfbvsfuTAuElE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-9a22d5-dark.svg"><img alt="Want to Want Me · Jason Derulo" src="assets/track-0-9a22d5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-9a22d5-dark.svg"><img alt="One More Time · Daft Punk" src="assets/track-1-9a22d5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1sOfNRe7zyQkJj0cY6z2k8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-9a22d5-dark.svg"><img alt="Tell It To My Heart · MEDUZA, Hozier" src="assets/track-2-9a22d5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5tQTZt90XSaYpnM7AL2K3X"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-9a22d5-dark.svg"><img alt="Desire (with Sam Smith) · Calvin Harris, Sam Smith" src="assets/track-3-9a22d5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5vv3aCayCpAU6tfOZRRJMx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-9a22d5-dark.svg"><img alt="4Get The Girl - GUDFELLA &amp; Jackie Hollander Remix · Route 94, GUDFELLA, Jackie Hollander" src="assets/track-4-9a22d5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2s5rlDHeqN61tJCooYADwA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-9a22d5-dark.svg"><img alt="STATUS:AWAY · John Summit" src="assets/track-5-9a22d5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6ClI5b3S2i6cK21MsSQnJF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-9a22d5-dark.svg"><img alt="Out Of Sight, Out Of Mind · Odd Mob, SCRIPT, Goodboys" src="assets/track-6-9a22d5-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,914 commits</summary>
+<summary><b>2026</b> · 1,918 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 277 commits</summary>
+<summary>November 2026 · 281 commits</summary>
 <br>
 
 <picture>
