@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-1176c5-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-1176c5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-1176c5-dark.svg"><img alt="One in a Million · Bebe Rexha, David Guetta" src="assets/track-0-1176c5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/43waB46j3xD67j7Tq23cPw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-1176c5-dark.svg"><img alt="Driving Fast · Swimming Paul, Beaux Neptune" src="assets/track-1-1176c5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4rNM7SW9WpUU8F3inv72e3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-1176c5-dark.svg"><img alt="I Can Be (Stronger) · MK" src="assets/track-2-1176c5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5Ulu7otJ0LqHXT1womHpe3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-1176c5-dark.svg"><img alt="Take Me High · Marten Hørger" src="assets/track-3-1176c5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2OP7UAuQF1OJbjeYXa5fhm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-1176c5-dark.svg"><img alt="Silence - John Summit Remix · Delerium, Sarah McLachlan, John Summit" src="assets/track-4-1176c5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6AiZxO930ZHxwyYjigyCgc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-1176c5-dark.svg"><img alt="Revolving door - Lavern remix · Tate McRae, Lavern" src="assets/track-5-1176c5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0DIBHEcDGZKkK7Lr5cRS0U"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-1176c5-dark.svg"><img alt="two shots too much · oskar med k, Kitty Mack" src="assets/track-6-1176c5-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-c5d65e-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-c5d65e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3r4DLC45owczmUBNGKs1EF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-c5d65e-dark.svg"><img alt="DOING THIS FOR ME · bystander, emerge" src="assets/track-0-c5d65e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-c5d65e-dark.svg"><img alt="Forget You · FAST BOY, Topic" src="assets/track-1-c5d65e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3zMBJKHkqDqm0ZVMKGLHak"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-c5d65e-dark.svg"><img alt="On &amp; On (feat. bbyclose) · Sub Focus, bbyclose" src="assets/track-2-c5d65e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-c5d65e-dark.svg"><img alt="Blessings · Calvin Harris, Clementine Douglas" src="assets/track-3-c5d65e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5fYovldszObZhx7XdvMbgN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-c5d65e-dark.svg"><img alt="Hideaway · Kiesza" src="assets/track-4-c5d65e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3clm6cjZh2al2c0ZbbVuuI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-c5d65e-dark.svg"><img alt="My People · Jazzy" src="assets/track-5-c5d65e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5MEO044a2z6a5jJEShsV9u"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-c5d65e-dark.svg"><img alt="Dior (feat. Chrystal) · MK, Chrystal" src="assets/track-6-c5d65e-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,992 commits</summary>
+<summary><b>2026</b> · 1,996 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 355 commits</summary>
+<summary>November 2026 · 359 commits</summary>
 <br>
 
 <picture>
