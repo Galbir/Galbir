@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-d6fe9d-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-d6fe9d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3HvnYVNNNJ1YC4zRNi1Aox"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-d6fe9d-dark.svg"><img alt="Tough - Gravagerz Remix · Quavo, Lana Del Rey, Gravagerz" src="assets/track-0-d6fe9d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2DOUbOh1k3n9Ek6Eur61K4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-d6fe9d-dark.svg"><img alt="Focus (feat. CLOVES) - Alok Remix · John Summit, CLOVES, Alok" src="assets/track-1-d6fe9d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6EKfZDw2kRQ6R4Vf7olc2f"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-d6fe9d-dark.svg"><img alt="What I Need · Naarly, Sickluv, Thabza De Soul" src="assets/track-2-d6fe9d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1bE98D49uKNetOyLiaB8tG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-d6fe9d-dark.svg"><img alt="Never Walk Alone · BLOND:ISH, Stevie Appleton" src="assets/track-3-d6fe9d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3CPhCNH8rV1czzGSmXm9TH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-d6fe9d-dark.svg"><img alt="messy · Łaszewo" src="assets/track-4-d6fe9d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5nOXtkJKRbxiWKMllo3DpJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-d6fe9d-dark.svg"><img alt="COLORADO · Loud Luxury, ZOHARA" src="assets/track-5-d6fe9d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5nOXtkJKRbxiWKMllo3DpJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-d6fe9d-dark.svg"><img alt="COLORADO · Loud Luxury, ZOHARA" src="assets/track-6-d6fe9d-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-5da520-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-5da520-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0FEk8LwY8h4rAR63ggfhV0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-5da520-dark.svg"><img alt="Ritual · Tiësto, Jonas Blue, Rita Ora" src="assets/track-0-5da520-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4DJORZgsbqnEJ4f4B9TBGV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-5da520-dark.svg"><img alt="You Don&#39;t Know Me (feat. RAYE) · Jax Jones, RAYE" src="assets/track-1-5da520-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-5da520-dark.svg"><img alt="Whistle (feat. Calum Scott) · Jax Jones, Calum Scott" src="assets/track-2-5da520-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-5da520-dark.svg"><img alt="Whistle (feat. Calum Scott) · Jax Jones, Calum Scott" src="assets/track-3-5da520-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3HvnYVNNNJ1YC4zRNi1Aox"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-5da520-dark.svg"><img alt="Tough - Gravagerz Remix · Quavo, Lana Del Rey, Gravagerz" src="assets/track-4-5da520-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2DOUbOh1k3n9Ek6Eur61K4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-5da520-dark.svg"><img alt="Focus (feat. CLOVES) - Alok Remix · John Summit, CLOVES, Alok" src="assets/track-5-5da520-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6EKfZDw2kRQ6R4Vf7olc2f"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-5da520-dark.svg"><img alt="What I Need · Naarly, Sickluv, Thabza De Soul" src="assets/track-6-5da520-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,022 commits</summary>
+<summary><b>2026</b> · 2,024 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 385 commits</summary>
+<summary>November 2026 · 387 commits</summary>
 <br>
 
 <picture>
