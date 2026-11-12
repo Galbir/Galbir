@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-6c46dc-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-6c46dc-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6ctWstoouxCcvuTsd4cHNS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-6c46dc-dark.svg"><img alt="Desire - Gryffin Remix · Olly Alexander (Years &amp; Years), Gryffin" src="assets/track-0-6c46dc-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6ctWstoouxCcvuTsd4cHNS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-6c46dc-dark.svg"><img alt="Desire - Gryffin Remix · Olly Alexander (Years &amp; Years), Gryffin" src="assets/track-1-6c46dc-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4fnBNNoBiRqDgTTk3ZQo3E"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-6c46dc-dark.svg"><img alt="Tennis Court - Flume Remix · Lorde, Flume" src="assets/track-2-6c46dc-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0KcEUsbDhld6ZFK2eYOVtG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-6c46dc-dark.svg"><img alt="Music Don&#39;t Stop · J. Worra, Bipolar Sunshine" src="assets/track-3-6c46dc-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4lhqb6JvbHId48OUJGwymk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-6c46dc-dark.svg"><img alt="Hey Brother · Avicii" src="assets/track-4-6c46dc-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3P3pw6C19j31Rnzgo3JG7o"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-6c46dc-dark.svg"><img alt="Perfect Strangers · Jonas Blue, JP Cooper" src="assets/track-5-6c46dc-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5HjFR2VycnyNnct2CQsao9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-6c46dc-dark.svg"><img alt="The Way I Are · Don Diablo" src="assets/track-6-6c46dc-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-4c3c3d-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-4c3c3d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-4c3c3d-dark.svg"><img alt="Heaven Takes You Home (feat. Connie Constance) · Swedish House Mafia, Constance Power" src="assets/track-0-4c3c3d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0scd3nh27AYTNXo0KHRmsG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-4c3c3d-dark.svg"><img alt="Move (feat. Camila Cabello &amp; Malachiii) · Stryv, Camila Cabello, Malachiii, Adam Port, Keinemusik, Orso" src="assets/track-1-4c3c3d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-4c3c3d-dark.svg"><img alt="Bulletproof · La Roux, GAMPER &amp; DADONI" src="assets/track-2-4c3c3d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3IWZTh5IP1bcrJoTLu4hWH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-4c3c3d-dark.svg"><img alt="Rising Up · Carlita, Cleo Simone" src="assets/track-3-4c3c3d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2HVPNaIJ3spzsc2YxnNf7O"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-4c3c3d-dark.svg"><img alt="someone new · Arden Jones" src="assets/track-4-4c3c3d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-4c3c3d-dark.svg"><img alt="It Feels So Good · Matt Sassari, HUGEL, Sonique" src="assets/track-5-4c3c3d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6QvldZZ10eYgKamaWfG52b"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-4c3c3d-dark.svg"><img alt="Fuck Your Sunshine (Adventure Club Remix) · Łaszewo, Adventure Club" src="assets/track-6-4c3c3d-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,956 commits</summary>
+<summary><b>2026</b> · 1,964 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 319 commits</summary>
+<summary>November 2026 · 327 commits</summary>
 <br>
 
 <picture>
