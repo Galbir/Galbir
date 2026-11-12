@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-171075-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-171075-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3k5VWLIsJQFYrJvIrNLLvK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-171075-dark.svg"><img alt="Stone Cold Eyes · it&#39;s murph, Emi Grace" src="assets/track-0-171075-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-171075-dark.svg"><img alt="REACT · Switch Disco, Ella Henderson, Robert Miles" src="assets/track-1-171075-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3vF5tKs2uDgmFd3TzwrJ17"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-171075-dark.svg"><img alt="I Can Dance · BYOR, Mentum" src="assets/track-2-171075-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-171075-dark.svg"><img alt="VHS RAVE · Tiësto, Swimming Paul" src="assets/track-3-171075-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2rKK8n5onh5bJqiMP9kT5Y"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-171075-dark.svg"><img alt="Never Get Enough - Edit · Elderbrook" src="assets/track-4-171075-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5ERXj189c0hWp8UrWidAJV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-171075-dark.svg"><img alt="We don&#39;t talk (anymore) · Niklas Dee, Oaks" src="assets/track-5-171075-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/04Ya6RPms2RppYRKKvxb9U"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-171075-dark.svg"><img alt="Electrify · Ship Wrek, fkblnde" src="assets/track-6-171075-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-be2701-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-be2701-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4N1MFKjziFHH4IS3RYYUrU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-be2701-dark.svg"><img alt="My Love · Route 94, Jess Glynne" src="assets/track-0-be2701-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6fm3EbYiBQauorLfV65PQJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-be2701-dark.svg"><img alt="Will We Ever Change? · Noizu" src="assets/track-1-be2701-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/38zKrIZSqQ4scJ800bSfrC"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-be2701-dark.svg"><img alt="Love Me Again (Again) · John Newman" src="assets/track-2-be2701-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6kqtPbQoUOI4NQow6qGGnp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-be2701-dark.svg"><img alt="SPEND THE WEEK · Łaszewo" src="assets/track-3-be2701-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3fvZBt6yQ5A23Y83D2Jmw5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-be2701-dark.svg"><img alt="Play Me · Tini Gessler" src="assets/track-4-be2701-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4b93D55xv3YCH5mT4p6HPn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-be2701-dark.svg"><img alt="Ocean Drive · Duke Dumont" src="assets/track-5-be2701-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4sMR8fuTzbUyzB0asxifV0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-be2701-dark.svg"><img alt="Desire · Ian Asher, Olly Alexander (Years &amp; Years)" src="assets/track-6-be2701-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,017 commits</summary>
+<summary><b>2026</b> · 2,019 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 380 commits</summary>
+<summary>November 2026 · 382 commits</summary>
 <br>
 
 <picture>
