@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-c5d65e-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-c5d65e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3r4DLC45owczmUBNGKs1EF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-c5d65e-dark.svg"><img alt="DOING THIS FOR ME · bystander, emerge" src="assets/track-0-c5d65e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-c5d65e-dark.svg"><img alt="Forget You · FAST BOY, Topic" src="assets/track-1-c5d65e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3zMBJKHkqDqm0ZVMKGLHak"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-c5d65e-dark.svg"><img alt="On &amp; On (feat. bbyclose) · Sub Focus, bbyclose" src="assets/track-2-c5d65e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-c5d65e-dark.svg"><img alt="Blessings · Calvin Harris, Clementine Douglas" src="assets/track-3-c5d65e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5fYovldszObZhx7XdvMbgN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-c5d65e-dark.svg"><img alt="Hideaway · Kiesza" src="assets/track-4-c5d65e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3clm6cjZh2al2c0ZbbVuuI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-c5d65e-dark.svg"><img alt="My People · Jazzy" src="assets/track-5-c5d65e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5MEO044a2z6a5jJEShsV9u"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-c5d65e-dark.svg"><img alt="Dior (feat. Chrystal) · MK, Chrystal" src="assets/track-6-c5d65e-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-e9a86f-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-e9a86f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/38KJNdBS6QbT9v339vohwp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-e9a86f-dark.svg"><img alt="Missing You · Kogis" src="assets/track-0-e9a86f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7bDDYji600PxR0F921ctVN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-e9a86f-dark.svg"><img alt="Save a Soul · nimino" src="assets/track-1-e9a86f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/20Y4EAmSXru3foatDg4OqN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-e9a86f-dark.svg"><img alt="LET&#39;S GO · Jaden Bojsen, Sami Brielle" src="assets/track-2-e9a86f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1eazMLblFwx60PlH6e506v"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-e9a86f-dark.svg"><img alt="Borderline · Ely Oaks, LAVINIA" src="assets/track-3-e9a86f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1Eqdkt6DfGNWElHpeujHGJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-e9a86f-dark.svg"><img alt="HIGHJACK (right back) · Alok, Łaszewo, A$AP Rocky" src="assets/track-4-e9a86f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-e9a86f-dark.svg"><img alt="I Adore You (feat. Daecolm) · HUGEL, Topic, Arash, Daecolm" src="assets/track-5-e9a86f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7dysHvjVrHkpLhamDe1HJz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-e9a86f-dark.svg"><img alt="Do or Die · Łaszewo" src="assets/track-6-e9a86f-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,996 commits</summary>
+<summary><b>2026</b> · 1,998 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 359 commits</summary>
+<summary>November 2026 · 361 commits</summary>
 <br>
 
 <picture>
