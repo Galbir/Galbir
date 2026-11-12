@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-8e4387-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-8e4387-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6xupcsJHo3wW2tSVKwu4mf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-8e4387-dark.svg"><img alt="Self Aware · LUM!X" src="assets/track-0-8e4387-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1VSRfRr9ZLbVqgankVYuGo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-8e4387-dark.svg"><img alt="Show Me Love · WizTheMc, bees &amp; honey" src="assets/track-1-8e4387-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2Ud0U3EGKc2phvO5XTwusv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-8e4387-dark.svg"><img alt="All Good Things (Come To An End) · Ian Asher, Nelly Furtado" src="assets/track-2-8e4387-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1OIlJ7coFBDaUdXXuiTeBc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-8e4387-dark.svg"><img alt="Home - TWINSICK Remix · TWINSICK, Edward Sharpe &amp; The Magnetic Zeros" src="assets/track-3-8e4387-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/63P7p3hsAOBscEtVqgTeHM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-8e4387-dark.svg"><img alt="stay · oskar med k, Kitty Mack" src="assets/track-4-8e4387-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3CPhCNH8rV1czzGSmXm9TH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-8e4387-dark.svg"><img alt="messy · Łaszewo" src="assets/track-5-8e4387-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5n9hySKfQnC3vb7CjWoP1B"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-8e4387-dark.svg"><img alt="Lost (feat. Sam Harper) · Glockenbach, Sam Harper" src="assets/track-6-8e4387-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-1176c5-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-1176c5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-1176c5-dark.svg"><img alt="One in a Million · Bebe Rexha, David Guetta" src="assets/track-0-1176c5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/43waB46j3xD67j7Tq23cPw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-1176c5-dark.svg"><img alt="Driving Fast · Swimming Paul, Beaux Neptune" src="assets/track-1-1176c5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4rNM7SW9WpUU8F3inv72e3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-1176c5-dark.svg"><img alt="I Can Be (Stronger) · MK" src="assets/track-2-1176c5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5Ulu7otJ0LqHXT1womHpe3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-1176c5-dark.svg"><img alt="Take Me High · Marten Hørger" src="assets/track-3-1176c5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2OP7UAuQF1OJbjeYXa5fhm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-1176c5-dark.svg"><img alt="Silence - John Summit Remix · Delerium, Sarah McLachlan, John Summit" src="assets/track-4-1176c5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6AiZxO930ZHxwyYjigyCgc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-1176c5-dark.svg"><img alt="Revolving door - Lavern remix · Tate McRae, Lavern" src="assets/track-5-1176c5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0DIBHEcDGZKkK7Lr5cRS0U"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-1176c5-dark.svg"><img alt="two shots too much · oskar med k, Kitty Mack" src="assets/track-6-1176c5-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,975 commits</summary>
+<summary><b>2026</b> · 1,992 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 338 commits</summary>
+<summary>November 2026 · 355 commits</summary>
 <br>
 
 <picture>
