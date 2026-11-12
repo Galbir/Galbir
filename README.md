@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-9c47aa-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-9c47aa-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1bE98D49uKNetOyLiaB8tG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-9c47aa-dark.svg"><img alt="Never Walk Alone · BLOND:ISH, Stevie Appleton" src="assets/track-0-9c47aa-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3CPhCNH8rV1czzGSmXm9TH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-9c47aa-dark.svg"><img alt="messy · Łaszewo" src="assets/track-1-9c47aa-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5nOXtkJKRbxiWKMllo3DpJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-9c47aa-dark.svg"><img alt="COLORADO · Loud Luxury, ZOHARA" src="assets/track-2-9c47aa-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5nOXtkJKRbxiWKMllo3DpJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-9c47aa-dark.svg"><img alt="COLORADO · Loud Luxury, ZOHARA" src="assets/track-3-9c47aa-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1cYyZ1N98GyRS3cMcccFHd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-9c47aa-dark.svg"><img alt="Wasted Love (feat. Lagique) · Ofenbach, Lagique" src="assets/track-4-9c47aa-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4Nh7Umpl8YPFPcggcby6JW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-9c47aa-dark.svg"><img alt="Runaway (U &amp; I) · Ian Asher, Galantis" src="assets/track-5-9c47aa-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4uxbFGaFDirIal7cjQ7A28"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-9c47aa-dark.svg"><img alt="SATA · John Summit, Rohaan" src="assets/track-6-9c47aa-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-d6fe9d-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-d6fe9d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3HvnYVNNNJ1YC4zRNi1Aox"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-d6fe9d-dark.svg"><img alt="Tough - Gravagerz Remix · Quavo, Lana Del Rey, Gravagerz" src="assets/track-0-d6fe9d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2DOUbOh1k3n9Ek6Eur61K4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-d6fe9d-dark.svg"><img alt="Focus (feat. CLOVES) - Alok Remix · John Summit, CLOVES, Alok" src="assets/track-1-d6fe9d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6EKfZDw2kRQ6R4Vf7olc2f"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-d6fe9d-dark.svg"><img alt="What I Need · Naarly, Sickluv, Thabza De Soul" src="assets/track-2-d6fe9d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1bE98D49uKNetOyLiaB8tG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-d6fe9d-dark.svg"><img alt="Never Walk Alone · BLOND:ISH, Stevie Appleton" src="assets/track-3-d6fe9d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3CPhCNH8rV1czzGSmXm9TH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-d6fe9d-dark.svg"><img alt="messy · Łaszewo" src="assets/track-4-d6fe9d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5nOXtkJKRbxiWKMllo3DpJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-d6fe9d-dark.svg"><img alt="COLORADO · Loud Luxury, ZOHARA" src="assets/track-5-d6fe9d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5nOXtkJKRbxiWKMllo3DpJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-d6fe9d-dark.svg"><img alt="COLORADO · Loud Luxury, ZOHARA" src="assets/track-6-d6fe9d-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,021 commits</summary>
+<summary><b>2026</b> · 2,022 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 384 commits</summary>
+<summary>November 2026 · 385 commits</summary>
 <br>
 
 <picture>
