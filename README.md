@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-118c93-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-118c93-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5SnGzL6HUhPi68muTOttIf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-118c93-dark.svg"><img alt="Lose U · Toby Romeo" src="assets/track-0-118c93-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4fX5TrTpbze93zEzkhDOBb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-118c93-dark.svg"><img alt="Hell Yeah (Feat. Waxmaster) · Chris Lorenzo, Parris Mitchell, Waxmaster" src="assets/track-1-118c93-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3OGmnOgg3NQ4uwerCW3GXE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-118c93-dark.svg"><img alt="Embers · Robin Schulz" src="assets/track-2-118c93-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0jOVWyn2oqdi0To7psVdt9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-118c93-dark.svg"><img alt="Direct With It · Swimming Paul, Beaux Neptune" src="assets/track-3-118c93-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1PnmXdkqRktZT67tE8fv7d"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-118c93-dark.svg"><img alt="I Follow Rivers - The Magician Remix · Lykke Li, The Magician" src="assets/track-4-118c93-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6SAqreO3NWz4JzTJ54312H"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-118c93-dark.svg"><img alt="Youthful Kids · it&#39;s murph" src="assets/track-5-118c93-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0ZmWaFfrQUDVYpAE7iHujh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-118c93-dark.svg"><img alt="another lifetime · kalm" src="assets/track-6-118c93-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-c26a16-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-c26a16-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7iTvPYqoZ5mN2kUikWLGo0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-c26a16-dark.svg"><img alt="car crash · jigitz, Charlotte Plank" src="assets/track-0-c26a16-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5C6IIw94zDPZMH8TT4VIOm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-c26a16-dark.svg"><img alt="Fknow It · Swimming Paul" src="assets/track-1-c26a16-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6Pgkp4qUoTmJIPn7ReaGxL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-c26a16-dark.svg"><img alt="Without You (feat. Sandro Cavazza) · Avicii, Sandro Cavazza" src="assets/track-2-c26a16-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-c26a16-dark.svg"><img alt="Big Jet Plane · Restricted" src="assets/track-3-c26a16-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1mUtoNjjHCkPegcNtmCwfk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-c26a16-dark.svg"><img alt="Intoxicated · HUGEL, Malachiii" src="assets/track-4-c26a16-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/56kCcMJEazhQp1pjG7tk9O"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-c26a16-dark.svg"><img alt="I Went Back To Ibiza · Mike Posner, David Guetta" src="assets/track-5-c26a16-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5KEve04JRDnfszpMRuhxZG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-c26a16-dark.svg"><img alt="Upside Down · MEDUZA, Poppy Baskcomb" src="assets/track-6-c26a16-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,011 commits</summary>
+<summary><b>2026</b> · 2,014 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 374 commits</summary>
+<summary>November 2026 · 377 commits</summary>
 <br>
 
 <picture>
