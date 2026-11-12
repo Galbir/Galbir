@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-c26a16-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-c26a16-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7iTvPYqoZ5mN2kUikWLGo0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-c26a16-dark.svg"><img alt="car crash · jigitz, Charlotte Plank" src="assets/track-0-c26a16-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5C6IIw94zDPZMH8TT4VIOm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-c26a16-dark.svg"><img alt="Fknow It · Swimming Paul" src="assets/track-1-c26a16-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6Pgkp4qUoTmJIPn7ReaGxL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-c26a16-dark.svg"><img alt="Without You (feat. Sandro Cavazza) · Avicii, Sandro Cavazza" src="assets/track-2-c26a16-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-c26a16-dark.svg"><img alt="Big Jet Plane · Restricted" src="assets/track-3-c26a16-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1mUtoNjjHCkPegcNtmCwfk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-c26a16-dark.svg"><img alt="Intoxicated · HUGEL, Malachiii" src="assets/track-4-c26a16-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/56kCcMJEazhQp1pjG7tk9O"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-c26a16-dark.svg"><img alt="I Went Back To Ibiza · Mike Posner, David Guetta" src="assets/track-5-c26a16-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5KEve04JRDnfszpMRuhxZG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-c26a16-dark.svg"><img alt="Upside Down · MEDUZA, Poppy Baskcomb" src="assets/track-6-c26a16-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-1711ed-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-1711ed-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7u38KYuUzBy0I6wOh17Ckc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-1711ed-dark.svg"><img alt="Fading · Swimming Paul" src="assets/track-0-1711ed-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/023H4I7HJnxRqsc9cqeFKV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-1711ed-dark.svg"><img alt="I Got U · Duke Dumont, Jax Jones" src="assets/track-1-1711ed-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1HpOpFbCT9z6FyXdyPPeHX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-1711ed-dark.svg"><img alt="I Did You Wrong · Harry Hayes" src="assets/track-2-1711ed-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0KDWgkllpxZtcy5fNQOzwO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-1711ed-dark.svg"><img alt="Break · Tini Gessler" src="assets/track-3-1711ed-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-1711ed-dark.svg"><img alt="I Took A Pill In Ibiza - Seeb Remix · Mike Posner, Seeb" src="assets/track-4-1711ed-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7cX5H82DTZ5iHRLbewBEBd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-1711ed-dark.svg"><img alt="Born To Love (feat. SHELLS) · MEDUZA, SHELLS" src="assets/track-5-1711ed-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5naYe7rLMZcLfO1DKg48MK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-1711ed-dark.svg"><img alt="All Day And Night · Jax Jones, Martin Solveig, Madison Beer, Europa" src="assets/track-6-1711ed-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,014 commits</summary>
+<summary><b>2026</b> · 2,016 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 377 commits</summary>
+<summary>November 2026 · 379 commits</summary>
 <br>
 
 <picture>
