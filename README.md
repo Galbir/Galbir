@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-8fbfd8-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-8fbfd8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/65ZQpJNYomEzV30VngavQy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-8fbfd8-dark.svg"><img alt="All In My Head · ESSEL, 3DAH!" src="assets/track-0-8fbfd8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-8fbfd8-dark.svg"><img alt="I Was Made For Lovin&#39; You (feat. Nile Rodgers &amp; House Gospel Choir) · Oliver Heldens, Nile Rodgers, House Gospel Choir" src="assets/track-1-8fbfd8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3DqOJ2BoddzZpNdty3okJH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-8fbfd8-dark.svg"><img alt="RIZZ · AYYBO" src="assets/track-2-8fbfd8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0H24VNZsFn9zoFycCHYQu3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-8fbfd8-dark.svg"><img alt="Just A Little (feat. Sam Harper) · Justė, Sam Harper" src="assets/track-3-8fbfd8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/44wR4NqR75eJMETxrz59Sr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-8fbfd8-dark.svg"><img alt="Favour · FISHER, Tones And I" src="assets/track-4-8fbfd8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0eXoaFeLY7SR6X9uAtF8L9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-8fbfd8-dark.svg"><img alt="I Wanna Live · Łaszewo" src="assets/track-5-8fbfd8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-8fbfd8-dark.svg"><img alt="We Don&#39;t Ever Stop · Tom Santa" src="assets/track-6-8fbfd8-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-344e59-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-344e59-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/09Rv6ctDE0t9z8zk5FINg8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-344e59-dark.svg"><img alt="Danielle (smile on my face) · Fred again.., 070 Shake" src="assets/track-0-344e59-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4KcvuniU5H6udqYQ0bFehn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-344e59-dark.svg"><img alt="Never Leave You (Uh Oooh, Uh Oooh) - Extended Mix · Ian Asher, Joe Stone" src="assets/track-1-344e59-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4WMtRAjpMltoMQ3M3YxYIy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-344e59-dark.svg"><img alt="Yu Feel · Verb" src="assets/track-2-344e59-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1BktkzhQ6rhP1jTREtUdPK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-344e59-dark.svg"><img alt="(It Goes Like) Nanana - Edit · Peggy Gou" src="assets/track-3-344e59-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0eUP3XYOCAj7lGoz4LOhyQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-344e59-dark.svg"><img alt="Talk To You (ft. 54 Ultra) · ANOTR, 54 Ultra" src="assets/track-4-344e59-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/65ZQpJNYomEzV30VngavQy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-344e59-dark.svg"><img alt="All In My Head · ESSEL, 3DAH!" src="assets/track-5-344e59-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-344e59-dark.svg"><img alt="I Was Made For Lovin&#39; You (feat. Nile Rodgers &amp; House Gospel Choir) · Oliver Heldens, Nile Rodgers, House Gospel Choir" src="assets/track-6-344e59-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,001 commits</summary>
+<summary><b>2026</b> · 2,008 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 364 commits</summary>
+<summary>November 2026 · 371 commits</summary>
 <br>
 
 <picture>
