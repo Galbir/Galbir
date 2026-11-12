@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-5da520-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-5da520-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0FEk8LwY8h4rAR63ggfhV0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-5da520-dark.svg"><img alt="Ritual · Tiësto, Jonas Blue, Rita Ora" src="assets/track-0-5da520-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4DJORZgsbqnEJ4f4B9TBGV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-5da520-dark.svg"><img alt="You Don&#39;t Know Me (feat. RAYE) · Jax Jones, RAYE" src="assets/track-1-5da520-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-5da520-dark.svg"><img alt="Whistle (feat. Calum Scott) · Jax Jones, Calum Scott" src="assets/track-2-5da520-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-5da520-dark.svg"><img alt="Whistle (feat. Calum Scott) · Jax Jones, Calum Scott" src="assets/track-3-5da520-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3HvnYVNNNJ1YC4zRNi1Aox"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-5da520-dark.svg"><img alt="Tough - Gravagerz Remix · Quavo, Lana Del Rey, Gravagerz" src="assets/track-4-5da520-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2DOUbOh1k3n9Ek6Eur61K4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-5da520-dark.svg"><img alt="Focus (feat. CLOVES) - Alok Remix · John Summit, CLOVES, Alok" src="assets/track-5-5da520-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6EKfZDw2kRQ6R4Vf7olc2f"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-5da520-dark.svg"><img alt="What I Need · Naarly, Sickluv, Thabza De Soul" src="assets/track-6-5da520-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-f9c8cd-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-f9c8cd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1kVPn4Wg6ZIIRSKmdyXMry"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-f9c8cd-dark.svg"><img alt="2 Die 4 (Jax Jones Midnight Snacks Remix) · Tove Lo, Jax Jones" src="assets/track-0-f9c8cd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7CH8J4ulT49UfZwSDSkSZA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-f9c8cd-dark.svg"><img alt="i miss u (with Au/Ra) · Jax Jones, Au/Ra" src="assets/track-1-f9c8cd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-f9c8cd-dark.svg"><img alt="Don&#39;t Call Me Up · Mabel" src="assets/track-2-f9c8cd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6Y4tAJ7qK8pqD1grVgooMz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-f9c8cd-dark.svg"><img alt="Young Right Now · Robin Schulz, Dennis Lloyd" src="assets/track-3-f9c8cd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-f9c8cd-dark.svg"><img alt="I Like It (with Nate Smith) · Alesso, Nate Smith" src="assets/track-4-f9c8cd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-f9c8cd-dark.svg"><img alt="Addicted · Zerb, The Chainsmokers, Ink" src="assets/track-5-f9c8cd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4AWwa8me7EnMp6xCXnRTWo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-f9c8cd-dark.svg"><img alt="Rock My Body (with INNA &amp; Sash!) · R3HAB, INNA, Sash!" src="assets/track-6-f9c8cd-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,024 commits</summary>
+<summary><b>2026</b> · 2,025 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 387 commits</summary>
+<summary>November 2026 · 388 commits</summary>
 <br>
 
 <picture>
