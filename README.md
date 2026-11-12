@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-e9a86f-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-e9a86f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/38KJNdBS6QbT9v339vohwp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-e9a86f-dark.svg"><img alt="Missing You · Kogis" src="assets/track-0-e9a86f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7bDDYji600PxR0F921ctVN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-e9a86f-dark.svg"><img alt="Save a Soul · nimino" src="assets/track-1-e9a86f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/20Y4EAmSXru3foatDg4OqN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-e9a86f-dark.svg"><img alt="LET&#39;S GO · Jaden Bojsen, Sami Brielle" src="assets/track-2-e9a86f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1eazMLblFwx60PlH6e506v"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-e9a86f-dark.svg"><img alt="Borderline · Ely Oaks, LAVINIA" src="assets/track-3-e9a86f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1Eqdkt6DfGNWElHpeujHGJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-e9a86f-dark.svg"><img alt="HIGHJACK (right back) · Alok, Łaszewo, A$AP Rocky" src="assets/track-4-e9a86f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-e9a86f-dark.svg"><img alt="I Adore You (feat. Daecolm) · HUGEL, Topic, Arash, Daecolm" src="assets/track-5-e9a86f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7dysHvjVrHkpLhamDe1HJz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-e9a86f-dark.svg"><img alt="Do or Die · Łaszewo" src="assets/track-6-e9a86f-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-d143a6-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-d143a6-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0H24VNZsFn9zoFycCHYQu3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-d143a6-dark.svg"><img alt="Just A Little (feat. Sam Harper) · Justė, Sam Harper" src="assets/track-0-d143a6-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/44wR4NqR75eJMETxrz59Sr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-d143a6-dark.svg"><img alt="Favour · FISHER, Tones And I" src="assets/track-1-d143a6-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0eXoaFeLY7SR6X9uAtF8L9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-d143a6-dark.svg"><img alt="I Wanna Live · Łaszewo" src="assets/track-2-d143a6-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-d143a6-dark.svg"><img alt="We Don&#39;t Ever Stop · Tom Santa" src="assets/track-3-d143a6-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3AsOa3cNh8bqF4q1temSHE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-d143a6-dark.svg"><img alt="Satisfy · Calvin Harris, Jazzy" src="assets/track-4-d143a6-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5gyCGvqqz7KUlDPzlSw7HX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-d143a6-dark.svg"><img alt="Sailor Song · Manil" src="assets/track-5-d143a6-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6XTysPFKGdqg2G8DT0XCt5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-d143a6-dark.svg"><img alt="Make You Sweat · WELKER" src="assets/track-6-d143a6-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 1,998 commits</summary>
+<summary><b>2026</b> · 2,000 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 361 commits</summary>
+<summary>November 2026 · 363 commits</summary>
 <br>
 
 <picture>
