@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-455c6d-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-455c6d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5Byvs8uIVgPZVQN3Pw7UgL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-455c6d-dark.svg"><img alt="ONANON · Killen." src="assets/track-0-455c6d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7E4k65CjSEhmEUZ0y2E47A"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-455c6d-dark.svg"><img alt="WHEN IT COMES TO YOU · Angrybaby" src="assets/track-1-455c6d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1xtDflWAisSMU7k6QHG71U"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-455c6d-dark.svg"><img alt="Rain · FISHER" src="assets/track-2-455c6d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0eXoaFeLY7SR6X9uAtF8L9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-455c6d-dark.svg"><img alt="I Wanna Live · Łaszewo" src="assets/track-3-455c6d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6VcBDMF2ykm5HDcJMVLRZW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-455c6d-dark.svg"><img alt="Brooklyn · Glockenbach, ClockClock" src="assets/track-4-455c6d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6VcBDMF2ykm5HDcJMVLRZW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-455c6d-dark.svg"><img alt="Brooklyn · Glockenbach, ClockClock" src="assets/track-5-455c6d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1kVPn4Wg6ZIIRSKmdyXMry"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-455c6d-dark.svg"><img alt="2 Die 4 (Jax Jones Midnight Snacks Remix) · Tove Lo, Jax Jones" src="assets/track-6-455c6d-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-72b243-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-72b243-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0xRzOWHlnroH3bdziKbj64"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-72b243-dark.svg"><img alt="What A Time To Be Alive · Quarterhead, XIRA, Tenchi" src="assets/track-0-72b243-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0jjE8w7Rtu3NCImWhKKX8x"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-72b243-dark.svg"><img alt="Chills (Feel My Love) · Oliver Heldens, David Guetta, FAST BOY" src="assets/track-1-72b243-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3fPXv60Pp9jLGYrjd1RoNd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-72b243-dark.svg"><img alt="Listen To Me · Lost Frequencies, CIEL., Radio Cargo" src="assets/track-2-72b243-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7t7ozrjWAqQPyvBZPoVbdQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-72b243-dark.svg"><img alt="Say It To Me · Otto Knows" src="assets/track-3-72b243-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/49WJ1FRGxmgFO09nOjENf3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-72b243-dark.svg"><img alt="Talk About Us · NERVO, Plastik Funk, Julia Temos" src="assets/track-4-72b243-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1hiKvffSphbFpWEr2VJYJP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-72b243-dark.svg"><img alt="High In Ibiza · HoneyLuv, Marshall Jefferson, rhys from the sticks" src="assets/track-5-72b243-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-72b243-dark.svg"><img alt="Saving Up · Dom Dolla" src="assets/track-6-72b243-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,055 commits</summary>
+<summary><b>2026</b> · 2,056 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 418 commits</summary>
+<summary>November 2026 · 419 commits</summary>
 <br>
 
 <picture>
