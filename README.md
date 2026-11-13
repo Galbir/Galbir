@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-081501-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-081501-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7FlOhkInzbiU5GbRNDMksW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-081501-dark.svg"><img alt="FEEL LIKE ME · NOTION" src="assets/track-0-081501-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7KhT1uCXFocwzoDXwdNtYO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-081501-dark.svg"><img alt="Pool - Gravagerz Version · Gravagerz, kiki wera" src="assets/track-1-081501-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6butJcS0jKKcWCZq4nobSS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-081501-dark.svg"><img alt="No Bad Vibes - Blair Muir Remix · Jazzy, Blair Muir, KILIMANJARO" src="assets/track-2-081501-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0hXpNsYnw831qvqCDOCbz5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-081501-dark.svg"><img alt="Leave Behind · Astrality, Krysta Youngs, Andro" src="assets/track-3-081501-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6dC6bV7XptzHcwFFpIY553"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-081501-dark.svg"><img alt="Without You · Crunkz" src="assets/track-4-081501-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7iIzan4uOlOeXZ8iE3b91F"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-081501-dark.svg"><img alt="Wildfire · PALASTIC" src="assets/track-5-081501-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3qxTsPLj9VXXBl8LMbQ16l"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-081501-dark.svg"><img alt="I&#39;ll Be Yours · Zerb, Georgi Kay" src="assets/track-6-081501-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-58a7cd-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-58a7cd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0B1zG7eGUz3Mz1veIZNsJX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-58a7cd-dark.svg"><img alt="The Feeling · Rudimental, 1991, PNAU, AR/CO" src="assets/track-0-58a7cd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/76xxmn1Fb4bi7k2wZEsHkf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-58a7cd-dark.svg"><img alt="The Days - NOTION Extended Remix · Chrystal, NOTION" src="assets/track-1-58a7cd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3JMMI4JoOzhDX2X1yzGwBL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-58a7cd-dark.svg"><img alt="BACKBONE · NOTION, Olivia Rose" src="assets/track-2-58a7cd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7FlOhkInzbiU5GbRNDMksW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-58a7cd-dark.svg"><img alt="FEEL LIKE ME · NOTION" src="assets/track-3-58a7cd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7KhT1uCXFocwzoDXwdNtYO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-58a7cd-dark.svg"><img alt="Pool - Gravagerz Version · Gravagerz, kiki wera" src="assets/track-4-58a7cd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6butJcS0jKKcWCZq4nobSS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-58a7cd-dark.svg"><img alt="No Bad Vibes - Blair Muir Remix · Jazzy, Blair Muir, KILIMANJARO" src="assets/track-5-58a7cd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0hXpNsYnw831qvqCDOCbz5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-58a7cd-dark.svg"><img alt="Leave Behind · Astrality, Krysta Youngs, Andro" src="assets/track-6-58a7cd-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,083 commits</summary>
+<summary><b>2026</b> · 2,084 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 446 commits</summary>
+<summary>November 2026 · 447 commits</summary>
 <br>
 
 <picture>
