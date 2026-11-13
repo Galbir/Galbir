@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-e9aba6-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-e9aba6-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-e9aba6-dark.svg"><img alt="No Bad Vibes · Jazzy, KILIMANJARO" src="assets/track-0-e9aba6-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-e9aba6-dark.svg"><img alt="The Days - NOTION Remix · Chrystal, NOTION" src="assets/track-1-e9aba6-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2C96iPyCRXL5sOKivhlOWp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-e9aba6-dark.svg"><img alt="tell you straight · jigitz" src="assets/track-2-e9aba6-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7hb5jmdxk9qOwZeSkYJpqb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-e9aba6-dark.svg"><img alt="WACUKA · AVAION, Sofiya Nzau" src="assets/track-3-e9aba6-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7KbMwFNvNvxWjBJABrnWfw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-e9aba6-dark.svg"><img alt="Sugar Baby · LYOD" src="assets/track-4-e9aba6-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5KBM1vB9oIFyw95YgAfRbN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-e9aba6-dark.svg"><img alt="Babydoll · Ely Oaks" src="assets/track-5-e9aba6-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-e9aba6-dark.svg"><img alt="Location · Zerb, Ty Dolla $ign, Wiz Khalifa" src="assets/track-6-e9aba6-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-b0b02c-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-b0b02c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6oUgmZK0McW4706SLJlfDh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-b0b02c-dark.svg"><img alt="Better · nimino, Manta" src="assets/track-0-b0b02c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5KWlttlxtvmcPigdrfpQnz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-b0b02c-dark.svg"><img alt="REHAB · Blair Muir" src="assets/track-1-b0b02c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1clthhOzGQJJWUyQ15Hs84"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-b0b02c-dark.svg"><img alt="NEED ME · AVAION" src="assets/track-2-b0b02c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0vbey7UHmq5YAzMN9TLB6i"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-b0b02c-dark.svg"><img alt="When I&#39;m into You · GOBAITH" src="assets/track-3-b0b02c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-b0b02c-dark.svg"><img alt="Running Around · Ely Oaks" src="assets/track-4-b0b02c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6eLaP1VW9Moy2AHijWfhxl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-b0b02c-dark.svg"><img alt="Help Me Lose My Mind - Slowed Down · Gravagerz" src="assets/track-5-b0b02c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4lUy13rVDz89ANOzUdhXnm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-b0b02c-dark.svg"><img alt="By Your Side · PhatAdam, Gl:ow" src="assets/track-6-b0b02c-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,068 commits</summary>
+<summary><b>2026</b> · 2,069 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 431 commits</summary>
+<summary>November 2026 · 432 commits</summary>
 <br>
 
 <picture>
