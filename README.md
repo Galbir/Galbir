@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-a17077-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-a17077-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1vfBfRJaHRFVRRYMoJNg7N"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-a17077-dark.svg"><img alt="Self Control · Lynnic, ItsArius, Lilly" src="assets/track-0-a17077-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4FCmIxTZqo2NMVknQw5cje"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-a17077-dark.svg"><img alt="I Run (Deep House) · Josh Fawaz" src="assets/track-1-a17077-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-a17077-dark.svg"><img alt="No Broke Boys · Disco Lines, Tinashe" src="assets/track-2-a17077-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4zWWGFmM2LhtnMAVrTmYBg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-a17077-dark.svg"><img alt="tell you straight - Sped Up · Strn., ALEXYS" src="assets/track-3-a17077-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4ohdD3RmVyy1LNrlHdDRdp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-a17077-dark.svg"><img alt="Chemical Light (Gravagerz REMIX) · JIMRO!" src="assets/track-4-a17077-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0MLiWT2YgEoKfBK95fNNW5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-a17077-dark.svg"><img alt="Pool - Gravagerz &amp; FOREIGN MERCY VIP · Gravagerz, kiki wera, FOREIGN MERCY" src="assets/track-5-a17077-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1bE98D49uKNetOyLiaB8tG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-a17077-dark.svg"><img alt="Never Walk Alone · BLOND:ISH, Stevie Appleton" src="assets/track-6-a17077-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-bde692-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-bde692-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2kqKsdnfgTraa9v4adnadN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-bde692-dark.svg"><img alt="PUT IT DOWN · Angrybaby" src="assets/track-0-bde692-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7llZVQYBisJhCJsuqwBiqj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-bde692-dark.svg"><img alt="XOXO · Jambe" src="assets/track-1-bde692-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3pMuJthG4asb1jPrP2Llnu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-bde692-dark.svg"><img alt="Satellite Signal · MIND" src="assets/track-2-bde692-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-bde692-dark.svg"><img alt="life gets hard · iilliaa" src="assets/track-3-bde692-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-bde692-dark.svg"><img alt="Say My Name - Remix · Morgan Seatree, Florence + The Machine" src="assets/track-4-bde692-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2S9jqUEI9fiDNtSH707KR4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-bde692-dark.svg"><img alt="So Good · Nosi" src="assets/track-5-bde692-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2gwwaKey9eBYYh5RRK39Xf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-bde692-dark.svg"><img alt="Dumb Decisions · Ely Oaks, LAVINIA" src="assets/track-6-bde692-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,063 commits</summary>
+<summary><b>2026</b> · 2,065 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 426 commits</summary>
+<summary>November 2026 · 428 commits</summary>
 <br>
 
 <picture>
