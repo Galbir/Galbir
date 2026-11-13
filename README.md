@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-cf67be-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-cf67be-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4o7QPoipEGv0GEmdpV480r"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-cf67be-dark.svg"><img alt="We R Who We R · Gravagerz" src="assets/track-0-cf67be-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6ux2llhjAuhSLggEaBoaLY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-cf67be-dark.svg"><img alt="i think i&#39;m addicted · oskar med k, Haley Joelle" src="assets/track-1-cf67be-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0eFqPUbuiobmOEiotEFxGy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-cf67be-dark.svg"><img alt="R 2 ME · BL3SS, Tchami" src="assets/track-2-cf67be-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/74ulWk192IiJDpj3SYKoLU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-cf67be-dark.svg"><img alt="I Run - James Hype Remix · HAVEN., Kaitlin Aragon, James Hype" src="assets/track-3-cf67be-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6xupcsJHo3wW2tSVKwu4mf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-cf67be-dark.svg"><img alt="Self Aware · LUM!X" src="assets/track-4-cf67be-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2gRcRlKTI8WSQhufYPlO1Z"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-cf67be-dark.svg"><img alt="s.o.s · jigitz, Tabi" src="assets/track-5-cf67be-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7qAuCJDxFwt6Zp8WWVK15h"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-cf67be-dark.svg"><img alt="3am · Łaszewo" src="assets/track-6-cf67be-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-0f9dbd-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-0f9dbd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6I96oT2ZcOypVJkmqSujtr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-0f9dbd-dark.svg"><img alt="Drugs I Like · nate band" src="assets/track-0-0f9dbd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/62cC7C7e8buEM15ReSWjff"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-0f9dbd-dark.svg"><img alt="i&#39;m way too self aware · oskar med k" src="assets/track-1-0f9dbd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4krcWtZK3AsVE1Jl4oqH8w"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-0f9dbd-dark.svg"><img alt="ALL THE TIME · John Summit, The Chainsmokers, Ilsey" src="assets/track-2-0f9dbd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5HjFR2VycnyNnct2CQsao9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-0f9dbd-dark.svg"><img alt="The Way I Are · Don Diablo" src="assets/track-3-0f9dbd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3EthY53s7VOoanEIyQVelI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-0f9dbd-dark.svg"><img alt="Help Me Lose My Mind · Gravagerz" src="assets/track-4-0f9dbd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1Eqdkt6DfGNWElHpeujHGJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-0f9dbd-dark.svg"><img alt="HIGHJACK (right back) · Alok, Łaszewo, A$AP Rocky" src="assets/track-5-0f9dbd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-0f9dbd-dark.svg"><img alt="Giving Me · Jazzy" src="assets/track-6-0f9dbd-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,074 commits</summary>
+<summary><b>2026</b> · 2,075 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 437 commits</summary>
+<summary>November 2026 · 438 commits</summary>
 <br>
 
 <picture>
