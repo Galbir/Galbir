@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-58a7cd-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-58a7cd-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0B1zG7eGUz3Mz1veIZNsJX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-58a7cd-dark.svg"><img alt="The Feeling · Rudimental, 1991, PNAU, AR/CO" src="assets/track-0-58a7cd-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/76xxmn1Fb4bi7k2wZEsHkf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-58a7cd-dark.svg"><img alt="The Days - NOTION Extended Remix · Chrystal, NOTION" src="assets/track-1-58a7cd-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3JMMI4JoOzhDX2X1yzGwBL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-58a7cd-dark.svg"><img alt="BACKBONE · NOTION, Olivia Rose" src="assets/track-2-58a7cd-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7FlOhkInzbiU5GbRNDMksW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-58a7cd-dark.svg"><img alt="FEEL LIKE ME · NOTION" src="assets/track-3-58a7cd-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7KhT1uCXFocwzoDXwdNtYO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-58a7cd-dark.svg"><img alt="Pool - Gravagerz Version · Gravagerz, kiki wera" src="assets/track-4-58a7cd-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6butJcS0jKKcWCZq4nobSS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-58a7cd-dark.svg"><img alt="No Bad Vibes - Blair Muir Remix · Jazzy, Blair Muir, KILIMANJARO" src="assets/track-5-58a7cd-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0hXpNsYnw831qvqCDOCbz5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-58a7cd-dark.svg"><img alt="Leave Behind · Astrality, Krysta Youngs, Andro" src="assets/track-6-58a7cd-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-fbd15f-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-fbd15f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2WlXPpZlL8Oy0CI67okGPw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-fbd15f-dark.svg"><img alt="TEMPORARY FRIENDS · NOTION, Charlotte Plank" src="assets/track-0-fbd15f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2OyestNLBmdbsQJaL9qaVG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-fbd15f-dark.svg"><img alt="Where Have You Been · REESE" src="assets/track-1-fbd15f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7i5tBVaBU5Z4Va6XK0L5mm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-fbd15f-dark.svg"><img alt="Wasted Youth · goddard., Cat Burns" src="assets/track-2-fbd15f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4q65jVjZI4N5NbolanAtYo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-fbd15f-dark.svg"><img alt="The Difference - High Contrast Remix · Flume, Toro y Moi, High Contrast" src="assets/track-3-fbd15f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2kZ0cv0J6lRQxep2nA3Ilm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-fbd15f-dark.svg"><img alt="CAVE (with Tove Lo) · Dom Dolla, Tove Lo" src="assets/track-4-fbd15f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2kZ0cv0J6lRQxep2nA3Ilm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-fbd15f-dark.svg"><img alt="CAVE (with Tove Lo) · Dom Dolla, Tove Lo" src="assets/track-5-fbd15f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0B1zG7eGUz3Mz1veIZNsJX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-fbd15f-dark.svg"><img alt="The Feeling · Rudimental, 1991, PNAU, AR/CO" src="assets/track-6-fbd15f-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,084 commits</summary>
+<summary><b>2026</b> · 2,085 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 447 commits</summary>
+<summary>November 2026 · 448 commits</summary>
 <br>
 
 <picture>
