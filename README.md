@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-bde692-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-bde692-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2kqKsdnfgTraa9v4adnadN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-bde692-dark.svg"><img alt="PUT IT DOWN · Angrybaby" src="assets/track-0-bde692-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7llZVQYBisJhCJsuqwBiqj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-bde692-dark.svg"><img alt="XOXO · Jambe" src="assets/track-1-bde692-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3pMuJthG4asb1jPrP2Llnu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-bde692-dark.svg"><img alt="Satellite Signal · MIND" src="assets/track-2-bde692-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-bde692-dark.svg"><img alt="life gets hard · iilliaa" src="assets/track-3-bde692-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-bde692-dark.svg"><img alt="Say My Name - Remix · Morgan Seatree, Florence + The Machine" src="assets/track-4-bde692-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2S9jqUEI9fiDNtSH707KR4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-bde692-dark.svg"><img alt="So Good · Nosi" src="assets/track-5-bde692-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2gwwaKey9eBYYh5RRK39Xf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-bde692-dark.svg"><img alt="Dumb Decisions · Ely Oaks, LAVINIA" src="assets/track-6-bde692-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-4f291f-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-4f291f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3H5tFg2rM2AsJiPXStMrQK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-4f291f-dark.svg"><img alt="I Guess We&#39;re Not The Same · Sammy Virji" src="assets/track-0-4f291f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2rkUhGw5iWbBY1PE5AnCl8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-4f291f-dark.svg"><img alt="Way Too Self Aware · Ian Asher" src="assets/track-1-4f291f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1jkYkxGU6X1w5nFvipn9OI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-4f291f-dark.svg"><img alt="On &amp; On - Ely Oaks Remix · Sub Focus, bbyclose, Ely Oaks" src="assets/track-2-4f291f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2T3hmxdfYj2alR0Iv2Tl0c"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-4f291f-dark.svg"><img alt="Chihiro · Gravagerz" src="assets/track-3-4f291f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5lebcpNhPX5sAPUjKyyYgY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-4f291f-dark.svg"><img alt="All I Want Is You · Lavern, NEIMY" src="assets/track-4-4f291f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/35dt2bP4CcBzepyufQbvYZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-4f291f-dark.svg"><img alt="Fire Fire · Shimza, AR/CO, Kasango" src="assets/track-5-4f291f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/52h6J437RsVIrYR8yQdlqq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-4f291f-dark.svg"><img alt="Never Knew Me · Soluna" src="assets/track-6-4f291f-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,065 commits</summary>
+<summary><b>2026</b> · 2,066 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 428 commits</summary>
+<summary>November 2026 · 429 commits</summary>
 <br>
 
 <picture>
