@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-d322af-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-d322af-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3CPhCNH8rV1czzGSmXm9TH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-d322af-dark.svg"><img alt="messy · Łaszewo" src="assets/track-0-d322af-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/35FEiRpkb0EAB5Exrxz1bo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-d322af-dark.svg"><img alt="Open Up - Extended Mix · NONSENSE" src="assets/track-1-d322af-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5J5mQKqZVxMDKZ3xPKgABa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-d322af-dark.svg"><img alt="Rest Easy · nimino" src="assets/track-2-d322af-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0gzKHvrsY2spV5Vku17QJF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-d322af-dark.svg"><img alt="Wide Open · Disco Lines, No/Me" src="assets/track-3-d322af-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-d322af-dark.svg"><img alt="Jump · Levi" src="assets/track-4-d322af-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6lspamynBrtJaTt1D7jMJT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-d322af-dark.svg"><img alt="maybe · Ordley" src="assets/track-5-d322af-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6StFqlV3c99tjW3hjXtTCL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-d322af-dark.svg"><img alt="sweet love · origins" src="assets/track-6-d322af-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-a17077-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-a17077-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1vfBfRJaHRFVRRYMoJNg7N"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-a17077-dark.svg"><img alt="Self Control · Lynnic, ItsArius, Lilly" src="assets/track-0-a17077-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4FCmIxTZqo2NMVknQw5cje"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-a17077-dark.svg"><img alt="I Run (Deep House) · Josh Fawaz" src="assets/track-1-a17077-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-a17077-dark.svg"><img alt="No Broke Boys · Disco Lines, Tinashe" src="assets/track-2-a17077-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4zWWGFmM2LhtnMAVrTmYBg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-a17077-dark.svg"><img alt="tell you straight - Sped Up · Strn., ALEXYS" src="assets/track-3-a17077-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4ohdD3RmVyy1LNrlHdDRdp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-a17077-dark.svg"><img alt="Chemical Light (Gravagerz REMIX) · JIMRO!" src="assets/track-4-a17077-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0MLiWT2YgEoKfBK95fNNW5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-a17077-dark.svg"><img alt="Pool - Gravagerz &amp; FOREIGN MERCY VIP · Gravagerz, kiki wera, FOREIGN MERCY" src="assets/track-5-a17077-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1bE98D49uKNetOyLiaB8tG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-a17077-dark.svg"><img alt="Never Walk Alone · BLOND:ISH, Stevie Appleton" src="assets/track-6-a17077-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,060 commits</summary>
+<summary><b>2026</b> · 2,063 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 423 commits</summary>
+<summary>November 2026 · 426 commits</summary>
 <br>
 
 <picture>
