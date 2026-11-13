@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-0f9dbd-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-0f9dbd-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6I96oT2ZcOypVJkmqSujtr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-0f9dbd-dark.svg"><img alt="Drugs I Like · nate band" src="assets/track-0-0f9dbd-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/62cC7C7e8buEM15ReSWjff"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-0f9dbd-dark.svg"><img alt="i&#39;m way too self aware · oskar med k" src="assets/track-1-0f9dbd-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4krcWtZK3AsVE1Jl4oqH8w"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-0f9dbd-dark.svg"><img alt="ALL THE TIME · John Summit, The Chainsmokers, Ilsey" src="assets/track-2-0f9dbd-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5HjFR2VycnyNnct2CQsao9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-0f9dbd-dark.svg"><img alt="The Way I Are · Don Diablo" src="assets/track-3-0f9dbd-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3EthY53s7VOoanEIyQVelI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-0f9dbd-dark.svg"><img alt="Help Me Lose My Mind · Gravagerz" src="assets/track-4-0f9dbd-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1Eqdkt6DfGNWElHpeujHGJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-0f9dbd-dark.svg"><img alt="HIGHJACK (right back) · Alok, Łaszewo, A$AP Rocky" src="assets/track-5-0f9dbd-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-0f9dbd-dark.svg"><img alt="Giving Me · Jazzy" src="assets/track-6-0f9dbd-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-a6c7e2-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-a6c7e2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/14vf0dh1QSH1a64NzjapGv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-a6c7e2-dark.svg"><img alt="HEADSHOT · Angrybaby, Moa Lisa" src="assets/track-0-a6c7e2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/58o0HSUXC0oHTU7UvhyWuI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-a6c7e2-dark.svg"><img alt="Beside Of Me · nimino, Maverick Sabre" src="assets/track-1-a6c7e2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/48Kgy7vzliRbcQ3GAOPbsD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-a6c7e2-dark.svg"><img alt="Lights · JOXION, Carlyn" src="assets/track-2-a6c7e2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5v5yF1qIhHD1ptZoN8dxv7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-a6c7e2-dark.svg"><img alt="NOW IT&#39;S GONE · IN PARALLEL" src="assets/track-3-a6c7e2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0ioP5NQ9LeSqPShk8XTcMc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-a6c7e2-dark.svg"><img alt="ALREADY OVER IT - SPED UP · bystander, emerge" src="assets/track-4-a6c7e2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6yxRgNq06eZuYQxPEafznp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-a6c7e2-dark.svg"><img alt="In My Mind - Mix Cut · Lavern" src="assets/track-5-a6c7e2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7n6Nh17VIlnmRzQTSXrNQS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-a6c7e2-dark.svg"><img alt="No Broke Boys - house / speed garage · ALEXYS, Strn." src="assets/track-6-a6c7e2-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,075 commits</summary>
+<summary><b>2026</b> · 2,079 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 438 commits</summary>
+<summary>November 2026 · 442 commits</summary>
 <br>
 
 <picture>
