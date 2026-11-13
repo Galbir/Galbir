@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-161f20-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-161f20-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6VcBDMF2ykm5HDcJMVLRZW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-161f20-dark.svg"><img alt="Brooklyn · Glockenbach, ClockClock" src="assets/track-0-161f20-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1kVPn4Wg6ZIIRSKmdyXMry"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-161f20-dark.svg"><img alt="2 Die 4 (Jax Jones Midnight Snacks Remix) · Tove Lo, Jax Jones" src="assets/track-1-161f20-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7CH8J4ulT49UfZwSDSkSZA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-161f20-dark.svg"><img alt="i miss u (with Au/Ra) · Jax Jones, Au/Ra" src="assets/track-2-161f20-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-161f20-dark.svg"><img alt="Don&#39;t Call Me Up · Mabel" src="assets/track-3-161f20-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6Y4tAJ7qK8pqD1grVgooMz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-161f20-dark.svg"><img alt="Young Right Now · Robin Schulz, Dennis Lloyd" src="assets/track-4-161f20-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-161f20-dark.svg"><img alt="I Like It (with Nate Smith) · Alesso, Nate Smith" src="assets/track-5-161f20-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-161f20-dark.svg"><img alt="Addicted · Zerb, The Chainsmokers, Ink" src="assets/track-6-161f20-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-efbdcf-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-efbdcf-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1xtDflWAisSMU7k6QHG71U"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-efbdcf-dark.svg"><img alt="Rain · FISHER" src="assets/track-0-efbdcf-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0eXoaFeLY7SR6X9uAtF8L9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-efbdcf-dark.svg"><img alt="I Wanna Live · Łaszewo" src="assets/track-1-efbdcf-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6VcBDMF2ykm5HDcJMVLRZW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-efbdcf-dark.svg"><img alt="Brooklyn · Glockenbach, ClockClock" src="assets/track-2-efbdcf-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6VcBDMF2ykm5HDcJMVLRZW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-efbdcf-dark.svg"><img alt="Brooklyn · Glockenbach, ClockClock" src="assets/track-3-efbdcf-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1kVPn4Wg6ZIIRSKmdyXMry"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-efbdcf-dark.svg"><img alt="2 Die 4 (Jax Jones Midnight Snacks Remix) · Tove Lo, Jax Jones" src="assets/track-4-efbdcf-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7CH8J4ulT49UfZwSDSkSZA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-efbdcf-dark.svg"><img alt="i miss u (with Au/Ra) · Jax Jones, Au/Ra" src="assets/track-5-efbdcf-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-efbdcf-dark.svg"><img alt="Don&#39;t Call Me Up · Mabel" src="assets/track-6-efbdcf-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,053 commits</summary>
+<summary><b>2026</b> · 2,054 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 416 commits</summary>
+<summary>November 2026 · 417 commits</summary>
 <br>
 
 <picture>
