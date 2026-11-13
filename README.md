@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-a2e325-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-a2e325-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5mxx1jRlTHdNnm0eMCx2Pb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-a2e325-dark.svg"><img alt="Breezeblocks · bacci, Taylor Rae" src="assets/track-0-a2e325-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3cP1INfLVc6ud2ATlQ6HDY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-a2e325-dark.svg"><img alt="Chasing Highs · Julian" src="assets/track-1-a2e325-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1vtPrklVfyouKAtBQMAUYw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-a2e325-dark.svg"><img alt="Wounds · James Carter" src="assets/track-2-a2e325-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3L9LwIZDY08OFtYmiAvNZY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-a2e325-dark.svg"><img alt="I Know You See · PhatAdam" src="assets/track-3-a2e325-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4Nuczfs5PnK35llzb3R08I"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-a2e325-dark.svg"><img alt="All I Want Is You · Disco Lines" src="assets/track-4-a2e325-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5gyCGvqqz7KUlDPzlSw7HX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-a2e325-dark.svg"><img alt="Sailor Song · Manil" src="assets/track-5-a2e325-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4CfcXnwLf2MUfnjCnqUMvj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-a2e325-dark.svg"><img alt="Go Back (feat. Julia Church) · John Summit, Sub Focus, Julia Church" src="assets/track-6-a2e325-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-cc0963-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-cc0963-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3qxTsPLj9VXXBl8LMbQ16l"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-cc0963-dark.svg"><img alt="I&#39;ll Be Yours · Zerb, Georgi Kay" src="assets/track-0-cc0963-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7IVknx3CTsqJbJbUL9xtjj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-cc0963-dark.svg"><img alt="Say No Prayer · oskar med k, Izzy Bizu" src="assets/track-1-cc0963-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7f9WkDtkzDEZNwJOxb76PE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-cc0963-dark.svg"><img alt="Familiar · Distant Matter" src="assets/track-2-cc0963-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7E4k65CjSEhmEUZ0y2E47A"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-cc0963-dark.svg"><img alt="WHEN IT COMES TO YOU · Angrybaby" src="assets/track-3-cc0963-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0kkbThggJteiUSqtHxyhZ6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-cc0963-dark.svg"><img alt="Choose me · Cathleen Kleinert" src="assets/track-4-cc0963-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0kkbThggJteiUSqtHxyhZ6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-cc0963-dark.svg"><img alt="Choose me · Cathleen Kleinert" src="assets/track-5-cc0963-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0SxiTCCjGsqE2ATGRTCvvd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-cc0963-dark.svg"><img alt="Can&#39;t Help But Worry (Every Night Every Day) · Soluna" src="assets/track-6-cc0963-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,080 commits</summary>
+<summary><b>2026</b> · 2,082 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 443 commits</summary>
+<summary>November 2026 · 445 commits</summary>
 <br>
 
 <picture>
