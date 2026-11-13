@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-a6c7e2-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-a6c7e2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/14vf0dh1QSH1a64NzjapGv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-a6c7e2-dark.svg"><img alt="HEADSHOT · Angrybaby, Moa Lisa" src="assets/track-0-a6c7e2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/58o0HSUXC0oHTU7UvhyWuI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-a6c7e2-dark.svg"><img alt="Beside Of Me · nimino, Maverick Sabre" src="assets/track-1-a6c7e2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/48Kgy7vzliRbcQ3GAOPbsD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-a6c7e2-dark.svg"><img alt="Lights · JOXION, Carlyn" src="assets/track-2-a6c7e2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5v5yF1qIhHD1ptZoN8dxv7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-a6c7e2-dark.svg"><img alt="NOW IT&#39;S GONE · IN PARALLEL" src="assets/track-3-a6c7e2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0ioP5NQ9LeSqPShk8XTcMc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-a6c7e2-dark.svg"><img alt="ALREADY OVER IT - SPED UP · bystander, emerge" src="assets/track-4-a6c7e2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6yxRgNq06eZuYQxPEafznp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-a6c7e2-dark.svg"><img alt="In My Mind - Mix Cut · Lavern" src="assets/track-5-a6c7e2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7n6Nh17VIlnmRzQTSXrNQS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-a6c7e2-dark.svg"><img alt="No Broke Boys - house / speed garage · ALEXYS, Strn." src="assets/track-6-a6c7e2-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-a2e325-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-a2e325-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5mxx1jRlTHdNnm0eMCx2Pb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-a2e325-dark.svg"><img alt="Breezeblocks · bacci, Taylor Rae" src="assets/track-0-a2e325-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3cP1INfLVc6ud2ATlQ6HDY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-a2e325-dark.svg"><img alt="Chasing Highs · Julian" src="assets/track-1-a2e325-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1vtPrklVfyouKAtBQMAUYw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-a2e325-dark.svg"><img alt="Wounds · James Carter" src="assets/track-2-a2e325-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3L9LwIZDY08OFtYmiAvNZY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-a2e325-dark.svg"><img alt="I Know You See · PhatAdam" src="assets/track-3-a2e325-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4Nuczfs5PnK35llzb3R08I"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-a2e325-dark.svg"><img alt="All I Want Is You · Disco Lines" src="assets/track-4-a2e325-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5gyCGvqqz7KUlDPzlSw7HX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-a2e325-dark.svg"><img alt="Sailor Song · Manil" src="assets/track-5-a2e325-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4CfcXnwLf2MUfnjCnqUMvj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-a2e325-dark.svg"><img alt="Go Back (feat. Julia Church) · John Summit, Sub Focus, Julia Church" src="assets/track-6-a2e325-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,079 commits</summary>
+<summary><b>2026</b> · 2,080 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 442 commits</summary>
+<summary>November 2026 · 443 commits</summary>
 <br>
 
 <picture>
