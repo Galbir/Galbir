@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-4f291f-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-4f291f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3H5tFg2rM2AsJiPXStMrQK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-4f291f-dark.svg"><img alt="I Guess We&#39;re Not The Same · Sammy Virji" src="assets/track-0-4f291f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2rkUhGw5iWbBY1PE5AnCl8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-4f291f-dark.svg"><img alt="Way Too Self Aware · Ian Asher" src="assets/track-1-4f291f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1jkYkxGU6X1w5nFvipn9OI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-4f291f-dark.svg"><img alt="On &amp; On - Ely Oaks Remix · Sub Focus, bbyclose, Ely Oaks" src="assets/track-2-4f291f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2T3hmxdfYj2alR0Iv2Tl0c"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-4f291f-dark.svg"><img alt="Chihiro · Gravagerz" src="assets/track-3-4f291f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5lebcpNhPX5sAPUjKyyYgY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-4f291f-dark.svg"><img alt="All I Want Is You · Lavern, NEIMY" src="assets/track-4-4f291f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/35dt2bP4CcBzepyufQbvYZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-4f291f-dark.svg"><img alt="Fire Fire · Shimza, AR/CO, Kasango" src="assets/track-5-4f291f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/52h6J437RsVIrYR8yQdlqq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-4f291f-dark.svg"><img alt="Never Knew Me · Soluna" src="assets/track-6-4f291f-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-e9aba6-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-e9aba6-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-e9aba6-dark.svg"><img alt="No Bad Vibes · Jazzy, KILIMANJARO" src="assets/track-0-e9aba6-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-e9aba6-dark.svg"><img alt="The Days - NOTION Remix · Chrystal, NOTION" src="assets/track-1-e9aba6-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2C96iPyCRXL5sOKivhlOWp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-e9aba6-dark.svg"><img alt="tell you straight · jigitz" src="assets/track-2-e9aba6-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7hb5jmdxk9qOwZeSkYJpqb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-e9aba6-dark.svg"><img alt="WACUKA · AVAION, Sofiya Nzau" src="assets/track-3-e9aba6-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7KbMwFNvNvxWjBJABrnWfw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-e9aba6-dark.svg"><img alt="Sugar Baby · LYOD" src="assets/track-4-e9aba6-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5KBM1vB9oIFyw95YgAfRbN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-e9aba6-dark.svg"><img alt="Babydoll · Ely Oaks" src="assets/track-5-e9aba6-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-e9aba6-dark.svg"><img alt="Location · Zerb, Ty Dolla $ign, Wiz Khalifa" src="assets/track-6-e9aba6-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,066 commits</summary>
+<summary><b>2026</b> · 2,068 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 429 commits</summary>
+<summary>November 2026 · 431 commits</summary>
 <br>
 
 <picture>
