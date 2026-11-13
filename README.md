@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-eec249-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-eec249-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3VgFcNDykoAl6Nr6ZxGfX8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-eec249-dark.svg"><img alt="Divine · Blair Muir" src="assets/track-0-eec249-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0VFmkwR6SCmT7TIJThlCn9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-eec249-dark.svg"><img alt="Orla · nimino" src="assets/track-1-eec249-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2A1aS3mwuGuX2yk1bgxOvA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-eec249-dark.svg"><img alt="Kisses (feat. bbyclose) · BL3SS, CamrinWatsin, bbyclose" src="assets/track-2-eec249-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-eec249-dark.svg"><img alt="How I Fell in Love · CH4YN" src="assets/track-3-eec249-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1HR6PzFMIsqa8z230Zlk3b"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-eec249-dark.svg"><img alt="the things that bring me joy · heylucas" src="assets/track-4-eec249-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4FOdgYVV5xaMjY0NCZoFEu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-eec249-dark.svg"><img alt="Hold My Breath · Albi, Oaks" src="assets/track-5-eec249-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2olXIRG0Nev7cr9D8Z340Q"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-eec249-dark.svg"><img alt="Pool - Gravagerz Version - Slowed Down · Gravagerz, kiki wera" src="assets/track-6-eec249-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-bc55f7-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-bc55f7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5CslQxsOd3xmnHSNURS11l"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-bc55f7-dark.svg"><img alt="not my thing · ostaprod" src="assets/track-0-bc55f7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1Ud7wVwgl75n1s0Uj7kk32"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-bc55f7-dark.svg"><img alt="Innerbloom x Never Be Like You · honeymoon" src="assets/track-1-bc55f7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1NPfiTCBjiYUya7npwzbAY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-bc55f7-dark.svg"><img alt="terms and conditions · BL3SS" src="assets/track-2-bc55f7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/21vVDT4UVJ9hMKym7qbBQX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-bc55f7-dark.svg"><img alt="Psilocybin · Babsy." src="assets/track-3-bc55f7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1JVlr2bSM8FguB3zvMaRNc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-bc55f7-dark.svg"><img alt="Headlights · NONSENSE" src="assets/track-4-bc55f7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7ADkaL9vcA3wZAgxZIGy7M"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-bc55f7-dark.svg"><img alt="Push It · MIND" src="assets/track-5-bc55f7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1ktqfwC2rUgTmvzCSted3k"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-bc55f7-dark.svg"><img alt="This Evening · James Carter" src="assets/track-6-bc55f7-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,071 commits</summary>
+<summary><b>2026</b> · 2,072 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 434 commits</summary>
+<summary>November 2026 · 435 commits</summary>
 <br>
 
 <picture>
