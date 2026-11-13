@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-66ff4e-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-66ff4e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0i6IwA0yEGjxHaY7O2PKMH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-66ff4e-dark.svg"><img alt="Self Aware · Ely Oaks" src="assets/track-0-66ff4e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2R3MW2cj4NkGBiAs2mseCH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-66ff4e-dark.svg"><img alt="Headlights - Extended Mix · NONSENSE" src="assets/track-1-66ff4e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0FoCv0glfiTP2lmEcdreAu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-66ff4e-dark.svg"><img alt="Shaking Things Up · nimino" src="assets/track-2-66ff4e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-66ff4e-dark.svg"><img alt="Waterfalls (feat. Sam Harper &amp; Bobby Harvey) · James Hype, Sam Harper, Bobby Harvey" src="assets/track-3-66ff4e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1F3t7moWFLH5y5nTwBeYyt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-66ff4e-dark.svg"><img alt="I REMEMBER · AVSTN" src="assets/track-4-66ff4e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4CKTzU1sKGCXBthbqbqsjm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-66ff4e-dark.svg"><img alt="BAD IDEA · bystander" src="assets/track-5-66ff4e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5sldxFuM496Xu7dt6r8Ckl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-66ff4e-dark.svg"><img alt="Other Side · AVAION" src="assets/track-6-66ff4e-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-d322af-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-d322af-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3CPhCNH8rV1czzGSmXm9TH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-d322af-dark.svg"><img alt="messy · Łaszewo" src="assets/track-0-d322af-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/35FEiRpkb0EAB5Exrxz1bo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-d322af-dark.svg"><img alt="Open Up - Extended Mix · NONSENSE" src="assets/track-1-d322af-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5J5mQKqZVxMDKZ3xPKgABa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-d322af-dark.svg"><img alt="Rest Easy · nimino" src="assets/track-2-d322af-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0gzKHvrsY2spV5Vku17QJF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-d322af-dark.svg"><img alt="Wide Open · Disco Lines, No/Me" src="assets/track-3-d322af-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-d322af-dark.svg"><img alt="Jump · Levi" src="assets/track-4-d322af-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6lspamynBrtJaTt1D7jMJT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-d322af-dark.svg"><img alt="maybe · Ordley" src="assets/track-5-d322af-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6StFqlV3c99tjW3hjXtTCL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-d322af-dark.svg"><img alt="sweet love · origins" src="assets/track-6-d322af-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,059 commits</summary>
+<summary><b>2026</b> · 2,060 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 422 commits</summary>
+<summary>November 2026 · 423 commits</summary>
 <br>
 
 <picture>
