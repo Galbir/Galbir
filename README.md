@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-5cf73b-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-5cf73b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3VFaV7Mw0di4XFE84eHnrC"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-5cf73b-dark.svg"><img alt="Disconnect · Becky Hill, Chase &amp; Status" src="assets/track-0-5cf73b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4pDMigVe00CtmHeqSD0Yvy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-5cf73b-dark.svg"><img alt="Rage · Charlotte Plank" src="assets/track-1-5cf73b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3lFNDaob5QhwE9oo7J0uNT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-5cf73b-dark.svg"><img alt="Pachamama · Luude, Elliphant" src="assets/track-2-5cf73b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/23WcAh2k1Y9YgRaL2fwMwl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-5cf73b-dark.svg"><img alt="I RUN - Mozey Remix · HAVEN., Kaitlin Aragon, Mozey" src="assets/track-3-5cf73b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6tGtFeIO3yYuVvNLAdHU0A"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-5cf73b-dark.svg"><img alt="Tell Me Why - 1991 Remix · Supermode, 1991" src="assets/track-4-5cf73b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-5cf73b-dark.svg"><img alt="Bittersweet Goodbye · Issey Cross" src="assets/track-5-5cf73b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1WS6ezmzQlJPfJocYDDpOK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-5cf73b-dark.svg"><img alt="Green &amp; Gold (feat. Charlotte Plank &amp; Riko Dan) · Rudimental, Skepsis, Charlotte Plank, Riko Dan" src="assets/track-6-5cf73b-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-8f71a5-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-8f71a5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2N1SBksYNigOK3XtGNhp8i"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-8f71a5-dark.svg"><img alt="Hell In High Heels (feat. Jazmine Johnson) · Netsky, Jazmine Johnson" src="assets/track-0-8f71a5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3VFaV7Mw0di4XFE84eHnrC"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-8f71a5-dark.svg"><img alt="Disconnect · Becky Hill, Chase &amp; Status" src="assets/track-1-8f71a5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4pDMigVe00CtmHeqSD0Yvy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-8f71a5-dark.svg"><img alt="Rage · Charlotte Plank" src="assets/track-2-8f71a5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3lFNDaob5QhwE9oo7J0uNT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-8f71a5-dark.svg"><img alt="Pachamama · Luude, Elliphant" src="assets/track-3-8f71a5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/23WcAh2k1Y9YgRaL2fwMwl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-8f71a5-dark.svg"><img alt="I RUN - Mozey Remix · HAVEN., Kaitlin Aragon, Mozey" src="assets/track-4-8f71a5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6tGtFeIO3yYuVvNLAdHU0A"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-8f71a5-dark.svg"><img alt="Tell Me Why - 1991 Remix · Supermode, 1991" src="assets/track-5-8f71a5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-8f71a5-dark.svg"><img alt="Bittersweet Goodbye · Issey Cross" src="assets/track-6-8f71a5-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,115 commits</summary>
+<summary><b>2026</b> · 2,116 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 478 commits</summary>
+<summary>November 2026 · 479 commits</summary>
 <br>
 
 <picture>
