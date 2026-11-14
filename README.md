@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-fbd15f-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-fbd15f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2WlXPpZlL8Oy0CI67okGPw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-fbd15f-dark.svg"><img alt="TEMPORARY FRIENDS · NOTION, Charlotte Plank" src="assets/track-0-fbd15f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2OyestNLBmdbsQJaL9qaVG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-fbd15f-dark.svg"><img alt="Where Have You Been · REESE" src="assets/track-1-fbd15f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7i5tBVaBU5Z4Va6XK0L5mm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-fbd15f-dark.svg"><img alt="Wasted Youth · goddard., Cat Burns" src="assets/track-2-fbd15f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4q65jVjZI4N5NbolanAtYo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-fbd15f-dark.svg"><img alt="The Difference - High Contrast Remix · Flume, Toro y Moi, High Contrast" src="assets/track-3-fbd15f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2kZ0cv0J6lRQxep2nA3Ilm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-fbd15f-dark.svg"><img alt="CAVE (with Tove Lo) · Dom Dolla, Tove Lo" src="assets/track-4-fbd15f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2kZ0cv0J6lRQxep2nA3Ilm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-fbd15f-dark.svg"><img alt="CAVE (with Tove Lo) · Dom Dolla, Tove Lo" src="assets/track-5-fbd15f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0B1zG7eGUz3Mz1veIZNsJX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-fbd15f-dark.svg"><img alt="The Feeling · Rudimental, 1991, PNAU, AR/CO" src="assets/track-6-fbd15f-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-0da9d8-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-0da9d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7jIIaLkLcxyn9z2GvQi1Se"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-0da9d8-dark.svg"><img alt="Elevate · Sub Focus" src="assets/track-0-0da9d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4uTGJvLu4HWSgtqav9j6E1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-0da9d8-dark.svg"><img alt="Nightshift · Charlotte Plank" src="assets/track-1-0da9d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4uTGJvLu4HWSgtqav9j6E1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-0da9d8-dark.svg"><img alt="Nightshift · Charlotte Plank" src="assets/track-2-0da9d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2WlXPpZlL8Oy0CI67okGPw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-0da9d8-dark.svg"><img alt="TEMPORARY FRIENDS · NOTION, Charlotte Plank" src="assets/track-3-0da9d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2OyestNLBmdbsQJaL9qaVG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-0da9d8-dark.svg"><img alt="Where Have You Been · REESE" src="assets/track-4-0da9d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7i5tBVaBU5Z4Va6XK0L5mm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-0da9d8-dark.svg"><img alt="Wasted Youth · goddard., Cat Burns" src="assets/track-5-0da9d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4q65jVjZI4N5NbolanAtYo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-0da9d8-dark.svg"><img alt="The Difference - High Contrast Remix · Flume, Toro y Moi, High Contrast" src="assets/track-6-0da9d8-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,113 commits</summary>
+<summary><b>2026</b> · 2,114 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 476 commits</summary>
+<summary>November 2026 · 477 commits</summary>
 <br>
 
 <picture>
