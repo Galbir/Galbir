@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-3547d0-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-3547d0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2N1SBksYNigOK3XtGNhp8i"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-3547d0-dark.svg"><img alt="Hell In High Heels (feat. Jazmine Johnson) · Netsky, Jazmine Johnson" src="assets/track-0-3547d0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2N1SBksYNigOK3XtGNhp8i"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-3547d0-dark.svg"><img alt="Hell In High Heels (feat. Jazmine Johnson) · Netsky, Jazmine Johnson" src="assets/track-1-3547d0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3VFaV7Mw0di4XFE84eHnrC"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-3547d0-dark.svg"><img alt="Disconnect · Becky Hill, Chase &amp; Status" src="assets/track-2-3547d0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4pDMigVe00CtmHeqSD0Yvy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-3547d0-dark.svg"><img alt="Rage · Charlotte Plank" src="assets/track-3-3547d0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3lFNDaob5QhwE9oo7J0uNT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-3547d0-dark.svg"><img alt="Pachamama · Luude, Elliphant" src="assets/track-4-3547d0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/23WcAh2k1Y9YgRaL2fwMwl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-3547d0-dark.svg"><img alt="I RUN - Mozey Remix · HAVEN., Kaitlin Aragon, Mozey" src="assets/track-5-3547d0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6tGtFeIO3yYuVvNLAdHU0A"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-3547d0-dark.svg"><img alt="Tell Me Why - 1991 Remix · Supermode, 1991" src="assets/track-6-3547d0-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-c42756-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-c42756-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7ADkaL9vcA3wZAgxZIGy7M"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-c42756-dark.svg"><img alt="Push It · MIND" src="assets/track-0-c42756-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4FgVnU3X6rcmnd5ujsfoK6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-c42756-dark.svg"><img alt="Say My Name - Sub Focus Remix · Morgan Seatree, Sub Focus" src="assets/track-1-c42756-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5f69wzvle0b9ColR7wuvEK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-c42756-dark.svg"><img alt="Lose This Feeling - Dimension Remix · Armin van Buuren, Dimension" src="assets/track-2-c42756-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6f0SWrG8zPQVda02f9yaQO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-c42756-dark.svg"><img alt="Running Around - Niall T Remix · Ely Oaks, Niall T" src="assets/track-3-c42756-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2FD8e8lJgul2phNSMlOHDM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-c42756-dark.svg"><img alt="Drowning Mind · goddard., Billy Lockett" src="assets/track-4-c42756-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/75xoQG7rwVC2xNGZOfg2mh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-c42756-dark.svg"><img alt="Vibration (feat. AR/CO) · Sub Focus, AR/CO" src="assets/track-5-c42756-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0cIkdVvxT2lalJFH254lYA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-c42756-dark.svg"><img alt="Rave Out · Turno, Skepsis, Charlotte Plank" src="assets/track-6-c42756-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,147 commits</summary>
+<summary><b>2026</b> · 2,148 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 510 commits</summary>
+<summary>November 2026 · 511 commits</summary>
 <br>
 
 <picture>
