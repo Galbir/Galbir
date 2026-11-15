@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-8f6d0a-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-8f6d0a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2J5fHq5DxZKVUqC5VHnYAw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-8f6d0a-dark.svg"><img alt="Into You · April Girl" src="assets/track-0-8f6d0a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1R8qJRSmyAbEew2mtPQFJo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-8f6d0a-dark.svg"><img alt="Silverlight · Rules" src="assets/track-1-8f6d0a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0pnGee7CwKiBdt1gBWnAkX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-8f6d0a-dark.svg"><img alt="Bits of Hope - Extended · NOTSOBAD, MA:RK" src="assets/track-2-8f6d0a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2NSGXSn3phBbGnEnWQyyx8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-8f6d0a-dark.svg"><img alt="gravity · all things break" src="assets/track-3-8f6d0a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3IWxVPHeBIZgrPuLIa0Avy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-8f6d0a-dark.svg"><img alt="Out of Reach · MIND" src="assets/track-4-8f6d0a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6uZKR2wcI2l4zCIE5BjoKM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-8f6d0a-dark.svg"><img alt="Misery · Lonelysoul." src="assets/track-5-8f6d0a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6uZKR2wcI2l4zCIE5BjoKM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-8f6d0a-dark.svg"><img alt="Misery · Lonelysoul." src="assets/track-6-8f6d0a-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-f19a0b-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-f19a0b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7a640PjWieRdVaGK5SW9ED"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-f19a0b-dark.svg"><img alt="I Like The Way You Move · Matteo Cole" src="assets/track-0-f19a0b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3yh06bgDnH0QZFiHVeObWH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-f19a0b-dark.svg"><img alt="Upside Down · April Girl" src="assets/track-1-f19a0b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2J5fHq5DxZKVUqC5VHnYAw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-f19a0b-dark.svg"><img alt="Into You · April Girl" src="assets/track-2-f19a0b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2J5fHq5DxZKVUqC5VHnYAw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-f19a0b-dark.svg"><img alt="Into You · April Girl" src="assets/track-3-f19a0b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1R8qJRSmyAbEew2mtPQFJo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-f19a0b-dark.svg"><img alt="Silverlight · Rules" src="assets/track-4-f19a0b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0pnGee7CwKiBdt1gBWnAkX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-f19a0b-dark.svg"><img alt="Bits of Hope - Extended · NOTSOBAD, MA:RK" src="assets/track-5-f19a0b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2NSGXSn3phBbGnEnWQyyx8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-f19a0b-dark.svg"><img alt="gravity · all things break" src="assets/track-6-f19a0b-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,212 commits</summary>
+<summary><b>2026</b> · 2,213 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 575 commits</summary>
+<summary>November 2026 · 576 commits</summary>
 <br>
 
 <picture>
