@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-b9e837-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-b9e837-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0FJ57QkOsbHFKJxwpiRgNP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-b9e837-dark.svg"><img alt="Lights Go Out · What So Not, Benson, Lucy Lucy" src="assets/track-0-b9e837-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0uKjHC6jtrU9JG0CHxZ588"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-b9e837-dark.svg"><img alt="Colors · Łaszewo" src="assets/track-1-b9e837-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/49lEbksmIPM7wTCmMO87my"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-b9e837-dark.svg"><img alt="10,000 Flowers · Lyrah, Conrad." src="assets/track-2-b9e837-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5cz0EtjFVIl81TNNvljFeK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-b9e837-dark.svg"><img alt="Peace In Silence · BUNT., Nate Traveller" src="assets/track-3-b9e837-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5Rv4GkCbfSfCADhXO4fmQf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-b9e837-dark.svg"><img alt="hey lil mama · YDG, Łaszewo" src="assets/track-4-b9e837-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1QrtyTLimYC6Rtkzlxqvfl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-b9e837-dark.svg"><img alt="in paris, the windows are always open · After Wes" src="assets/track-5-b9e837-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/61SP7u0YgHZe2TGAA45CAd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-b9e837-dark.svg"><img alt="Live Like This Forever · SNBRN" src="assets/track-6-b9e837-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-8de0c6-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-8de0c6-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6bVQMzv9g5KUHWFlSsIZU8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-8de0c6-dark.svg"><img alt="THINGS I DO 4U · MEMBA, Łaszewo" src="assets/track-0-8de0c6-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1j0lbmISMUyQuIVzMtZcGB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-8de0c6-dark.svg"><img alt="Exhale · Lyrah" src="assets/track-1-8de0c6-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2wRKES8HKm4EutRHz7JD1x"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-8de0c6-dark.svg"><img alt="light years (feat. Inéz) · John Summit, Inéz" src="assets/track-2-8de0c6-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5h8oWLRWiKep2Nh3s7TJnV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-8de0c6-dark.svg"><img alt="The Journey · Dreamers Delight, MAYLYN" src="assets/track-3-8de0c6-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4cNoo7Bbjq4B8RlFBoqCEY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-8de0c6-dark.svg"><img alt="Up In Flames · Łaszewo" src="assets/track-4-8de0c6-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/64w0yO4cGmkSzKJgQ00tx0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-8de0c6-dark.svg"><img alt="Bad Timing (So Sorry) · INZO, Blookah, ALIGN, Lhasa" src="assets/track-5-8de0c6-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/37nYqc79KWQ7nJDWMWmIKO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-8de0c6-dark.svg"><img alt="What&#39;s The Rush (Rainbow) · Koastle, beauvais, Port London" src="assets/track-6-8de0c6-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,274 commits</summary>
+<summary><b>2026</b> · 2,282 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 637 commits</summary>
+<summary>November 2026 · 645 commits</summary>
 <br>
 
 <picture>
