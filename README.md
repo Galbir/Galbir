@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-b101fe-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-b101fe-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/05kBtGf70QOvpAxz71KPIk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-b101fe-dark.svg"><img alt="I Know · CHEEKS" src="assets/track-0-b101fe-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0dmUmINJb5pqo5aQ3rzRpZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-b101fe-dark.svg"><img alt="Ur Alive · ILLENIUM, WYLDE" src="assets/track-1-b101fe-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0gRb5QXeE8bXRRRR06R8SW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-b101fe-dark.svg"><img alt="Drunk Wishing · Distant Matter, Arden Jones" src="assets/track-2-b101fe-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5SRqHGmEWrd0Td9GHRWIHp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-b101fe-dark.svg"><img alt="Through · Ooyy, Hennie Hun" src="assets/track-3-b101fe-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2qbwO0CRPggvohMtVNJWCA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-b101fe-dark.svg"><img alt="wish you the best · Conrad., soleil" src="assets/track-4-b101fe-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2bMEpI8cwnRB4lBnRj59DL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-b101fe-dark.svg"><img alt="In My Feels · Bronze Whale" src="assets/track-5-b101fe-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3wrgRknQKf58IIEbV4flhx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-b101fe-dark.svg"><img alt="Til U Hate Me · Łaszewo" src="assets/track-6-b101fe-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-05b733-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-05b733-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7Dh4j5JltkdH159xm77JiF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-05b733-dark.svg"><img alt="Crazy · Myles Lloyd, BUNT." src="assets/track-0-05b733-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/65FtIT9LaWdq7tU7vALHux"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-05b733-dark.svg"><img alt="we&#39;re the last to leave · Ordley" src="assets/track-1-05b733-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0GBxBb2d4BlTiwbaQuQARv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-05b733-dark.svg"><img alt="3am - Nic Vans Remix · Łaszewo, Nic Vans" src="assets/track-2-05b733-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5KBPDjFPi8kQdnsiTR1Nmy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-05b733-dark.svg"><img alt="U Da One · Velmar, Misdemeanor" src="assets/track-3-05b733-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7ESfGZyPYljwmZdGHFZM2k"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-05b733-dark.svg"><img alt="I’m Running · Vanic, Pearl Michelle" src="assets/track-4-05b733-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7mPCgCK0XzmltsHj6IZjtL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-05b733-dark.svg"><img alt="Dreaming - Gibson Parker Remix · Rootkit, Cammie Robinson, Gibson Parker" src="assets/track-5-05b733-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1d4pmzsLrq0ThETlZXKEV3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-05b733-dark.svg"><img alt="Chemicals · it&#39;s murph, Nat Slater" src="assets/track-6-05b733-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,284 commits</summary>
+<summary><b>2026</b> · 2,289 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 647 commits</summary>
+<summary>November 2026 · 652 commits</summary>
 <br>
 
 <picture>
