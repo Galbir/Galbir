@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-250ebc-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-250ebc-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/79fIQTrSfK6J9r8va0INAo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-250ebc-dark.svg"><img alt="Mood Song · Why U So, Lua Sola" src="assets/track-0-250ebc-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1Gy8ww0NQnuRoCHt9PKpVp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-250ebc-dark.svg"><img alt="Say My Name · Texture" src="assets/track-1-250ebc-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7FnmX8ysxuQgngtb6jFZL2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-250ebc-dark.svg"><img alt="choose you · byyron" src="assets/track-2-250ebc-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3vsJRofmYW8q72shHiNGVv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-250ebc-dark.svg"><img alt="around · oskar med k" src="assets/track-3-250ebc-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3cIbR7s1wSEhesuYLRD9ij"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-250ebc-dark.svg"><img alt="Take My Space · nimino" src="assets/track-4-250ebc-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3Hz9J3MMt7o8mdLDjEykeO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-250ebc-dark.svg"><img alt="the morning · kalm" src="assets/track-5-250ebc-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4oLNiCIVvGyoUt219VAshi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-250ebc-dark.svg"><img alt="Make Me Feel Like (Don&#39;t Nobody Else) · NORRA" src="assets/track-6-250ebc-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-7b7664-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-7b7664-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1aUAakwecjFJIqwICjdKFn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-7b7664-dark.svg"><img alt="something about u · heylucas, solaene" src="assets/track-0-7b7664-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/79fIQTrSfK6J9r8va0INAo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-7b7664-dark.svg"><img alt="Mood Song · Why U So, Lua Sola" src="assets/track-1-7b7664-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1Gy8ww0NQnuRoCHt9PKpVp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-7b7664-dark.svg"><img alt="Say My Name · Texture" src="assets/track-2-7b7664-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7FnmX8ysxuQgngtb6jFZL2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-7b7664-dark.svg"><img alt="choose you · byyron" src="assets/track-3-7b7664-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3vsJRofmYW8q72shHiNGVv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-7b7664-dark.svg"><img alt="around · oskar med k" src="assets/track-4-7b7664-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3cIbR7s1wSEhesuYLRD9ij"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-7b7664-dark.svg"><img alt="Take My Space · nimino" src="assets/track-5-7b7664-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3Hz9J3MMt7o8mdLDjEykeO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-7b7664-dark.svg"><img alt="the morning · kalm" src="assets/track-6-7b7664-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,241 commits</summary>
+<summary><b>2026</b> · 2,242 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 604 commits</summary>
+<summary>November 2026 · 605 commits</summary>
 <br>
 
 <picture>
