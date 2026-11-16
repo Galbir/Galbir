@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-ef3672-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-ef3672-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/48tXDrByZd3zfrKdlyOamh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-ef3672-dark.svg"><img alt="Control - Łaszewo Remix · Emmit Fenn, Łaszewo" src="assets/track-0-ef3672-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0MJxClS6FlYCh1pn68QAzo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-ef3672-dark.svg"><img alt="Say a Prayer For Me - Mazde Remix · RÜFÜS DU SOL, Mazde" src="assets/track-1-ef3672-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6LPooJUhejqFutgXU1DY0q"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-ef3672-dark.svg"><img alt="So Low · 49th &amp; Main" src="assets/track-2-ef3672-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/65MAYFZGyPFoqBdebOwa5l"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-ef3672-dark.svg"><img alt="When I&#39;m Alone · GoldFish, Łaszewo" src="assets/track-3-ef3672-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1Yn5NNoF9vcuA3vXL8EAkz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-ef3672-dark.svg"><img alt="I&#39;m Violent · Łaszewo" src="assets/track-4-ef3672-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5MZniZt1gkxBWSlHkXuepE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-ef3672-dark.svg"><img alt="Mercy (2022 Edit) · What So Not, MØ" src="assets/track-5-ef3672-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7DhXdhJTXfIMZ8WWhKCe4G"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-ef3672-dark.svg"><img alt="Chasing Tail - Madnap Remix · Win and Woo, Madnap" src="assets/track-6-ef3672-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-bb10d8-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-bb10d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1UtglVF0qRCElmVdU6bWuc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-bb10d8-dark.svg"><img alt="Drugs I Like (AVELLO Remix) · nate band, AVELLO" src="assets/track-0-bb10d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2g0wLlfKqPU1xuYgNWwqoi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-bb10d8-dark.svg"><img alt="i&#39;m feeling low again · Aylone" src="assets/track-1-bb10d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/15a30YqNPApO8OS0RpqNND"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-bb10d8-dark.svg"><img alt="Only Friends · BUNT." src="assets/track-2-bb10d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4sDNyj450xyh8d0BodkMyH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-bb10d8-dark.svg"><img alt="roundnround · Conrad., Perrin Xthona" src="assets/track-3-bb10d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0TEe8itQHTRTAv7bLS7P09"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-bb10d8-dark.svg"><img alt="first time · jigitz" src="assets/track-4-bb10d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2S2L8RSwfiFBfmJ4dDr80D"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-bb10d8-dark.svg"><img alt="I Feel Gold · Łaszewo" src="assets/track-5-bb10d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2sRR0xfFJN76BEPItcaZ6W"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-bb10d8-dark.svg"><img alt="Chi-Town · Koastle, Łaszewo" src="assets/track-6-bb10d8-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,248 commits</summary>
+<summary><b>2026</b> · 2,249 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 611 commits</summary>
+<summary>November 2026 · 612 commits</summary>
 <br>
 
 <picture>
