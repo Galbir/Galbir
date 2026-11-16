@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-bdfb28-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-bdfb28-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5cI7wTs2GfuRqO4hP5rKBw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-bdfb28-dark.svg"><img alt="For All Time · 18th Avenue" src="assets/track-0-bdfb28-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3y3WB9Bnk33fRX4fZyBFZE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-bdfb28-dark.svg"><img alt="SAVE ME · Boston Bun, Bag Raiders" src="assets/track-1-bdfb28-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6p9Sy9SswMeeXMFovq0fgB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-bdfb28-dark.svg"><img alt="reserved... · Berjan" src="assets/track-2-bdfb28-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2KrByc13VqGdGTQZWUAcI5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-bdfb28-dark.svg"><img alt="Seasons · Verb" src="assets/track-3-bdfb28-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2qOilIix4C7vbIGdbKPAVy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-bdfb28-dark.svg"><img alt="Drinking To Get Drunk · Swimming Paul" src="assets/track-4-bdfb28-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4clzTrfyyFfULKHkNY4pTZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-bdfb28-dark.svg"><img alt="Nothing Comes Close · 49th &amp; Main" src="assets/track-5-bdfb28-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/26J7HIZ0YmXwU4UPyr9PeF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-bdfb28-dark.svg"><img alt="Still Feel You · Why U So" src="assets/track-6-bdfb28-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-8c223e-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-8c223e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1nIRahjeEII1lsDPEn0nJz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-8c223e-dark.svg"><img alt="Colorado · Łaszewo" src="assets/track-0-8c223e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0eXoaFeLY7SR6X9uAtF8L9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-8c223e-dark.svg"><img alt="I Wanna Live · Łaszewo" src="assets/track-1-8c223e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7AuD2bonF6tI3xf07BJiHL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-8c223e-dark.svg"><img alt="Show Me · Big Gigantic, Koastle, Emilia Ali" src="assets/track-2-8c223e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3H2OY4Xbvpknr5NDZPZVCw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-8c223e-dark.svg"><img alt="loving · dunne" src="assets/track-3-8c223e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0T7tmHtBP6KYhdb4B9c8Az"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-8c223e-dark.svg"><img alt="Bullet · Modern Tales" src="assets/track-4-8c223e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0kUboiI2f8jgzvTFJ3NDO4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-8c223e-dark.svg"><img alt="Loved &amp; Lost · LeDorean" src="assets/track-5-8c223e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6eR06YmHylV4pUDgx5lprq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-8c223e-dark.svg"><img alt="Extreme · Distant Matter" src="assets/track-6-8c223e-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,245 commits</summary>
+<summary><b>2026</b> · 2,246 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 608 commits</summary>
+<summary>November 2026 · 609 commits</summary>
 <br>
 
 <picture>
