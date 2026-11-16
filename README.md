@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-effcb0-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-effcb0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6lspamynBrtJaTt1D7jMJT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-effcb0-dark.svg"><img alt="maybe · Ordley" src="assets/track-0-effcb0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4Pd6KvXa6DVEA5Wr41k9Dw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-effcb0-dark.svg"><img alt="think you&#39;re someone new · Ian Asher, Arden Jones" src="assets/track-1-effcb0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4k0N1HHajVqshJQGkS9YWk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-effcb0-dark.svg"><img alt="Surrender To The Feeling · ayokay" src="assets/track-2-effcb0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6QWqy98sVOhrj00laLuhGb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-effcb0-dark.svg"><img alt="pressure · jigitz" src="assets/track-3-effcb0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2TqS20VNPIvHaZunaQPu0x"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-effcb0-dark.svg"><img alt="Like I Do · Distant Matter" src="assets/track-4-effcb0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3iiOlw9xIShvqyHAx3M7ih"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-effcb0-dark.svg"><img alt="Your Side of the Bed · Łaszewo" src="assets/track-5-effcb0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5GlegN9RXJxoPdgh56TvfW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-effcb0-dark.svg"><img alt="me &amp; u · Conrad." src="assets/track-6-effcb0-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-3a17af-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-3a17af-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7DMzc57lRuLFceZLYUMK3X"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-3a17af-dark.svg"><img alt="Out of Bounds · Koastle, Conrad., DLG." src="assets/track-0-3a17af-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6M3UzY0Ezskc07lFaeDAIS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-3a17af-dark.svg"><img alt="Beam Me Up - VIP · Win and Woo, Cosmos &amp; Creature" src="assets/track-1-3a17af-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1Tfg0XYAGbUSvQiGWWBmXa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-3a17af-dark.svg"><img alt="Like Sunshine · Lavern, Sigala" src="assets/track-2-3a17af-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6pXBQcERvGl2Y2N702Lc82"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-3a17af-dark.svg"><img alt="Tower In The Woods · What So Not, MNDR" src="assets/track-3-3a17af-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1X7HX6ixKdi3jx5Pb0SfVg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-3a17af-dark.svg"><img alt="When I&#39;m Alone (Mixed) · GoldFish, Łaszewo" src="assets/track-4-3a17af-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1JsUfBOlJxZGpvWBQeR7qb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-3a17af-dark.svg"><img alt="close2u · Conrad." src="assets/track-5-3a17af-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7dysHvjVrHkpLhamDe1HJz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-3a17af-dark.svg"><img alt="Do or Die · Łaszewo" src="assets/track-6-3a17af-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,254 commits</summary>
+<summary><b>2026</b> · 2,268 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 617 commits</summary>
+<summary>November 2026 · 631 commits</summary>
 <br>
 
 <picture>
