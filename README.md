@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-f194f4-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-f194f4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0kfNu4qJOo7vgRWDCnMiBa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-f194f4-dark.svg"><img alt="Little Planets - Remix · RIZ LA VIE, Łaszewo" src="assets/track-0-f194f4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5GdlsWmNyourbjreXO8cW4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-f194f4-dark.svg"><img alt="Over You · CHEEKS, CRONIN" src="assets/track-1-f194f4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2NJhFhHTBtnQHLAog6NDkd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-f194f4-dark.svg"><img alt="my love for you · Aylone" src="assets/track-2-f194f4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2NJhFhHTBtnQHLAog6NDkd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-f194f4-dark.svg"><img alt="my love for you · Aylone" src="assets/track-3-f194f4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0quCjIhdmaql6bptSC31re"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-f194f4-dark.svg"><img alt="ONANON - Warren Remix · Killen., Warren" src="assets/track-4-f194f4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/29tKLZTDyHSxGV3vBjVugz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-f194f4-dark.svg"><img alt="smoke · Łaszewo, Quinn XCII" src="assets/track-5-f194f4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/62CIy6fqPEcnRMr7GLg13N"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-f194f4-dark.svg"><img alt="I Wish I Had A Friend · Good Knights" src="assets/track-6-f194f4-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-a5a675-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-a5a675-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/16pubeg6O8nTaLX0KSPCOJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-a5a675-dark.svg"><img alt="VANILLA · SEBASTIAN PAUL" src="assets/track-0-a5a675-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4bIx7AD4BcgydeaLnhNrum"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-a5a675-dark.svg"><img alt="This Right Here · CHEEKS" src="assets/track-1-a5a675-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2rR4DIzrNjxOw7QsHkzOrP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-a5a675-dark.svg"><img alt="Pull Me Up · Frosty" src="assets/track-2-a5a675-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2D6makyG9bp5Zve7nUXUP2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-a5a675-dark.svg"><img alt="Go Mode · INZO, Blookah, DijahSB" src="assets/track-3-a5a675-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/10iVYwZbzgVcspEVUYODk5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-a5a675-dark.svg"><img alt="Say You&#39;re With Me - Levi Version · BUNT., Frida Amundsen" src="assets/track-4-a5a675-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1vTK1cAuVvl90eLyUqOGV8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-a5a675-dark.svg"><img alt="Don&#39;t Stop (Intro) · Łaszewo" src="assets/track-5-a5a675-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/49IkGvXySNA06i62cIDNyB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-a5a675-dark.svg"><img alt="Recognize · Distant Matter" src="assets/track-6-a5a675-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,298 commits</summary>
+<summary><b>2026</b> · 2,299 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 661 commits</summary>
+<summary>November 2026 · 662 commits</summary>
 <br>
 
 <picture>
