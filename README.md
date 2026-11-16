@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-bb10d8-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-bb10d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1UtglVF0qRCElmVdU6bWuc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-bb10d8-dark.svg"><img alt="Drugs I Like (AVELLO Remix) · nate band, AVELLO" src="assets/track-0-bb10d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2g0wLlfKqPU1xuYgNWwqoi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-bb10d8-dark.svg"><img alt="i&#39;m feeling low again · Aylone" src="assets/track-1-bb10d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/15a30YqNPApO8OS0RpqNND"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-bb10d8-dark.svg"><img alt="Only Friends · BUNT." src="assets/track-2-bb10d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4sDNyj450xyh8d0BodkMyH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-bb10d8-dark.svg"><img alt="roundnround · Conrad., Perrin Xthona" src="assets/track-3-bb10d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0TEe8itQHTRTAv7bLS7P09"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-bb10d8-dark.svg"><img alt="first time · jigitz" src="assets/track-4-bb10d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2S2L8RSwfiFBfmJ4dDr80D"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-bb10d8-dark.svg"><img alt="I Feel Gold · Łaszewo" src="assets/track-5-bb10d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2sRR0xfFJN76BEPItcaZ6W"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-bb10d8-dark.svg"><img alt="Chi-Town · Koastle, Łaszewo" src="assets/track-6-bb10d8-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-53b510-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-53b510-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4eKMGWFFnvkjsJICJ2Q3az"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-53b510-dark.svg"><img alt="Dissolve II · Łaszewo" src="assets/track-0-53b510-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/74jMkCvZXSsj5ykdWkevyO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-53b510-dark.svg"><img alt="without ur love · Midnight Dance Party" src="assets/track-1-53b510-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5o2tqRIy3mcH2hJftqvkkJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-53b510-dark.svg"><img alt="you&#39;ll come back · jigitz" src="assets/track-2-53b510-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1crMjhqEWtGm2anv63bkmO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-53b510-dark.svg"><img alt="Somebody Real · Schmarx &amp; Savvy" src="assets/track-3-53b510-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5A4rjt63FX39oDtAucFTqq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-53b510-dark.svg"><img alt="Be Here With Me Now · MC4D, Łaszewo, gavn!" src="assets/track-4-53b510-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0KdgkImLHstT78XKNpz1T3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-53b510-dark.svg"><img alt="Lost · Swimming Paul" src="assets/track-5-53b510-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7zSIaxd1mgB53fm4PNX7qA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-53b510-dark.svg"><img alt="U Taste Like Sundays · Łaszewo" src="assets/track-6-53b510-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,249 commits</summary>
+<summary><b>2026</b> · 2,251 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 612 commits</summary>
+<summary>November 2026 · 614 commits</summary>
 <br>
 
 <picture>
