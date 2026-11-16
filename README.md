@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-a5a675-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-a5a675-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/16pubeg6O8nTaLX0KSPCOJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-a5a675-dark.svg"><img alt="VANILLA · SEBASTIAN PAUL" src="assets/track-0-a5a675-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4bIx7AD4BcgydeaLnhNrum"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-a5a675-dark.svg"><img alt="This Right Here · CHEEKS" src="assets/track-1-a5a675-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2rR4DIzrNjxOw7QsHkzOrP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-a5a675-dark.svg"><img alt="Pull Me Up · Frosty" src="assets/track-2-a5a675-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2D6makyG9bp5Zve7nUXUP2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-a5a675-dark.svg"><img alt="Go Mode · INZO, Blookah, DijahSB" src="assets/track-3-a5a675-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/10iVYwZbzgVcspEVUYODk5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-a5a675-dark.svg"><img alt="Say You&#39;re With Me - Levi Version · BUNT., Frida Amundsen" src="assets/track-4-a5a675-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1vTK1cAuVvl90eLyUqOGV8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-a5a675-dark.svg"><img alt="Don&#39;t Stop (Intro) · Łaszewo" src="assets/track-5-a5a675-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/49IkGvXySNA06i62cIDNyB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-a5a675-dark.svg"><img alt="Recognize · Distant Matter" src="assets/track-6-a5a675-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-58bc59-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-58bc59-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6NPuaE61QbNqRb6vZxe8lZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-58bc59-dark.svg"><img alt="Stay With Me · John Summit, Of The Trees" src="assets/track-0-58bc59-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3AxerDAyKYadohqqfjiLz3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-58bc59-dark.svg"><img alt="Doing With You - H4RRIS Remix · Valorian, Lexi Scatena, H4RRIS" src="assets/track-1-58bc59-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2rehinQVvHSX1TsiHLFzgo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-58bc59-dark.svg"><img alt="INSOMNIA · Lost Kings" src="assets/track-2-58bc59-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/16pubeg6O8nTaLX0KSPCOJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-58bc59-dark.svg"><img alt="VANILLA · SEBASTIAN PAUL" src="assets/track-3-58bc59-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4bIx7AD4BcgydeaLnhNrum"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-58bc59-dark.svg"><img alt="This Right Here · CHEEKS" src="assets/track-4-58bc59-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2rR4DIzrNjxOw7QsHkzOrP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-58bc59-dark.svg"><img alt="Pull Me Up · Frosty" src="assets/track-5-58bc59-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2D6makyG9bp5Zve7nUXUP2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-58bc59-dark.svg"><img alt="Go Mode · INZO, Blookah, DijahSB" src="assets/track-6-58bc59-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,299 commits</summary>
+<summary><b>2026</b> · 2,300 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 662 commits</summary>
+<summary>November 2026 · 663 commits</summary>
 <br>
 
 <picture>
