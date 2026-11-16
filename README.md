@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-979bb1-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-979bb1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4clzTrfyyFfULKHkNY4pTZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-979bb1-dark.svg"><img alt="Nothing Comes Close · 49th &amp; Main" src="assets/track-0-979bb1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1aUAakwecjFJIqwICjdKFn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-979bb1-dark.svg"><img alt="something about u · heylucas, solaene" src="assets/track-1-979bb1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/79fIQTrSfK6J9r8va0INAo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-979bb1-dark.svg"><img alt="Mood Song · Why U So, Lua Sola" src="assets/track-2-979bb1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1Gy8ww0NQnuRoCHt9PKpVp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-979bb1-dark.svg"><img alt="Say My Name · Texture" src="assets/track-3-979bb1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7FnmX8ysxuQgngtb6jFZL2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-979bb1-dark.svg"><img alt="choose you · byyron" src="assets/track-4-979bb1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3vsJRofmYW8q72shHiNGVv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-979bb1-dark.svg"><img alt="around · oskar med k" src="assets/track-5-979bb1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3cIbR7s1wSEhesuYLRD9ij"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-979bb1-dark.svg"><img alt="Take My Space · nimino" src="assets/track-6-979bb1-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-bdfb28-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-bdfb28-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5cI7wTs2GfuRqO4hP5rKBw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-bdfb28-dark.svg"><img alt="For All Time · 18th Avenue" src="assets/track-0-bdfb28-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3y3WB9Bnk33fRX4fZyBFZE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-bdfb28-dark.svg"><img alt="SAVE ME · Boston Bun, Bag Raiders" src="assets/track-1-bdfb28-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6p9Sy9SswMeeXMFovq0fgB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-bdfb28-dark.svg"><img alt="reserved... · Berjan" src="assets/track-2-bdfb28-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2KrByc13VqGdGTQZWUAcI5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-bdfb28-dark.svg"><img alt="Seasons · Verb" src="assets/track-3-bdfb28-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2qOilIix4C7vbIGdbKPAVy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-bdfb28-dark.svg"><img alt="Drinking To Get Drunk · Swimming Paul" src="assets/track-4-bdfb28-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4clzTrfyyFfULKHkNY4pTZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-bdfb28-dark.svg"><img alt="Nothing Comes Close · 49th &amp; Main" src="assets/track-5-bdfb28-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/26J7HIZ0YmXwU4UPyr9PeF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-bdfb28-dark.svg"><img alt="Still Feel You · Why U So" src="assets/track-6-bdfb28-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,244 commits</summary>
+<summary><b>2026</b> · 2,245 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 607 commits</summary>
+<summary>November 2026 · 608 commits</summary>
 <br>
 
 <picture>
