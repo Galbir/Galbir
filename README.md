@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-e9e577-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-e9e577-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/25Qr10nuipcwyyGQzCmoj9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-e9e577-dark.svg"><img alt="do you · Midnight Dance Party" src="assets/track-0-e9e577-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0FBdJP7yzvq88bG1keGgt4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-e9e577-dark.svg"><img alt="High and I Like it · it&#39;s murph, Evalyn" src="assets/track-1-e9e577-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4avIbl4asg00w8F0ngCsiP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-e9e577-dark.svg"><img alt="Growing Up · Bronze Whale" src="assets/track-2-e9e577-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1X0jZwwYEM4zJ3fxdnZLj6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-e9e577-dark.svg"><img alt="Bottle For 2 · Łaszewo" src="assets/track-3-e9e577-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/426kUFFWk2Lc4EP4ShkgGj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-e9e577-dark.svg"><img alt="Shimmering Light · Łaszewo" src="assets/track-4-e9e577-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4xFiMbGjbd7FVBzF38E2mE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-e9e577-dark.svg"><img alt="I Run - (HerShe &amp; Roto Remix) · HerShe, Roto" src="assets/track-5-e9e577-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6vasga4tz2Fa4fZIGSgGvh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-e9e577-dark.svg"><img alt="Heartbeat · nate band, Inéz" src="assets/track-6-e9e577-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-dcc8ec-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-dcc8ec-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6flTr5BDb7OQN7nZCs8xmR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-dcc8ec-dark.svg"><img alt="Lift Me Up · it&#39;s murph, Twin Diplomacy, Liv Grace Blue" src="assets/track-0-dcc8ec-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5Zo5ZLDqiUttWqS32qfsee"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-dcc8ec-dark.svg"><img alt="Sinking · Bronze Whale, Charlie Crown" src="assets/track-1-dcc8ec-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0BAQjCC9gfqOebxpmonHKz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-dcc8ec-dark.svg"><img alt="Everytime · Medasin, Naomi Wild" src="assets/track-2-dcc8ec-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3gCOHPzD8BICRM5xR1XBQS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-dcc8ec-dark.svg"><img alt="Lost My Mind (Wake Up) · BUNT., Elley Duhé" src="assets/track-3-dcc8ec-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4sAn9xKA6VlpXHdpNtsyHl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-dcc8ec-dark.svg"><img alt="Schools Out · MEMBA" src="assets/track-4-dcc8ec-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/28bBFB4xgt1IwWEM4R2pvN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-dcc8ec-dark.svg"><img alt="LUST DRUNK · SEBASTIAN PAUL" src="assets/track-5-dcc8ec-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4S5GfSh2s5qjRaJmd1FaXX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-dcc8ec-dark.svg"><img alt="Out of Focus · Łaszewo" src="assets/track-6-dcc8ec-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,293 commits</summary>
+<summary><b>2026</b> · 2,295 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 656 commits</summary>
+<summary>November 2026 · 658 commits</summary>
 <br>
 
 <picture>
