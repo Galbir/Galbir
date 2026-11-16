@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-53b510-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-53b510-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4eKMGWFFnvkjsJICJ2Q3az"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-53b510-dark.svg"><img alt="Dissolve II · Łaszewo" src="assets/track-0-53b510-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/74jMkCvZXSsj5ykdWkevyO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-53b510-dark.svg"><img alt="without ur love · Midnight Dance Party" src="assets/track-1-53b510-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5o2tqRIy3mcH2hJftqvkkJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-53b510-dark.svg"><img alt="you&#39;ll come back · jigitz" src="assets/track-2-53b510-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1crMjhqEWtGm2anv63bkmO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-53b510-dark.svg"><img alt="Somebody Real · Schmarx &amp; Savvy" src="assets/track-3-53b510-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5A4rjt63FX39oDtAucFTqq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-53b510-dark.svg"><img alt="Be Here With Me Now · MC4D, Łaszewo, gavn!" src="assets/track-4-53b510-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0KdgkImLHstT78XKNpz1T3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-53b510-dark.svg"><img alt="Lost · Swimming Paul" src="assets/track-5-53b510-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7zSIaxd1mgB53fm4PNX7qA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-53b510-dark.svg"><img alt="U Taste Like Sundays · Łaszewo" src="assets/track-6-53b510-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-e268df-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-e268df-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1MXrvYih9N3QEuEPMcsyhX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-e268df-dark.svg"><img alt="deadlove · Arden Jones" src="assets/track-0-e268df-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6gjbfsxdoNv7VZoAGRvIWf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-e268df-dark.svg"><img alt="Metaphysical - Daktyl Remix · Autograf" src="assets/track-1-e268df-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/325wgY6CoL30wsrRWTuveO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-e268df-dark.svg"><img alt="Supersonic (Interlude) · Łaszewo" src="assets/track-2-e268df-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6YiIWuVXS4AqF1KvUGMwyx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-e268df-dark.svg"><img alt="crystallized (feat. Inéz) · John Summit, Inéz" src="assets/track-3-e268df-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1qCiVAKXhdI7qwHKDQQlAV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-e268df-dark.svg"><img alt="Happy Now · TWINSICK" src="assets/track-4-e268df-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0Rt3GtnSnU1n1Gg7g4HK7J"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-e268df-dark.svg"><img alt="Borderline - Jkyl &amp; Hyde Remix · Ely Oaks, LAVINIA, Jkyl &amp; Hyde" src="assets/track-5-e268df-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7f9WkDtkzDEZNwJOxb76PE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-e268df-dark.svg"><img alt="Familiar · Distant Matter" src="assets/track-6-e268df-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,251 commits</summary>
+<summary><b>2026</b> · 2,252 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 614 commits</summary>
+<summary>November 2026 · 615 commits</summary>
 <br>
 
 <picture>
