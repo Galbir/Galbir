@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-389416-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-389416-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7qAuCJDxFwt6Zp8WWVK15h"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-389416-dark.svg"><img alt="3am · Łaszewo" src="assets/track-0-389416-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0nRYjxQQCzMVyjgpTtKjLt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-389416-dark.svg"><img alt="crystallized (feat. Inéz) - Subtronics Remix · John Summit, Subtronics, Inéz" src="assets/track-1-389416-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5nMp0G7AsGWgBxgNVCgtwk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-389416-dark.svg"><img alt="i deleted ur number · Palm" src="assets/track-2-389416-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2NCbnqj4aV4kZI3bI5xrfD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-389416-dark.svg"><img alt="Pick N Choose · Sunday Scaries" src="assets/track-3-389416-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4fuNiwrYGyapCWvu6wmDrT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-389416-dark.svg"><img alt="I Don&#39;t Wanna Let You Go · CHEEKS" src="assets/track-4-389416-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5Efqt72jtcTBDAishjtd2R"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-389416-dark.svg"><img alt="SPEAKING OUT LOUD · JEV" src="assets/track-5-389416-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1AApldBkudH6jZAE9ucdUF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-389416-dark.svg"><img alt="White Wine &amp; Adderall · The Chainsmokers, Beau Nox" src="assets/track-6-389416-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-cdcbcb-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-cdcbcb-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0F1VAVqj021UkGntiDz4nx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-cdcbcb-dark.svg"><img alt="Feels Like You · Adventure Club, Codeko" src="assets/track-0-cdcbcb-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7MazHni2yAzvhUYrjeUdY0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-cdcbcb-dark.svg"><img alt="Holding Onto U · Palm" src="assets/track-1-cdcbcb-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6cl01mVeSioV2jTHRcGe0l"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-cdcbcb-dark.svg"><img alt="Runaway · Jkyl &amp; Hyde" src="assets/track-2-cdcbcb-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0uKjHC6jtrU9JG0CHxZ588"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-cdcbcb-dark.svg"><img alt="Colors · Łaszewo" src="assets/track-3-cdcbcb-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/08KswY0r2Og69zwTjQa6CJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-cdcbcb-dark.svg"><img alt="End of Beginning - Dubstep · CORE P" src="assets/track-4-cdcbcb-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6I96oT2ZcOypVJkmqSujtr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-cdcbcb-dark.svg"><img alt="Drugs I Like · nate band" src="assets/track-5-cdcbcb-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5Byvs8uIVgPZVQN3Pw7UgL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-cdcbcb-dark.svg"><img alt="ONANON · Killen." src="assets/track-6-cdcbcb-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,341 commits</summary>
+<summary><b>2026</b> · 2,342 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 704 commits</summary>
+<summary>November 2026 · 705 commits</summary>
 <br>
 
 <picture>
