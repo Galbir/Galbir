@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-4a57f6-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-4a57f6-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4JPG8zY4MKIrchfyFGOEPU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-4a57f6-dark.svg"><img alt="Got Me Like · Big Gigantic" src="assets/track-0-4a57f6-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7bsV0uvwhPVE40kHlkglpB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-4a57f6-dark.svg"><img alt="we stayed up all night · Conrad." src="assets/track-1-4a57f6-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7fvuJP8GXsloNyoQ0iLUzv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-4a57f6-dark.svg"><img alt="Boston · Ian Asher, STELLA LEFTY" src="assets/track-2-4a57f6-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1JaXMVaSuDbuL0U9Vub1G3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-4a57f6-dark.svg"><img alt="With U · Palm, Opi" src="assets/track-3-4a57f6-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2S2L8RSwfiFBfmJ4dDr80D"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-4a57f6-dark.svg"><img alt="I Feel Gold · Łaszewo" src="assets/track-4-4a57f6-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6aAhjLzT47dbV0pUPeK3oK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-4a57f6-dark.svg"><img alt="Trampoline - BKAYE Remix · SHAED, BKAYE" src="assets/track-5-4a57f6-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1waYHmEXR5mFJCfEYfa2BL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-4a57f6-dark.svg"><img alt="Back For More · NGHTMRE, Big Gigantic, Olivia Sebastianelli" src="assets/track-6-4a57f6-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-389416-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-389416-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7qAuCJDxFwt6Zp8WWVK15h"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-389416-dark.svg"><img alt="3am · Łaszewo" src="assets/track-0-389416-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0nRYjxQQCzMVyjgpTtKjLt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-389416-dark.svg"><img alt="crystallized (feat. Inéz) - Subtronics Remix · John Summit, Subtronics, Inéz" src="assets/track-1-389416-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5nMp0G7AsGWgBxgNVCgtwk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-389416-dark.svg"><img alt="i deleted ur number · Palm" src="assets/track-2-389416-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2NCbnqj4aV4kZI3bI5xrfD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-389416-dark.svg"><img alt="Pick N Choose · Sunday Scaries" src="assets/track-3-389416-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4fuNiwrYGyapCWvu6wmDrT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-389416-dark.svg"><img alt="I Don&#39;t Wanna Let You Go · CHEEKS" src="assets/track-4-389416-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5Efqt72jtcTBDAishjtd2R"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-389416-dark.svg"><img alt="SPEAKING OUT LOUD · JEV" src="assets/track-5-389416-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1AApldBkudH6jZAE9ucdUF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-389416-dark.svg"><img alt="White Wine &amp; Adderall · The Chainsmokers, Beau Nox" src="assets/track-6-389416-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,334 commits</summary>
+<summary><b>2026</b> · 2,341 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 697 commits</summary>
+<summary>November 2026 · 704 commits</summary>
 <br>
 
 <picture>
