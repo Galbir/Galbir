@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-1c37ce-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-1c37ce-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1N0S9wcXbDh3gIG6EcU1k6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-1c37ce-dark.svg"><img alt="Sad Bitch · Łaszewo" src="assets/track-0-1c37ce-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6kqtPbQoUOI4NQow6qGGnp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-1c37ce-dark.svg"><img alt="SPEND THE WEEK · Łaszewo" src="assets/track-1-1c37ce-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4CIKj9yEEprFLgRgAX51lZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-1c37ce-dark.svg"><img alt="LIKE THIS · Babsy., Jeanne Taylor" src="assets/track-2-1c37ce-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1EUhxPgYs0Aq2wp3qloBZ5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-1c37ce-dark.svg"><img alt="strz · Arden Jones" src="assets/track-3-1c37ce-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0CyprQxMwhiRfOz0vgowVr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-1c37ce-dark.svg"><img alt="Help Me Lose My Mind (Sped Up) · Gravagerz" src="assets/track-4-1c37ce-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/49IkGvXySNA06i62cIDNyB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-1c37ce-dark.svg"><img alt="Recognize · Distant Matter" src="assets/track-5-1c37ce-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6LSEDrgYeG0SSdpGsKtkfO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-1c37ce-dark.svg"><img alt="Younger Me · ceej, matt weix" src="assets/track-6-1c37ce-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-43c4c4-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-43c4c4-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0Fn2Z2rKnI9DaRxTAOSbKN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-43c4c4-dark.svg"><img alt="nobody&#39;s there · BLISSFOOL" src="assets/track-0-43c4c4-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5TonNKa2679Hs8Pxvbk0nl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-43c4c4-dark.svg"><img alt="Veins · Koastle" src="assets/track-1-43c4c4-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7zb4aHvw8obcK9hm0FDjRK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-43c4c4-dark.svg"><img alt="INDULGE · SEBASTIAN PAUL" src="assets/track-2-43c4c4-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7M6TyRzI5dYey0ths1WJFn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-43c4c4-dark.svg"><img alt="Headed Back Home (Life&#39;s in Color) · Łaszewo" src="assets/track-3-43c4c4-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/009lyxNhZ0JlQVQNPvZqOe"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-43c4c4-dark.svg"><img alt="Knee Deep · MANSA" src="assets/track-4-43c4c4-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6EwfORhyPfPV69V4gNezAM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-43c4c4-dark.svg"><img alt="Circles · Champagne Drip, 9 Theory, Ashley Mazanec" src="assets/track-5-43c4c4-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/65FZnyfMHuh8DvN4SJZ64C"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-43c4c4-dark.svg"><img alt="My Way To U · D A N N Y" src="assets/track-6-43c4c4-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,353 commits</summary>
+<summary><b>2026</b> · 2,354 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 716 commits</summary>
+<summary>November 2026 · 717 commits</summary>
 <br>
 
 <picture>
