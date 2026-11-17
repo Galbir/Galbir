@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-cdcbcb-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-cdcbcb-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0F1VAVqj021UkGntiDz4nx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-cdcbcb-dark.svg"><img alt="Feels Like You · Adventure Club, Codeko" src="assets/track-0-cdcbcb-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7MazHni2yAzvhUYrjeUdY0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-cdcbcb-dark.svg"><img alt="Holding Onto U · Palm" src="assets/track-1-cdcbcb-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6cl01mVeSioV2jTHRcGe0l"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-cdcbcb-dark.svg"><img alt="Runaway · Jkyl &amp; Hyde" src="assets/track-2-cdcbcb-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0uKjHC6jtrU9JG0CHxZ588"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-cdcbcb-dark.svg"><img alt="Colors · Łaszewo" src="assets/track-3-cdcbcb-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/08KswY0r2Og69zwTjQa6CJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-cdcbcb-dark.svg"><img alt="End of Beginning - Dubstep · CORE P" src="assets/track-4-cdcbcb-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6I96oT2ZcOypVJkmqSujtr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-cdcbcb-dark.svg"><img alt="Drugs I Like · nate band" src="assets/track-5-cdcbcb-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5Byvs8uIVgPZVQN3Pw7UgL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-cdcbcb-dark.svg"><img alt="ONANON · Killen." src="assets/track-6-cdcbcb-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-b89c02-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-b89c02-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6LjD7dUX6RJhqcIOGVXi0L"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-b89c02-dark.svg"><img alt="Hold U · Palm" src="assets/track-0-b89c02-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5MZniZt1gkxBWSlHkXuepE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-b89c02-dark.svg"><img alt="Mercy (2022 Edit) · What So Not, MØ" src="assets/track-1-b89c02-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7uRMCCWFz9ytLAq2c0dQBz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-b89c02-dark.svg"><img alt="Down Low · it&#39;s murph" src="assets/track-2-b89c02-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-b89c02-dark.svg"><img alt="Everywhere · Babsy." src="assets/track-3-b89c02-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0S2M1qkve0r09dvQw4WmbE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-b89c02-dark.svg"><img alt="Highlight - jigitz Remix · Killen., jigitz" src="assets/track-4-b89c02-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/59vzI8N7Nvy55qvJmZfoa8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-b89c02-dark.svg"><img alt="someone new - Distant Matter Remix · Arden Jones, Distant Matter" src="assets/track-5-b89c02-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3CPhCNH8rV1czzGSmXm9TH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-b89c02-dark.svg"><img alt="messy · Łaszewo" src="assets/track-6-b89c02-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,342 commits</summary>
+<summary><b>2026</b> · 2,344 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 705 commits</summary>
+<summary>November 2026 · 707 commits</summary>
 <br>
 
 <picture>
