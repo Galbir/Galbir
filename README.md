@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-112c79-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-112c79-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/325wgY6CoL30wsrRWTuveO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-112c79-dark.svg"><img alt="Supersonic (Interlude) · Łaszewo" src="assets/track-0-112c79-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/43vn5zYrzerflZed2IrArR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-112c79-dark.svg"><img alt="In The City · Big Gigantic, Daily Bread" src="assets/track-1-112c79-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1XfysUtqJY1G9KCT0LVu2d"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-112c79-dark.svg"><img alt="STAY · D A N N Y" src="assets/track-2-112c79-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3k5VWLIsJQFYrJvIrNLLvK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-112c79-dark.svg"><img alt="Stone Cold Eyes · it&#39;s murph, Emi Grace" src="assets/track-3-112c79-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5P2fPoLx8DG10KfUGHI2pp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-112c79-dark.svg"><img alt="Get Lost · Killen." src="assets/track-4-112c79-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3Kx7gavZ1oFRnB2trqLLLM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-112c79-dark.svg"><img alt="Jenny (I Wanna Ruin Our Friendship) · Ian Asher, Studio Killers" src="assets/track-5-112c79-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6dqgA5KawNSuAUk2PLxF5r"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-112c79-dark.svg"><img alt="miserable all the time · rad cat" src="assets/track-6-112c79-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-4c0291-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-4c0291-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6UeFGOzQ1TFt6NImRvO2P7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-4c0291-dark.svg"><img alt="OFTEN · Lost Kings" src="assets/track-0-4c0291-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4aiIC5QqNtzPQcjzvB06sp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-4c0291-dark.svg"><img alt="Fade Together · it&#39;s murph" src="assets/track-1-4c0291-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2R7yQjDSVMgqxu6NoosDfE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-4c0291-dark.svg"><img alt="Good Kids · Łaszewo" src="assets/track-2-4c0291-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3k14GNrZ05MalUDbEL5xi0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-4c0291-dark.svg"><img alt="Thin Lines · Ian Asher" src="assets/track-3-4c0291-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0kmqtv5cXAKg42HceNZfk1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-4c0291-dark.svg"><img alt="all i need * · rad cat" src="assets/track-4-4c0291-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6uu9VaSDuWBXsJx8VTmsOJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-4c0291-dark.svg"><img alt="you haunt me · Marzi, Yana" src="assets/track-5-4c0291-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/50LgA55Oq94rxOSbPzMnwD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-4c0291-dark.svg"><img alt="With You · Jkyl &amp; Hyde" src="assets/track-6-4c0291-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,349 commits</summary>
+<summary><b>2026</b> · 2,351 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 712 commits</summary>
+<summary>November 2026 · 714 commits</summary>
 <br>
 
 <picture>
