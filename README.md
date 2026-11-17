@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-c18bc9-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-c18bc9-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0w6h053ER8qaIsyJhEtdGu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-c18bc9-dark.svg"><img alt="Eat Me Better · nimino" src="assets/track-0-c18bc9-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1LOjIBinbAVfmVqqELvgLh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-c18bc9-dark.svg"><img alt="ELECTRIC LOVE · AVELLO, HXRT" src="assets/track-1-c18bc9-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1nIRahjeEII1lsDPEn0nJz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-c18bc9-dark.svg"><img alt="Colorado · Łaszewo" src="assets/track-2-c18bc9-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/41DmQcdFB204OWprnv6Ahp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-c18bc9-dark.svg"><img alt="Moonlight · Big Gigantic, Trella" src="assets/track-3-c18bc9-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3hKpyQXNklbdtUq1mVJtkL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-c18bc9-dark.svg"><img alt="Pain Away - Atura Remix · Harry Hayes, Lily Ward, Atura" src="assets/track-4-c18bc9-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3hKpyQXNklbdtUq1mVJtkL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-c18bc9-dark.svg"><img alt="Pain Away - Atura Remix · Harry Hayes, Lily Ward, Atura" src="assets/track-5-c18bc9-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6NPuaE61QbNqRb6vZxe8lZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-c18bc9-dark.svg"><img alt="Stay With Me · John Summit, Of The Trees" src="assets/track-6-c18bc9-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-4a57f6-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-4a57f6-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4JPG8zY4MKIrchfyFGOEPU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-4a57f6-dark.svg"><img alt="Got Me Like · Big Gigantic" src="assets/track-0-4a57f6-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7bsV0uvwhPVE40kHlkglpB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-4a57f6-dark.svg"><img alt="we stayed up all night · Conrad." src="assets/track-1-4a57f6-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7fvuJP8GXsloNyoQ0iLUzv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-4a57f6-dark.svg"><img alt="Boston · Ian Asher, STELLA LEFTY" src="assets/track-2-4a57f6-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1JaXMVaSuDbuL0U9Vub1G3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-4a57f6-dark.svg"><img alt="With U · Palm, Opi" src="assets/track-3-4a57f6-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2S2L8RSwfiFBfmJ4dDr80D"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-4a57f6-dark.svg"><img alt="I Feel Gold · Łaszewo" src="assets/track-4-4a57f6-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6aAhjLzT47dbV0pUPeK3oK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-4a57f6-dark.svg"><img alt="Trampoline - BKAYE Remix · SHAED, BKAYE" src="assets/track-5-4a57f6-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1waYHmEXR5mFJCfEYfa2BL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-4a57f6-dark.svg"><img alt="Back For More · NGHTMRE, Big Gigantic, Olivia Sebastianelli" src="assets/track-6-4a57f6-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,333 commits</summary>
+<summary><b>2026</b> · 2,334 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 696 commits</summary>
+<summary>November 2026 · 697 commits</summary>
 <br>
 
 <picture>
