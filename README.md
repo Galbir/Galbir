@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-f41198-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-f41198-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5xMSUgWj8cLs6MKw2B297Y"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-f41198-dark.svg"><img alt="Ordinary · Adventure Club" src="assets/track-0-f41198-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4eKMGWFFnvkjsJICJ2Q3az"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-f41198-dark.svg"><img alt="Dissolve II · Łaszewo" src="assets/track-1-f41198-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1NPfiTCBjiYUya7npwzbAY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-f41198-dark.svg"><img alt="terms and conditions · BL3SS" src="assets/track-2-f41198-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4qQfSj0Z96zWwgyd0ISWr9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-f41198-dark.svg"><img alt="whiteout · Arden Jones" src="assets/track-3-f41198-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3UVhnqrvb2ZuVFLuK7K9cK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-f41198-dark.svg"><img alt="WILDFIRE · FUZION, Zeli" src="assets/track-4-f41198-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7DhXdhJTXfIMZ8WWhKCe4G"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-f41198-dark.svg"><img alt="Chasing Tail - Madnap Remix · Win and Woo, Madnap" src="assets/track-5-f41198-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0LwSrVJoSjrsPJntQvH9Vp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-f41198-dark.svg"><img alt="lost in love · Conrad." src="assets/track-6-f41198-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-beb0c7-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-beb0c7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5L27h9sZjEtNfuveLggaCY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-beb0c7-dark.svg"><img alt="American Money - Virtu Remix · BØRNS" src="assets/track-0-beb0c7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0OzGuW8S347U9MHmei913G"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-beb0c7-dark.svg"><img alt="fckU · Vanic, The Duchess" src="assets/track-1-beb0c7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/727wpwnFS0ZfGJOtG5TNsu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-beb0c7-dark.svg"><img alt="I GOT A QUESTION · xxtristanxo" src="assets/track-2-beb0c7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3Y0fvK6dutCdrkniQgGa9h"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-beb0c7-dark.svg"><img alt="Where Have You Been - Dubstep · CORE P" src="assets/track-3-beb0c7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7zSIaxd1mgB53fm4PNX7qA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-beb0c7-dark.svg"><img alt="U Taste Like Sundays · Łaszewo" src="assets/track-4-beb0c7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5qq2QBWGUNFAfCExaY4hSd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-beb0c7-dark.svg"><img alt="like that? · Conrad., Jake Neumar" src="assets/track-5-beb0c7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2qtQauWqPaGHrmrXbDa35k"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-beb0c7-dark.svg"><img alt="Constellations · Ian Asher, Jade LeMac" src="assets/track-6-beb0c7-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,345 commits</summary>
+<summary><b>2026</b> · 2,348 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 708 commits</summary>
+<summary>November 2026 · 711 commits</summary>
 <br>
 
 <picture>
