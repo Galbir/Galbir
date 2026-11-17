@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-149818-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-149818-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7f9WkDtkzDEZNwJOxb76PE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-149818-dark.svg"><img alt="Familiar · Distant Matter" src="assets/track-0-149818-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3AXAzwWnzyTlyXpggmVq84"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-149818-dark.svg"><img alt="2 Much · Babsy., LAYNE" src="assets/track-1-149818-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3AXAzwWnzyTlyXpggmVq84"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-149818-dark.svg"><img alt="2 Much · Babsy., LAYNE" src="assets/track-2-149818-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3lzMGSe3JvthkE3vDYy1zt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-149818-dark.svg"><img alt="Generation Low (Left Lucid Remix) · Back Talk, Left Lucid" src="assets/track-3-149818-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1ggPPXG6uXWAruK1tfv3PF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-149818-dark.svg"><img alt="Take The Night · Łaszewo" src="assets/track-4-149818-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-149818-dark.svg"><img alt="You Found Me · Adventure Club, Jessica Audiffred, Clara Park" src="assets/track-5-149818-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2KBq671mtXzKCxuohMXB5j"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-149818-dark.svg"><img alt="Boston - Dubstep · CORE P" src="assets/track-6-149818-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-3e681f-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-3e681f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5JvbNbrYRVcavrsIIt8l9C"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-3e681f-dark.svg"><img alt="free to dream · BLISSFOOL" src="assets/track-0-3e681f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6ZNa0Y4AzxgYv8HsYMEiCU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-3e681f-dark.svg"><img alt="Free My Mind · Babsy., Jeanne Taylor" src="assets/track-1-3e681f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3iiOlw9xIShvqyHAx3M7ih"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-3e681f-dark.svg"><img alt="Your Side of the Bed · Łaszewo" src="assets/track-2-3e681f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5Zgz24Xd2O5oxPJrsWW1hL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-3e681f-dark.svg"><img alt="barcelona · After Wes" src="assets/track-3-3e681f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3WYmKGuwoTxUQDTVjiH2mK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-3e681f-dark.svg"><img alt="I Still Hear · CHEEKS" src="assets/track-4-3e681f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6Tgm4vVVp6c6jC7n1tny8C"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-3e681f-dark.svg"><img alt="Vibes · Seth David" src="assets/track-5-3e681f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0kfNu4qJOo7vgRWDCnMiBa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-3e681f-dark.svg"><img alt="Little Planets - Remix · RIZ LA VIE, Łaszewo" src="assets/track-6-3e681f-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,358 commits</summary>
+<summary><b>2026</b> · 2,359 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 721 commits</summary>
+<summary>November 2026 · 722 commits</summary>
 <br>
 
 <picture>
