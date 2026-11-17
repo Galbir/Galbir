@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-b0f368-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-b0f368-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0aruNrdbcZlqrGynYCyEBU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-b0f368-dark.svg"><img alt="Weightless · it&#39;s murph, Arlo, Allegra Miles" src="assets/track-0-b0f368-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0ZtqFXcp22FseDpedIDR3u"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-b0f368-dark.svg"><img alt="this moment · CHEEKS" src="assets/track-1-b0f368-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5jXj96xdtF03bTwkSYj2rT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-b0f368-dark.svg"><img alt="Bulletproof (This Time Baby) [feat. La Roux] · Ian Asher, La Roux" src="assets/track-2-b0f368-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2ZoqQ07oqMurBLpTwWex59"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-b0f368-dark.svg"><img alt="Back To You · Palm" src="assets/track-3-b0f368-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/49fjBsMZRdlObEn7Vaj2Sr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-b0f368-dark.svg"><img alt="Late Nights · Babsy., LAYNE" src="assets/track-4-b0f368-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7dysHvjVrHkpLhamDe1HJz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-b0f368-dark.svg"><img alt="Do or Die · Łaszewo" src="assets/track-5-b0f368-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4JzWZpuYvxpRUiLpnwL2dB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-b0f368-dark.svg"><img alt="Want Me · Distant Matter, Emilia Ali" src="assets/track-6-b0f368-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-1c37ce-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-1c37ce-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1N0S9wcXbDh3gIG6EcU1k6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-1c37ce-dark.svg"><img alt="Sad Bitch · Łaszewo" src="assets/track-0-1c37ce-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6kqtPbQoUOI4NQow6qGGnp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-1c37ce-dark.svg"><img alt="SPEND THE WEEK · Łaszewo" src="assets/track-1-1c37ce-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4CIKj9yEEprFLgRgAX51lZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-1c37ce-dark.svg"><img alt="LIKE THIS · Babsy., Jeanne Taylor" src="assets/track-2-1c37ce-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1EUhxPgYs0Aq2wp3qloBZ5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-1c37ce-dark.svg"><img alt="strz · Arden Jones" src="assets/track-3-1c37ce-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0CyprQxMwhiRfOz0vgowVr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-1c37ce-dark.svg"><img alt="Help Me Lose My Mind (Sped Up) · Gravagerz" src="assets/track-4-1c37ce-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/49IkGvXySNA06i62cIDNyB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-1c37ce-dark.svg"><img alt="Recognize · Distant Matter" src="assets/track-5-1c37ce-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6LSEDrgYeG0SSdpGsKtkfO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-1c37ce-dark.svg"><img alt="Younger Me · ceej, matt weix" src="assets/track-6-1c37ce-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,352 commits</summary>
+<summary><b>2026</b> · 2,353 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 715 commits</summary>
+<summary>November 2026 · 716 commits</summary>
 <br>
 
 <picture>
