@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-48034c-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-48034c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7rl4UvgaA8FzkEwJlrS3E5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-48034c-dark.svg"><img alt="THIS CRIPPLING YOUTH · SEBASTIAN PAUL" src="assets/track-0-48034c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3QH79spjkPv0h5NEbd8Msn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-48034c-dark.svg"><img alt="Keep My Head Up · Łaszewo" src="assets/track-1-48034c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3QTK0aSjMeCsja2oxkPGxp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-48034c-dark.svg"><img alt="Speeding Fast · dapurr" src="assets/track-2-48034c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5RQzUsayVws2Rbw6qtXzV6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-48034c-dark.svg"><img alt="On Repeat · Flux Pavilion, Wooli, Cammie Robinson" src="assets/track-3-48034c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3A4aOaiOh5eZB2arE1Umbe"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-48034c-dark.svg"><img alt="Graveyard · Vanic, The Duchess" src="assets/track-4-48034c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/32sVl6OPnToHW3csfoVPWD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-48034c-dark.svg"><img alt="I&#39;m All In · Babsy." src="assets/track-5-48034c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4L6I4Jj8kLkzYipPOjsxdT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-48034c-dark.svg"><img alt="I got you · Disclaimer" src="assets/track-6-48034c-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-149818-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-149818-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7f9WkDtkzDEZNwJOxb76PE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-149818-dark.svg"><img alt="Familiar · Distant Matter" src="assets/track-0-149818-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3AXAzwWnzyTlyXpggmVq84"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-149818-dark.svg"><img alt="2 Much · Babsy., LAYNE" src="assets/track-1-149818-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3AXAzwWnzyTlyXpggmVq84"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-149818-dark.svg"><img alt="2 Much · Babsy., LAYNE" src="assets/track-2-149818-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3lzMGSe3JvthkE3vDYy1zt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-149818-dark.svg"><img alt="Generation Low (Left Lucid Remix) · Back Talk, Left Lucid" src="assets/track-3-149818-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1ggPPXG6uXWAruK1tfv3PF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-149818-dark.svg"><img alt="Take The Night · Łaszewo" src="assets/track-4-149818-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-149818-dark.svg"><img alt="You Found Me · Adventure Club, Jessica Audiffred, Clara Park" src="assets/track-5-149818-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2KBq671mtXzKCxuohMXB5j"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-149818-dark.svg"><img alt="Boston - Dubstep · CORE P" src="assets/track-6-149818-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,357 commits</summary>
+<summary><b>2026</b> · 2,358 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 720 commits</summary>
+<summary>November 2026 · 721 commits</summary>
 <br>
 
 <picture>
