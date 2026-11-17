@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-dee6ff-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-dee6ff-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1rluEnjIhiKmCGVBq0MKTl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-dee6ff-dark.svg"><img alt="count me in · Arden Jones, Łaszewo" src="assets/track-0-dee6ff-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1uOALaM9oFtfwVelJN2E8n"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-dee6ff-dark.svg"><img alt="CAN&#39;T STOP · Palm" src="assets/track-1-dee6ff-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0fRmHiKkVKEBGiwar39VDZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-dee6ff-dark.svg"><img alt="Less Alone · CHEEKS" src="assets/track-2-dee6ff-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1Gq6zfvAOZC30r18kKmE00"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-dee6ff-dark.svg"><img alt="Look What You&#39;ve Done · Smoakland" src="assets/track-3-dee6ff-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5GoC5gqihmBuOG9SF7uwQL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-dee6ff-dark.svg"><img alt="Dissolve · Łaszewo" src="assets/track-4-dee6ff-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/46HgtsPdSU79LB0IZBlfDU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-dee6ff-dark.svg"><img alt="Keep The Change - LOUIEJAYXX Remix · NGHTMRE, Big Gigantic, LOUIEJAYXX" src="assets/track-5-dee6ff-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/36W8PJVjbfquTFoe9zJDDh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-dee6ff-dark.svg"><img alt="One Who Lost · Hostage Situation, Jason Leech" src="assets/track-6-dee6ff-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-471398-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-471398-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/74jMkCvZXSsj5ykdWkevyO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-471398-dark.svg"><img alt="without ur love · Midnight Dance Party" src="assets/track-0-471398-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1rluEnjIhiKmCGVBq0MKTl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-471398-dark.svg"><img alt="count me in · Arden Jones, Łaszewo" src="assets/track-1-471398-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1uOALaM9oFtfwVelJN2E8n"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-471398-dark.svg"><img alt="CAN&#39;T STOP · Palm" src="assets/track-2-471398-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0fRmHiKkVKEBGiwar39VDZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-471398-dark.svg"><img alt="Less Alone · CHEEKS" src="assets/track-3-471398-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1Gq6zfvAOZC30r18kKmE00"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-471398-dark.svg"><img alt="Look What You&#39;ve Done · Smoakland" src="assets/track-4-471398-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5GoC5gqihmBuOG9SF7uwQL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-471398-dark.svg"><img alt="Dissolve · Łaszewo" src="assets/track-5-471398-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/46HgtsPdSU79LB0IZBlfDU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-471398-dark.svg"><img alt="Keep The Change - LOUIEJAYXX Remix · NGHTMRE, Big Gigantic, LOUIEJAYXX" src="assets/track-6-471398-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,365 commits</summary>
+<summary><b>2026</b> · 2,367 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 728 commits</summary>
+<summary>November 2026 · 730 commits</summary>
 <br>
 
 <picture>
