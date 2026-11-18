@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-56fd83-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-56fd83-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5vvC8D7laU6Ns8i6V6mk51"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-56fd83-dark.svg"><img alt="Maps · Lyrah" src="assets/track-0-56fd83-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6vasga4tz2Fa4fZIGSgGvh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-56fd83-dark.svg"><img alt="Heartbeat · nate band, Inéz" src="assets/track-1-56fd83-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4eKMGWFFnvkjsJICJ2Q3az"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-56fd83-dark.svg"><img alt="Dissolve II · Łaszewo" src="assets/track-2-56fd83-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7IXGEcfdOB2ZYoXtR2zwZp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-56fd83-dark.svg"><img alt="We Belong - Badger Remix · SkiiTour, Badger" src="assets/track-3-56fd83-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5o2tqRIy3mcH2hJftqvkkJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-56fd83-dark.svg"><img alt="you&#39;ll come back · jigitz" src="assets/track-4-56fd83-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4d2RVaW1zU6Fo70VNN9U4m"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-56fd83-dark.svg"><img alt="Sex on Fire · Guala" src="assets/track-5-56fd83-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1MEiXJK91I7by4os5CxKpH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-56fd83-dark.svg"><img alt="Electric High · Lavern" src="assets/track-6-56fd83-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-f4e367-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-f4e367-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0hQbLiDW1jReYN46NFivCU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-f4e367-dark.svg"><img alt="told you so · Conrad." src="assets/track-0-f4e367-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0w2InymNC1tOdBOOYfGd63"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-f4e367-dark.svg"><img alt="Everything&#39;s Gonna Be Fine · Tsu Nami" src="assets/track-1-f4e367-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5KBPDjFPi8kQdnsiTR1Nmy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-f4e367-dark.svg"><img alt="U Da One · Velmar, Misdemeanor" src="assets/track-2-f4e367-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6QWqy98sVOhrj00laLuhGb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-f4e367-dark.svg"><img alt="pressure · jigitz" src="assets/track-3-f4e367-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2DyP03O6zbss0LUxrur45b"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-f4e367-dark.svg"><img alt="Hold On · Lavern" src="assets/track-4-f4e367-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/29tKLZTDyHSxGV3vBjVugz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-f4e367-dark.svg"><img alt="smoke · Łaszewo, Quinn XCII" src="assets/track-5-f4e367-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7e7fWwKTGrNRZfDiH8nQ3G"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-f4e367-dark.svg"><img alt="Satellite (Feat. Len X) · Champagne Drip, Len X" src="assets/track-6-f4e367-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,408 commits</summary>
+<summary><b>2026</b> · 2,409 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 771 commits</summary>
+<summary>November 2026 · 772 commits</summary>
 <br>
 
 <picture>
