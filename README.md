@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-4ace14-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-4ace14-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5Pj6vL6vafx32g1ITquHpo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-4ace14-dark.svg"><img alt="Center of Silence · Łaszewo" src="assets/track-0-4ace14-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4K2d0N0nL1HI4y2fz7qdIS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-4ace14-dark.svg"><img alt="Yet · Babsy." src="assets/track-1-4ace14-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2E7AvgTYsaavMkKeH9TH6d"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-4ace14-dark.svg"><img alt="ALREADY OVER IT · bystander, emerge" src="assets/track-2-4ace14-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0hGog6mns3j8YaHA7FZiIV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-4ace14-dark.svg"><img alt="Self Aware Flip · Star Monster" src="assets/track-3-4ace14-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5Hc35BziLaXfLebKmds2FV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-4ace14-dark.svg"><img alt="Drew Barrymore - Crankdat Remix · Bryce Vine, Crankdat" src="assets/track-4-4ace14-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6RLBwMcxEX9QS2XYO7Xc52"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-4ace14-dark.svg"><img alt="Heartbeat · MIND" src="assets/track-5-4ace14-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3cXX26hB3R4lHbZC2LFBao"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-4ace14-dark.svg"><img alt="I Just Need (with Lyrah) · Daniel Allan, Lyrah" src="assets/track-6-4ace14-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-31e188-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-31e188-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/46WqNBxyjLaxbHMM4BKTA2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-31e188-dark.svg"><img alt="PUT IT DOWN - Jkyl &amp; Hyde Remix · Angrybaby, Jkyl &amp; Hyde" src="assets/track-0-31e188-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6nXX9DWdQ11w4wvTpw72ad"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-31e188-dark.svg"><img alt="CLARITY · xxtristanxo" src="assets/track-1-31e188-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6QvldZZ10eYgKamaWfG52b"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-31e188-dark.svg"><img alt="Fuck Your Sunshine (Adventure Club Remix) · Łaszewo, Adventure Club" src="assets/track-2-31e188-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0cIOzuD2jy7fYqGFzKDvKL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-31e188-dark.svg"><img alt="The Feeling · Seth David" src="assets/track-3-31e188-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1qbBwytmeuiZTxm1APaVcn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-31e188-dark.svg"><img alt="Overkill - Dance Remix · Lambb, Badger" src="assets/track-4-31e188-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1Eqdkt6DfGNWElHpeujHGJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-31e188-dark.svg"><img alt="HIGHJACK (right back) · Alok, Łaszewo, A$AP Rocky" src="assets/track-5-31e188-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7A7ZlcNlwyBQEWLAyNdd5X"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-31e188-dark.svg"><img alt="make the move · Conrad., Fi Sullivan" src="assets/track-6-31e188-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,397 commits</summary>
+<summary><b>2026</b> · 2,398 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 760 commits</summary>
+<summary>November 2026 · 761 commits</summary>
 <br>
 
 <picture>
