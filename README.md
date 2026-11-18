@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-989da4-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-989da4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0VFmkwR6SCmT7TIJThlCn9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-989da4-dark.svg"><img alt="Orla · nimino" src="assets/track-0-989da4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/53l9ZVeYt4rUkCTqCl52fq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-989da4-dark.svg"><img alt="Midnight On My Mind · MANSA" src="assets/track-1-989da4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7M6TyRzI5dYey0ths1WJFn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-989da4-dark.svg"><img alt="Headed Back Home (Life&#39;s in Color) · Łaszewo" src="assets/track-2-989da4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0JZFXrxFp0YNn6iPR2LF08"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-989da4-dark.svg"><img alt="Wastin&#39; My Time · Jkyl &amp; Hyde, Dennett" src="assets/track-3-989da4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5ILUHEnUMvQVLAq6aBksPR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-989da4-dark.svg"><img alt="Run Out · Lyrah" src="assets/track-4-989da4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4Pd6KvXa6DVEA5Wr41k9Dw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-989da4-dark.svg"><img alt="think you&#39;re someone new · Ian Asher, Arden Jones" src="assets/track-5-989da4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0gRb5QXeE8bXRRRR06R8SW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-989da4-dark.svg"><img alt="Drunk Wishing · Distant Matter, Arden Jones" src="assets/track-6-989da4-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-03bd6a-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-03bd6a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7ADUy3RfKdZSCOTAUNbEK7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-03bd6a-dark.svg"><img alt="Can&#39;t See Without You · Łaszewo, Aspen Dawn" src="assets/track-0-03bd6a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3aEh56uk0XMXGFm7eAvUFv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-03bd6a-dark.svg"><img alt="STEREO LOVE · xxtristanxo" src="assets/track-1-03bd6a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/52Bv3dqkcw4tUMntc8bStv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-03bd6a-dark.svg"><img alt="Nights Like This · Good Knights" src="assets/track-2-03bd6a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0qf6ZXBFLOBjpWPWKPyiox"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-03bd6a-dark.svg"><img alt="Beautiful Life · James Carter, AMRAC" src="assets/track-3-03bd6a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0VFmkwR6SCmT7TIJThlCn9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-03bd6a-dark.svg"><img alt="Orla · nimino" src="assets/track-4-03bd6a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/53l9ZVeYt4rUkCTqCl52fq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-03bd6a-dark.svg"><img alt="Midnight On My Mind · MANSA" src="assets/track-5-03bd6a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7M6TyRzI5dYey0ths1WJFn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-03bd6a-dark.svg"><img alt="Headed Back Home (Life&#39;s in Color) · Łaszewo" src="assets/track-6-03bd6a-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,399 commits</summary>
+<summary><b>2026</b> · 2,401 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 762 commits</summary>
+<summary>November 2026 · 764 commits</summary>
 <br>
 
 <picture>
