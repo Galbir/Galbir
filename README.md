@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-83d5a5-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-83d5a5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5vqaxhBBQmMSOdbx1VuQNI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-83d5a5-dark.svg"><img alt="Moving On · STOREY, Julia Kleijn, Lumine" src="assets/track-0-83d5a5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-83d5a5-dark.svg"><img alt="Forever · ZULAN" src="assets/track-1-83d5a5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5Byvs8uIVgPZVQN3Pw7UgL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-83d5a5-dark.svg"><img alt="ONANON · Killen." src="assets/track-2-83d5a5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3I35GU2nrjbgdL9HbdzaLz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-83d5a5-dark.svg"><img alt="I FORGOT TO MISS YOU · bystander, emerge" src="assets/track-3-83d5a5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0fyJe6MpMX4DJVKzY2GfWW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-83d5a5-dark.svg"><img alt="Paper Cuts · Łaszewo" src="assets/track-4-83d5a5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0kfNu4qJOo7vgRWDCnMiBa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-83d5a5-dark.svg"><img alt="Little Planets - Remix · RIZ LA VIE, Łaszewo" src="assets/track-5-83d5a5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2oppJUylT5MskDaCpAsSL0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-83d5a5-dark.svg"><img alt="Cry · Vanic, The Duchess" src="assets/track-6-83d5a5-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-4ace14-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-4ace14-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5Pj6vL6vafx32g1ITquHpo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-4ace14-dark.svg"><img alt="Center of Silence · Łaszewo" src="assets/track-0-4ace14-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4K2d0N0nL1HI4y2fz7qdIS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-4ace14-dark.svg"><img alt="Yet · Babsy." src="assets/track-1-4ace14-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2E7AvgTYsaavMkKeH9TH6d"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-4ace14-dark.svg"><img alt="ALREADY OVER IT · bystander, emerge" src="assets/track-2-4ace14-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0hGog6mns3j8YaHA7FZiIV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-4ace14-dark.svg"><img alt="Self Aware Flip · Star Monster" src="assets/track-3-4ace14-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5Hc35BziLaXfLebKmds2FV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-4ace14-dark.svg"><img alt="Drew Barrymore - Crankdat Remix · Bryce Vine, Crankdat" src="assets/track-4-4ace14-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6RLBwMcxEX9QS2XYO7Xc52"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-4ace14-dark.svg"><img alt="Heartbeat · MIND" src="assets/track-5-4ace14-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3cXX26hB3R4lHbZC2LFBao"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-4ace14-dark.svg"><img alt="I Just Need (with Lyrah) · Daniel Allan, Lyrah" src="assets/track-6-4ace14-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,396 commits</summary>
+<summary><b>2026</b> · 2,397 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 759 commits</summary>
+<summary>November 2026 · 760 commits</summary>
 <br>
 
 <picture>
