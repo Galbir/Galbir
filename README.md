@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-9620ae-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-9620ae-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/53D2l7Skeq4B5D10dxJIJY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-9620ae-dark.svg"><img alt="1901 · Back Talk" src="assets/track-0-9620ae-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0fyJe6MpMX4DJVKzY2GfWW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-9620ae-dark.svg"><img alt="Paper Cuts · Łaszewo" src="assets/track-1-9620ae-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7f9WkDtkzDEZNwJOxb76PE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-9620ae-dark.svg"><img alt="Familiar · Distant Matter" src="assets/track-2-9620ae-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0TEe8itQHTRTAv7bLS7P09"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-9620ae-dark.svg"><img alt="first time · jigitz" src="assets/track-3-9620ae-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/38gofwVF43KUhJ6rLzzfEN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-9620ae-dark.svg"><img alt="show me how · Ecchi.mp4" src="assets/track-4-9620ae-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/49IkGvXySNA06i62cIDNyB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-9620ae-dark.svg"><img alt="Recognize · Distant Matter" src="assets/track-5-9620ae-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2sRR0xfFJN76BEPItcaZ6W"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-9620ae-dark.svg"><img alt="Chi-Town · Koastle, Łaszewo" src="assets/track-6-9620ae-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-469c35-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-469c35-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5Hc35BziLaXfLebKmds2FV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-469c35-dark.svg"><img alt="Drew Barrymore - Crankdat Remix · Bryce Vine, Crankdat" src="assets/track-0-469c35-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2oppJUylT5MskDaCpAsSL0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-469c35-dark.svg"><img alt="Cry · Vanic, The Duchess" src="assets/track-1-469c35-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-469c35-dark.svg"><img alt="Forever · ZULAN" src="assets/track-2-469c35-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3I35GU2nrjbgdL9HbdzaLz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-469c35-dark.svg"><img alt="I FORGOT TO MISS YOU · bystander, emerge" src="assets/track-3-469c35-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0kfNu4qJOo7vgRWDCnMiBa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-469c35-dark.svg"><img alt="Little Planets - Remix · RIZ LA VIE, Łaszewo" src="assets/track-4-469c35-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3CPhCNH8rV1czzGSmXm9TH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-469c35-dark.svg"><img alt="messy · Łaszewo" src="assets/track-5-469c35-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0sd6gshuLKTTGeWgZ92gO2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-469c35-dark.svg"><img alt="Big Jet Plane - Dubstep · bern" src="assets/track-6-469c35-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,420 commits</summary>
+<summary><b>2026</b> · 2,421 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 783 commits</summary>
+<summary>November 2026 · 784 commits</summary>
 <br>
 
 <picture>
