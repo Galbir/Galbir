@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-19a4e7-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-19a4e7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6z2FajSbP1qADezj40VO1y"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-19a4e7-dark.svg"><img alt="Nowhere Left to Run · Lyrah" src="assets/track-0-19a4e7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5jXj96xdtF03bTwkSYj2rT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-19a4e7-dark.svg"><img alt="Bulletproof (This Time Baby) [feat. La Roux] · Ian Asher, La Roux" src="assets/track-1-19a4e7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5NcQtOLLV1BycTfC0iuOIb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-19a4e7-dark.svg"><img alt="What Was That · Koastle" src="assets/track-2-19a4e7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2uSzybi2WiQq53sV4YP0L5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-19a4e7-dark.svg"><img alt="Where Did You Go · Lavern, Lilly Ahlberg" src="assets/track-3-19a4e7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3dJurqD84t8odqq7MdBiqX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-19a4e7-dark.svg"><img alt="Too Sweet (feat. Candy Crush Saga) · Łaszewo" src="assets/track-4-19a4e7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0Vjt7hOqRpq5fAVyCYXAnl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-19a4e7-dark.svg"><img alt="Lifestyles · Guala" src="assets/track-5-19a4e7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6bC7spF0E7vVSFVN7DQ7dD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-19a4e7-dark.svg"><img alt="The Little Things (feat. Angela McCluskey) - Kasbo Remix · Big Gigantic, Kasbo, Angela McCluskey" src="assets/track-6-19a4e7-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-4cca5a-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-4cca5a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6g9hRP5CJsbWGZCqZMvTsR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-4cca5a-dark.svg"><img alt="Colors - Ian Asher Remix · Halsey, Ian Asher" src="assets/track-0-4cca5a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6WpyVqYpxKmZtKyUvHJIK3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-4cca5a-dark.svg"><img alt="Lost With You · RemK" src="assets/track-1-4cca5a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4cc2fCjfxpp5VTwH40DCej"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-4cca5a-dark.svg"><img alt="CRASHING · Lost Kings" src="assets/track-2-4cca5a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1MXrvYih9N3QEuEPMcsyhX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-4cca5a-dark.svg"><img alt="deadlove · Arden Jones" src="assets/track-3-4cca5a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2klEJMMRATabR7SixvLjr1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-4cca5a-dark.svg"><img alt="Talking Body - Dubstep · CORE P" src="assets/track-4-4cca5a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1LF8L5WSFWiI543twlSqQw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-4cca5a-dark.svg"><img alt="FLOWERS (feat. Denisse Borquez) · ATLiens, FRNDSbyMDNGHT, Denisse Borquez" src="assets/track-5-4cca5a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1nS8N96n8G4fFUG8RijrzU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-4cca5a-dark.svg"><img alt="Gorgeous · Babsy." src="assets/track-6-4cca5a-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,403 commits</summary>
+<summary><b>2026</b> · 2,405 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 766 commits</summary>
+<summary>November 2026 · 768 commits</summary>
 <br>
 
 <picture>
