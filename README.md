@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-b1f9a3-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-b1f9a3-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7JF0SeA9JAa5MuZm4C5OTe"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-b1f9a3-dark.svg"><img alt="Tell Me The Truth · CHEEKS" src="assets/track-0-b1f9a3-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4uC8raOxBslxb2dK8nQhy8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-b1f9a3-dark.svg"><img alt="i feel alone, and it&#39;s cold outside · After Wes" src="assets/track-1-b1f9a3-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1IcEiVHiyL73TNvVTzsQq2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-b1f9a3-dark.svg"><img alt="Center of Silence - Massane Remix · Łaszewo, Massane" src="assets/track-2-b1f9a3-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/50YReqhlfgqzthTUGBhQaF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-b1f9a3-dark.svg"><img alt="Bright Side · Babsy., Lauren L&#39;aimant" src="assets/track-3-b1f9a3-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7bssOINuW6v5yZt4xz1cDd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-b1f9a3-dark.svg"><img alt="Down to Your Bones · Dallin Dance, Scarlett" src="assets/track-4-b1f9a3-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5ssdNWKiyzSdoEiPO3o25l"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-b1f9a3-dark.svg"><img alt="it&#39;s you · BLISSFOOL, Jake St Ange" src="assets/track-5-b1f9a3-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/71ydzWVP3aM0w6K4hgSsEB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-b1f9a3-dark.svg"><img alt="Me N You · YDG" src="assets/track-6-b1f9a3-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-86c382-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-86c382-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1X0jZwwYEM4zJ3fxdnZLj6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-86c382-dark.svg"><img alt="Bottle For 2 · Łaszewo" src="assets/track-0-86c382-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/05kBtGf70QOvpAxz71KPIk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-86c382-dark.svg"><img alt="I Know · CHEEKS" src="assets/track-1-86c382-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0MJxClS6FlYCh1pn68QAzo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-86c382-dark.svg"><img alt="Say a Prayer For Me - Mazde Remix · RÜFÜS DU SOL, Mazde" src="assets/track-2-86c382-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5A4rjt63FX39oDtAucFTqq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-86c382-dark.svg"><img alt="Be Here With Me Now · MC4D, Łaszewo, gavn!" src="assets/track-3-86c382-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/49lEbksmIPM7wTCmMO87my"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-86c382-dark.svg"><img alt="10,000 Flowers · Lyrah, Conrad." src="assets/track-4-86c382-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6bVQMzv9g5KUHWFlSsIZU8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-86c382-dark.svg"><img alt="THINGS I DO 4U · MEMBA, Łaszewo" src="assets/track-5-86c382-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7CCaLsJgZDFWJqD58LM2HM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-86c382-dark.svg"><img alt="Loving Me · YDG, Bella Renee" src="assets/track-6-86c382-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,414 commits</summary>
+<summary><b>2026</b> · 2,415 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 777 commits</summary>
+<summary>November 2026 · 778 commits</summary>
 <br>
 
 <picture>
