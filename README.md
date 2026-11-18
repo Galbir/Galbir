@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-4cca5a-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-4cca5a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6g9hRP5CJsbWGZCqZMvTsR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-4cca5a-dark.svg"><img alt="Colors - Ian Asher Remix · Halsey, Ian Asher" src="assets/track-0-4cca5a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6WpyVqYpxKmZtKyUvHJIK3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-4cca5a-dark.svg"><img alt="Lost With You · RemK" src="assets/track-1-4cca5a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4cc2fCjfxpp5VTwH40DCej"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-4cca5a-dark.svg"><img alt="CRASHING · Lost Kings" src="assets/track-2-4cca5a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1MXrvYih9N3QEuEPMcsyhX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-4cca5a-dark.svg"><img alt="deadlove · Arden Jones" src="assets/track-3-4cca5a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2klEJMMRATabR7SixvLjr1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-4cca5a-dark.svg"><img alt="Talking Body - Dubstep · CORE P" src="assets/track-4-4cca5a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1LF8L5WSFWiI543twlSqQw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-4cca5a-dark.svg"><img alt="FLOWERS (feat. Denisse Borquez) · ATLiens, FRNDSbyMDNGHT, Denisse Borquez" src="assets/track-5-4cca5a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1nS8N96n8G4fFUG8RijrzU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-4cca5a-dark.svg"><img alt="Gorgeous · Babsy." src="assets/track-6-4cca5a-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-936aef-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-936aef-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1Jg7WbwPuynXlmxuD9IOmg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-936aef-dark.svg"><img alt="Waves · Surf Mesa, Goth Babe" src="assets/track-0-936aef-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/66EtAQ9uBQwoOBn4QSqm5R"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-936aef-dark.svg"><img alt="Vertigo - ODNP Remix · Lyrah, ODNP" src="assets/track-1-936aef-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7Dx32Vmx6GmOIDQ42vhbgq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-936aef-dark.svg"><img alt="LOST MYSELF · Palm" src="assets/track-2-936aef-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2R5whSaHfwEm0bMYx60qcO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-936aef-dark.svg"><img alt="FAIRYTALE · Desren" src="assets/track-3-936aef-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3E8WZzcp6nscGt9YvBX9MW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-936aef-dark.svg"><img alt="Eyes Cut Deeper (feat. Inéz) · Subtronics, Inéz" src="assets/track-4-936aef-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5owJ3Q8Y6MIcoCpWSgQiPp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-936aef-dark.svg"><img alt="make believe · jigitz" src="assets/track-5-936aef-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/40kozRGxfmRAofu3ueL0Kj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-936aef-dark.svg"><img alt="THINK ABOUT US · Łaszewo" src="assets/track-6-936aef-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,405 commits</summary>
+<summary><b>2026</b> · 2,406 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 768 commits</summary>
+<summary>November 2026 · 769 commits</summary>
 <br>
 
 <picture>
