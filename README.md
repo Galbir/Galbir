@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-6723e2-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-6723e2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6LPooJUhejqFutgXU1DY0q"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-6723e2-dark.svg"><img alt="So Low · 49th &amp; Main" src="assets/track-0-6723e2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1mlrEJsi41bsviUMB6nEgz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-6723e2-dark.svg"><img alt="Need · Atticus Rush" src="assets/track-1-6723e2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/38pYPzYoDoeLb8Flvy9cD8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-6723e2-dark.svg"><img alt="Miserable · Vanic, The Duchess" src="assets/track-2-6723e2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5DhX7ONhSw9SDPfXgirEBY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-6723e2-dark.svg"><img alt="Vertigo · Lyrah" src="assets/track-3-6723e2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4Bc2walQXJNDgpmg380mP6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-6723e2-dark.svg"><img alt="Diamonds &amp; Demons · Łaszewo" src="assets/track-4-6723e2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/65MAYFZGyPFoqBdebOwa5l"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-6723e2-dark.svg"><img alt="When I&#39;m Alone · GoldFish, Łaszewo" src="assets/track-5-6723e2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5J5mQKqZVxMDKZ3xPKgABa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-6723e2-dark.svg"><img alt="Rest Easy · nimino" src="assets/track-6-6723e2-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-8b7d0d-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-8b7d0d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0TEe8itQHTRTAv7bLS7P09"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-8b7d0d-dark.svg"><img alt="first time · jigitz" src="assets/track-0-8b7d0d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/38gofwVF43KUhJ6rLzzfEN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-8b7d0d-dark.svg"><img alt="show me how · Ecchi.mp4" src="assets/track-1-8b7d0d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/49IkGvXySNA06i62cIDNyB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-8b7d0d-dark.svg"><img alt="Recognize · Distant Matter" src="assets/track-2-8b7d0d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2sRR0xfFJN76BEPItcaZ6W"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-8b7d0d-dark.svg"><img alt="Chi-Town · Koastle, Łaszewo" src="assets/track-3-8b7d0d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/71DcFIQWfKtNE4mr13dv7G"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-8b7d0d-dark.svg"><img alt="Heart On Fire · YDG, SampliFire, Z3LLA" src="assets/track-4-8b7d0d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1nIRahjeEII1lsDPEn0nJz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-8b7d0d-dark.svg"><img alt="Colorado · Łaszewo" src="assets/track-5-8b7d0d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7nYClzzNY6f3EcfeDFNqhS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-8b7d0d-dark.svg"><img alt="When I Get There · Big Wild" src="assets/track-6-8b7d0d-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,417 commits</summary>
+<summary><b>2026</b> · 2,418 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 780 commits</summary>
+<summary>November 2026 · 781 commits</summary>
 <br>
 
 <picture>
