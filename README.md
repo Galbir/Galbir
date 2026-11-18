@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-c68d58-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-c68d58-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6KTJrH8rLM4TefZcc9XFQF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-c68d58-dark.svg"><img alt="Black Sheep · ATLiens, GG Magree" src="assets/track-0-c68d58-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7ADkaL9vcA3wZAgxZIGy7M"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-c68d58-dark.svg"><img alt="Push It · MIND" src="assets/track-1-c68d58-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5qM4xXjaE3XDmv86oFCRoj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-c68d58-dark.svg"><img alt="Strider · MEMBA" src="assets/track-2-c68d58-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0gFtdNsqdG2Nb4F3S5yW4r"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-c68d58-dark.svg"><img alt="Love Me Right · Babsy., Jeanne Taylor, Davis" src="assets/track-3-c68d58-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5keo2KVYook9RsbJVUO99N"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-c68d58-dark.svg"><img alt="WANT U HERE · Lost Kings, Proppa" src="assets/track-4-c68d58-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2qwDBUFbjlzSQnOLOa6V7m"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-c68d58-dark.svg"><img alt="Eyes Cut Deeper - Crankdat Remix · Subtronics, Inéz, Crankdat" src="assets/track-5-c68d58-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6R6W1NE2sBwoUZg86Zd9Y5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-c68d58-dark.svg"><img alt="Close · Łaszewo, Playyard" src="assets/track-6-c68d58-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-1968ec-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-1968ec-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6FegSqra9pDjcaRjW0RtOP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-1968ec-dark.svg"><img alt="MATERIAL LOVER - UKG / SPEED GARAGE · SAiiLOR" src="assets/track-0-1968ec-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0zZpSBa6PYVFHKqbPTPl0f"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-1968ec-dark.svg"><img alt="WHERE HAVE U GONE? · Desren" src="assets/track-1-1968ec-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4krcWtZK3AsVE1Jl4oqH8w"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-1968ec-dark.svg"><img alt="ALL THE TIME · John Summit, The Chainsmokers, Ilsey" src="assets/track-2-1968ec-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1sxRyDzJYBkPNdhkGLvKij"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-1968ec-dark.svg"><img alt="headrush · Łaszewo, AVELLO" src="assets/track-3-1968ec-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6KTJrH8rLM4TefZcc9XFQF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-1968ec-dark.svg"><img alt="Black Sheep · ATLiens, GG Magree" src="assets/track-4-1968ec-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7ADkaL9vcA3wZAgxZIGy7M"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-1968ec-dark.svg"><img alt="Push It · MIND" src="assets/track-5-1968ec-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5qM4xXjaE3XDmv86oFCRoj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-1968ec-dark.svg"><img alt="Strider · MEMBA" src="assets/track-6-1968ec-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,392 commits</summary>
+<summary><b>2026</b> · 2,393 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 755 commits</summary>
+<summary>November 2026 · 756 commits</summary>
 <br>
 
 <picture>
