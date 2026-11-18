@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-936aef-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-936aef-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1Jg7WbwPuynXlmxuD9IOmg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-936aef-dark.svg"><img alt="Waves · Surf Mesa, Goth Babe" src="assets/track-0-936aef-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/66EtAQ9uBQwoOBn4QSqm5R"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-936aef-dark.svg"><img alt="Vertigo - ODNP Remix · Lyrah, ODNP" src="assets/track-1-936aef-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7Dx32Vmx6GmOIDQ42vhbgq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-936aef-dark.svg"><img alt="LOST MYSELF · Palm" src="assets/track-2-936aef-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2R5whSaHfwEm0bMYx60qcO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-936aef-dark.svg"><img alt="FAIRYTALE · Desren" src="assets/track-3-936aef-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3E8WZzcp6nscGt9YvBX9MW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-936aef-dark.svg"><img alt="Eyes Cut Deeper (feat. Inéz) · Subtronics, Inéz" src="assets/track-4-936aef-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5owJ3Q8Y6MIcoCpWSgQiPp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-936aef-dark.svg"><img alt="make believe · jigitz" src="assets/track-5-936aef-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/40kozRGxfmRAofu3ueL0Kj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-936aef-dark.svg"><img alt="THINK ABOUT US · Łaszewo" src="assets/track-6-936aef-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-56fd83-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-56fd83-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5vvC8D7laU6Ns8i6V6mk51"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-56fd83-dark.svg"><img alt="Maps · Lyrah" src="assets/track-0-56fd83-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6vasga4tz2Fa4fZIGSgGvh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-56fd83-dark.svg"><img alt="Heartbeat · nate band, Inéz" src="assets/track-1-56fd83-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4eKMGWFFnvkjsJICJ2Q3az"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-56fd83-dark.svg"><img alt="Dissolve II · Łaszewo" src="assets/track-2-56fd83-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7IXGEcfdOB2ZYoXtR2zwZp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-56fd83-dark.svg"><img alt="We Belong - Badger Remix · SkiiTour, Badger" src="assets/track-3-56fd83-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5o2tqRIy3mcH2hJftqvkkJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-56fd83-dark.svg"><img alt="you&#39;ll come back · jigitz" src="assets/track-4-56fd83-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4d2RVaW1zU6Fo70VNN9U4m"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-56fd83-dark.svg"><img alt="Sex on Fire · Guala" src="assets/track-5-56fd83-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1MEiXJK91I7by4os5CxKpH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-56fd83-dark.svg"><img alt="Electric High · Lavern" src="assets/track-6-56fd83-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,406 commits</summary>
+<summary><b>2026</b> · 2,408 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 769 commits</summary>
+<summary>November 2026 · 771 commits</summary>
 <br>
 
 <picture>
