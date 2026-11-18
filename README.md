@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-03bd6a-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-03bd6a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7ADUy3RfKdZSCOTAUNbEK7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-03bd6a-dark.svg"><img alt="Can&#39;t See Without You · Łaszewo, Aspen Dawn" src="assets/track-0-03bd6a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3aEh56uk0XMXGFm7eAvUFv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-03bd6a-dark.svg"><img alt="STEREO LOVE · xxtristanxo" src="assets/track-1-03bd6a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/52Bv3dqkcw4tUMntc8bStv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-03bd6a-dark.svg"><img alt="Nights Like This · Good Knights" src="assets/track-2-03bd6a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0qf6ZXBFLOBjpWPWKPyiox"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-03bd6a-dark.svg"><img alt="Beautiful Life · James Carter, AMRAC" src="assets/track-3-03bd6a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0VFmkwR6SCmT7TIJThlCn9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-03bd6a-dark.svg"><img alt="Orla · nimino" src="assets/track-4-03bd6a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/53l9ZVeYt4rUkCTqCl52fq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-03bd6a-dark.svg"><img alt="Midnight On My Mind · MANSA" src="assets/track-5-03bd6a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7M6TyRzI5dYey0ths1WJFn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-03bd6a-dark.svg"><img alt="Headed Back Home (Life&#39;s in Color) · Łaszewo" src="assets/track-6-03bd6a-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-19a4e7-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-19a4e7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6z2FajSbP1qADezj40VO1y"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-19a4e7-dark.svg"><img alt="Nowhere Left to Run · Lyrah" src="assets/track-0-19a4e7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5jXj96xdtF03bTwkSYj2rT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-19a4e7-dark.svg"><img alt="Bulletproof (This Time Baby) [feat. La Roux] · Ian Asher, La Roux" src="assets/track-1-19a4e7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5NcQtOLLV1BycTfC0iuOIb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-19a4e7-dark.svg"><img alt="What Was That · Koastle" src="assets/track-2-19a4e7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2uSzybi2WiQq53sV4YP0L5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-19a4e7-dark.svg"><img alt="Where Did You Go · Lavern, Lilly Ahlberg" src="assets/track-3-19a4e7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3dJurqD84t8odqq7MdBiqX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-19a4e7-dark.svg"><img alt="Too Sweet (feat. Candy Crush Saga) · Łaszewo" src="assets/track-4-19a4e7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0Vjt7hOqRpq5fAVyCYXAnl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-19a4e7-dark.svg"><img alt="Lifestyles · Guala" src="assets/track-5-19a4e7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6bC7spF0E7vVSFVN7DQ7dD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-19a4e7-dark.svg"><img alt="The Little Things (feat. Angela McCluskey) - Kasbo Remix · Big Gigantic, Kasbo, Angela McCluskey" src="assets/track-6-19a4e7-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,401 commits</summary>
+<summary><b>2026</b> · 2,402 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 764 commits</summary>
+<summary>November 2026 · 765 commits</summary>
 <br>
 
 <picture>
