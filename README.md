@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-1968ec-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-1968ec-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6FegSqra9pDjcaRjW0RtOP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-1968ec-dark.svg"><img alt="MATERIAL LOVER - UKG / SPEED GARAGE · SAiiLOR" src="assets/track-0-1968ec-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0zZpSBa6PYVFHKqbPTPl0f"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-1968ec-dark.svg"><img alt="WHERE HAVE U GONE? · Desren" src="assets/track-1-1968ec-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4krcWtZK3AsVE1Jl4oqH8w"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-1968ec-dark.svg"><img alt="ALL THE TIME · John Summit, The Chainsmokers, Ilsey" src="assets/track-2-1968ec-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1sxRyDzJYBkPNdhkGLvKij"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-1968ec-dark.svg"><img alt="headrush · Łaszewo, AVELLO" src="assets/track-3-1968ec-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6KTJrH8rLM4TefZcc9XFQF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-1968ec-dark.svg"><img alt="Black Sheep · ATLiens, GG Magree" src="assets/track-4-1968ec-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7ADkaL9vcA3wZAgxZIGy7M"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-1968ec-dark.svg"><img alt="Push It · MIND" src="assets/track-5-1968ec-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5qM4xXjaE3XDmv86oFCRoj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-1968ec-dark.svg"><img alt="Strider · MEMBA" src="assets/track-6-1968ec-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-08f249-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-08f249-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/59vzI8N7Nvy55qvJmZfoa8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-08f249-dark.svg"><img alt="someone new - Distant Matter Remix · Arden Jones, Distant Matter" src="assets/track-0-08f249-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3CPhCNH8rV1czzGSmXm9TH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-08f249-dark.svg"><img alt="messy · Łaszewo" src="assets/track-1-08f249-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4fnBNNoBiRqDgTTk3ZQo3E"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-08f249-dark.svg"><img alt="Tennis Court - Flume Remix · Lorde, Flume" src="assets/track-2-08f249-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7f9WkDtkzDEZNwJOxb76PE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-08f249-dark.svg"><img alt="Familiar · Distant Matter" src="assets/track-3-08f249-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1OZpwV4SxiFfQRyZX61RLN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-08f249-dark.svg"><img alt="Moon (Think Of You) · Wuki" src="assets/track-4-08f249-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6FegSqra9pDjcaRjW0RtOP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-08f249-dark.svg"><img alt="MATERIAL LOVER - UKG / SPEED GARAGE · SAiiLOR" src="assets/track-5-08f249-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0zZpSBa6PYVFHKqbPTPl0f"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-08f249-dark.svg"><img alt="WHERE HAVE U GONE? · Desren" src="assets/track-6-08f249-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,393 commits</summary>
+<summary><b>2026</b> · 2,394 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 756 commits</summary>
+<summary>November 2026 · 757 commits</summary>
 <br>
 
 <picture>
