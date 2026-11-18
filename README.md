@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-750850-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-750850-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6hAdTcjRW8RuPUDunYyOwI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-750850-dark.svg"><img alt="Heart Racing · ALIGN, Babsy." src="assets/track-0-750850-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/02PJrMtbt43P5uaJ6lWhSy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-750850-dark.svg"><img alt="guess not · Conrad., Akacia" src="assets/track-1-750850-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2SHUaysFhnchMCPAH3IQqR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-750850-dark.svg"><img alt="LOVE ME NOW! · Desren" src="assets/track-2-750850-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2mR4M1JdUdG028XdyXOC1Z"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-750850-dark.svg"><img alt="hold me · Nikita, the Wicked" src="assets/track-3-750850-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1fxWZu8ddEigIw5oE0kHvN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-750850-dark.svg"><img alt="We Got All Night · CHEEKS" src="assets/track-4-750850-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5IbI7vGelE2XVlGhCVoLxT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-750850-dark.svg"><img alt="Us in Motion · Łaszewo" src="assets/track-5-750850-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/76LVAEuNkVfUpbL7zaWQyN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-750850-dark.svg"><img alt="way out west · After Wes, Ireland Rhea" src="assets/track-6-750850-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-243ebd-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-243ebd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4ZvkCB3vzrHR169RJd90rF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-243ebd-dark.svg"><img alt="Don&#39;t Walk Away · Łaszewo, KEEVΛ" src="assets/track-0-243ebd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/28pxv5p0mr832PItAfWYe4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-243ebd-dark.svg"><img alt="I Only Smoke When I Drink - Felix Cartal Remix · nimino, Felix Cartal" src="assets/track-1-243ebd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6FWFxRT3c4FXWvMrDbp2V1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-243ebd-dark.svg"><img alt="Rescue Me · CHEEKS, CRONIN" src="assets/track-2-243ebd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2tzhMJUVnL4ddblEtZGcWx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-243ebd-dark.svg"><img alt="Call It Love - AMNES Remix · AMNES" src="assets/track-3-243ebd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2ES5heUBvHazQzUKXgvZGT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-243ebd-dark.svg"><img alt="never felt · After Wes" src="assets/track-4-243ebd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6eRPcojLrhlIt7zAGwJUVV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-243ebd-dark.svg"><img alt="Smara · MEMBA" src="assets/track-5-243ebd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3M1wrmH2DCIR3syOfjPoxW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-243ebd-dark.svg"><img alt="Crickets · Big Wild" src="assets/track-6-243ebd-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,411 commits</summary>
+<summary><b>2026</b> · 2,412 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 774 commits</summary>
+<summary>November 2026 · 775 commits</summary>
 <br>
 
 <picture>
