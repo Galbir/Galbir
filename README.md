@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-72e94e-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-72e94e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0fyJe6MpMX4DJVKzY2GfWW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-72e94e-dark.svg"><img alt="Paper Cuts · Łaszewo" src="assets/track-0-72e94e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-72e94e-dark.svg"><img alt="Forever · ZULAN" src="assets/track-1-72e94e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5KBPDjFPi8kQdnsiTR1Nmy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-72e94e-dark.svg"><img alt="U Da One · Velmar, Misdemeanor" src="assets/track-2-72e94e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0J75j3YWR6u3q6k1xRjY7R"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-72e94e-dark.svg"><img alt="Dinosaur - OTR Remix · More Giraffes" src="assets/track-3-72e94e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5JvbNbrYRVcavrsIIt8l9C"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-72e94e-dark.svg"><img alt="free to dream · BLISSFOOL" src="assets/track-4-72e94e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-72e94e-dark.svg"><img alt="I Only Smoke When I Drink · nimino" src="assets/track-5-72e94e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1XfysUtqJY1G9KCT0LVu2d"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-72e94e-dark.svg"><img alt="STAY · D A N N Y" src="assets/track-6-72e94e-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-3af9d3-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-3af9d3-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6SAqreO3NWz4JzTJ54312H"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-3af9d3-dark.svg"><img alt="Youthful Kids · it&#39;s murph" src="assets/track-0-3af9d3-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4JzWZpuYvxpRUiLpnwL2dB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-3af9d3-dark.svg"><img alt="Want Me · Distant Matter, Emilia Ali" src="assets/track-1-3af9d3-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5GlegN9RXJxoPdgh56TvfW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-3af9d3-dark.svg"><img alt="me &amp; u · Conrad." src="assets/track-2-3af9d3-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0OzGuW8S347U9MHmei913G"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-3af9d3-dark.svg"><img alt="fckU · Vanic, The Duchess" src="assets/track-3-3af9d3-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0GBxBb2d4BlTiwbaQuQARv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-3af9d3-dark.svg"><img alt="3am - Nic Vans Remix · Łaszewo, Nic Vans" src="assets/track-4-3af9d3-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/43nBJsVLjMDqL266IlPKif"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-3af9d3-dark.svg"><img alt="Stand Off · MEMBA, Ehiorobo" src="assets/track-5-3af9d3-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/727wpwnFS0ZfGJOtG5TNsu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-3af9d3-dark.svg"><img alt="I GOT A QUESTION · xxtristanxo" src="assets/track-6-3af9d3-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,490 commits</summary>
+<summary><b>2026</b> · 2,492 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 853 commits</summary>
+<summary>November 2026 · 855 commits</summary>
 <br>
 
 <picture>
