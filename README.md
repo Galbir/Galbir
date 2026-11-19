@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-11550e-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-11550e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/18k6rcWacPBCuh7P6mWKT4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-11550e-dark.svg"><img alt="PROMISES · Lost Kings" src="assets/track-0-11550e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0xTV7zNJDDRmqOtwHiiKfL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-11550e-dark.svg"><img alt="Fading Out · ATLiens, Sara Skinner" src="assets/track-1-11550e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7urR7LI2T2QMbxvQj0LcU2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-11550e-dark.svg"><img alt="Flowers · oskar med k" src="assets/track-2-11550e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5UBJLjnWWPU2dPwhfyVYqy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-11550e-dark.svg"><img alt="thumbs · jigitz, Lambb" src="assets/track-3-11550e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6QvldZZ10eYgKamaWfG52b"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-11550e-dark.svg"><img alt="Fuck Your Sunshine (Adventure Club Remix) · Łaszewo, Adventure Club" src="assets/track-4-11550e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3CPhCNH8rV1czzGSmXm9TH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-11550e-dark.svg"><img alt="messy · Łaszewo" src="assets/track-5-11550e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4d2RVaW1zU6Fo70VNN9U4m"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-11550e-dark.svg"><img alt="Sex on Fire · Guala" src="assets/track-6-11550e-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-d1a204-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-d1a204-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2hiV9keVppYQyf1ZfGozK6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-d1a204-dark.svg"><img alt="Ain’t Losing You · Elderbrook, nimino" src="assets/track-0-d1a204-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6eR06YmHylV4pUDgx5lprq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-d1a204-dark.svg"><img alt="Extreme · Distant Matter" src="assets/track-1-d1a204-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/18k6rcWacPBCuh7P6mWKT4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-d1a204-dark.svg"><img alt="PROMISES · Lost Kings" src="assets/track-2-d1a204-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0xTV7zNJDDRmqOtwHiiKfL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-d1a204-dark.svg"><img alt="Fading Out · ATLiens, Sara Skinner" src="assets/track-3-d1a204-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7urR7LI2T2QMbxvQj0LcU2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-d1a204-dark.svg"><img alt="Flowers · oskar med k" src="assets/track-4-d1a204-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5UBJLjnWWPU2dPwhfyVYqy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-d1a204-dark.svg"><img alt="thumbs · jigitz, Lambb" src="assets/track-5-d1a204-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6QvldZZ10eYgKamaWfG52b"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-d1a204-dark.svg"><img alt="Fuck Your Sunshine (Adventure Club Remix) · Łaszewo, Adventure Club" src="assets/track-6-d1a204-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,546 commits</summary>
+<summary><b>2026</b> · 2,547 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 909 commits</summary>
+<summary>November 2026 · 910 commits</summary>
 <br>
 
 <picture>
