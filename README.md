@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-5aa891-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-5aa891-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4d2RVaW1zU6Fo70VNN9U4m"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-5aa891-dark.svg"><img alt="Sex on Fire · Guala" src="assets/track-0-5aa891-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6vasga4tz2Fa4fZIGSgGvh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-5aa891-dark.svg"><img alt="Heartbeat · nate band, Inéz" src="assets/track-1-5aa891-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5jXj96xdtF03bTwkSYj2rT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-5aa891-dark.svg"><img alt="Bulletproof (This Time Baby) [feat. La Roux] · Ian Asher, La Roux" src="assets/track-2-5aa891-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0gRb5QXeE8bXRRRR06R8SW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-5aa891-dark.svg"><img alt="Drunk Wishing · Distant Matter, Arden Jones" src="assets/track-3-5aa891-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1Eqdkt6DfGNWElHpeujHGJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-5aa891-dark.svg"><img alt="HIGHJACK (right back) · Alok, Łaszewo, A$AP Rocky" src="assets/track-4-5aa891-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5NcQtOLLV1BycTfC0iuOIb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-5aa891-dark.svg"><img alt="What Was That · Koastle" src="assets/track-5-5aa891-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6QvldZZ10eYgKamaWfG52b"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-5aa891-dark.svg"><img alt="Fuck Your Sunshine (Adventure Club Remix) · Łaszewo, Adventure Club" src="assets/track-6-5aa891-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-edc533-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-edc533-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3CPhCNH8rV1czzGSmXm9TH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-edc533-dark.svg"><img alt="messy · Łaszewo" src="assets/track-0-edc533-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4d2RVaW1zU6Fo70VNN9U4m"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-edc533-dark.svg"><img alt="Sex on Fire · Guala" src="assets/track-1-edc533-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6vasga4tz2Fa4fZIGSgGvh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-edc533-dark.svg"><img alt="Heartbeat · nate band, Inéz" src="assets/track-2-edc533-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5jXj96xdtF03bTwkSYj2rT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-edc533-dark.svg"><img alt="Bulletproof (This Time Baby) [feat. La Roux] · Ian Asher, La Roux" src="assets/track-3-edc533-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0gRb5QXeE8bXRRRR06R8SW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-edc533-dark.svg"><img alt="Drunk Wishing · Distant Matter, Arden Jones" src="assets/track-4-edc533-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1Eqdkt6DfGNWElHpeujHGJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-edc533-dark.svg"><img alt="HIGHJACK (right back) · Alok, Łaszewo, A$AP Rocky" src="assets/track-5-edc533-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5NcQtOLLV1BycTfC0iuOIb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-edc533-dark.svg"><img alt="What Was That · Koastle" src="assets/track-6-edc533-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,543 commits</summary>
+<summary><b>2026</b> · 2,544 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 906 commits</summary>
+<summary>November 2026 · 907 commits</summary>
 <br>
 
 <picture>
