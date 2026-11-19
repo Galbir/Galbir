@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-e8985c-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-e8985c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5Rv4GkCbfSfCADhXO4fmQf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-e8985c-dark.svg"><img alt="hey lil mama · YDG, Łaszewo" src="assets/track-0-e8985c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4Dmw58Z7C9TXvb3vh6mrPb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-e8985c-dark.svg"><img alt="wasted time · After Wes" src="assets/track-1-e8985c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6g9hRP5CJsbWGZCqZMvTsR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-e8985c-dark.svg"><img alt="Colors - Ian Asher Remix · Halsey, Ian Asher" src="assets/track-2-e8985c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6gjbfsxdoNv7VZoAGRvIWf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-e8985c-dark.svg"><img alt="Metaphysical - Daktyl Remix · Autograf" src="assets/track-3-e8985c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6mQuPZ0b3YF53flZe0YBns"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-e8985c-dark.svg"><img alt="Nothing Perfect · nimino" src="assets/track-4-e8985c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2S2L8RSwfiFBfmJ4dDr80D"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-e8985c-dark.svg"><img alt="I Feel Gold · Łaszewo" src="assets/track-5-e8985c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1UCRIrBrwi9yqMd3PbViCr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-e8985c-dark.svg"><img alt="Doomed - Dubstep · HAWNN" src="assets/track-6-e8985c-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-997cce-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-997cce-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3WYmKGuwoTxUQDTVjiH2mK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-997cce-dark.svg"><img alt="I Still Hear · CHEEKS" src="assets/track-0-997cce-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3iiOlw9xIShvqyHAx3M7ih"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-997cce-dark.svg"><img alt="Your Side of the Bed · Łaszewo" src="assets/track-1-997cce-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5ycq8IJZttHM2UiKPlq898"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-997cce-dark.svg"><img alt="B4U · Ghastly, Dani Poppitt" src="assets/track-2-997cce-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/41DmQcdFB204OWprnv6Ahp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-997cce-dark.svg"><img alt="Moonlight · Big Gigantic, Trella" src="assets/track-3-997cce-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0rEtvLKjX5Yb6rbpjNkQLU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-997cce-dark.svg"><img alt="Tell Me Now · H4RRIS, Mantra, Rithu" src="assets/track-4-997cce-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0w0EcNDsOA6xH2t3h8SRGc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-997cce-dark.svg"><img alt="Eyes Cut Deeper - VIRX Remix · Subtronics, Inéz, VIRX" src="assets/track-5-997cce-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1898OX73OtBk5BdYu1tdbA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-997cce-dark.svg"><img alt="Running Thru My Mind · D A N N Y" src="assets/track-6-997cce-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,501 commits</summary>
+<summary><b>2026</b> · 2,504 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 864 commits</summary>
+<summary>November 2026 · 867 commits</summary>
 <br>
 
 <picture>
