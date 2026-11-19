@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-e33651-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-e33651-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3aEh56uk0XMXGFm7eAvUFv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-e33651-dark.svg"><img alt="STEREO LOVE · xxtristanxo" src="assets/track-0-e33651-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3aEh56uk0XMXGFm7eAvUFv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-e33651-dark.svg"><img alt="STEREO LOVE · xxtristanxo" src="assets/track-1-e33651-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4Pd6KvXa6DVEA5Wr41k9Dw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-e33651-dark.svg"><img alt="think you&#39;re someone new · Ian Asher, Arden Jones" src="assets/track-2-e33651-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/707qqokrSYnzJO5FoGIvFL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-e33651-dark.svg"><img alt="Me and You · Champagne Drip, Luci" src="assets/track-3-e33651-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/58o0HSUXC0oHTU7UvhyWuI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-e33651-dark.svg"><img alt="Beside Of Me · nimino, Maverick Sabre" src="assets/track-4-e33651-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0BAQjCC9gfqOebxpmonHKz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-e33651-dark.svg"><img alt="Everytime · Medasin, Naomi Wild" src="assets/track-5-e33651-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3ahtV1UVdRQzCyIY239wsE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-e33651-dark.svg"><img alt="Ghost · Good Knights" src="assets/track-6-e33651-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-1309ab-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-1309ab-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5NcQtOLLV1BycTfC0iuOIb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-1309ab-dark.svg"><img alt="What Was That · Koastle" src="assets/track-0-1309ab-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6QvldZZ10eYgKamaWfG52b"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-1309ab-dark.svg"><img alt="Fuck Your Sunshine (Adventure Club Remix) · Łaszewo, Adventure Club" src="assets/track-1-1309ab-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2qbwO0CRPggvohMtVNJWCA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-1309ab-dark.svg"><img alt="wish you the best · Conrad., soleil" src="assets/track-2-1309ab-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0hGog6mns3j8YaHA7FZiIV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-1309ab-dark.svg"><img alt="Self Aware Flip · Star Monster" src="assets/track-3-1309ab-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5Byvs8uIVgPZVQN3Pw7UgL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-1309ab-dark.svg"><img alt="ONANON · Killen." src="assets/track-4-1309ab-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/59vzI8N7Nvy55qvJmZfoa8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-1309ab-dark.svg"><img alt="someone new - Distant Matter Remix · Arden Jones, Distant Matter" src="assets/track-5-1309ab-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0w6h053ER8qaIsyJhEtdGu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-1309ab-dark.svg"><img alt="Eat Me Better · nimino" src="assets/track-6-1309ab-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,540 commits</summary>
+<summary><b>2026</b> · 2,541 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 903 commits</summary>
+<summary>November 2026 · 904 commits</summary>
 <br>
 
 <picture>
