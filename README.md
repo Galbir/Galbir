@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-2bdb32-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-2bdb32-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4eKMGWFFnvkjsJICJ2Q3az"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-2bdb32-dark.svg"><img alt="Dissolve II · Łaszewo" src="assets/track-0-2bdb32-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6jw7ZaA6NcIm80feiNzkqb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-2bdb32-dark.svg"><img alt="Taste Of Your Love · M!KE V" src="assets/track-1-2bdb32-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2ke7mLDYgPCiGHMEn57Ncg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-2bdb32-dark.svg"><img alt="forever · Ordley, dayaftertmr" src="assets/track-2-2bdb32-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1MXrvYih9N3QEuEPMcsyhX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-2bdb32-dark.svg"><img alt="deadlove · Arden Jones" src="assets/track-3-2bdb32-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1CyCLjaKx2Jj47wYGlpQ7i"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-2bdb32-dark.svg"><img alt="Inevitable · MEMBA" src="assets/track-4-2bdb32-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0XwGh007QwTRcRjTsVbQGd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-2bdb32-dark.svg"><img alt="HAUNT ME · Arya, artemis orion" src="assets/track-5-2bdb32-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4sDNyj450xyh8d0BodkMyH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-2bdb32-dark.svg"><img alt="roundnround · Conrad., Perrin Xthona" src="assets/track-6-2bdb32-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-dbd23b-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-dbd23b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1x3Ulc3uBNEfqcDSLFOy9z"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-dbd23b-dark.svg"><img alt="Time For My Soul · Super Duper" src="assets/track-0-dbd23b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7nYClzzNY6f3EcfeDFNqhS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-dbd23b-dark.svg"><img alt="When I Get There · Big Wild" src="assets/track-1-dbd23b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2bMEpI8cwnRB4lBnRj59DL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-dbd23b-dark.svg"><img alt="In My Feels · Bronze Whale" src="assets/track-2-dbd23b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7hO63vxpmvnikGqyUFbMXW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-dbd23b-dark.svg"><img alt="Another Time Around · Łaszewo, Win and Woo" src="assets/track-3-dbd23b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6I96oT2ZcOypVJkmqSujtr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-dbd23b-dark.svg"><img alt="Drugs I Like · nate band" src="assets/track-4-dbd23b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1JsUfBOlJxZGpvWBQeR7qb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-dbd23b-dark.svg"><img alt="close2u · Conrad." src="assets/track-5-dbd23b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/76LVAEuNkVfUpbL7zaWQyN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-dbd23b-dark.svg"><img alt="way out west · After Wes, Ireland Rhea" src="assets/track-6-dbd23b-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,518 commits</summary>
+<summary><b>2026</b> · 2,521 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 881 commits</summary>
+<summary>November 2026 · 884 commits</summary>
 <br>
 
 <picture>
