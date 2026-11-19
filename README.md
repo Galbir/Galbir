@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-d61337-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-d61337-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/64bJhLHgoP7NgmD94eOfCt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-d61337-dark.svg"><img alt="Ms. Understood · Babsy., Davis, WAVZ" src="assets/track-0-d61337-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1LOjIBinbAVfmVqqELvgLh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-d61337-dark.svg"><img alt="ELECTRIC LOVE · AVELLO, HXRT" src="assets/track-1-d61337-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1LOjIBinbAVfmVqqELvgLh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-d61337-dark.svg"><img alt="ELECTRIC LOVE · AVELLO, HXRT" src="assets/track-2-d61337-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2hiV9keVppYQyf1ZfGozK6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-d61337-dark.svg"><img alt="Ain’t Losing You · Elderbrook, nimino" src="assets/track-3-d61337-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6eR06YmHylV4pUDgx5lprq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-d61337-dark.svg"><img alt="Extreme · Distant Matter" src="assets/track-4-d61337-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/18k6rcWacPBCuh7P6mWKT4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-d61337-dark.svg"><img alt="PROMISES · Lost Kings" src="assets/track-5-d61337-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0xTV7zNJDDRmqOtwHiiKfL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-d61337-dark.svg"><img alt="Fading Out · ATLiens, Sara Skinner" src="assets/track-6-d61337-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-4a2844-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-4a2844-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2HzTZiFMATmNVEL6xGV8VF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-4a2844-dark.svg"><img alt="Never · Bronze Whale" src="assets/track-0-4a2844-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2dPzJOKHqRjjy3AHpCRwYL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-4a2844-dark.svg"><img alt="crybby blue - dg. Remix · Charlotte Plank, dg." src="assets/track-1-4a2844-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/64bJhLHgoP7NgmD94eOfCt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-4a2844-dark.svg"><img alt="Ms. Understood · Babsy., Davis, WAVZ" src="assets/track-2-4a2844-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1LOjIBinbAVfmVqqELvgLh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-4a2844-dark.svg"><img alt="ELECTRIC LOVE · AVELLO, HXRT" src="assets/track-3-4a2844-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1LOjIBinbAVfmVqqELvgLh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-4a2844-dark.svg"><img alt="ELECTRIC LOVE · AVELLO, HXRT" src="assets/track-4-4a2844-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2hiV9keVppYQyf1ZfGozK6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-4a2844-dark.svg"><img alt="Ain’t Losing You · Elderbrook, nimino" src="assets/track-5-4a2844-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6eR06YmHylV4pUDgx5lprq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-4a2844-dark.svg"><img alt="Extreme · Distant Matter" src="assets/track-6-4a2844-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,548 commits</summary>
+<summary><b>2026</b> · 2,549 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 911 commits</summary>
+<summary>November 2026 · 912 commits</summary>
 <br>
 
 <picture>
