@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-e4a1e4-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-e4a1e4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7Dx32Vmx6GmOIDQ42vhbgq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-e4a1e4-dark.svg"><img alt="LOST MYSELF · Palm" src="assets/track-0-e4a1e4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2z8xRuTyWedWWAKSWvI9O2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-e4a1e4-dark.svg"><img alt="GIMME LOVE · Łaszewo" src="assets/track-1-e4a1e4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6lspamynBrtJaTt1D7jMJT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-e4a1e4-dark.svg"><img alt="maybe · Ordley" src="assets/track-2-e4a1e4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0VFmkwR6SCmT7TIJThlCn9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-e4a1e4-dark.svg"><img alt="Orla · nimino" src="assets/track-3-e4a1e4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4wYgwT1ARLuqukbCb51pPf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-e4a1e4-dark.svg"><img alt="Roses - Garage · Middle Child" src="assets/track-4-e4a1e4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5jXj96xdtF03bTwkSYj2rT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-e4a1e4-dark.svg"><img alt="Bulletproof (This Time Baby) [feat. La Roux] · Ian Asher, La Roux" src="assets/track-5-e4a1e4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/30HAV8pw2MuFn4rEeyec1s"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-e4a1e4-dark.svg"><img alt="soul · CHEEKS" src="assets/track-6-e4a1e4-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-9ca717-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-9ca717-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3tI9Nc1gHcstyY5frjJnXH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-9ca717-dark.svg"><img alt="Sakura · Koastle, Conrad." src="assets/track-0-9ca717-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/49IkGvXySNA06i62cIDNyB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-9ca717-dark.svg"><img alt="Recognize · Distant Matter" src="assets/track-1-9ca717-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2rehinQVvHSX1TsiHLFzgo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-9ca717-dark.svg"><img alt="INSOMNIA · Lost Kings" src="assets/track-2-9ca717-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7fvuJP8GXsloNyoQ0iLUzv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-9ca717-dark.svg"><img alt="Boston · Ian Asher, STELLA LEFTY" src="assets/track-3-9ca717-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/40kozRGxfmRAofu3ueL0Kj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-9ca717-dark.svg"><img alt="THINK ABOUT US · Łaszewo" src="assets/track-4-9ca717-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/55o9Sbl7sRtvsbBbsDFBU7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-9ca717-dark.svg"><img alt="Slow · Louis The Child, Łaszewo, pluko" src="assets/track-5-9ca717-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6X3w4X5RFhl6tuMmOSrUnA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-9ca717-dark.svg"><img alt="2AM · MOONLGHT, Mr. Moon" src="assets/track-6-9ca717-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,480 commits</summary>
+<summary><b>2026</b> · 2,488 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 843 commits</summary>
+<summary>November 2026 · 851 commits</summary>
 <br>
 
 <picture>
