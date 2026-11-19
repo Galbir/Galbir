@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-997cce-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-997cce-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3WYmKGuwoTxUQDTVjiH2mK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-997cce-dark.svg"><img alt="I Still Hear · CHEEKS" src="assets/track-0-997cce-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3iiOlw9xIShvqyHAx3M7ih"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-997cce-dark.svg"><img alt="Your Side of the Bed · Łaszewo" src="assets/track-1-997cce-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5ycq8IJZttHM2UiKPlq898"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-997cce-dark.svg"><img alt="B4U · Ghastly, Dani Poppitt" src="assets/track-2-997cce-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/41DmQcdFB204OWprnv6Ahp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-997cce-dark.svg"><img alt="Moonlight · Big Gigantic, Trella" src="assets/track-3-997cce-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0rEtvLKjX5Yb6rbpjNkQLU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-997cce-dark.svg"><img alt="Tell Me Now · H4RRIS, Mantra, Rithu" src="assets/track-4-997cce-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0w0EcNDsOA6xH2t3h8SRGc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-997cce-dark.svg"><img alt="Eyes Cut Deeper - VIRX Remix · Subtronics, Inéz, VIRX" src="assets/track-5-997cce-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1898OX73OtBk5BdYu1tdbA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-997cce-dark.svg"><img alt="Running Thru My Mind · D A N N Y" src="assets/track-6-997cce-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-a03c52-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-a03c52-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6cl01mVeSioV2jTHRcGe0l"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-a03c52-dark.svg"><img alt="Runaway · Jkyl &amp; Hyde" src="assets/track-0-a03c52-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3wrgRknQKf58IIEbV4flhx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-a03c52-dark.svg"><img alt="Til U Hate Me · Łaszewo" src="assets/track-1-a03c52-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0LwSrVJoSjrsPJntQvH9Vp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-a03c52-dark.svg"><img alt="lost in love · Conrad." src="assets/track-2-a03c52-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6kqtPbQoUOI4NQow6qGGnp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-a03c52-dark.svg"><img alt="SPEND THE WEEK · Łaszewo" src="assets/track-3-a03c52-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4krcWtZK3AsVE1Jl4oqH8w"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-a03c52-dark.svg"><img alt="ALL THE TIME · John Summit, The Chainsmokers, Ilsey" src="assets/track-4-a03c52-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0FBdJP7yzvq88bG1keGgt4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-a03c52-dark.svg"><img alt="High and I Like it · it&#39;s murph, Evalyn" src="assets/track-5-a03c52-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/28bBFB4xgt1IwWEM4R2pvN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-a03c52-dark.svg"><img alt="LUST DRUNK · SEBASTIAN PAUL" src="assets/track-6-a03c52-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,504 commits</summary>
+<summary><b>2026</b> · 2,511 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 867 commits</summary>
+<summary>November 2026 · 874 commits</summary>
 <br>
 
 <picture>
