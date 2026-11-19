@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-3af9d3-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-3af9d3-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6SAqreO3NWz4JzTJ54312H"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-3af9d3-dark.svg"><img alt="Youthful Kids · it&#39;s murph" src="assets/track-0-3af9d3-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4JzWZpuYvxpRUiLpnwL2dB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-3af9d3-dark.svg"><img alt="Want Me · Distant Matter, Emilia Ali" src="assets/track-1-3af9d3-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5GlegN9RXJxoPdgh56TvfW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-3af9d3-dark.svg"><img alt="me &amp; u · Conrad." src="assets/track-2-3af9d3-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0OzGuW8S347U9MHmei913G"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-3af9d3-dark.svg"><img alt="fckU · Vanic, The Duchess" src="assets/track-3-3af9d3-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0GBxBb2d4BlTiwbaQuQARv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-3af9d3-dark.svg"><img alt="3am - Nic Vans Remix · Łaszewo, Nic Vans" src="assets/track-4-3af9d3-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/43nBJsVLjMDqL266IlPKif"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-3af9d3-dark.svg"><img alt="Stand Off · MEMBA, Ehiorobo" src="assets/track-5-3af9d3-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/727wpwnFS0ZfGJOtG5TNsu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-3af9d3-dark.svg"><img alt="I GOT A QUESTION · xxtristanxo" src="assets/track-6-3af9d3-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-575f79-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-575f79-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/70vKpf203UriW9QGPlai98"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-575f79-dark.svg"><img alt="I Need A Dream · Smoakland, KOLI" src="assets/track-0-575f79-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4bIx7AD4BcgydeaLnhNrum"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-575f79-dark.svg"><img alt="This Right Here · CHEEKS" src="assets/track-1-575f79-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6LctDoXn32181iHexT66NU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-575f79-dark.svg"><img alt="Sunzal (Higher) · Grazko" src="assets/track-2-575f79-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4Iq6R6rH7KbaSvrtyhDEFB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-575f79-dark.svg"><img alt="The Ends · Seth David" src="assets/track-3-575f79-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4d2RVaW1zU6Fo70VNN9U4m"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-575f79-dark.svg"><img alt="Sex on Fire · Guala" src="assets/track-4-575f79-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6aAhjLzT47dbV0pUPeK3oK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-575f79-dark.svg"><img alt="Trampoline - BKAYE Remix · SHAED, BKAYE" src="assets/track-5-575f79-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1Yn5NNoF9vcuA3vXL8EAkz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-575f79-dark.svg"><img alt="I&#39;m Violent · Łaszewo" src="assets/track-6-575f79-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,492 commits</summary>
+<summary><b>2026</b> · 2,495 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 855 commits</summary>
+<summary>November 2026 · 858 commits</summary>
 <br>
 
 <picture>
