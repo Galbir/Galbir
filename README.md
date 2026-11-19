@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-9ca717-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-9ca717-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3tI9Nc1gHcstyY5frjJnXH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-9ca717-dark.svg"><img alt="Sakura · Koastle, Conrad." src="assets/track-0-9ca717-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/49IkGvXySNA06i62cIDNyB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-9ca717-dark.svg"><img alt="Recognize · Distant Matter" src="assets/track-1-9ca717-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2rehinQVvHSX1TsiHLFzgo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-9ca717-dark.svg"><img alt="INSOMNIA · Lost Kings" src="assets/track-2-9ca717-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7fvuJP8GXsloNyoQ0iLUzv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-9ca717-dark.svg"><img alt="Boston · Ian Asher, STELLA LEFTY" src="assets/track-3-9ca717-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/40kozRGxfmRAofu3ueL0Kj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-9ca717-dark.svg"><img alt="THINK ABOUT US · Łaszewo" src="assets/track-4-9ca717-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/55o9Sbl7sRtvsbBbsDFBU7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-9ca717-dark.svg"><img alt="Slow · Louis The Child, Łaszewo, pluko" src="assets/track-5-9ca717-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6X3w4X5RFhl6tuMmOSrUnA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-9ca717-dark.svg"><img alt="2AM · MOONLGHT, Mr. Moon" src="assets/track-6-9ca717-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-e7bd82-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-e7bd82-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0J75j3YWR6u3q6k1xRjY7R"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-e7bd82-dark.svg"><img alt="Dinosaur - OTR Remix · More Giraffes" src="assets/track-0-e7bd82-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5JvbNbrYRVcavrsIIt8l9C"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-e7bd82-dark.svg"><img alt="free to dream · BLISSFOOL" src="assets/track-1-e7bd82-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-e7bd82-dark.svg"><img alt="I Only Smoke When I Drink · nimino" src="assets/track-2-e7bd82-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1XfysUtqJY1G9KCT0LVu2d"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-e7bd82-dark.svg"><img alt="STAY · D A N N Y" src="assets/track-3-e7bd82-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7qAuCJDxFwt6Zp8WWVK15h"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-e7bd82-dark.svg"><img alt="3am · Łaszewo" src="assets/track-4-e7bd82-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4YDMkAQvJFDNjtjAlCDgP1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-e7bd82-dark.svg"><img alt="Meet Freedom · MEMBA, Levus Alone" src="assets/track-5-e7bd82-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5HBOoRnKPPNn3NhKfcRxBf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-e7bd82-dark.svg"><img alt="Tell Me Your Lies · Jkyl &amp; Hyde" src="assets/track-6-e7bd82-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,488 commits</summary>
+<summary><b>2026</b> · 2,489 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 851 commits</summary>
+<summary>November 2026 · 852 commits</summary>
 <br>
 
 <picture>
