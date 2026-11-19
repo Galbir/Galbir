@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-b780c8-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-b780c8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5SRqHGmEWrd0Td9GHRWIHp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-b780c8-dark.svg"><img alt="Through · Ooyy, Hennie Hun" src="assets/track-0-b780c8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3cXX26hB3R4lHbZC2LFBao"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-b780c8-dark.svg"><img alt="I Just Need (with Lyrah) · Daniel Allan, Lyrah" src="assets/track-1-b780c8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5Hc35BziLaXfLebKmds2FV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-b780c8-dark.svg"><img alt="Drew Barrymore - Crankdat Remix · Bryce Vine, Crankdat" src="assets/track-2-b780c8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2oppJUylT5MskDaCpAsSL0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-b780c8-dark.svg"><img alt="Cry · Vanic, The Duchess" src="assets/track-3-b780c8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-b780c8-dark.svg"><img alt="Forever · ZULAN" src="assets/track-4-b780c8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3I35GU2nrjbgdL9HbdzaLz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-b780c8-dark.svg"><img alt="I FORGOT TO MISS YOU · bystander, emerge" src="assets/track-5-b780c8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0kfNu4qJOo7vgRWDCnMiBa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-b780c8-dark.svg"><img alt="Little Planets - Remix · RIZ LA VIE, Łaszewo" src="assets/track-6-b780c8-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-d121b5-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-d121b5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1i2mlzAv7HAAMMSZyUJ2B2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-d121b5-dark.svg"><img alt="collide · Łaszewo" src="assets/track-0-d121b5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5SRqHGmEWrd0Td9GHRWIHp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-d121b5-dark.svg"><img alt="Through · Ooyy, Hennie Hun" src="assets/track-1-d121b5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3cXX26hB3R4lHbZC2LFBao"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-d121b5-dark.svg"><img alt="I Just Need (with Lyrah) · Daniel Allan, Lyrah" src="assets/track-2-d121b5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5Hc35BziLaXfLebKmds2FV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-d121b5-dark.svg"><img alt="Drew Barrymore - Crankdat Remix · Bryce Vine, Crankdat" src="assets/track-3-d121b5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2oppJUylT5MskDaCpAsSL0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-d121b5-dark.svg"><img alt="Cry · Vanic, The Duchess" src="assets/track-4-d121b5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-d121b5-dark.svg"><img alt="Forever · ZULAN" src="assets/track-5-d121b5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3I35GU2nrjbgdL9HbdzaLz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-d121b5-dark.svg"><img alt="I FORGOT TO MISS YOU · bystander, emerge" src="assets/track-6-d121b5-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,452 commits</summary>
+<summary><b>2026</b> · 2,454 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 815 commits</summary>
+<summary>November 2026 · 817 commits</summary>
 <br>
 
 <picture>
