@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-7fbb2f-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-7fbb2f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6nXX9DWdQ11w4wvTpw72ad"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-7fbb2f-dark.svg"><img alt="CLARITY · xxtristanxo" src="assets/track-0-7fbb2f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7A7ZlcNlwyBQEWLAyNdd5X"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-7fbb2f-dark.svg"><img alt="make the move · Conrad., Fi Sullivan" src="assets/track-1-7fbb2f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7D0n7hVXtVUCw0hil4ejek"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-7fbb2f-dark.svg"><img alt="Lose My Mind · Lavern" src="assets/track-2-7fbb2f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5Pj6vL6vafx32g1ITquHpo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-7fbb2f-dark.svg"><img alt="Center of Silence · Łaszewo" src="assets/track-3-7fbb2f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2E7AvgTYsaavMkKeH9TH6d"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-7fbb2f-dark.svg"><img alt="ALREADY OVER IT · bystander, emerge" src="assets/track-4-7fbb2f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5vqaxhBBQmMSOdbx1VuQNI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-7fbb2f-dark.svg"><img alt="Moving On · STOREY, Julia Kleijn, Lumine" src="assets/track-5-7fbb2f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6YiIWuVXS4AqF1KvUGMwyx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-7fbb2f-dark.svg"><img alt="crystallized (feat. Inéz) · John Summit, Inéz" src="assets/track-6-7fbb2f-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-d3f8b2-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-d3f8b2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1NPfiTCBjiYUya7npwzbAY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-d3f8b2-dark.svg"><img alt="terms and conditions · BL3SS" src="assets/track-0-d3f8b2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6nXX9DWdQ11w4wvTpw72ad"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-d3f8b2-dark.svg"><img alt="CLARITY · xxtristanxo" src="assets/track-1-d3f8b2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7A7ZlcNlwyBQEWLAyNdd5X"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-d3f8b2-dark.svg"><img alt="make the move · Conrad., Fi Sullivan" src="assets/track-2-d3f8b2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7D0n7hVXtVUCw0hil4ejek"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-d3f8b2-dark.svg"><img alt="Lose My Mind · Lavern" src="assets/track-3-d3f8b2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5Pj6vL6vafx32g1ITquHpo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-d3f8b2-dark.svg"><img alt="Center of Silence · Łaszewo" src="assets/track-4-d3f8b2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2E7AvgTYsaavMkKeH9TH6d"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-d3f8b2-dark.svg"><img alt="ALREADY OVER IT · bystander, emerge" src="assets/track-5-d3f8b2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5vqaxhBBQmMSOdbx1VuQNI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-d3f8b2-dark.svg"><img alt="Moving On · STOREY, Julia Kleijn, Lumine" src="assets/track-6-d3f8b2-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,455 commits</summary>
+<summary><b>2026</b> · 2,456 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 818 commits</summary>
+<summary>November 2026 · 819 commits</summary>
 <br>
 
 <picture>
