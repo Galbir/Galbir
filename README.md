@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-ef13c6-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-ef13c6-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0nRYjxQQCzMVyjgpTtKjLt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-ef13c6-dark.svg"><img alt="crystallized (feat. Inéz) - Subtronics Remix · John Summit, Subtronics, Inéz" src="assets/track-0-ef13c6-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5AbOnLs2U6TKfpotJWWEwt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-ef13c6-dark.svg"><img alt="In Our Lungs · Boombox Cartel, Griff Clawson" src="assets/track-1-ef13c6-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5L27h9sZjEtNfuveLggaCY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-ef13c6-dark.svg"><img alt="American Money - Virtu Remix · BØRNS" src="assets/track-2-ef13c6-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7DhXdhJTXfIMZ8WWhKCe4G"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-ef13c6-dark.svg"><img alt="Chasing Tail - Madnap Remix · Win and Woo, Madnap" src="assets/track-3-ef13c6-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3DJlIxfGBdBqeUWoGJjUJZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-ef13c6-dark.svg"><img alt="starting over · Conrad." src="assets/track-4-ef13c6-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7amTNi6wRWUzvAh5aC9fmd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-ef13c6-dark.svg"><img alt="Blue · Hairitage" src="assets/track-5-ef13c6-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1vTK1cAuVvl90eLyUqOGV8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-ef13c6-dark.svg"><img alt="Don&#39;t Stop (Intro) · Łaszewo" src="assets/track-6-ef13c6-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-c15325-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-c15325-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0BAQjCC9gfqOebxpmonHKz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-c15325-dark.svg"><img alt="Everytime · Medasin, Naomi Wild" src="assets/track-0-c15325-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3ahtV1UVdRQzCyIY239wsE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-c15325-dark.svg"><img alt="Ghost · Good Knights" src="assets/track-1-c15325-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1nIRahjeEII1lsDPEn0nJz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-c15325-dark.svg"><img alt="Colorado · Łaszewo" src="assets/track-2-c15325-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2sRR0xfFJN76BEPItcaZ6W"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-c15325-dark.svg"><img alt="Chi-Town · Koastle, Łaszewo" src="assets/track-3-c15325-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6RLBwMcxEX9QS2XYO7Xc52"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-c15325-dark.svg"><img alt="Heartbeat · MIND" src="assets/track-4-c15325-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2rSimyLiVCXuz549VP8Xiq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-c15325-dark.svg"><img alt="Some Of Your Love · The Good Son, Jaxxtone" src="assets/track-5-c15325-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4uto4ujgrowdvkg2szcIT1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-c15325-dark.svg"><img alt="you again? · Conrad." src="assets/track-6-c15325-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,526 commits</summary>
+<summary><b>2026</b> · 2,532 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 889 commits</summary>
+<summary>November 2026 · 895 commits</summary>
 <br>
 
 <picture>
