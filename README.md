@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-056b69-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-056b69-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6KTJrH8rLM4TefZcc9XFQF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-056b69-dark.svg"><img alt="Black Sheep · ATLiens, GG Magree" src="assets/track-0-056b69-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7hPSxZemhzDIh4uaKpjIfP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-056b69-dark.svg"><img alt="headache · Conrad." src="assets/track-1-056b69-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7mPCgCK0XzmltsHj6IZjtL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-056b69-dark.svg"><img alt="Dreaming - Gibson Parker Remix · Rootkit, Cammie Robinson, Gibson Parker" src="assets/track-2-056b69-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0FJ57QkOsbHFKJxwpiRgNP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-056b69-dark.svg"><img alt="Lights Go Out · What So Not, Benson, Lucy Lucy" src="assets/track-3-056b69-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/325wgY6CoL30wsrRWTuveO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-056b69-dark.svg"><img alt="Supersonic (Interlude) · Łaszewo" src="assets/track-4-056b69-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0F1VAVqj021UkGntiDz4nx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-056b69-dark.svg"><img alt="Feels Like You · Adventure Club, Codeko" src="assets/track-5-056b69-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5GdlsWmNyourbjreXO8cW4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-056b69-dark.svg"><img alt="Over You · CHEEKS, CRONIN" src="assets/track-6-056b69-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-414af9-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-414af9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/20iODoi8eZUC1sBS5C01GF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-414af9-dark.svg"><img alt="Down Low - YDG Remix · it&#39;s murph, YDG" src="assets/track-0-414af9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5hRP8rSVxxTsfVWPCbQIqr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-414af9-dark.svg"><img alt="Is This Real Love? · Moon Water" src="assets/track-1-414af9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4wySt0Tw3gCiybsPeXScGA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-414af9-dark.svg"><img alt="No Sympathy · nimino" src="assets/track-2-414af9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4Yp2C2WQJVG3vZNJzUTapC"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-414af9-dark.svg"><img alt="I know U know · Khamsin" src="assets/track-3-414af9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4TY6xXm1EBW3VU5PhVIKz7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-414af9-dark.svg"><img alt="when we (kiss) · Fan the Flames" src="assets/track-4-414af9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0IESuTl4fLg6bZW0qahmyS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-414af9-dark.svg"><img alt="f@NtA$y · Mike Crook" src="assets/track-5-414af9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/426kUFFWk2Lc4EP4ShkgGj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-414af9-dark.svg"><img alt="Shimmering Light · Łaszewo" src="assets/track-6-414af9-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,515 commits</summary>
+<summary><b>2026</b> · 2,516 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 878 commits</summary>
+<summary>November 2026 · 879 commits</summary>
 <br>
 
 <picture>
