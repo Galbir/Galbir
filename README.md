@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-dbd23b-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-dbd23b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1x3Ulc3uBNEfqcDSLFOy9z"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-dbd23b-dark.svg"><img alt="Time For My Soul · Super Duper" src="assets/track-0-dbd23b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7nYClzzNY6f3EcfeDFNqhS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-dbd23b-dark.svg"><img alt="When I Get There · Big Wild" src="assets/track-1-dbd23b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2bMEpI8cwnRB4lBnRj59DL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-dbd23b-dark.svg"><img alt="In My Feels · Bronze Whale" src="assets/track-2-dbd23b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7hO63vxpmvnikGqyUFbMXW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-dbd23b-dark.svg"><img alt="Another Time Around · Łaszewo, Win and Woo" src="assets/track-3-dbd23b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6I96oT2ZcOypVJkmqSujtr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-dbd23b-dark.svg"><img alt="Drugs I Like · nate band" src="assets/track-4-dbd23b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1JsUfBOlJxZGpvWBQeR7qb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-dbd23b-dark.svg"><img alt="close2u · Conrad." src="assets/track-5-dbd23b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/76LVAEuNkVfUpbL7zaWQyN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-dbd23b-dark.svg"><img alt="way out west · After Wes, Ireland Rhea" src="assets/track-6-dbd23b-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-ef13c6-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-ef13c6-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0nRYjxQQCzMVyjgpTtKjLt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-ef13c6-dark.svg"><img alt="crystallized (feat. Inéz) - Subtronics Remix · John Summit, Subtronics, Inéz" src="assets/track-0-ef13c6-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5AbOnLs2U6TKfpotJWWEwt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-ef13c6-dark.svg"><img alt="In Our Lungs · Boombox Cartel, Griff Clawson" src="assets/track-1-ef13c6-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5L27h9sZjEtNfuveLggaCY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-ef13c6-dark.svg"><img alt="American Money - Virtu Remix · BØRNS" src="assets/track-2-ef13c6-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7DhXdhJTXfIMZ8WWhKCe4G"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-ef13c6-dark.svg"><img alt="Chasing Tail - Madnap Remix · Win and Woo, Madnap" src="assets/track-3-ef13c6-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3DJlIxfGBdBqeUWoGJjUJZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-ef13c6-dark.svg"><img alt="starting over · Conrad." src="assets/track-4-ef13c6-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7amTNi6wRWUzvAh5aC9fmd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-ef13c6-dark.svg"><img alt="Blue · Hairitage" src="assets/track-5-ef13c6-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1vTK1cAuVvl90eLyUqOGV8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-ef13c6-dark.svg"><img alt="Don&#39;t Stop (Intro) · Łaszewo" src="assets/track-6-ef13c6-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,521 commits</summary>
+<summary><b>2026</b> · 2,526 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 884 commits</summary>
+<summary>November 2026 · 889 commits</summary>
 <br>
 
 <picture>
