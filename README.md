@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-2155c1-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-2155c1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0yp1RkfjjFe0vOtC5QASCD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-2155c1-dark.svg"><img alt="L.E.S. Artistes · Back Talk" src="assets/track-0-2155c1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7dysHvjVrHkpLhamDe1HJz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-2155c1-dark.svg"><img alt="Do or Die · Łaszewo" src="assets/track-1-2155c1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6lp7U6mqjhThZXFtOMfARt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-2155c1-dark.svg"><img alt="Escape · NEOTEK" src="assets/track-2-2155c1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5gOgAQ3D9iNNbQZjAVDbKC"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-2155c1-dark.svg"><img alt="FOREVER IN MY HEART · Desren" src="assets/track-3-2155c1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5sCc7Jdb0REQRlo1qgtEeS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-2155c1-dark.svg"><img alt="4 us · Sonnee" src="assets/track-4-2155c1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5h8oWLRWiKep2Nh3s7TJnV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-2155c1-dark.svg"><img alt="The Journey · Dreamers Delight, MAYLYN" src="assets/track-5-2155c1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4z4DOJvYRFLBdKmHHKL20c"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-2155c1-dark.svg"><img alt="Piano Man · GorillaT" src="assets/track-6-2155c1-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-e8985c-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-e8985c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5Rv4GkCbfSfCADhXO4fmQf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-e8985c-dark.svg"><img alt="hey lil mama · YDG, Łaszewo" src="assets/track-0-e8985c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4Dmw58Z7C9TXvb3vh6mrPb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-e8985c-dark.svg"><img alt="wasted time · After Wes" src="assets/track-1-e8985c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6g9hRP5CJsbWGZCqZMvTsR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-e8985c-dark.svg"><img alt="Colors - Ian Asher Remix · Halsey, Ian Asher" src="assets/track-2-e8985c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6gjbfsxdoNv7VZoAGRvIWf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-e8985c-dark.svg"><img alt="Metaphysical - Daktyl Remix · Autograf" src="assets/track-3-e8985c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6mQuPZ0b3YF53flZe0YBns"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-e8985c-dark.svg"><img alt="Nothing Perfect · nimino" src="assets/track-4-e8985c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2S2L8RSwfiFBfmJ4dDr80D"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-e8985c-dark.svg"><img alt="I Feel Gold · Łaszewo" src="assets/track-5-e8985c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1UCRIrBrwi9yqMd3PbViCr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-e8985c-dark.svg"><img alt="Doomed - Dubstep · HAWNN" src="assets/track-6-e8985c-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,500 commits</summary>
+<summary><b>2026</b> · 2,501 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 863 commits</summary>
+<summary>November 2026 · 864 commits</summary>
 <br>
 
 <picture>
