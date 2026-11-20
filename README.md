@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-fa3309-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-fa3309-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3zPco1u9i9bCjkG5pngR5t"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-fa3309-dark.svg"><img alt="Clouds · BUNT., Nate Traveller" src="assets/track-0-fa3309-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3HvnYVNNNJ1YC4zRNi1Aox"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-fa3309-dark.svg"><img alt="Tough - Gravagerz Remix · Quavo, Lana Del Rey, Gravagerz" src="assets/track-1-fa3309-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2SbAoNQVqVkIuFTFV94Bdm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-fa3309-dark.svg"><img alt="Make It Better [ZAC &amp; BAKKA (BR) Remix] · Dashdot, Maxximal, Ashibah, ZAC, BAKKA (BR)" src="assets/track-2-fa3309-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4RKpBP6ghJKoNc5V73XGyw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-fa3309-dark.svg"><img alt="Let Go · Neon Tide" src="assets/track-3-fa3309-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6oyGwvrnxDLpa6xJx0xgAh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-fa3309-dark.svg"><img alt="half of you is not enough · oskar med k, Marini" src="assets/track-4-fa3309-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3sw09qpH0FM5PRKcgJ358h"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-fa3309-dark.svg"><img alt="win your love · SHEE" src="assets/track-5-fa3309-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5aNnHIrYkxRG9ToftzsWRz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-fa3309-dark.svg"><img alt="Enjoy the Silence - Don Diablo Version · Don Diablo, MONO|CHROME" src="assets/track-6-fa3309-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-f2368e-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-f2368e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1zI8KdmHv3WDyaEsaA7ADe"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-f2368e-dark.svg"><img alt="VOLVERTE A VER · Soummit" src="assets/track-0-f2368e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4DxpIvvjgpaZDhoHwlfaY1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-f2368e-dark.svg"><img alt="Echo · Lynnic, ItsArius, Dinia" src="assets/track-1-f2368e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6ctWstoouxCcvuTsd4cHNS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-f2368e-dark.svg"><img alt="Desire - Gryffin Remix · Olly Alexander (Years &amp; Years), Gryffin" src="assets/track-2-f2368e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3Gz5qwVrj9mlAMGfdCNO5U"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-f2368e-dark.svg"><img alt="Hurt You · Crunkz" src="assets/track-3-f2368e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4mfYuOOa9at0z1Gt8ysVAI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-f2368e-dark.svg"><img alt="bring me back · Lujavo" src="assets/track-4-f2368e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2TUFKhKl4EZYAo3D9FXU5E"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-f2368e-dark.svg"><img alt="Pieces · AVAION" src="assets/track-5-f2368e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7qUYJ02MjNuOKFdeKdZFA2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-f2368e-dark.svg"><img alt="Fractures · Anderholm, Alexandra Pride" src="assets/track-6-f2368e-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,591 commits</summary>
+<summary><b>2026</b> · 2,596 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 954 commits</summary>
+<summary>November 2026 · 959 commits</summary>
 <br>
 
 <picture>
