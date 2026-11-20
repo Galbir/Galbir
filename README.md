@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-aa48f4-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-aa48f4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3JuLu3PF1EyVBK2gI82Oxd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-aa48f4-dark.svg"><img alt="Afterlife · Nu Aspect, jewels, MAGNUS" src="assets/track-0-aa48f4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6Kl0BmROA5CAwtQOEFd99y"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-aa48f4-dark.svg"><img alt="Human · Lavern" src="assets/track-1-aa48f4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3QH0yMbfhZEScAcIgZUbHb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-aa48f4-dark.svg"><img alt="Without You · 19Clouds" src="assets/track-2-aa48f4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5MgqaXhd1UNEgH2430gDJo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-aa48f4-dark.svg"><img alt="Hot Air Balloon - Don Diablo VIP Mix · Don Diablo, AR/CO" src="assets/track-3-aa48f4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3uBy64hFwBlmt48c2xnUlg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-aa48f4-dark.svg"><img alt="Rise · Lynnic" src="assets/track-4-aa48f4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4DHATlv5A1Gs9pMaWSHDMb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-aa48f4-dark.svg"><img alt="I&#39;m Fine - IMANU Remix · Apashe, High Klassified, Cherry Lena, IMANU" src="assets/track-5-aa48f4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3qHPMaazhsySnfGlWIB45Y"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-aa48f4-dark.svg"><img alt="In My Head · Lavern" src="assets/track-6-aa48f4-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-ad46d5-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-ad46d5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0SxiTCCjGsqE2ATGRTCvvd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-ad46d5-dark.svg"><img alt="Can&#39;t Help But Worry (Every Night Every Day) · Soluna" src="assets/track-0-ad46d5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3JuLu3PF1EyVBK2gI82Oxd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-ad46d5-dark.svg"><img alt="Afterlife · Nu Aspect, jewels, MAGNUS" src="assets/track-1-ad46d5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6Kl0BmROA5CAwtQOEFd99y"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-ad46d5-dark.svg"><img alt="Human · Lavern" src="assets/track-2-ad46d5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3QH0yMbfhZEScAcIgZUbHb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-ad46d5-dark.svg"><img alt="Without You · 19Clouds" src="assets/track-3-ad46d5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5MgqaXhd1UNEgH2430gDJo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-ad46d5-dark.svg"><img alt="Hot Air Balloon - Don Diablo VIP Mix · Don Diablo, AR/CO" src="assets/track-4-ad46d5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3uBy64hFwBlmt48c2xnUlg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-ad46d5-dark.svg"><img alt="Rise · Lynnic" src="assets/track-5-ad46d5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4DHATlv5A1Gs9pMaWSHDMb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-ad46d5-dark.svg"><img alt="I&#39;m Fine - IMANU Remix · Apashe, High Klassified, Cherry Lena, IMANU" src="assets/track-6-ad46d5-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,625 commits</summary>
+<summary><b>2026</b> · 2,626 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 988 commits</summary>
+<summary>November 2026 · 989 commits</summary>
 <br>
 
 <picture>
