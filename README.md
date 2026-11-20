@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-1d722f-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-1d722f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/34MXIc0O6IurD1HMPJTN7G"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-1d722f-dark.svg"><img alt="What Do You Really Want? · Crunkz, Mary Jensen" src="assets/track-0-1d722f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1zQ7VMzjPYDhzvr5rfAOr9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-1d722f-dark.svg"><img alt="Hold Me - Autopan Version · Lavern" src="assets/track-1-1d722f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/56jH9iqA8f2kwaoK8103hu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-1d722f-dark.svg"><img alt="Always · RÜFÜS DU SOL" src="assets/track-2-1d722f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1AfA0K7BLxceH7PjzcZdZc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-1d722f-dark.svg"><img alt="Slow Burn · Moksi, Elayna Boynton" src="assets/track-3-1d722f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5bdsJjT3F16HDcjatOZzzB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-1d722f-dark.svg"><img alt="volver a sentir · Lujavo" src="assets/track-4-1d722f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-1d722f-dark.svg"><img alt="All That You Need · Don Diablo" src="assets/track-5-1d722f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7p7gqBkkvDFIepji8U0Lgh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-1d722f-dark.svg"><img alt="We Are The People - ARTBAT Remix · Empire Of The Sun, ARTBAT" src="assets/track-6-1d722f-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-7e94b9-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-7e94b9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2gLzx57Ab129kxjmbIjFCE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-7e94b9-dark.svg"><img alt="Tell me, who am I? · SAVED" src="assets/track-0-7e94b9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3qDMnZESHy76JcLlG3T8sP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-7e94b9-dark.svg"><img alt="Alma Gemela (Extended Mix) · Collem" src="assets/track-1-7e94b9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5xan7XL4YNpsAOL7LhXUPb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-7e94b9-dark.svg"><img alt="The Darkside · PALASTIC, Ekko" src="assets/track-2-7e94b9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2T3hmxdfYj2alR0Iv2Tl0c"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-7e94b9-dark.svg"><img alt="Chihiro · Gravagerz" src="assets/track-3-7e94b9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0fw46rvzAX06J2y4gAY5Jq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-7e94b9-dark.svg"><img alt="Time in the Afternoon · orbit" src="assets/track-4-7e94b9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0Tr1fMsT0SkAogFV343Bvy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-7e94b9-dark.svg"><img alt="Physique (feat. RBZ) · Don Diablo, MEARSY, RBZ" src="assets/track-5-7e94b9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/48HjuSOCti5mGKg6rUjAfB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-7e94b9-dark.svg"><img alt="Crown · BUNT." src="assets/track-6-7e94b9-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,605 commits</summary>
+<summary><b>2026</b> · 2,608 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 968 commits</summary>
+<summary>November 2026 · 971 commits</summary>
 <br>
 
 <picture>
