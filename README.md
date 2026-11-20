@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-f2368e-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-f2368e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1zI8KdmHv3WDyaEsaA7ADe"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-f2368e-dark.svg"><img alt="VOLVERTE A VER · Soummit" src="assets/track-0-f2368e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4DxpIvvjgpaZDhoHwlfaY1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-f2368e-dark.svg"><img alt="Echo · Lynnic, ItsArius, Dinia" src="assets/track-1-f2368e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6ctWstoouxCcvuTsd4cHNS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-f2368e-dark.svg"><img alt="Desire - Gryffin Remix · Olly Alexander (Years &amp; Years), Gryffin" src="assets/track-2-f2368e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3Gz5qwVrj9mlAMGfdCNO5U"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-f2368e-dark.svg"><img alt="Hurt You · Crunkz" src="assets/track-3-f2368e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4mfYuOOa9at0z1Gt8ysVAI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-f2368e-dark.svg"><img alt="bring me back · Lujavo" src="assets/track-4-f2368e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2TUFKhKl4EZYAo3D9FXU5E"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-f2368e-dark.svg"><img alt="Pieces · AVAION" src="assets/track-5-f2368e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7qUYJ02MjNuOKFdeKdZFA2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-f2368e-dark.svg"><img alt="Fractures · Anderholm, Alexandra Pride" src="assets/track-6-f2368e-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-7367b5-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-7367b5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1I7OOfvmTiu1qfdEMZcFnM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-7367b5-dark.svg"><img alt="Heaven Takes You Home (feat. Connie Constance) - Alternative Mix · Swedish House Mafia, Constance Power" src="assets/track-0-7367b5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/15a30YqNPApO8OS0RpqNND"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-7367b5-dark.svg"><img alt="Only Friends · BUNT." src="assets/track-1-7367b5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2USfvfEEmJwxKzMilhqh5n"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-7367b5-dark.svg"><img alt="Smoke · Ghastly, Madalen Duke" src="assets/track-2-7367b5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6tE5zuD7eC7cV2O1IyjRLX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-7367b5-dark.svg"><img alt="Anchor Point · Ahmed Spins, Stevo Atambire" src="assets/track-3-7367b5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5A63vcvr7DvpX94GPPn5MI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-7367b5-dark.svg"><img alt="About You · Nohr, AMRAC" src="assets/track-4-7367b5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7gA0Lp5H34o6EF9RUkHEeU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-7367b5-dark.svg"><img alt="Little Lies · Don Diablo" src="assets/track-5-7367b5-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2p2ovbp0ocjyVb5QRvi2R0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-7367b5-dark.svg"><img alt="belong to one · oskar med k" src="assets/track-6-7367b5-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,596 commits</summary>
+<summary><b>2026</b> · 2,601 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 959 commits</summary>
+<summary>November 2026 · 964 commits</summary>
 <br>
 
 <picture>
