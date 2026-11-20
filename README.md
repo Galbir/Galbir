@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-530f75-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-530f75-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0GBxBb2d4BlTiwbaQuQARv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-530f75-dark.svg"><img alt="3am - Nic Vans Remix · Łaszewo, Nic Vans" src="assets/track-0-530f75-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2HzTZiFMATmNVEL6xGV8VF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-530f75-dark.svg"><img alt="Never · Bronze Whale" src="assets/track-1-530f75-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2dPzJOKHqRjjy3AHpCRwYL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-530f75-dark.svg"><img alt="crybby blue - dg. Remix · Charlotte Plank, dg." src="assets/track-2-530f75-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/64bJhLHgoP7NgmD94eOfCt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-530f75-dark.svg"><img alt="Ms. Understood · Babsy., Davis, WAVZ" src="assets/track-3-530f75-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1LOjIBinbAVfmVqqELvgLh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-530f75-dark.svg"><img alt="ELECTRIC LOVE · AVELLO, HXRT" src="assets/track-4-530f75-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1LOjIBinbAVfmVqqELvgLh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-530f75-dark.svg"><img alt="ELECTRIC LOVE · AVELLO, HXRT" src="assets/track-5-530f75-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2hiV9keVppYQyf1ZfGozK6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-530f75-dark.svg"><img alt="Ain’t Losing You · Elderbrook, nimino" src="assets/track-6-530f75-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-f40742-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-f40742-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0p9PFNegaYphvUuKbU9LQm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-f40742-dark.svg"><img alt="Trap - Rompasso Remix · SAINt JHN, Rompasso" src="assets/track-0-f40742-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7f9WkDtkzDEZNwJOxb76PE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-f40742-dark.svg"><img alt="Familiar · Distant Matter" src="assets/track-1-f40742-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/75PrFuEaAaW7oAosEAocdz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-f40742-dark.svg"><img alt="BETTER OFF ALONE · AVELLO, glasscat" src="assets/track-2-f40742-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/14ycQuhMTCjrK6B130gHS2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-f40742-dark.svg"><img alt="I DON&#39;T NEED YOU - SPED UP · bystander" src="assets/track-3-f40742-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0GBxBb2d4BlTiwbaQuQARv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-f40742-dark.svg"><img alt="3am - Nic Vans Remix · Łaszewo, Nic Vans" src="assets/track-4-f40742-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0GBxBb2d4BlTiwbaQuQARv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-f40742-dark.svg"><img alt="3am - Nic Vans Remix · Łaszewo, Nic Vans" src="assets/track-5-f40742-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2HzTZiFMATmNVEL6xGV8VF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-f40742-dark.svg"><img alt="Never · Bronze Whale" src="assets/track-6-f40742-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,578 commits</summary>
+<summary><b>2026</b> · 2,579 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 941 commits</summary>
+<summary>November 2026 · 942 commits</summary>
 <br>
 
 <picture>
