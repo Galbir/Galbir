@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-030c0f-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-030c0f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7Lqb5crtS7JaNynQ0mszWh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-030c0f-dark.svg"><img alt="U&amp;ME · Dezko, CERES" src="assets/track-0-030c0f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2gQK13gXYZRq2MgvPJyHx8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-030c0f-dark.svg"><img alt="The Last Goodbye · ODESZA, Bettye LaVette" src="assets/track-1-030c0f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5N4LejUzOmy6nLe3k8nQvt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-030c0f-dark.svg"><img alt="siempre te pienso · Lujavo" src="assets/track-2-030c0f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2v5lLKdZG0PsXGWfvigk55"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-030c0f-dark.svg"><img alt="Rewind.. (But I Love You) · WHIPPED CREAM" src="assets/track-3-030c0f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6Kl0BmROA5CAwtQOEFd99y"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-030c0f-dark.svg"><img alt="Human · Lavern" src="assets/track-4-030c0f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1bE98D49uKNetOyLiaB8tG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-030c0f-dark.svg"><img alt="Never Walk Alone · BLOND:ISH, Stevie Appleton" src="assets/track-5-030c0f-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5hTAzP14oIFsQea7WrkdKP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-030c0f-dark.svg"><img alt="Reflejo · Collem" src="assets/track-6-030c0f-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-f02023-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-f02023-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3uBy64hFwBlmt48c2xnUlg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-f02023-dark.svg"><img alt="Rise · Lynnic" src="assets/track-0-f02023-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4DHATlv5A1Gs9pMaWSHDMb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-f02023-dark.svg"><img alt="I&#39;m Fine - IMANU Remix · Apashe, High Klassified, Cherry Lena, IMANU" src="assets/track-1-f02023-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3qHPMaazhsySnfGlWIB45Y"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-f02023-dark.svg"><img alt="In My Head · Lavern" src="assets/track-2-f02023-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7MWHxi7gx2M8ghbRRWyQYU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-f02023-dark.svg"><img alt="See The Light (feat. Fridayy) · Swedish House Mafia, Fridayy" src="assets/track-3-f02023-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1ShfKpLJ36nds13gOlNCUg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-f02023-dark.svg"><img alt="Missing You · Boston Bun" src="assets/track-4-f02023-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3dIGoaCRQ7eRvnDLWe8nT3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-f02023-dark.svg"><img alt="Golden · Don Diablo" src="assets/track-5-f02023-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4ZlTHNR1pnGdrAL9rnTHyJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-f02023-dark.svg"><img alt="Ēyēs · Kotiēr" src="assets/track-6-f02023-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,622 commits</summary>
+<summary><b>2026</b> · 2,623 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 985 commits</summary>
+<summary>November 2026 · 986 commits</summary>
 <br>
 
 <picture>
