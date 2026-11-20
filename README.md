@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-948257-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-948257-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1ko0j5C35EbkkLi60obFnR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-948257-dark.svg"><img alt="Así Es La Vida · SAVED" src="assets/track-0-948257-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5lG19rJJHjN6t7Th08IHRZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-948257-dark.svg"><img alt="Existencia · Collem" src="assets/track-1-948257-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0d3NXuG0S5X0lIvYkTp0vt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-948257-dark.svg"><img alt="Too Tense · oskar med k" src="assets/track-2-948257-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6eLaP1VW9Moy2AHijWfhxl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-948257-dark.svg"><img alt="Help Me Lose My Mind - Slowed Down · Gravagerz" src="assets/track-3-948257-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6ppGzAqOYbN5INO8Q8dmK4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-948257-dark.svg"><img alt="in my heart · butter" src="assets/track-4-948257-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6LptEwO1ObZvVQXlU0BPIJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-948257-dark.svg"><img alt="Move Me · Lavern" src="assets/track-5-948257-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7CuXB3Dr61IvDFEWfqG3sE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-948257-dark.svg"><img alt="More · Jan Blomqvist, Elena Pitoulis" src="assets/track-6-948257-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-9df2ea-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-9df2ea-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2mHYjjjoCvqF4ZFXY6CIZn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-9df2ea-dark.svg"><img alt="Next To You · Romain Garcia" src="assets/track-0-9df2ea-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3gCOHPzD8BICRM5xR1XBQS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-9df2ea-dark.svg"><img alt="Lost My Mind (Wake Up) · BUNT., Elley Duhé" src="assets/track-1-9df2ea-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6kckNpuM5oXZrObLExRg6d"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-9df2ea-dark.svg"><img alt="Road · Lane 8, Arctic Lake" src="assets/track-2-9df2ea-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0FCABIXhXHI4mi0qao8gTR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-9df2ea-dark.svg"><img alt="SAFE WITH ME (SECRETOS) · Jhay Rivas" src="assets/track-3-9df2ea-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/29am6bXQyNm2gXG6BjGU5D"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-9df2ea-dark.svg"><img alt="My Mistake · BKAYE" src="assets/track-4-9df2ea-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-9df2ea-dark.svg"><img alt="Sleepless · AVAION, PaulWetz, Nu Aspect, YUMA" src="assets/track-5-9df2ea-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6u4CLgult9hhrCqr86B5JW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-9df2ea-dark.svg"><img alt="Hear My Call · H:dn" src="assets/track-6-9df2ea-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,620 commits</summary>
+<summary><b>2026</b> · 2,621 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 983 commits</summary>
+<summary>November 2026 · 984 commits</summary>
 <br>
 
 <picture>
