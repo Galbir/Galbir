@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-2cb13e-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-2cb13e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0kfNu4qJOo7vgRWDCnMiBa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-2cb13e-dark.svg"><img alt="Little Planets - Remix · RIZ LA VIE, Łaszewo" src="assets/track-0-2cb13e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1T4U8Q2DRfs6OUg8DEsRZf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-2cb13e-dark.svg"><img alt="Bad · Don Diablo, Zak Abel" src="assets/track-1-2cb13e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7jNnW7e1prkMtR7EKsTElp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-2cb13e-dark.svg"><img alt="Price · PALASTIC" src="assets/track-2-2cb13e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-2cb13e-dark.svg"><img alt="Lioness · Swedish House Mafia, Niki &amp; The Dove" src="assets/track-3-2cb13e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3JWKhPP6muh6tjR8b7PDOb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-2cb13e-dark.svg"><img alt="Paperplanes · BUNT." src="assets/track-4-2cb13e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3pUz2qJe5nqZemi3hhIxMk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-2cb13e-dark.svg"><img alt="Where You Are · John Summit, HAYLA" src="assets/track-5-2cb13e-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/495nwEGlD0R5xQ7ZgFWLby"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-2cb13e-dark.svg"><img alt="Insane · Flume, Moon Holiday" src="assets/track-6-2cb13e-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-6b6694-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-6b6694-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5qSWDrTRuRmMiesi2vlqCE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-6b6694-dark.svg"><img alt="Awake · orbit" src="assets/track-0-6b6694-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7mA03cPnG3UkLgf1ed87fI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-6b6694-dark.svg"><img alt="Gipsy · Moksi, Haj" src="assets/track-1-6b6694-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5s0S3Y5Ciq1suPbzRCKYpo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-6b6694-dark.svg"><img alt="Lonely · VisionV, PHEA" src="assets/track-2-6b6694-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/67p96tIoC4ESrod9kW331R"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-6b6694-dark.svg"><img alt="Hot Air Balloon · Don Diablo, AR/CO" src="assets/track-3-6b6694-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0bHLNUoBzK83c61N9W4ohF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-6b6694-dark.svg"><img alt="Water · BAYNK" src="assets/track-4-6b6694-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5eYt43KKoozTGthKRNQ6JW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-6b6694-dark.svg"><img alt="gone for life · iilliaa" src="assets/track-5-6b6694-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0xKBjdzm28iDJszzS56alh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-6b6694-dark.svg"><img alt="Need to say · ELEZO" src="assets/track-6-6b6694-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,586 commits</summary>
+<summary><b>2026</b> · 2,588 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 949 commits</summary>
+<summary>November 2026 · 951 commits</summary>
 <br>
 
 <picture>
