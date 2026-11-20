@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-47cf02-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-47cf02-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2DuCbz1WK7yZXyTSrOtMkc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-47cf02-dark.svg"><img alt="Only God Knows · Don Diablo, ECHoBOY" src="assets/track-0-47cf02-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5cz0EtjFVIl81TNNvljFeK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-47cf02-dark.svg"><img alt="Peace In Silence · BUNT., Nate Traveller" src="assets/track-1-47cf02-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5bFuHlXKw66Uu2cHKn5bf8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-47cf02-dark.svg"><img alt="Alive · Zeds Dead, MKLA" src="assets/track-2-47cf02-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6EsaaWaAf1uZKCQrdVtJCU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-47cf02-dark.svg"><img alt="I Don&#39;t Care · Crunkz" src="assets/track-3-47cf02-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5sldxFuM496Xu7dt6r8Ckl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-47cf02-dark.svg"><img alt="Other Side · AVAION" src="assets/track-4-47cf02-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4madkqL1bB8rweDVBG8FvR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-47cf02-dark.svg"><img alt="Let It Go · NOTSOBAD, MA:RK" src="assets/track-5-47cf02-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-47cf02-dark.svg"><img alt="Ascend · Dezko" src="assets/track-6-47cf02-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-57a527-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-57a527-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/68FcC7rZFftR7krAKayPlq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-57a527-dark.svg"><img alt="Strings Attached - Extended · Nu Aspect, Arkaden, Sam Welch" src="assets/track-0-57a527-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6MAfxjDn1I84Q2fZw3NlUa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-57a527-dark.svg"><img alt="Lose It All (I Don&#39;t Wanna) · BUNT." src="assets/track-1-57a527-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4Q535IbjIL402WEM8mdBbB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-57a527-dark.svg"><img alt="Need You · Crunkz" src="assets/track-2-57a527-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1krkRXhxSvCycz3XE9eG0q"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-57a527-dark.svg"><img alt="siempre te pienso - v2 · Lujavo" src="assets/track-3-57a527-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3pR8mmPuskvFdzVtlhfQrS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-57a527-dark.svg"><img alt="Tell me, who am I? - Slowed + Reverb · SAVED" src="assets/track-4-57a527-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3QPYFZIR4krjrmeDEn7vQT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-57a527-dark.svg"><img alt="Alma Gemela · Collem" src="assets/track-5-57a527-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0MyfdGptOUnUnGzJmiyCOG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-57a527-dark.svg"><img alt="VIRUS - Odd Mob Remix · GEN.KLOUD, Odd Mob" src="assets/track-6-57a527-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,615 commits</summary>
+<summary><b>2026</b> · 2,617 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 978 commits</summary>
+<summary>November 2026 · 980 commits</summary>
 <br>
 
 <picture>
