@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-9df2ea-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-9df2ea-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2mHYjjjoCvqF4ZFXY6CIZn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-9df2ea-dark.svg"><img alt="Next To You · Romain Garcia" src="assets/track-0-9df2ea-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3gCOHPzD8BICRM5xR1XBQS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-9df2ea-dark.svg"><img alt="Lost My Mind (Wake Up) · BUNT., Elley Duhé" src="assets/track-1-9df2ea-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6kckNpuM5oXZrObLExRg6d"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-9df2ea-dark.svg"><img alt="Road · Lane 8, Arctic Lake" src="assets/track-2-9df2ea-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0FCABIXhXHI4mi0qao8gTR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-9df2ea-dark.svg"><img alt="SAFE WITH ME (SECRETOS) · Jhay Rivas" src="assets/track-3-9df2ea-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/29am6bXQyNm2gXG6BjGU5D"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-9df2ea-dark.svg"><img alt="My Mistake · BKAYE" src="assets/track-4-9df2ea-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-9df2ea-dark.svg"><img alt="Sleepless · AVAION, PaulWetz, Nu Aspect, YUMA" src="assets/track-5-9df2ea-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6u4CLgult9hhrCqr86B5JW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-9df2ea-dark.svg"><img alt="Hear My Call · H:dn" src="assets/track-6-9df2ea-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-030c0f-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-030c0f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7Lqb5crtS7JaNynQ0mszWh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-030c0f-dark.svg"><img alt="U&amp;ME · Dezko, CERES" src="assets/track-0-030c0f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2gQK13gXYZRq2MgvPJyHx8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-030c0f-dark.svg"><img alt="The Last Goodbye · ODESZA, Bettye LaVette" src="assets/track-1-030c0f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5N4LejUzOmy6nLe3k8nQvt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-030c0f-dark.svg"><img alt="siempre te pienso · Lujavo" src="assets/track-2-030c0f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2v5lLKdZG0PsXGWfvigk55"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-030c0f-dark.svg"><img alt="Rewind.. (But I Love You) · WHIPPED CREAM" src="assets/track-3-030c0f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6Kl0BmROA5CAwtQOEFd99y"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-030c0f-dark.svg"><img alt="Human · Lavern" src="assets/track-4-030c0f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1bE98D49uKNetOyLiaB8tG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-030c0f-dark.svg"><img alt="Never Walk Alone · BLOND:ISH, Stevie Appleton" src="assets/track-5-030c0f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5hTAzP14oIFsQea7WrkdKP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-030c0f-dark.svg"><img alt="Reflejo · Collem" src="assets/track-6-030c0f-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,621 commits</summary>
+<summary><b>2026</b> · 2,622 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 984 commits</summary>
+<summary>November 2026 · 985 commits</summary>
 <br>
 
 <picture>
