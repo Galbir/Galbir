@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-6b6694-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-6b6694-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5qSWDrTRuRmMiesi2vlqCE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-6b6694-dark.svg"><img alt="Awake · orbit" src="assets/track-0-6b6694-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7mA03cPnG3UkLgf1ed87fI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-6b6694-dark.svg"><img alt="Gipsy · Moksi, Haj" src="assets/track-1-6b6694-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5s0S3Y5Ciq1suPbzRCKYpo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-6b6694-dark.svg"><img alt="Lonely · VisionV, PHEA" src="assets/track-2-6b6694-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/67p96tIoC4ESrod9kW331R"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-6b6694-dark.svg"><img alt="Hot Air Balloon · Don Diablo, AR/CO" src="assets/track-3-6b6694-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0bHLNUoBzK83c61N9W4ohF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-6b6694-dark.svg"><img alt="Water · BAYNK" src="assets/track-4-6b6694-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5eYt43KKoozTGthKRNQ6JW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-6b6694-dark.svg"><img alt="gone for life · iilliaa" src="assets/track-5-6b6694-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0xKBjdzm28iDJszzS56alh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-6b6694-dark.svg"><img alt="Need to say · ELEZO" src="assets/track-6-6b6694-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-fa3309-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-fa3309-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3zPco1u9i9bCjkG5pngR5t"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-fa3309-dark.svg"><img alt="Clouds · BUNT., Nate Traveller" src="assets/track-0-fa3309-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3HvnYVNNNJ1YC4zRNi1Aox"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-fa3309-dark.svg"><img alt="Tough - Gravagerz Remix · Quavo, Lana Del Rey, Gravagerz" src="assets/track-1-fa3309-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2SbAoNQVqVkIuFTFV94Bdm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-fa3309-dark.svg"><img alt="Make It Better [ZAC &amp; BAKKA (BR) Remix] · Dashdot, Maxximal, Ashibah, ZAC, BAKKA (BR)" src="assets/track-2-fa3309-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4RKpBP6ghJKoNc5V73XGyw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-fa3309-dark.svg"><img alt="Let Go · Neon Tide" src="assets/track-3-fa3309-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6oyGwvrnxDLpa6xJx0xgAh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-fa3309-dark.svg"><img alt="half of you is not enough · oskar med k, Marini" src="assets/track-4-fa3309-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3sw09qpH0FM5PRKcgJ358h"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-fa3309-dark.svg"><img alt="win your love · SHEE" src="assets/track-5-fa3309-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5aNnHIrYkxRG9ToftzsWRz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-fa3309-dark.svg"><img alt="Enjoy the Silence - Don Diablo Version · Don Diablo, MONO|CHROME" src="assets/track-6-fa3309-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,588 commits</summary>
+<summary><b>2026</b> · 2,591 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 951 commits</summary>
+<summary>November 2026 · 954 commits</summary>
 <br>
 
 <picture>
