@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-7e94b9-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-7e94b9-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2gLzx57Ab129kxjmbIjFCE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-7e94b9-dark.svg"><img alt="Tell me, who am I? · SAVED" src="assets/track-0-7e94b9-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3qDMnZESHy76JcLlG3T8sP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-7e94b9-dark.svg"><img alt="Alma Gemela (Extended Mix) · Collem" src="assets/track-1-7e94b9-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5xan7XL4YNpsAOL7LhXUPb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-7e94b9-dark.svg"><img alt="The Darkside · PALASTIC, Ekko" src="assets/track-2-7e94b9-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2T3hmxdfYj2alR0Iv2Tl0c"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-7e94b9-dark.svg"><img alt="Chihiro · Gravagerz" src="assets/track-3-7e94b9-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0fw46rvzAX06J2y4gAY5Jq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-7e94b9-dark.svg"><img alt="Time in the Afternoon · orbit" src="assets/track-4-7e94b9-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0Tr1fMsT0SkAogFV343Bvy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-7e94b9-dark.svg"><img alt="Physique (feat. RBZ) · Don Diablo, MEARSY, RBZ" src="assets/track-5-7e94b9-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/48HjuSOCti5mGKg6rUjAfB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-7e94b9-dark.svg"><img alt="Crown · BUNT." src="assets/track-6-7e94b9-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-f4cbdb-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-f4cbdb-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/61XEPnW5oMUGXJpdRdaEvk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-f4cbdb-dark.svg"><img alt="Tears For Later · Don Diablo, Galantis" src="assets/track-0-f4cbdb-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7ClE91ZjLxV5do8bAAxDe0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-f4cbdb-dark.svg"><img alt="Decision · PALASTIC, Mary Jensen" src="assets/track-1-f4cbdb-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/10LaWULFua6bDsV07I7opz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-f4cbdb-dark.svg"><img alt="Miss You - Extended · Nu Aspect, Jamis, Poppy Baskcomb" src="assets/track-2-f4cbdb-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6NKbaBFClNbZAJ9nbRPCAX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-f4cbdb-dark.svg"><img alt="Cruising · Bronze Whale" src="assets/track-3-f4cbdb-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6tXebnSmy1ZEZANFRHRoCO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-f4cbdb-dark.svg"><img alt="WASTED ON ME · Angrybaby" src="assets/track-4-f4cbdb-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0Zwn67tX4xwrgk4lVroMCS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-f4cbdb-dark.svg"><img alt="Love · BUNT., Johan Lenox" src="assets/track-5-f4cbdb-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0GIldErNuzhmImhZlNmHYa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-f4cbdb-dark.svg"><img alt="Lost / Intro · OTR" src="assets/track-6-f4cbdb-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,608 commits</summary>
+<summary><b>2026</b> · 2,609 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 971 commits</summary>
+<summary>November 2026 · 972 commits</summary>
 <br>
 
 <picture>
