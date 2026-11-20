@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-893084-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-893084-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3EJpdBgJr8iRch5wNq46Cy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-893084-dark.svg"><img alt="4am · Crunkz" src="assets/track-0-893084-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6vYTQjlQkBTFYDMgfjkgin"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-893084-dark.svg"><img alt="Through The Storm · Don Diablo, Jordan Mackampa" src="assets/track-1-893084-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1DuVOAmeoH5MGVCrPhVF3f"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-893084-dark.svg"><img alt="Deja Que Salga La Luna · SAVED" src="assets/track-2-893084-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4bqD1g0JETW3wm2sXD43x5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-893084-dark.svg"><img alt="¿Cuál Es El Significado De La Vida? (Versión En Español) · Collem" src="assets/track-3-893084-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2NIKJDoVbB9k7UI4CD7k7P"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-893084-dark.svg"><img alt="Thē Way · Kotiēr" src="assets/track-4-893084-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7u38KYuUzBy0I6wOh17Ckc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-893084-dark.svg"><img alt="Fading · Swimming Paul" src="assets/track-5-893084-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7iIzan4uOlOeXZ8iE3b91F"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-893084-dark.svg"><img alt="Wildfire · PALASTIC" src="assets/track-6-893084-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-948257-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-948257-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1ko0j5C35EbkkLi60obFnR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-948257-dark.svg"><img alt="Así Es La Vida · SAVED" src="assets/track-0-948257-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5lG19rJJHjN6t7Th08IHRZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-948257-dark.svg"><img alt="Existencia · Collem" src="assets/track-1-948257-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0d3NXuG0S5X0lIvYkTp0vt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-948257-dark.svg"><img alt="Too Tense · oskar med k" src="assets/track-2-948257-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6eLaP1VW9Moy2AHijWfhxl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-948257-dark.svg"><img alt="Help Me Lose My Mind - Slowed Down · Gravagerz" src="assets/track-3-948257-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6ppGzAqOYbN5INO8Q8dmK4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-948257-dark.svg"><img alt="in my heart · butter" src="assets/track-4-948257-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6LptEwO1ObZvVQXlU0BPIJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-948257-dark.svg"><img alt="Move Me · Lavern" src="assets/track-5-948257-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7CuXB3Dr61IvDFEWfqG3sE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-948257-dark.svg"><img alt="More · Jan Blomqvist, Elena Pitoulis" src="assets/track-6-948257-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,618 commits</summary>
+<summary><b>2026</b> · 2,620 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 981 commits</summary>
+<summary>November 2026 · 983 commits</summary>
 <br>
 
 <picture>
