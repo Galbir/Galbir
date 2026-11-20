@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-f4cbdb-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-f4cbdb-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/61XEPnW5oMUGXJpdRdaEvk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-f4cbdb-dark.svg"><img alt="Tears For Later · Don Diablo, Galantis" src="assets/track-0-f4cbdb-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7ClE91ZjLxV5do8bAAxDe0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-f4cbdb-dark.svg"><img alt="Decision · PALASTIC, Mary Jensen" src="assets/track-1-f4cbdb-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/10LaWULFua6bDsV07I7opz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-f4cbdb-dark.svg"><img alt="Miss You - Extended · Nu Aspect, Jamis, Poppy Baskcomb" src="assets/track-2-f4cbdb-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6NKbaBFClNbZAJ9nbRPCAX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-f4cbdb-dark.svg"><img alt="Cruising · Bronze Whale" src="assets/track-3-f4cbdb-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6tXebnSmy1ZEZANFRHRoCO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-f4cbdb-dark.svg"><img alt="WASTED ON ME · Angrybaby" src="assets/track-4-f4cbdb-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0Zwn67tX4xwrgk4lVroMCS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-f4cbdb-dark.svg"><img alt="Love · BUNT., Johan Lenox" src="assets/track-5-f4cbdb-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0GIldErNuzhmImhZlNmHYa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-f4cbdb-dark.svg"><img alt="Lost / Intro · OTR" src="assets/track-6-f4cbdb-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-6c7051-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-6c7051-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3VzmXbkFlV9RVkmtBqbqTS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-6c7051-dark.svg"><img alt="Take Me to U · LeDorean" src="assets/track-0-6c7051-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4tBthMmF3DIt8hjNVbow5r"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-6c7051-dark.svg"><img alt="Feel · Crunkz, Maxomar" src="assets/track-1-6c7051-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/01Ua40rpS1mSEB45SwEPtP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-6c7051-dark.svg"><img alt="One More Song (I&#39;ll Be On My Way) · Why U So, Luis Coren" src="assets/track-2-6c7051-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4KxhSt1i8RgqGdurA9tLvS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-6c7051-dark.svg"><img alt="Inside of Me - Posij Remix · Moksi, NANAMI, Posij" src="assets/track-3-6c7051-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2n7A2rUONT2wWAVrOjRzHV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-6c7051-dark.svg"><img alt="Far Away Place · Xinobi, Vaarwell" src="assets/track-4-6c7051-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/61XEPnW5oMUGXJpdRdaEvk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-6c7051-dark.svg"><img alt="Tears For Later · Don Diablo, Galantis" src="assets/track-5-6c7051-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7ClE91ZjLxV5do8bAAxDe0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-6c7051-dark.svg"><img alt="Decision · PALASTIC, Mary Jensen" src="assets/track-6-6c7051-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,609 commits</summary>
+<summary><b>2026</b> · 2,614 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 972 commits</summary>
+<summary>November 2026 · 977 commits</summary>
 <br>
 
 <picture>
