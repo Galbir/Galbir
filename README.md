@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-7367b5-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-7367b5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1I7OOfvmTiu1qfdEMZcFnM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-7367b5-dark.svg"><img alt="Heaven Takes You Home (feat. Connie Constance) - Alternative Mix · Swedish House Mafia, Constance Power" src="assets/track-0-7367b5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/15a30YqNPApO8OS0RpqNND"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-7367b5-dark.svg"><img alt="Only Friends · BUNT." src="assets/track-1-7367b5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2USfvfEEmJwxKzMilhqh5n"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-7367b5-dark.svg"><img alt="Smoke · Ghastly, Madalen Duke" src="assets/track-2-7367b5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6tE5zuD7eC7cV2O1IyjRLX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-7367b5-dark.svg"><img alt="Anchor Point · Ahmed Spins, Stevo Atambire" src="assets/track-3-7367b5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5A63vcvr7DvpX94GPPn5MI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-7367b5-dark.svg"><img alt="About You · Nohr, AMRAC" src="assets/track-4-7367b5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7gA0Lp5H34o6EF9RUkHEeU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-7367b5-dark.svg"><img alt="Little Lies · Don Diablo" src="assets/track-5-7367b5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2p2ovbp0ocjyVb5QRvi2R0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-7367b5-dark.svg"><img alt="belong to one · oskar med k" src="assets/track-6-7367b5-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-1d722f-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-1d722f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/34MXIc0O6IurD1HMPJTN7G"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-1d722f-dark.svg"><img alt="What Do You Really Want? · Crunkz, Mary Jensen" src="assets/track-0-1d722f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1zQ7VMzjPYDhzvr5rfAOr9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-1d722f-dark.svg"><img alt="Hold Me - Autopan Version · Lavern" src="assets/track-1-1d722f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/56jH9iqA8f2kwaoK8103hu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-1d722f-dark.svg"><img alt="Always · RÜFÜS DU SOL" src="assets/track-2-1d722f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1AfA0K7BLxceH7PjzcZdZc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-1d722f-dark.svg"><img alt="Slow Burn · Moksi, Elayna Boynton" src="assets/track-3-1d722f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5bdsJjT3F16HDcjatOZzzB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-1d722f-dark.svg"><img alt="volver a sentir · Lujavo" src="assets/track-4-1d722f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-1d722f-dark.svg"><img alt="All That You Need · Don Diablo" src="assets/track-5-1d722f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7p7gqBkkvDFIepji8U0Lgh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-1d722f-dark.svg"><img alt="We Are The People - ARTBAT Remix · Empire Of The Sun, ARTBAT" src="assets/track-6-1d722f-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,601 commits</summary>
+<summary><b>2026</b> · 2,605 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 964 commits</summary>
+<summary>November 2026 · 968 commits</summary>
 <br>
 
 <picture>
