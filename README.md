@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-90bfb2-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-90bfb2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6oyGwvrnxDLpa6xJx0xgAh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-90bfb2-dark.svg"><img alt="half of you is not enough · oskar med k, Marini" src="assets/track-0-90bfb2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7CuXB3Dr61IvDFEWfqG3sE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-90bfb2-dark.svg"><img alt="More · Jan Blomqvist, Elena Pitoulis" src="assets/track-1-90bfb2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2JYuCiKDCsqfkkVNcghpvq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-90bfb2-dark.svg"><img alt="bring your love (to the light) · Noah Henderson" src="assets/track-2-90bfb2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1wHDTJulNyumFWqSBVFXvl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-90bfb2-dark.svg"><img alt="Paralyzed · YUMA, jewels, MAGNUS" src="assets/track-3-90bfb2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7yn7I3kHSr19pwLGUwE7f1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-90bfb2-dark.svg"><img alt="C-R-E-W · Village" src="assets/track-4-90bfb2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6QyXAcERauW27QwlxjDvww"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-90bfb2-dark.svg"><img alt="Pick Your Battles · Petit Biscuit, Diplo" src="assets/track-5-90bfb2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4gBkrpJoPBZKY0T1gyJ4iU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-90bfb2-dark.svg"><img alt="Run Deep · Nu Aspect" src="assets/track-6-90bfb2-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-e4b78d-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-e4b78d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/77jAFxvaAYalxQsAjegc0i"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-e4b78d-dark.svg"><img alt="Head In The Ocean · FoundSound" src="assets/track-0-e4b78d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2FRUWJr6n7q5RmJ1LRvHhH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-e4b78d-dark.svg"><img alt="Skyline · Morphy Mour" src="assets/track-1-e4b78d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/12LabwhDaEZkfYu7yA7wuv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-e4b78d-dark.svg"><img alt="miss you. · Reviny" src="assets/track-2-e4b78d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/12LabwhDaEZkfYu7yA7wuv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-e4b78d-dark.svg"><img alt="miss you. · Reviny" src="assets/track-3-e4b78d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6oyGwvrnxDLpa6xJx0xgAh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-e4b78d-dark.svg"><img alt="half of you is not enough · oskar med k, Marini" src="assets/track-4-e4b78d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7CuXB3Dr61IvDFEWfqG3sE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-e4b78d-dark.svg"><img alt="More · Jan Blomqvist, Elena Pitoulis" src="assets/track-5-e4b78d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2JYuCiKDCsqfkkVNcghpvq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-e4b78d-dark.svg"><img alt="bring your love (to the light) · Noah Henderson" src="assets/track-6-e4b78d-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,756 commits</summary>
+<summary><b>2026</b> · 2,757 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,119 commits</summary>
+<summary>November 2026 · 1,120 commits</summary>
 <br>
 
 <picture>
