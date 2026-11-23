@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-e6af08-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-e6af08-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2gLzx57Ab129kxjmbIjFCE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-e6af08-dark.svg"><img alt="Tell me, who am I? · SAVED" src="assets/track-0-e6af08-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7qUYJ02MjNuOKFdeKdZFA2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-e6af08-dark.svg"><img alt="Fractures · Anderholm, Alexandra Pride" src="assets/track-1-e6af08-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4HHi9iinIlqDvH8KLOhkR6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-e6af08-dark.svg"><img alt="More [ANR092] **Highest New Entry - Armada Stream 40** · Jan Blomqvist, Elena Pitoulis" src="assets/track-2-e6af08-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0uuQLn4o2ZCWiuzeyrAcAR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-e6af08-dark.svg"><img alt="Ghostkeeper - Edit · Klangkarussell, GIVVEN" src="assets/track-3-e6af08-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7p7gqBkkvDFIepji8U0Lgh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-e6af08-dark.svg"><img alt="We Are The People - ARTBAT Remix · Empire Of The Sun, ARTBAT" src="assets/track-4-e6af08-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/49IAsC4kAPp7i9KWqLqtbk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-e6af08-dark.svg"><img alt="Sick Of The Silence · Lost Frequencies" src="assets/track-5-e6af08-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/41JMkYGCl35JbOrFqdDwM6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-e6af08-dark.svg"><img alt="Sail Away · Don Diablo, Au/Ra" src="assets/track-6-e6af08-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-257e80-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-257e80-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7LqO8IxIGwMmOAKHkjsS0Q"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-257e80-dark.svg"><img alt="Hold Me - Extended Mix · Lavern" src="assets/track-0-257e80-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2DuCbz1WK7yZXyTSrOtMkc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-257e80-dark.svg"><img alt="Only God Knows · Don Diablo, ECHoBOY" src="assets/track-1-257e80-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1zI8KdmHv3WDyaEsaA7ADe"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-257e80-dark.svg"><img alt="VOLVERTE A VER · Soummit" src="assets/track-2-257e80-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5CTWar6EERdWazrPD2giMp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-257e80-dark.svg"><img alt="Heaven · PALASTIC, ALLKNIGHT" src="assets/track-3-257e80-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2IliOAicBXQKvoWpBb1IZR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-257e80-dark.svg"><img alt="Passing By · Dayne S" src="assets/track-4-257e80-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3aW9VHFMP095MNKQP4UxQw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-257e80-dark.svg"><img alt="Wait 2.0 · NoMBe, Skott" src="assets/track-5-257e80-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0bHLNUoBzK83c61N9W4ohF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-257e80-dark.svg"><img alt="Water · BAYNK" src="assets/track-6-257e80-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,721 commits</summary>
+<summary><b>2026</b> · 2,734 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,084 commits</summary>
+<summary>November 2026 · 1,097 commits</summary>
 <br>
 
 <picture>
