@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-d2015a-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-d2015a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/34MXIc0O6IurD1HMPJTN7G"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-d2015a-dark.svg"><img alt="What Do You Really Want? · Crunkz, Mary Jensen" src="assets/track-0-d2015a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3hoPCBEX8OJTJ7WglVEji9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-d2015a-dark.svg"><img alt="Broke Me · Aylone" src="assets/track-1-d2015a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-d2015a-dark.svg"><img alt="Quiver · SILK" src="assets/track-2-d2015a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/33H8UijE4CQKQ0hVKBJ7WK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-d2015a-dark.svg"><img alt="Open Your Mind · Jhay Rivas" src="assets/track-3-d2015a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2N1teUVGfP3vWKKGq0ZxvH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-d2015a-dark.svg"><img alt="All I Need · NOTSOBAD" src="assets/track-4-d2015a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/23YAweZPLgWqOTJdpvSv1O"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-d2015a-dark.svg"><img alt="2 Things · Don Diablo" src="assets/track-5-d2015a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7gMJJls35fuSmMHwOTgetd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-d2015a-dark.svg"><img alt="Dime · SAVED" src="assets/track-6-d2015a-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-772ad7-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-772ad7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4ktiNowV2inYBmjNCsm7XI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-772ad7-dark.svg"><img alt="Canopée des Cîmes · Jan Blomqvist" src="assets/track-0-772ad7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5HlctFqbvJLSHM07UjjUqq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-772ad7-dark.svg"><img alt="Chihiro - Ice Version · Gravagerz" src="assets/track-1-772ad7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-772ad7-dark.svg"><img alt="Miss You · Nu Aspect, Jamis, Poppy Baskcomb" src="assets/track-2-772ad7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7ykQPELjfmUiLyemLX3Bo3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-772ad7-dark.svg"><img alt="Made For Each Other · Clér Letiv" src="assets/track-3-772ad7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5s0S3Y5Ciq1suPbzRCKYpo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-772ad7-dark.svg"><img alt="Lonely · VisionV, PHEA" src="assets/track-4-772ad7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4syxTx96g4iaHVUrpZo3np"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-772ad7-dark.svg"><img alt="Last Dream · Sarklaz" src="assets/track-5-772ad7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3Pmtj9zlqxesYszjHmQpKu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-772ad7-dark.svg"><img alt="Deja Vu · Don Diablo" src="assets/track-6-772ad7-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,748 commits</summary>
+<summary><b>2026</b> · 2,751 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,111 commits</summary>
+<summary>November 2026 · 1,114 commits</summary>
 <br>
 
 <picture>
