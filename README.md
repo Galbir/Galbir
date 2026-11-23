@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-bcc97d-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-bcc97d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6H11By2kRQ3czkMX13ecUD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-bcc97d-dark.svg"><img alt="ID (If there&#39;s one thing) · Lumine" src="assets/track-0-bcc97d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7E4k65CjSEhmEUZ0y2E47A"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-bcc97d-dark.svg"><img alt="WHEN IT COMES TO YOU · Angrybaby" src="assets/track-1-bcc97d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-bcc97d-dark.svg"><img alt="Big Jet Plane · Restricted" src="assets/track-2-bcc97d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/26qQoGK9dm2M6M16sjisAh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-bcc97d-dark.svg"><img alt="Lune - Mindchatter Remix · Kasbo, Mindchatter, Vancouver Sleep Clinic" src="assets/track-3-bcc97d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6Kl0BmROA5CAwtQOEFd99y"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-bcc97d-dark.svg"><img alt="Human · Lavern" src="assets/track-4-bcc97d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3PtB5ZwwrrbyVMzd3KVSKI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-bcc97d-dark.svg"><img alt="Adjoined · adjoin" src="assets/track-5-bcc97d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/74miq4ubMDpEZWtdEh8u9R"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-bcc97d-dark.svg"><img alt="Sunday · Møme, Goldwash" src="assets/track-6-bcc97d-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-f795a2-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-f795a2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/002imz3C62IODPorW2MXiE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-f795a2-dark.svg"><img alt="Have It All · ANDREA CALABRIA" src="assets/track-0-f795a2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4RV1xl2Y3yuYiw4hz5WPxr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-f795a2-dark.svg"><img alt="love yourself · iilliaa" src="assets/track-1-f795a2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7wrzn0qwqIvhfsLAG5BimM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-f795a2-dark.svg"><img alt="More · Jan Blomqvist, Elena Pitoulis" src="assets/track-2-f795a2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0kfNu4qJOo7vgRWDCnMiBa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-f795a2-dark.svg"><img alt="Little Planets - Remix · RIZ LA VIE, Łaszewo" src="assets/track-3-f795a2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3Wt6e7sFI5309XqHrobBfU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-f795a2-dark.svg"><img alt="Not Alone · Don Diablo, Azteck" src="assets/track-4-f795a2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5bRXRA709LlmdfPOROHEpo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-f795a2-dark.svg"><img alt="Care 4 U · Last Sun" src="assets/track-5-f795a2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0AGPwnBhKj3RbhREHgh2wt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-f795a2-dark.svg"><img alt="Black Friday - pretty like the sun (deluxe version) · Lost Frequencies, Tom Odell" src="assets/track-6-f795a2-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,713 commits</summary>
+<summary><b>2026</b> · 2,718 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,076 commits</summary>
+<summary>November 2026 · 1,081 commits</summary>
 <br>
 
 <picture>
