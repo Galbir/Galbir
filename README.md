@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-7bbf5b-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-7bbf5b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/763bin34MwKqujSalWc3lf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-7bbf5b-dark.svg"><img alt="Algorithm · Jan Blomqvist" src="assets/track-0-7bbf5b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-7bbf5b-dark.svg"><img alt="Heaven Takes You Home (feat. Connie Constance) · Swedish House Mafia, Constance Power" src="assets/track-1-7bbf5b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/224ilKqyt2UqsoIlVBXnSA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-7bbf5b-dark.svg"><img alt="Falling Backwards · May Zoean" src="assets/track-2-7bbf5b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4ube140Sc6I4YXTVJSrrJr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-7bbf5b-dark.svg"><img alt="Smile On My Face · Nohr" src="assets/track-3-7bbf5b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/33RYK0MtZkXILgbn9ngEJO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-7bbf5b-dark.svg"><img alt="Sky Is The Limit - Deluxe Mix · Lost Frequencies, Jake Reese" src="assets/track-4-7bbf5b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2aahxM4jGWFWgMzmHpelAR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-7bbf5b-dark.svg"><img alt="Caught in a Dream · PALASTIC, LissA" src="assets/track-5-7bbf5b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2xwuF416Ql7MERGUpG7ClD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-7bbf5b-dark.svg"><img alt="Embrasse moi · VD, Bleue" src="assets/track-6-7bbf5b-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-2ec273-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-2ec273-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0GIldErNuzhmImhZlNmHYa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-2ec273-dark.svg"><img alt="Lost / Intro · OTR" src="assets/track-0-2ec273-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5Bvm3jjiMal1ME0flasrBV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-2ec273-dark.svg"><img alt="Spellbound · oskar med k" src="assets/track-1-2ec273-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2lHzG4hIWX8E4d0IcGMs8b"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-2ec273-dark.svg"><img alt="Broken · AVAION" src="assets/track-2-2ec273-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3JYOvFBjrtLMZp3J1l6xGJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-2ec273-dark.svg"><img alt="Fall Apart · Dayne S" src="assets/track-3-2ec273-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0qHD5pzpp1zSPa5Ud74WDC"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-2ec273-dark.svg"><img alt="Ghostkeeper · Klangkarussell, GIVVEN" src="assets/track-4-2ec273-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/763bin34MwKqujSalWc3lf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-2ec273-dark.svg"><img alt="Algorithm · Jan Blomqvist" src="assets/track-5-2ec273-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-2ec273-dark.svg"><img alt="Heaven Takes You Home (feat. Connie Constance) · Swedish House Mafia, Constance Power" src="assets/track-6-2ec273-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,720 commits</summary>
+<summary><b>2026</b> · 2,721 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,083 commits</summary>
+<summary>November 2026 · 1,084 commits</summary>
 <br>
 
 <picture>
