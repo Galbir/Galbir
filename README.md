@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-257e80-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-257e80-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7LqO8IxIGwMmOAKHkjsS0Q"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-257e80-dark.svg"><img alt="Hold Me - Extended Mix · Lavern" src="assets/track-0-257e80-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2DuCbz1WK7yZXyTSrOtMkc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-257e80-dark.svg"><img alt="Only God Knows · Don Diablo, ECHoBOY" src="assets/track-1-257e80-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1zI8KdmHv3WDyaEsaA7ADe"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-257e80-dark.svg"><img alt="VOLVERTE A VER · Soummit" src="assets/track-2-257e80-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5CTWar6EERdWazrPD2giMp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-257e80-dark.svg"><img alt="Heaven · PALASTIC, ALLKNIGHT" src="assets/track-3-257e80-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2IliOAicBXQKvoWpBb1IZR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-257e80-dark.svg"><img alt="Passing By · Dayne S" src="assets/track-4-257e80-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3aW9VHFMP095MNKQP4UxQw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-257e80-dark.svg"><img alt="Wait 2.0 · NoMBe, Skott" src="assets/track-5-257e80-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0bHLNUoBzK83c61N9W4ohF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-257e80-dark.svg"><img alt="Water · BAYNK" src="assets/track-6-257e80-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-8dc1fd-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-8dc1fd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6EsaaWaAf1uZKCQrdVtJCU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-8dc1fd-dark.svg"><img alt="I Don&#39;t Care · Crunkz" src="assets/track-0-8dc1fd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5CoyehKB0YLoZXEadvCFOP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-8dc1fd-dark.svg"><img alt="The Unknown · PALASTIC, Sam Welch" src="assets/track-1-8dc1fd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3JWKhPP6muh6tjR8b7PDOb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-8dc1fd-dark.svg"><img alt="Paperplanes · BUNT." src="assets/track-2-8dc1fd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7gA0Lp5H34o6EF9RUkHEeU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-8dc1fd-dark.svg"><img alt="Little Lies · Don Diablo" src="assets/track-3-8dc1fd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6I3vPqMmEv0pjRBxKBnrk7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-8dc1fd-dark.svg"><img alt="Nobody · 19Clouds" src="assets/track-4-8dc1fd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7wwA5QBXfOkeYHzNbbVXtT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-8dc1fd-dark.svg"><img alt="Same Mistake - But Different Remix · Jan Blomqvist" src="assets/track-5-8dc1fd-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5bdsJjT3F16HDcjatOZzzB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-8dc1fd-dark.svg"><img alt="volver a sentir · Lujavo" src="assets/track-6-8dc1fd-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,734 commits</summary>
+<summary><b>2026</b> · 2,737 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,097 commits</summary>
+<summary>November 2026 · 1,100 commits</summary>
 <br>
 
 <picture>
