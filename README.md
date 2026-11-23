@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-993935-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-993935-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3NWRapFZSlpHXO38LW21rw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-993935-dark.svg"><img alt="La leçon particulière · Lavern, Francis Lai" src="assets/track-0-993935-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1fzzHLUQXLYirq6IqiDxYd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-993935-dark.svg"><img alt="Cimmerian · Lipless, Blue Noir" src="assets/track-1-993935-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/50VdQjvCLyLJS6BqXQELDB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-993935-dark.svg"><img alt="Harvey · Nico Morano, Mewhy" src="assets/track-2-993935-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0koayp1WcjhQjN5kS5JxoE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-993935-dark.svg"><img alt="The Way It Goes · Swimming Paul" src="assets/track-3-993935-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2Yp20FZndUt36hb0NJHZI8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-993935-dark.svg"><img alt="Strings Attached · Nu Aspect, Arkaden, Sam Welch" src="assets/track-4-993935-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3OUdS6hgCC96JkVsefwzXO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-993935-dark.svg"><img alt="Day &amp; Nite · Don Diablo" src="assets/track-5-993935-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5m2z3gWspjmiOkKZ5QCyxp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-993935-dark.svg"><img alt="Ascend (My Mind Edit) · Dezko" src="assets/track-6-993935-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-d2015a-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-d2015a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/34MXIc0O6IurD1HMPJTN7G"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-d2015a-dark.svg"><img alt="What Do You Really Want? · Crunkz, Mary Jensen" src="assets/track-0-d2015a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3hoPCBEX8OJTJ7WglVEji9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-d2015a-dark.svg"><img alt="Broke Me · Aylone" src="assets/track-1-d2015a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-d2015a-dark.svg"><img alt="Quiver · SILK" src="assets/track-2-d2015a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/33H8UijE4CQKQ0hVKBJ7WK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-d2015a-dark.svg"><img alt="Open Your Mind · Jhay Rivas" src="assets/track-3-d2015a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2N1teUVGfP3vWKKGq0ZxvH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-d2015a-dark.svg"><img alt="All I Need · NOTSOBAD" src="assets/track-4-d2015a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/23YAweZPLgWqOTJdpvSv1O"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-d2015a-dark.svg"><img alt="2 Things · Don Diablo" src="assets/track-5-d2015a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7gMJJls35fuSmMHwOTgetd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-d2015a-dark.svg"><img alt="Dime · SAVED" src="assets/track-6-d2015a-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,747 commits</summary>
+<summary><b>2026</b> · 2,748 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,110 commits</summary>
+<summary>November 2026 · 1,111 commits</summary>
 <br>
 
 <picture>
