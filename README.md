@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-9776d8-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-9776d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/26qQoGK9dm2M6M16sjisAh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-9776d8-dark.svg"><img alt="Lune - Mindchatter Remix · Kasbo, Mindchatter, Vancouver Sleep Clinic" src="assets/track-0-9776d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6Kl0BmROA5CAwtQOEFd99y"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-9776d8-dark.svg"><img alt="Human · Lavern" src="assets/track-1-9776d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3PtB5ZwwrrbyVMzd3KVSKI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-9776d8-dark.svg"><img alt="Adjoined · adjoin" src="assets/track-2-9776d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/74miq4ubMDpEZWtdEh8u9R"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-9776d8-dark.svg"><img alt="Sunday · Møme, Goldwash" src="assets/track-3-9776d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2OBaoP7DfWvlm4gc0QPkgg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-9776d8-dark.svg"><img alt="The Best Part · anamē, gardenstate, Bien" src="assets/track-4-9776d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/16vsw3UO3DmSmRDzmoaHx7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-9776d8-dark.svg"><img alt="lOnDn · EMBRZ" src="assets/track-5-9776d8-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2zEBCx9JYDmmgbeC0xD33j"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-9776d8-dark.svg"><img alt="Pain · ANDREA CALABRIA" src="assets/track-6-9776d8-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-bcc97d-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-bcc97d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6H11By2kRQ3czkMX13ecUD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-bcc97d-dark.svg"><img alt="ID (If there&#39;s one thing) · Lumine" src="assets/track-0-bcc97d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7E4k65CjSEhmEUZ0y2E47A"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-bcc97d-dark.svg"><img alt="WHEN IT COMES TO YOU · Angrybaby" src="assets/track-1-bcc97d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-bcc97d-dark.svg"><img alt="Big Jet Plane · Restricted" src="assets/track-2-bcc97d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/26qQoGK9dm2M6M16sjisAh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-bcc97d-dark.svg"><img alt="Lune - Mindchatter Remix · Kasbo, Mindchatter, Vancouver Sleep Clinic" src="assets/track-3-bcc97d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6Kl0BmROA5CAwtQOEFd99y"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-bcc97d-dark.svg"><img alt="Human · Lavern" src="assets/track-4-bcc97d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3PtB5ZwwrrbyVMzd3KVSKI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-bcc97d-dark.svg"><img alt="Adjoined · adjoin" src="assets/track-5-bcc97d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/74miq4ubMDpEZWtdEh8u9R"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-bcc97d-dark.svg"><img alt="Sunday · Møme, Goldwash" src="assets/track-6-bcc97d-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,710 commits</summary>
+<summary><b>2026</b> · 2,713 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,073 commits</summary>
+<summary>November 2026 · 1,076 commits</summary>
 <br>
 
 <picture>
