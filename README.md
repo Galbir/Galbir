@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-028090-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-028090-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-028090-dark.svg"><img alt="Lioness · Swedish House Mafia, Niki &amp; The Dove" src="assets/track-0-028090-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1cQCdozRmaErXowT6iDQML"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-028090-dark.svg"><img alt="TROJAN HORSE · SEBASTIAN PAUL" src="assets/track-1-028090-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3C2OYWQFRVEo4QoHZKTNBK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-028090-dark.svg"><img alt="You · BUNT., Oaks" src="assets/track-2-028090-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7mA03cPnG3UkLgf1ed87fI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-028090-dark.svg"><img alt="Gipsy · Moksi, Haj" src="assets/track-3-028090-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1EXENmPTpn9d2JBJJKZnmQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-028090-dark.svg"><img alt="Visions · Lane 8, RBBTS" src="assets/track-4-028090-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5Cnd4KnPQROrCGPILvlkDl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-028090-dark.svg"><img alt="Let Your Body Fly · MAISON ROYALE" src="assets/track-5-028090-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1wRxmrzdn2EVMsogiWeTp1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-028090-dark.svg"><img alt="Leaving Something Behind · Graz" src="assets/track-6-028090-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-f2996f-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-f2996f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4ube140Sc6I4YXTVJSrrJr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-f2996f-dark.svg"><img alt="Smile On My Face · Nohr" src="assets/track-0-f2996f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/33RYK0MtZkXILgbn9ngEJO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-f2996f-dark.svg"><img alt="Sky Is The Limit - Deluxe Mix · Lost Frequencies, Jake Reese" src="assets/track-1-f2996f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2aahxM4jGWFWgMzmHpelAR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-f2996f-dark.svg"><img alt="Caught in a Dream · PALASTIC, LissA" src="assets/track-2-f2996f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2xwuF416Ql7MERGUpG7ClD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-f2996f-dark.svg"><img alt="Embrasse moi · VD, Bleue" src="assets/track-3-f2996f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0sEkSDwCxjik95zgWLuzd5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-f2996f-dark.svg"><img alt="Don&#39;t You Cry · Sunday Scaries, Discrete" src="assets/track-4-f2996f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1T4U8Q2DRfs6OUg8DEsRZf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-f2996f-dark.svg"><img alt="Bad · Don Diablo, Zak Abel" src="assets/track-5-f2996f-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/34MXIc0O6IurD1HMPJTN7G"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-f2996f-dark.svg"><img alt="What Do You Really Want? · Crunkz, Mary Jensen" src="assets/track-6-f2996f-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,719 commits</summary>
+<summary><b>2026</b> · 2,720 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,082 commits</summary>
+<summary>November 2026 · 1,083 commits</summary>
 <br>
 
 <picture>
