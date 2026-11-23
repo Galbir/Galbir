@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-3088e5-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-3088e5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3h4K8EOqmbnfdpemic1XUW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-3088e5-dark.svg"><img alt="Not Alone - Don Diablo VIP Mix · Don Diablo, Azteck" src="assets/track-0-3088e5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/21vVDT4UVJ9hMKym7qbBQX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-3088e5-dark.svg"><img alt="Psilocybin · Babsy." src="assets/track-1-3088e5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4YlPfwx8aqehj7eSAhtS23"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-3088e5-dark.svg"><img alt="Maybe Not · Jan Blomqvist" src="assets/track-2-3088e5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6RZUNyKYwG49WciCii4O24"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-3088e5-dark.svg"><img alt="Empty Echoes · Aylone" src="assets/track-3-3088e5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/28pyXNW0jwILn3SZ0zIzJc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-3088e5-dark.svg"><img alt="Face To Face · Don Diablo, WATTS" src="assets/track-4-3088e5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0fw46rvzAX06J2y4gAY5Jq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-3088e5-dark.svg"><img alt="Time in the Afternoon · orbit" src="assets/track-5-3088e5-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/48kSIoilzvfdf9c1jh0P2P"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-3088e5-dark.svg"><img alt="ANIMA · DISHYPE, AEME" src="assets/track-6-3088e5-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-6a7aae-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-6a7aae-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5aYA3xB53IuRAMp0jZ1al1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-6a7aae-dark.svg"><img alt="Lucky Ones · Don Diablo" src="assets/track-0-6a7aae-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6wgmzw64fvWGVNfDRbOHFh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-6a7aae-dark.svg"><img alt="Friday Night · orbit" src="assets/track-1-6a7aae-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4DN7cioGrw9T5RfCLzYUF9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-6a7aae-dark.svg"><img alt="Freeze · Kygo" src="assets/track-2-6a7aae-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5qM4xXjaE3XDmv86oFCRoj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-6a7aae-dark.svg"><img alt="Strider · MEMBA" src="assets/track-3-6a7aae-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4pEEaVhg7B1JJks7HmBNQI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-6a7aae-dark.svg"><img alt="Sail Away · Møme, Ricky Ducati" src="assets/track-4-6a7aae-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0oPY3LJs5ABIwhhtFlIfuL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-6a7aae-dark.svg"><img alt="apoastro · DISHYPE" src="assets/track-5-6a7aae-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6QcU4iwfLjjsrW7zsqyc1D"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-6a7aae-dark.svg"><img alt="The Space In Between - Ben Böhmer Remix · Jan Blomqvist, Ben Böhmer" src="assets/track-6-6a7aae-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,741 commits</summary>
+<summary><b>2026</b> · 2,742 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,104 commits</summary>
+<summary>November 2026 · 1,105 commits</summary>
 <br>
 
 <picture>
