@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-f795a2-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-f795a2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/002imz3C62IODPorW2MXiE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-f795a2-dark.svg"><img alt="Have It All · ANDREA CALABRIA" src="assets/track-0-f795a2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4RV1xl2Y3yuYiw4hz5WPxr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-f795a2-dark.svg"><img alt="love yourself · iilliaa" src="assets/track-1-f795a2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7wrzn0qwqIvhfsLAG5BimM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-f795a2-dark.svg"><img alt="More · Jan Blomqvist, Elena Pitoulis" src="assets/track-2-f795a2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0kfNu4qJOo7vgRWDCnMiBa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-f795a2-dark.svg"><img alt="Little Planets - Remix · RIZ LA VIE, Łaszewo" src="assets/track-3-f795a2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3Wt6e7sFI5309XqHrobBfU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-f795a2-dark.svg"><img alt="Not Alone · Don Diablo, Azteck" src="assets/track-4-f795a2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5bRXRA709LlmdfPOROHEpo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-f795a2-dark.svg"><img alt="Care 4 U · Last Sun" src="assets/track-5-f795a2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0AGPwnBhKj3RbhREHgh2wt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-f795a2-dark.svg"><img alt="Black Friday - pretty like the sun (deluxe version) · Lost Frequencies, Tom Odell" src="assets/track-6-f795a2-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-028090-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-028090-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-028090-dark.svg"><img alt="Lioness · Swedish House Mafia, Niki &amp; The Dove" src="assets/track-0-028090-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1cQCdozRmaErXowT6iDQML"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-028090-dark.svg"><img alt="TROJAN HORSE · SEBASTIAN PAUL" src="assets/track-1-028090-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3C2OYWQFRVEo4QoHZKTNBK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-028090-dark.svg"><img alt="You · BUNT., Oaks" src="assets/track-2-028090-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7mA03cPnG3UkLgf1ed87fI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-028090-dark.svg"><img alt="Gipsy · Moksi, Haj" src="assets/track-3-028090-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1EXENmPTpn9d2JBJJKZnmQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-028090-dark.svg"><img alt="Visions · Lane 8, RBBTS" src="assets/track-4-028090-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5Cnd4KnPQROrCGPILvlkDl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-028090-dark.svg"><img alt="Let Your Body Fly · MAISON ROYALE" src="assets/track-5-028090-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1wRxmrzdn2EVMsogiWeTp1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-028090-dark.svg"><img alt="Leaving Something Behind · Graz" src="assets/track-6-028090-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,718 commits</summary>
+<summary><b>2026</b> · 2,719 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,081 commits</summary>
+<summary>November 2026 · 1,082 commits</summary>
 <br>
 
 <picture>
