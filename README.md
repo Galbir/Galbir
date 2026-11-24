@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-6e828d-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-6e828d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5fcIg2K2fGHToWOC8pvuX2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-6e828d-dark.svg"><img alt="Origine · Else" src="assets/track-0-6e828d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6p9iDVWbMCYURdYwIkFsyA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-6e828d-dark.svg"><img alt="Behind the Line · Enfant Sauvage, Møme" src="assets/track-1-6e828d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6M24qezRKtq3GyudKIZnJH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-6e828d-dark.svg"><img alt="Supermoon · Kosco" src="assets/track-2-6e828d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6ugr5lPJY2r7DN4PAAENwx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-6e828d-dark.svg"><img alt="Ocean · Else" src="assets/track-3-6e828d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2dH4UWxucbsfFglVAbfNW3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-6e828d-dark.svg"><img alt="levitation · Aaron Hibell, Felsmann + Tiley" src="assets/track-4-6e828d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7bzks4LGpQUuPKBzJ6iQ7y"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-6e828d-dark.svg"><img alt="Playground · Møme" src="assets/track-5-6e828d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5BNSKMQeldT2crarXj22Oi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-6e828d-dark.svg"><img alt="J&#39;attends que la nuit · Bleu nuage" src="assets/track-6-6e828d-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-116a3d-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-116a3d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6iAOKNXA0JUWxFBwzugcsH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-116a3d-dark.svg"><img alt="Shipwreck · Klangkarussell" src="assets/track-0-116a3d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0kfNu4qJOo7vgRWDCnMiBa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-116a3d-dark.svg"><img alt="Little Planets - Remix · RIZ LA VIE, Łaszewo" src="assets/track-1-116a3d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7zV1nVIqzSvoRKfdRdN853"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-116a3d-dark.svg"><img alt="MEMORY · Alex LeMirage, Fi Sullivan" src="assets/track-2-116a3d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1jc8a5v2ewbx7jAj8nTfHs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-116a3d-dark.svg"><img alt="Young Again · Don Diablo, Sandro Cavazza" src="assets/track-3-116a3d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/645qutGvnWxzD4lbUHC2og"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-116a3d-dark.svg"><img alt="Best Day of My Life (BUNT. Version) (feat. Tom Odell) · BUNT., Tom Odell" src="assets/track-4-116a3d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/40QdEchi3gLmZitmXFef9z"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-116a3d-dark.svg"><img alt="Stay Blessed · Swimming Paul, Alecc Crisostomo, D38" src="assets/track-5-116a3d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/45Q6hkvGtzW0VUybDnQ4n8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-116a3d-dark.svg"><img alt="Beyond the Fire · Don Diablo" src="assets/track-6-116a3d-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,765 commits</summary>
+<summary><b>2026</b> · 2,766 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,128 commits</summary>
+<summary>November 2026 · 1,129 commits</summary>
 <br>
 
 <picture>
