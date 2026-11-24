@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-3aab6b-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-3aab6b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0uU5k5t4YZ1NTnwXCPhga2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-3aab6b-dark.svg"><img alt="It&#39;s A Killa · FISHER, Shermanology" src="assets/track-0-3aab6b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5NcEmaUy1EGAV41jTDiPzz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-3aab6b-dark.svg"><img alt="Chromatic · Anti Up" src="assets/track-1-3aab6b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5ijp0ctfwwkmkR6hWDQnwn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-3aab6b-dark.svg"><img alt="Boom Shakalaka · Moksi, Emy Perez, Digitzz" src="assets/track-2-3aab6b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-3aab6b-dark.svg"><img alt="Afraid To Feel · LF SYSTEM" src="assets/track-3-3aab6b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7gDgphzQU0urJU3AtoLJup"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-3aab6b-dark.svg"><img alt="Dance No More (with Kaleena Zanders) · Sunday Scaries, Kaleena Zanders" src="assets/track-4-3aab6b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-3aab6b-dark.svg"><img alt="It&#39;s That Time - FISHER Remix · Marlon Hoffstadt, FISHER" src="assets/track-5-3aab6b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/52WUqlqnxa0JVcSOCTzbn1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-3aab6b-dark.svg"><img alt="Sunshine (My Girl) · Wuki" src="assets/track-6-3aab6b-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-7f9adc-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-7f9adc-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/43uAAecpFKIzngplASa9nb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-7f9adc-dark.svg"><img alt="Anøther Dimensiøn · Marten Hørger" src="assets/track-0-7f9adc-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2axewNoOiyGrtELfrTHv9r"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-7f9adc-dark.svg"><img alt="Locco · Biscits" src="assets/track-1-7f9adc-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6KrrcOQiX7NQ4h038wKTUy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-7f9adc-dark.svg"><img alt="neck · Mau P" src="assets/track-2-7f9adc-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0LayepGwIR4PgqFkBkYmQB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-7f9adc-dark.svg"><img alt="Just Feels Tight · FISHER" src="assets/track-3-7f9adc-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2e2yKavdT6WQzzMHwNtPFa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-7f9adc-dark.svg"><img alt="In The Yuma (feat. Aatig) · Chris Lake, Aatig" src="assets/track-4-7f9adc-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4tvlhGkTprgA9dY8gfQISz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-7f9adc-dark.svg"><img alt="400 · Chris Lake" src="assets/track-5-7f9adc-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2xVDlAuxS6rhEMXOlX9h07"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-7f9adc-dark.svg"><img alt="Cry For You (2025) · SIDEPIECE" src="assets/track-6-7f9adc-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,789 commits</summary>
+<summary><b>2026</b> · 2,790 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,152 commits</summary>
+<summary>November 2026 · 1,153 commits</summary>
 <br>
 
 <picture>
