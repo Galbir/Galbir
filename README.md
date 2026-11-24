@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-f913e1-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-f913e1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4woprVN4PLmhBhqAVi09YF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-f913e1-dark.svg"><img alt="What&#39;s in My Head · Nu Aspect" src="assets/track-0-f913e1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6mTnH6xSYwKohtsO9RFzcc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-f913e1-dark.svg"><img alt="We Are Mirage · Eric Prydz, Empire Of The Sun" src="assets/track-1-f913e1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/52voPNyNopHsXitvGfBTs9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-f913e1-dark.svg"><img alt="How Far · oskar med k" src="assets/track-2-f913e1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3RLaSPsdvw5pZXPIaSbcfG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-f913e1-dark.svg"><img alt="Anything For You · Nyday" src="assets/track-3-f913e1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2NDGPprbbC09PhpBRxPjjS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-f913e1-dark.svg"><img alt="NEW DAY · Dezko" src="assets/track-4-f913e1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2n7A2rUONT2wWAVrOjRzHV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-f913e1-dark.svg"><img alt="Far Away Place · Xinobi, Vaarwell" src="assets/track-5-f913e1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4DxpIvvjgpaZDhoHwlfaY1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-f913e1-dark.svg"><img alt="Echo · Lynnic, ItsArius, Dinia" src="assets/track-6-f913e1-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-585d6a-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-585d6a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6u4CLgult9hhrCqr86B5JW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-585d6a-dark.svg"><img alt="Hear My Call · H:dn" src="assets/track-0-585d6a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6NKbaBFClNbZAJ9nbRPCAX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-585d6a-dark.svg"><img alt="Cruising · Bronze Whale" src="assets/track-1-585d6a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5sldxFuM496Xu7dt6r8Ckl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-585d6a-dark.svg"><img alt="Other Side · AVAION" src="assets/track-2-585d6a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6thBFNZvOqCtN4fU2lDGPs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-585d6a-dark.svg"><img alt="Don&#39;t Say Goodbye · MashBit" src="assets/track-3-585d6a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5Y2n6pW4Vqr4Mzkd9V4Uk8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-585d6a-dark.svg"><img alt="Ray Of Solar · Swedish House Mafia" src="assets/track-4-585d6a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4zD2C558gvS9yfTGhyHbby"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-585d6a-dark.svg"><img alt="With You · Lynnic, ItsArius, Dinia" src="assets/track-5-585d6a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3gCOHPzD8BICRM5xR1XBQS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-585d6a-dark.svg"><img alt="Lost My Mind (Wake Up) · BUNT., Elley Duhé" src="assets/track-6-585d6a-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,780 commits</summary>
+<summary><b>2026</b> · 2,784 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,143 commits</summary>
+<summary>November 2026 · 1,147 commits</summary>
 <br>
 
 <picture>
