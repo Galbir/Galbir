@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-ae13a2-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-ae13a2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1DuVOAmeoH5MGVCrPhVF3f"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-ae13a2-dark.svg"><img alt="Deja Que Salga La Luna · SAVED" src="assets/track-0-ae13a2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5FY5bSkPdugbE0i1psTU86"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-ae13a2-dark.svg"><img alt="5 Minutes · Don Diablo, Pink Sweat$" src="assets/track-1-ae13a2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5B0gYfKD10F24kzbAEhgEs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-ae13a2-dark.svg"><img alt="Nothing But You (feat. Donnie Sloan &amp; Ricky Ducati) · Devault, Donnie Sloan, Ricky Ducati" src="assets/track-2-ae13a2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4oe9OFiMu3CsL0GAYwdxuV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-ae13a2-dark.svg"><img alt="Mutt · Swimming Paul" src="assets/track-3-ae13a2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5ahbjdXVY43uAZVfhWWE4i"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-ae13a2-dark.svg"><img alt="DOPAMINE · Mild Minds" src="assets/track-4-ae13a2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5N4LejUzOmy6nLe3k8nQvt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-ae13a2-dark.svg"><img alt="siempre te pienso · Lujavo" src="assets/track-5-ae13a2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3EJpdBgJr8iRch5wNq46Cy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-ae13a2-dark.svg"><img alt="4am · Crunkz" src="assets/track-6-ae13a2-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-c1882c-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-c1882c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-c1882c-dark.svg"><img alt="Ascend · Dezko" src="assets/track-0-c1882c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2cjPokboQDr7xI0esIgg0h"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-c1882c-dark.svg"><img alt="Lose Our Minds · Curbi, Jess Ball" src="assets/track-1-c1882c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5xan7XL4YNpsAOL7LhXUPb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-c1882c-dark.svg"><img alt="The Darkside · PALASTIC, Ekko" src="assets/track-2-c1882c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0Tr1fMsT0SkAogFV343Bvy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-c1882c-dark.svg"><img alt="Physique (feat. RBZ) · Don Diablo, MEARSY, RBZ" src="assets/track-3-c1882c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6tE5zuD7eC7cV2O1IyjRLX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-c1882c-dark.svg"><img alt="Anchor Point · Ahmed Spins, Stevo Atambire" src="assets/track-4-c1882c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1zgV3gqWfI2sBaZrolc5g1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-c1882c-dark.svg"><img alt="Luna · Dezko, Bad Milk" src="assets/track-5-c1882c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5cz0EtjFVIl81TNNvljFeK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-c1882c-dark.svg"><img alt="Peace In Silence · BUNT., Nate Traveller" src="assets/track-6-c1882c-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,772 commits</summary>
+<summary><b>2026</b> · 2,773 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,135 commits</summary>
+<summary>November 2026 · 1,136 commits</summary>
 <br>
 
 <picture>
