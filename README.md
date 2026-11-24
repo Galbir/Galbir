@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-a4b691-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-a4b691-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4lD0luu4TIFi0cOPYYoOrw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-a4b691-dark.svg"><img alt="Xtasy · DJ PRESS PLAY, Sunday Scaries, Curry Cartel" src="assets/track-0-a4b691-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/43HyMgR8kq761Np2Ep5veh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-a4b691-dark.svg"><img alt="Bleu Chanel (NA-NO Remix) · ARIA, NA-NO" src="assets/track-1-a4b691-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0sPNxc1YZ3TUZ2B64q5D3x"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-a4b691-dark.svg"><img alt="Hangover · Dynoro" src="assets/track-2-a4b691-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0A5gdlrpAuQqZ2iFgnqBFW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-a4b691-dark.svg"><img alt="Moonlight · Gaullin" src="assets/track-3-a4b691-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7ksAGloyLZyKThB86rErvT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-a4b691-dark.svg"><img alt="Nightlight · ILLENIUM, Annika Wells" src="assets/track-4-a4b691-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0RD27NcbftTkhb1NlxQMGR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-a4b691-dark.svg"><img alt="Sweet Dreams · Marcus Layton" src="assets/track-5-a4b691-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/63bWXWGcWnRQvdS8bJWdkB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-a4b691-dark.svg"><img alt="Love Again (feat. Alida) · Alok, Alida" src="assets/track-6-a4b691-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-5eb45a-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-5eb45a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6B8Hnm1tKMyDNvsd5HzkvK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-5eb45a-dark.svg"><img alt="Sad - Imanbek Remix · Rasster, Imanbek" src="assets/track-0-5eb45a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4F8wogXmIgCXEsi1FK0gH4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-5eb45a-dark.svg"><img alt="HEART ATTACK · BRONSON, ODESZA, Golden Features, lau.ra" src="assets/track-1-5eb45a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4lD0luu4TIFi0cOPYYoOrw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-5eb45a-dark.svg"><img alt="Xtasy · DJ PRESS PLAY, Sunday Scaries, Curry Cartel" src="assets/track-2-5eb45a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4lD0luu4TIFi0cOPYYoOrw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-5eb45a-dark.svg"><img alt="Xtasy · DJ PRESS PLAY, Sunday Scaries, Curry Cartel" src="assets/track-3-5eb45a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/43HyMgR8kq761Np2Ep5veh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-5eb45a-dark.svg"><img alt="Bleu Chanel (NA-NO Remix) · ARIA, NA-NO" src="assets/track-4-5eb45a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0sPNxc1YZ3TUZ2B64q5D3x"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-5eb45a-dark.svg"><img alt="Hangover · Dynoro" src="assets/track-5-5eb45a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0A5gdlrpAuQqZ2iFgnqBFW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-5eb45a-dark.svg"><img alt="Moonlight · Gaullin" src="assets/track-6-5eb45a-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,804 commits</summary>
+<summary><b>2026</b> · 2,805 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,167 commits</summary>
+<summary>November 2026 · 1,168 commits</summary>
 <br>
 
 <picture>
