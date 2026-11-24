@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-81f741-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-81f741-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4h6qnP94JWzDmXLZFdRnn7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-81f741-dark.svg"><img alt="Breathing · Twin Diplomacy, it&#39;s murph" src="assets/track-0-81f741-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4YfOx7W6yHaZnr68VMB2L7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-81f741-dark.svg"><img alt="Skank In A Rave · Hoyd" src="assets/track-1-81f741-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-81f741-dark.svg"><img alt="Sextacy · SIDEPIECE" src="assets/track-2-81f741-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6AN6ILWZaDOgqXd57WVffY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-81f741-dark.svg"><img alt="Keep Raving · Wax Motif" src="assets/track-3-81f741-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7IG7z2PxdV1GItxevJLybZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-81f741-dark.svg"><img alt="Rave Grave · Walker &amp; Royce, VNSSA" src="assets/track-4-81f741-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-81f741-dark.svg"><img alt="Beggin&#39; · Chris Lake, Aluna" src="assets/track-5-81f741-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0qdioELZCdwjwu4cevViD8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-81f741-dark.svg"><img alt="Dipped In $ugar · €URO TRA$H, Yellow Claw" src="assets/track-6-81f741-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-d61f5a-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-d61f5a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3u3ni5vvXU7WNu1cw5MdFs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-d61f5a-dark.svg"><img alt="Feel So Good · Chris Lake, Armand Van Helden" src="assets/track-0-d61f5a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2zYbvO5vIIW9TLz36m260s"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-d61f5a-dark.svg"><img alt="1F2F · €URO TRA$H, Yellow Claw, OGAQUAFINA" src="assets/track-1-d61f5a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5WsSAyixmdLYcl3FRMjZM1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-d61f5a-dark.svg"><img alt="One Three Nine · Zeds Dead, Scrufizzer" src="assets/track-2-d61f5a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6GKyjW8BA1BUMX1BwUyabt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-d61f5a-dark.svg"><img alt="Stimulate · Ship Wrek" src="assets/track-3-d61f5a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4ZYiV1lD5mJEMIdfIaVsBW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-d61f5a-dark.svg"><img alt="Love You Like That · Cloonee" src="assets/track-4-d61f5a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2GkY6fWVFsOi8AjZmnpQwa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-d61f5a-dark.svg"><img alt="PLAY SOME RECORDS · AYYBO, Dances" src="assets/track-5-d61f5a-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6vLKVWEuOCQAWEaHv2yknm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-d61f5a-dark.svg"><img alt="Like I Like It · Mau P" src="assets/track-6-d61f5a-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,794 commits</summary>
+<summary><b>2026</b> · 2,795 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,157 commits</summary>
+<summary>November 2026 · 1,158 commits</summary>
 <br>
 
 <picture>
