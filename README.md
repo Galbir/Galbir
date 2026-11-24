@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-7bf87b-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-7bf87b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/35xZCFGrXkz6KsfOmUMJGz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-7bf87b-dark.svg"><img alt="Deep End - SIDEPIECE Remix · John Summit, SIDEPIECE" src="assets/track-0-7bf87b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/09yhMTRqQ1I1dniu3PoIQi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-7bf87b-dark.svg"><img alt="Don&#39;t Kill My High · Lost Kings, Wiz Khalifa, Social House" src="assets/track-1-7bf87b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2RRpaU7jFVcwo23pthdnBv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-7bf87b-dark.svg"><img alt="Head Shoulders Knees &amp; Toes (feat. Norma Jean Martine) · Ofenbach, Quarterhead, Norma Jean Martine" src="assets/track-2-7bf87b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0suLmBuEbatdochI4tHduq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-7bf87b-dark.svg"><img alt="FEELING GUD · NGHTMRE, SLANDER, Matthew Santos" src="assets/track-3-7bf87b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7JVhXHTnukhOeZqXMbjWm6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-7bf87b-dark.svg"><img alt="I&#39;m No Magician · Vincent, Love, Alexa" src="assets/track-4-7bf87b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/60UOBX36zvPXAmNbccjhQS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-7bf87b-dark.svg"><img alt="Habits (Stay High) (with Felix Samuel) · Jonasu, Felix Samuel" src="assets/track-5-7bf87b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0r8RKKIc4C8G6J9HAHzpaR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-7bf87b-dark.svg"><img alt="UCLA · RL Grime, 24hrs" src="assets/track-6-7bf87b-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-876c7c-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-876c7c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5gDOwzZqoOKrCC95VAxmf8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-876c7c-dark.svg"><img alt="Out Of Time · Why So Sad" src="assets/track-0-876c7c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7MysdJNLp89Xl3zoSd5bC5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-876c7c-dark.svg"><img alt="WET · Wax Motif" src="assets/track-1-876c7c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6GAhe3wXCDJP1RK5lZLyjX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-876c7c-dark.svg"><img alt="Came Up (feat. Post Malone &amp; Key!) · Flosstradamus, FKi 1st, graves, Post Malone, KEY!" src="assets/track-2-876c7c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5FnqMVh9xitqd1ZyNQPvbc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-876c7c-dark.svg"><img alt="If The World Was Ending (feat. Julia Michaels) - Other Remix · JP Saxe, Other, Julia Michaels" src="assets/track-3-876c7c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7yIowaMtc0QkqX9WtRiPNH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-876c7c-dark.svg"><img alt="Take It Away · RL Grime, Ty Dolla $ign, TK Kravitz" src="assets/track-4-876c7c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4ESPuOrSsRcBISzcMlzmY5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-876c7c-dark.svg"><img alt="Sad (feat. Afrojack) · Chico Rose, AFROJACK" src="assets/track-5-876c7c-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0M2b3w9y8lsKqm4r8cq3Sw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-876c7c-dark.svg"><img alt="You Don&#39;t · Marten Hørger, Neon Steve" src="assets/track-6-876c7c-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,795 commits</summary>
+<summary><b>2026</b> · 2,800 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,158 commits</summary>
+<summary>November 2026 · 1,163 commits</summary>
 <br>
 
 <picture>
