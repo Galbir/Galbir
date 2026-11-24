@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-3a404a-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-3a404a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1ZPIAYtvvyABpEVj6l2YK2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-3a404a-dark.svg"><img alt="Yeah The Girls · FISHER, MERYLL" src="assets/track-0-3a404a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1QvyykoBSY4DqBNKk7vouQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-3a404a-dark.svg"><img alt="In The Park · Marco Strous" src="assets/track-1-3a404a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-3a404a-dark.svg"><img alt="Toxic · Chris Lake, Ragie Ban" src="assets/track-2-3a404a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3y3UuLjc5nTLvcBkNk47qV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-3a404a-dark.svg"><img alt="Crave The Bassline · AC Slater, Curbi" src="assets/track-3-3a404a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5oXkfuwL7HieiHzvmWsaGo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-3a404a-dark.svg"><img alt="Concentrate · Anti Up, Chris Lake, Chris Lorenzo" src="assets/track-4-3a404a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/48AcCsCKu5TcIWxna0xaPq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-3a404a-dark.svg"><img alt="MADDEN · JOYRYDE" src="assets/track-5-3a404a-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0SmyaVrzL7j3R9k3pkJgUh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-3a404a-dark.svg"><img alt="Dummy – Chris Lake Remix · Portugal. The Man, Chris Lake" src="assets/track-6-3a404a-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-81f741-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-81f741-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4h6qnP94JWzDmXLZFdRnn7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-81f741-dark.svg"><img alt="Breathing · Twin Diplomacy, it&#39;s murph" src="assets/track-0-81f741-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4YfOx7W6yHaZnr68VMB2L7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-81f741-dark.svg"><img alt="Skank In A Rave · Hoyd" src="assets/track-1-81f741-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-81f741-dark.svg"><img alt="Sextacy · SIDEPIECE" src="assets/track-2-81f741-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6AN6ILWZaDOgqXd57WVffY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-81f741-dark.svg"><img alt="Keep Raving · Wax Motif" src="assets/track-3-81f741-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7IG7z2PxdV1GItxevJLybZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-81f741-dark.svg"><img alt="Rave Grave · Walker &amp; Royce, VNSSA" src="assets/track-4-81f741-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-81f741-dark.svg"><img alt="Beggin&#39; · Chris Lake, Aluna" src="assets/track-5-81f741-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0qdioELZCdwjwu4cevViD8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-81f741-dark.svg"><img alt="Dipped In $ugar · €URO TRA$H, Yellow Claw" src="assets/track-6-81f741-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,793 commits</summary>
+<summary><b>2026</b> · 2,794 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,156 commits</summary>
+<summary>November 2026 · 1,157 commits</summary>
 <br>
 
 <picture>
