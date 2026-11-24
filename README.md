@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-5b77ee-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-5b77ee-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7u0fz3V6cYeYTX91DMmIvQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-5b77ee-dark.svg"><img alt="Food for the Soul · it&#39;s murph" src="assets/track-0-5b77ee-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7oTQukMoZ4IxLuy8k6S1CA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-5b77ee-dark.svg"><img alt="Good Enough · Bronze Whale" src="assets/track-1-5b77ee-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6iAOKNXA0JUWxFBwzugcsH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-5b77ee-dark.svg"><img alt="Shipwreck · Klangkarussell" src="assets/track-2-5b77ee-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0kfNu4qJOo7vgRWDCnMiBa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-5b77ee-dark.svg"><img alt="Little Planets - Remix · RIZ LA VIE, Łaszewo" src="assets/track-3-5b77ee-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7zV1nVIqzSvoRKfdRdN853"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-5b77ee-dark.svg"><img alt="MEMORY · Alex LeMirage, Fi Sullivan" src="assets/track-4-5b77ee-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1jc8a5v2ewbx7jAj8nTfHs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-5b77ee-dark.svg"><img alt="Young Again · Don Diablo, Sandro Cavazza" src="assets/track-5-5b77ee-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/645qutGvnWxzD4lbUHC2og"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-5b77ee-dark.svg"><img alt="Best Day of My Life (BUNT. Version) (feat. Tom Odell) · BUNT., Tom Odell" src="assets/track-6-5b77ee-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-841dee-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-841dee-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/34MXIc0O6IurD1HMPJTN7G"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-841dee-dark.svg"><img alt="What Do You Really Want? · Crunkz, Mary Jensen" src="assets/track-0-841dee-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5Xf2f5z0uPFJkukKYYnGOX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-841dee-dark.svg"><img alt="Ascend - Slowed &amp; Reverb · Dezko" src="assets/track-1-841dee-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/48HjuSOCti5mGKg6rUjAfB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-841dee-dark.svg"><img alt="Crown · BUNT." src="assets/track-2-841dee-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/23tSVCziOnXVAyayQt0Bi7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-841dee-dark.svg"><img alt="Flying · Curbi" src="assets/track-3-841dee-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7Ic9cwzLcMB0yXL4ZyDQUM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-841dee-dark.svg"><img alt="PRESSURE · Jhay Rivas, Alex LeMirage, DNC" src="assets/track-4-841dee-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0ytDnkYrIbFCVu7kyE1XRV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-841dee-dark.svg"><img alt="Sundown · H:dn" src="assets/track-5-841dee-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6HsciwDGvj4AKbxPrBb0yK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-841dee-dark.svg"><img alt="Night Thoughts · Else" src="assets/track-6-841dee-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,766 commits</summary>
+<summary><b>2026</b> · 2,768 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,129 commits</summary>
+<summary>November 2026 · 1,131 commits</summary>
 <br>
 
 <picture>
