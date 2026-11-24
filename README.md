@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-7f9adc-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-7f9adc-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/43uAAecpFKIzngplASa9nb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-7f9adc-dark.svg"><img alt="Anøther Dimensiøn · Marten Hørger" src="assets/track-0-7f9adc-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2axewNoOiyGrtELfrTHv9r"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-7f9adc-dark.svg"><img alt="Locco · Biscits" src="assets/track-1-7f9adc-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6KrrcOQiX7NQ4h038wKTUy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-7f9adc-dark.svg"><img alt="neck · Mau P" src="assets/track-2-7f9adc-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0LayepGwIR4PgqFkBkYmQB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-7f9adc-dark.svg"><img alt="Just Feels Tight · FISHER" src="assets/track-3-7f9adc-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2e2yKavdT6WQzzMHwNtPFa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-7f9adc-dark.svg"><img alt="In The Yuma (feat. Aatig) · Chris Lake, Aatig" src="assets/track-4-7f9adc-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4tvlhGkTprgA9dY8gfQISz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-7f9adc-dark.svg"><img alt="400 · Chris Lake" src="assets/track-5-7f9adc-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2xVDlAuxS6rhEMXOlX9h07"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-7f9adc-dark.svg"><img alt="Cry For You (2025) · SIDEPIECE" src="assets/track-6-7f9adc-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-b70526-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-b70526-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3WBeUXMYcRePMS2DwaNwUD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-b70526-dark.svg"><img alt="MERTHER · Mau P" src="assets/track-0-b70526-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-b70526-dark.svg"><img alt="You Little Beauty · FISHER" src="assets/track-1-b70526-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5KFasflYKU9VnMTthjNXNv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-b70526-dark.svg"><img alt="HYPNOSIS · AYYBO, ero808" src="assets/track-2-b70526-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3T00mhdOYUuM5yiuPs3xhs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-b70526-dark.svg"><img alt="San Frandisco · Dom Dolla" src="assets/track-3-b70526-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0qOmGg55Xzv8xBBJa1rBEI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-b70526-dark.svg"><img alt="Fly With Us · AC Slater, Chris Lorenzo" src="assets/track-4-b70526-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6RyEndueNZDmWNkLIN1G3r"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-b70526-dark.svg"><img alt="Something&#39;s About To Go Down · Anti Up" src="assets/track-5-b70526-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6REtetdQjnG5XZZYITN2FX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-b70526-dark.svg"><img alt="I Remember · Chris Lake" src="assets/track-6-b70526-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,790 commits</summary>
+<summary><b>2026</b> · 2,792 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,153 commits</summary>
+<summary>November 2026 · 1,155 commits</summary>
 <br>
 
 <picture>
