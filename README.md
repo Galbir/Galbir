@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-0a153d-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-0a153d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0Zwn67tX4xwrgk4lVroMCS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-0a153d-dark.svg"><img alt="Love · BUNT., Johan Lenox" src="assets/track-0-0a153d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3pUz2qJe5nqZemi3hhIxMk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-0a153d-dark.svg"><img alt="Where You Are · John Summit, HAYLA" src="assets/track-1-0a153d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4RKpBP6ghJKoNc5V73XGyw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-0a153d-dark.svg"><img alt="Let Go · Neon Tide" src="assets/track-2-0a153d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4bqD1g0JETW3wm2sXD43x5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-0a153d-dark.svg"><img alt="¿Cuál Es El Significado De La Vida? (Versión En Español) · Collem" src="assets/track-3-0a153d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-0a153d-dark.svg"><img alt="All That You Need · Don Diablo" src="assets/track-4-0a153d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/74FuU5Hwhx95s4J1zWKjT4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-0a153d-dark.svg"><img alt="Last Memory · Spacyboi" src="assets/track-5-0a153d-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2T3hmxdfYj2alR0Iv2Tl0c"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-0a153d-dark.svg"><img alt="Chihiro · Gravagerz" src="assets/track-6-0a153d-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-ae13a2-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-ae13a2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1DuVOAmeoH5MGVCrPhVF3f"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-ae13a2-dark.svg"><img alt="Deja Que Salga La Luna · SAVED" src="assets/track-0-ae13a2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5FY5bSkPdugbE0i1psTU86"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-ae13a2-dark.svg"><img alt="5 Minutes · Don Diablo, Pink Sweat$" src="assets/track-1-ae13a2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5B0gYfKD10F24kzbAEhgEs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-ae13a2-dark.svg"><img alt="Nothing But You (feat. Donnie Sloan &amp; Ricky Ducati) · Devault, Donnie Sloan, Ricky Ducati" src="assets/track-2-ae13a2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4oe9OFiMu3CsL0GAYwdxuV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-ae13a2-dark.svg"><img alt="Mutt · Swimming Paul" src="assets/track-3-ae13a2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5ahbjdXVY43uAZVfhWWE4i"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-ae13a2-dark.svg"><img alt="DOPAMINE · Mild Minds" src="assets/track-4-ae13a2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5N4LejUzOmy6nLe3k8nQvt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-ae13a2-dark.svg"><img alt="siempre te pienso · Lujavo" src="assets/track-5-ae13a2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3EJpdBgJr8iRch5wNq46Cy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-ae13a2-dark.svg"><img alt="4am · Crunkz" src="assets/track-6-ae13a2-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,769 commits</summary>
+<summary><b>2026</b> · 2,772 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,132 commits</summary>
+<summary>November 2026 · 1,135 commits</summary>
 <br>
 
 <picture>
