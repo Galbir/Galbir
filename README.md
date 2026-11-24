@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-da27ee-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-da27ee-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7wNKtCzafd3om6QKiub1Js"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-da27ee-dark.svg"><img alt="Moment · BUNT." src="assets/track-0-da27ee-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/61XEPnW5oMUGXJpdRdaEvk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-da27ee-dark.svg"><img alt="Tears For Later · Don Diablo, Galantis" src="assets/track-1-da27ee-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4LOZluaGCD0yueMvqDfZn8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-da27ee-dark.svg"><img alt="Something Real · Nu Aspect" src="assets/track-2-da27ee-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-da27ee-dark.svg"><img alt="Heaven Takes You Home (feat. Connie Constance) · Swedish House Mafia, Constance Power" src="assets/track-3-da27ee-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4aU3QqVpa51cuNhaDxDzYc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-da27ee-dark.svg"><img alt="Into You · Natascha Polké" src="assets/track-4-da27ee-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6ppGzAqOYbN5INO8Q8dmK4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-da27ee-dark.svg"><img alt="in my heart · butter" src="assets/track-5-da27ee-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6H11By2kRQ3czkMX13ecUD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-da27ee-dark.svg"><img alt="ID (If there&#39;s one thing) · Lumine" src="assets/track-6-da27ee-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-0a153d-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-0a153d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0Zwn67tX4xwrgk4lVroMCS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-0a153d-dark.svg"><img alt="Love · BUNT., Johan Lenox" src="assets/track-0-0a153d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3pUz2qJe5nqZemi3hhIxMk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-0a153d-dark.svg"><img alt="Where You Are · John Summit, HAYLA" src="assets/track-1-0a153d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4RKpBP6ghJKoNc5V73XGyw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-0a153d-dark.svg"><img alt="Let Go · Neon Tide" src="assets/track-2-0a153d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4bqD1g0JETW3wm2sXD43x5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-0a153d-dark.svg"><img alt="¿Cuál Es El Significado De La Vida? (Versión En Español) · Collem" src="assets/track-3-0a153d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-0a153d-dark.svg"><img alt="All That You Need · Don Diablo" src="assets/track-4-0a153d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/74FuU5Hwhx95s4J1zWKjT4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-0a153d-dark.svg"><img alt="Last Memory · Spacyboi" src="assets/track-5-0a153d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2T3hmxdfYj2alR0Iv2Tl0c"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-0a153d-dark.svg"><img alt="Chihiro · Gravagerz" src="assets/track-6-0a153d-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,768 commits</summary>
+<summary><b>2026</b> · 2,769 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,131 commits</summary>
+<summary>November 2026 · 1,132 commits</summary>
 <br>
 
 <picture>
