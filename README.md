@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-5f2202-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-5f2202-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-5f2202-dark.svg"><img alt="Summer Days (feat. Macklemore &amp; Patrick Stump of Fall Out Boy) · Martin Garrix, Macklemore, Fall Out Boy" src="assets/track-0-5f2202-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/023H4I7HJnxRqsc9cqeFKV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-5f2202-dark.svg"><img alt="I Got U · Duke Dumont, Jax Jones" src="assets/track-1-5f2202-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-5f2202-dark.svg"><img alt="China · Anuel AA, Daddy Yankee, KAROL G, J Balvin, Ozuna" src="assets/track-2-5f2202-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2XPpnenkHVw69VymWLw5Mt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-5f2202-dark.svg"><img alt="How You Samba · Kris Kross Amsterdam, Sofía Reyes, Tinie Tempah" src="assets/track-3-5f2202-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3zU9rdflI65tK4dkkNSp77"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-5f2202-dark.svg"><img alt="Heroes (we could be) · Alesso, Tove Lo" src="assets/track-4-5f2202-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0qP4QTGEmlslzEWIqF5oNs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-5f2202-dark.svg"><img alt="Home · Mahalo, Swedish Red Elephant" src="assets/track-5-5f2202-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-5f2202-dark.svg"><img alt="Want You · Dezko" src="assets/track-6-5f2202-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-3aab6b-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-3aab6b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0uU5k5t4YZ1NTnwXCPhga2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-3aab6b-dark.svg"><img alt="It&#39;s A Killa · FISHER, Shermanology" src="assets/track-0-3aab6b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5NcEmaUy1EGAV41jTDiPzz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-3aab6b-dark.svg"><img alt="Chromatic · Anti Up" src="assets/track-1-3aab6b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5ijp0ctfwwkmkR6hWDQnwn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-3aab6b-dark.svg"><img alt="Boom Shakalaka · Moksi, Emy Perez, Digitzz" src="assets/track-2-3aab6b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-3aab6b-dark.svg"><img alt="Afraid To Feel · LF SYSTEM" src="assets/track-3-3aab6b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7gDgphzQU0urJU3AtoLJup"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-3aab6b-dark.svg"><img alt="Dance No More (with Kaleena Zanders) · Sunday Scaries, Kaleena Zanders" src="assets/track-4-3aab6b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-3aab6b-dark.svg"><img alt="It&#39;s That Time - FISHER Remix · Marlon Hoffstadt, FISHER" src="assets/track-5-3aab6b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/52WUqlqnxa0JVcSOCTzbn1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-3aab6b-dark.svg"><img alt="Sunshine (My Girl) · Wuki" src="assets/track-6-3aab6b-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,785 commits</summary>
+<summary><b>2026</b> · 2,789 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,148 commits</summary>
+<summary>November 2026 · 1,152 commits</summary>
 <br>
 
 <picture>
