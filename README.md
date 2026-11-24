@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-da7e8b-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-da7e8b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2sWoHZ5qDnppTDlZwjZrl2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-da7e8b-dark.svg"><img alt="When Ur Gone · REMY QUINN" src="assets/track-0-da7e8b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/43noj7erQp0en3LWB5pBF4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-da7e8b-dark.svg"><img alt="Can&#39;t Help But Think About You · Lincoln Jesser, EMME" src="assets/track-1-da7e8b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0HWt1VRBM1b6beVmcjPxIH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-da7e8b-dark.svg"><img alt="More Than You Ever Know · Sultan + Shepard, Angela McCluskey" src="assets/track-2-da7e8b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0VWfG35i4baw8AbN9hvYpS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-da7e8b-dark.svg"><img alt="EYES · The Blaze" src="assets/track-3-da7e8b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/10LaWULFua6bDsV07I7opz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-da7e8b-dark.svg"><img alt="Miss You - Extended · Nu Aspect, Jamis, Poppy Baskcomb" src="assets/track-4-da7e8b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6ctWstoouxCcvuTsd4cHNS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-da7e8b-dark.svg"><img alt="Desire - Gryffin Remix · Olly Alexander (Years &amp; Years), Gryffin" src="assets/track-5-da7e8b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-da7e8b-dark.svg"><img alt="Lioness · Swedish House Mafia, Niki &amp; The Dove" src="assets/track-6-da7e8b-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-f913e1-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-f913e1-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4woprVN4PLmhBhqAVi09YF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-f913e1-dark.svg"><img alt="What&#39;s in My Head · Nu Aspect" src="assets/track-0-f913e1-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6mTnH6xSYwKohtsO9RFzcc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-f913e1-dark.svg"><img alt="We Are Mirage · Eric Prydz, Empire Of The Sun" src="assets/track-1-f913e1-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/52voPNyNopHsXitvGfBTs9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-f913e1-dark.svg"><img alt="How Far · oskar med k" src="assets/track-2-f913e1-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3RLaSPsdvw5pZXPIaSbcfG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-f913e1-dark.svg"><img alt="Anything For You · Nyday" src="assets/track-3-f913e1-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2NDGPprbbC09PhpBRxPjjS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-f913e1-dark.svg"><img alt="NEW DAY · Dezko" src="assets/track-4-f913e1-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2n7A2rUONT2wWAVrOjRzHV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-f913e1-dark.svg"><img alt="Far Away Place · Xinobi, Vaarwell" src="assets/track-5-f913e1-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4DxpIvvjgpaZDhoHwlfaY1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-f913e1-dark.svg"><img alt="Echo · Lynnic, ItsArius, Dinia" src="assets/track-6-f913e1-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,774 commits</summary>
+<summary><b>2026</b> · 2,780 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,137 commits</summary>
+<summary>November 2026 · 1,143 commits</summary>
 <br>
 
 <picture>
