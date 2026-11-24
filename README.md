@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-7671b0-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-7671b0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4gJNQWDwtrjL0RuWeidraU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-7671b0-dark.svg"><img alt="Off The Deep End · Robby East" src="assets/track-0-7671b0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6siDDghVE7fxel5o7fE4OF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-7671b0-dark.svg"><img alt="Sweater Weather · Gaullin, Julian Perretta" src="assets/track-1-7671b0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3ydFRJUABULlXklU1M24TV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-7671b0-dark.svg"><img alt="Together · SIDEPIECE" src="assets/track-2-7671b0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1DfHMdKC2KEQuxX9NPfmiW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-7671b0-dark.svg"><img alt="Feel That Way · BYOR" src="assets/track-3-7671b0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/27lqXB7rGJIUjMgL8j8BxV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-7671b0-dark.svg"><img alt="So Good (feat. bülow) · Whethan, bülow" src="assets/track-4-7671b0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1lr5prHQn7Q766Ix6eGRKK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-7671b0-dark.svg"><img alt="Freed from Desire (feat. Indiiana) · Drenchill, Indiiana" src="assets/track-5-7671b0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1PzNqhDtJYHVBMOI9Xmx2c"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-7671b0-dark.svg"><img alt="Feel the Fire - MEMBA Remix · pluko, pronouncedyea, MEMBA" src="assets/track-6-7671b0-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-3aead0-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-3aead0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0sPNxc1YZ3TUZ2B64q5D3x"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-3aead0-dark.svg"><img alt="Hangover · Dynoro" src="assets/track-0-3aead0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0A5gdlrpAuQqZ2iFgnqBFW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-3aead0-dark.svg"><img alt="Moonlight · Gaullin" src="assets/track-1-3aead0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7ksAGloyLZyKThB86rErvT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-3aead0-dark.svg"><img alt="Nightlight · ILLENIUM, Annika Wells" src="assets/track-2-3aead0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0RD27NcbftTkhb1NlxQMGR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-3aead0-dark.svg"><img alt="Sweet Dreams · Marcus Layton" src="assets/track-3-3aead0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/63bWXWGcWnRQvdS8bJWdkB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-3aead0-dark.svg"><img alt="Love Again (feat. Alida) · Alok, Alida" src="assets/track-4-3aead0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1gxBf38tUXECRtyW2uzdgU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-3aead0-dark.svg"><img alt="High Enough · Hippie Sabotage" src="assets/track-5-3aead0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3ATwxbyPDsZWvlBdnyKNPQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-3aead0-dark.svg"><img alt="Body - Dzeko Remix · Loud Luxury, Brando, Dzeko" src="assets/track-6-3aead0-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,802 commits</summary>
+<summary><b>2026</b> · 2,804 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,165 commits</summary>
+<summary>November 2026 · 1,167 commits</summary>
 <br>
 
 <picture>
