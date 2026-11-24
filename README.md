@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-c1882c-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-c1882c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-c1882c-dark.svg"><img alt="Ascend · Dezko" src="assets/track-0-c1882c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2cjPokboQDr7xI0esIgg0h"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-c1882c-dark.svg"><img alt="Lose Our Minds · Curbi, Jess Ball" src="assets/track-1-c1882c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5xan7XL4YNpsAOL7LhXUPb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-c1882c-dark.svg"><img alt="The Darkside · PALASTIC, Ekko" src="assets/track-2-c1882c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0Tr1fMsT0SkAogFV343Bvy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-c1882c-dark.svg"><img alt="Physique (feat. RBZ) · Don Diablo, MEARSY, RBZ" src="assets/track-3-c1882c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6tE5zuD7eC7cV2O1IyjRLX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-c1882c-dark.svg"><img alt="Anchor Point · Ahmed Spins, Stevo Atambire" src="assets/track-4-c1882c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1zgV3gqWfI2sBaZrolc5g1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-c1882c-dark.svg"><img alt="Luna · Dezko, Bad Milk" src="assets/track-5-c1882c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5cz0EtjFVIl81TNNvljFeK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-c1882c-dark.svg"><img alt="Peace In Silence · BUNT., Nate Traveller" src="assets/track-6-c1882c-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-da7e8b-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-da7e8b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2sWoHZ5qDnppTDlZwjZrl2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-da7e8b-dark.svg"><img alt="When Ur Gone · REMY QUINN" src="assets/track-0-da7e8b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/43noj7erQp0en3LWB5pBF4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-da7e8b-dark.svg"><img alt="Can&#39;t Help But Think About You · Lincoln Jesser, EMME" src="assets/track-1-da7e8b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0HWt1VRBM1b6beVmcjPxIH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-da7e8b-dark.svg"><img alt="More Than You Ever Know · Sultan + Shepard, Angela McCluskey" src="assets/track-2-da7e8b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0VWfG35i4baw8AbN9hvYpS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-da7e8b-dark.svg"><img alt="EYES · The Blaze" src="assets/track-3-da7e8b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/10LaWULFua6bDsV07I7opz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-da7e8b-dark.svg"><img alt="Miss You - Extended · Nu Aspect, Jamis, Poppy Baskcomb" src="assets/track-4-da7e8b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6ctWstoouxCcvuTsd4cHNS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-da7e8b-dark.svg"><img alt="Desire - Gryffin Remix · Olly Alexander (Years &amp; Years), Gryffin" src="assets/track-5-da7e8b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-da7e8b-dark.svg"><img alt="Lioness · Swedish House Mafia, Niki &amp; The Dove" src="assets/track-6-da7e8b-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,773 commits</summary>
+<summary><b>2026</b> · 2,774 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,136 commits</summary>
+<summary>November 2026 · 1,137 commits</summary>
 <br>
 
 <picture>
