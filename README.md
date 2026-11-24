@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-876c7c-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-876c7c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5gDOwzZqoOKrCC95VAxmf8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-876c7c-dark.svg"><img alt="Out Of Time · Why So Sad" src="assets/track-0-876c7c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7MysdJNLp89Xl3zoSd5bC5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-876c7c-dark.svg"><img alt="WET · Wax Motif" src="assets/track-1-876c7c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6GAhe3wXCDJP1RK5lZLyjX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-876c7c-dark.svg"><img alt="Came Up (feat. Post Malone &amp; Key!) · Flosstradamus, FKi 1st, graves, Post Malone, KEY!" src="assets/track-2-876c7c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5FnqMVh9xitqd1ZyNQPvbc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-876c7c-dark.svg"><img alt="If The World Was Ending (feat. Julia Michaels) - Other Remix · JP Saxe, Other, Julia Michaels" src="assets/track-3-876c7c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7yIowaMtc0QkqX9WtRiPNH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-876c7c-dark.svg"><img alt="Take It Away · RL Grime, Ty Dolla $ign, TK Kravitz" src="assets/track-4-876c7c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4ESPuOrSsRcBISzcMlzmY5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-876c7c-dark.svg"><img alt="Sad (feat. Afrojack) · Chico Rose, AFROJACK" src="assets/track-5-876c7c-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0M2b3w9y8lsKqm4r8cq3Sw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-876c7c-dark.svg"><img alt="You Don&#39;t · Marten Hørger, Neon Steve" src="assets/track-6-876c7c-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-7671b0-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-7671b0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4gJNQWDwtrjL0RuWeidraU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-7671b0-dark.svg"><img alt="Off The Deep End · Robby East" src="assets/track-0-7671b0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6siDDghVE7fxel5o7fE4OF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-7671b0-dark.svg"><img alt="Sweater Weather · Gaullin, Julian Perretta" src="assets/track-1-7671b0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3ydFRJUABULlXklU1M24TV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-7671b0-dark.svg"><img alt="Together · SIDEPIECE" src="assets/track-2-7671b0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1DfHMdKC2KEQuxX9NPfmiW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-7671b0-dark.svg"><img alt="Feel That Way · BYOR" src="assets/track-3-7671b0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/27lqXB7rGJIUjMgL8j8BxV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-7671b0-dark.svg"><img alt="So Good (feat. bülow) · Whethan, bülow" src="assets/track-4-7671b0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1lr5prHQn7Q766Ix6eGRKK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-7671b0-dark.svg"><img alt="Freed from Desire (feat. Indiiana) · Drenchill, Indiiana" src="assets/track-5-7671b0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1PzNqhDtJYHVBMOI9Xmx2c"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-7671b0-dark.svg"><img alt="Feel the Fire - MEMBA Remix · pluko, pronouncedyea, MEMBA" src="assets/track-6-7671b0-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,800 commits</summary>
+<summary><b>2026</b> · 2,802 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,163 commits</summary>
+<summary>November 2026 · 1,165 commits</summary>
 <br>
 
 <picture>
