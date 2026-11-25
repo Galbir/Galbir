@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-323c61-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-323c61-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/67k3MCl3SyzWZL9TO2QRJZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-323c61-dark.svg"><img alt="Who Do You Blame · SAINt JHN" src="assets/track-0-323c61-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4G4CdyOtmmRXJUpV6l2Q8b"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-323c61-dark.svg"><img alt="Take Me (feat. Gloria Kim) · Will Sparks, Gloria Kim" src="assets/track-1-323c61-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7hauyzTQ4EQcksL390cTPU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-323c61-dark.svg"><img alt="Mountains · Lost Kings, MASN" src="assets/track-2-323c61-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4XjwHKoDGFWHFi45edRl7y"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-323c61-dark.svg"><img alt="Look Into My Eyes · Brando" src="assets/track-3-323c61-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5qC0AVIVKuNVWERWtQPIYK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-323c61-dark.svg"><img alt="Aftertaste · Loud Luxury, Morgan St. Jean" src="assets/track-4-323c61-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4qB9e24mvDa5rG93OnmiC8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-323c61-dark.svg"><img alt="Praying To A God - LUKE Remix · Mr. Probz, LUKE" src="assets/track-5-323c61-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/494rSbjxSGfpm8s74CsSnh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-323c61-dark.svg"><img alt="Power Over Me - MEDUZA Remix · Dermot Kennedy, MEDUZA" src="assets/track-6-323c61-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-bc31c3-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-bc31c3-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/20McUFi8KCIVdNDLrkTDuZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-bc31c3-dark.svg"><img alt="Goosebumps · HVME" src="assets/track-0-bc31c3-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1J2OlTIPluzOmf3RX8eKhT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-bc31c3-dark.svg"><img alt="Turn Back Time · Diplo, Sonny Fodera" src="assets/track-1-bc31c3-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1xvh5ujI8fogjmadcLmLBZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-bc31c3-dark.svg"><img alt="Amnesia (feat. GASHI) · Loud Luxury, Ship Wrek, GASHI" src="assets/track-2-bc31c3-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3pcX5f2W1v9p7pwPeFZo3f"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-bc31c3-dark.svg"><img alt="Cult4Ever · SAINt JHN" src="assets/track-3-bc31c3-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1R1JeXOpEA9EpKr76ucscT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-bc31c3-dark.svg"><img alt="Santeria (feat. DIVMOND) · Cafe Disko, DIVMOND" src="assets/track-4-bc31c3-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0kTIH2zbc1jvIHoCOCoNnr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-bc31c3-dark.svg"><img alt="you broke me first - Luca Schreiner Remix · Tate McRae, Luca Schreiner" src="assets/track-5-bc31c3-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7kKjGV4uwLIzPyZVgx7DmP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-bc31c3-dark.svg"><img alt="Bruises - Delta Jack Remix · Lewis Capaldi, Delta Jack" src="assets/track-6-bc31c3-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,809 commits</summary>
+<summary><b>2026</b> · 2,810 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,172 commits</summary>
+<summary>November 2026 · 1,173 commits</summary>
 <br>
 
 <picture>
