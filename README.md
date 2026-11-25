@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-d3b470-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-d3b470-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2duyHVCqcaX2FSwjzuZijF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-d3b470-dark.svg"><img alt="Love Story · Disco Lines, Cassidi" src="assets/track-0-d3b470-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5seWZTjT0U8a7cy3Y5NJQ9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-d3b470-dark.svg"><img alt="Like Gold · Loud Luxury, Frank Walker, Stephen Puth" src="assets/track-1-d3b470-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2D2zAfEkgY4G49idbWiezo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-d3b470-dark.svg"><img alt="The Deep End · Midi Culture" src="assets/track-2-d3b470-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-d3b470-dark.svg"><img alt="Secrets · Regard, RAYE" src="assets/track-3-d3b470-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3hvD3DQ3VrESYgs28DpLWV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-d3b470-dark.svg"><img alt="UCLA - Heimanu Remix · RL Grime, 24hrs, Heimanu" src="assets/track-4-d3b470-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4eepnMmknRTbVPn5wLNLvH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-d3b470-dark.svg"><img alt="Best of You · Harrison" src="assets/track-5-d3b470-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6NPXJKVETSwdKuvAiFkkz0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-d3b470-dark.svg"><img alt="Roses (Imanbek Remix) [Latino Gang] · SAINt JHN, J Balvin" src="assets/track-6-d3b470-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-c666b7-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-c666b7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7rf7IQooyQYJDNDbEbdz88"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-c666b7-dark.svg"><img alt="Like a Punk · YouNotUs, AKA AKA" src="assets/track-0-c666b7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4426XdSm1mf2BmlxClA3IE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-c666b7-dark.svg"><img alt="Selfish · SAINt JHN" src="assets/track-1-c666b7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0HJ7K7uauPS05UqWUkIxGM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-c666b7-dark.svg"><img alt="Let Me Love You - DAZZ Remix · CALVO, DAZZ" src="assets/track-2-c666b7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/51a8iIO8hLXSvbniKwUkB5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-c666b7-dark.svg"><img alt="Trap - Volt Remix · Volt, Lil Baby" src="assets/track-3-c666b7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5KYkOTjScRqp0s65kMLDoN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-c666b7-dark.svg"><img alt="Faded · Vincent Vega, TRØVES" src="assets/track-4-c666b7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-c666b7-dark.svg"><img alt="Goosebumps - Remix · Travis Scott, HVME" src="assets/track-5-c666b7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7kizsInsKbkwsJUBOncDuQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-c666b7-dark.svg"><img alt="ON SOME HIGH · SEBASTIAN PAUL" src="assets/track-6-c666b7-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,810 commits</summary>
+<summary><b>2026</b> · 2,812 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,173 commits</summary>
+<summary>November 2026 · 1,175 commits</summary>
 <br>
 
 <picture>
