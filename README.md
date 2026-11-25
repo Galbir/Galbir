@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-2bee5b-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-2bee5b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0K92KgcnGE6yaAsAEmnhva"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-2bee5b-dark.svg"><img alt="Peace - Kaivon Remix · Alison Wonderland, Kaivon" src="assets/track-0-2bee5b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6Xpa89SPNL04ZhFDCmFRKq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-2bee5b-dark.svg"><img alt="Roses - Imanbek Remix · SAINt JHN, Imanbek" src="assets/track-1-2bee5b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6Xpa89SPNL04ZhFDCmFRKq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-2bee5b-dark.svg"><img alt="Roses - Imanbek Remix · SAINt JHN, Imanbek" src="assets/track-2-2bee5b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6B8Hnm1tKMyDNvsd5HzkvK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-2bee5b-dark.svg"><img alt="Sad - Imanbek Remix · Rasster, Imanbek" src="assets/track-3-2bee5b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4F8wogXmIgCXEsi1FK0gH4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-2bee5b-dark.svg"><img alt="HEART ATTACK · BRONSON, ODESZA, Golden Features, lau.ra" src="assets/track-4-2bee5b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4lD0luu4TIFi0cOPYYoOrw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-2bee5b-dark.svg"><img alt="Xtasy · DJ PRESS PLAY, Sunday Scaries, Curry Cartel" src="assets/track-5-2bee5b-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4lD0luu4TIFi0cOPYYoOrw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-2bee5b-dark.svg"><img alt="Xtasy · DJ PRESS PLAY, Sunday Scaries, Curry Cartel" src="assets/track-6-2bee5b-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-3e4619-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-3e4619-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1kwJP2mZ7NSFvtuAxqtCED"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-3e4619-dark.svg"><img alt="Sunglasses At Night · Eastblock Bitches, OBS" src="assets/track-0-3e4619-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6qXCxJYDFLBnlRwrHJd5gd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-3e4619-dark.svg"><img alt="Heat Waves - Diplo Remix · Glass Animals, Diplo" src="assets/track-1-3e4619-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0GTPmh5G40joBg93vcSQNq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-3e4619-dark.svg"><img alt="Don&#39;t Say Goodbye (feat. Tove Lo) · Alok, Ilkay Sencan, Tove Lo" src="assets/track-2-3e4619-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5xUuRSda2iu9UR1Kf1M5v3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-3e4619-dark.svg"><img alt="Circles · SAINt JHN" src="assets/track-3-3e4619-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3mdQXfrDzAzg7FuCMw9daP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-3e4619-dark.svg"><img alt="Fall Right In · Duke &amp; Jones, Sydnee Carter" src="assets/track-4-3e4619-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5Ut7dImFwBmEoqtnn7nTB4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-3e4619-dark.svg"><img alt="All The Things · Gaullin" src="assets/track-5-3e4619-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5bFuHlXKw66Uu2cHKn5bf8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-3e4619-dark.svg"><img alt="Alive · Zeds Dead, MKLA" src="assets/track-6-3e4619-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,807 commits</summary>
+<summary><b>2026</b> · 2,808 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,170 commits</summary>
+<summary>November 2026 · 1,171 commits</summary>
 <br>
 
 <picture>
