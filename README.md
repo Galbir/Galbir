@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-2445e4-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-2445e4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/274JnatQDo5W54dMdJmTBv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-2445e4-dark.svg"><img alt="Liquid Cocaine · De Hofnar, Giocatori, Locnville" src="assets/track-0-2445e4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-2445e4-dark.svg"><img alt="Memories (feat. Kid Cudi) - 2021 Remix · David Guetta, Kid Cudi" src="assets/track-1-2445e4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2VwRXGDCd0Lr2RxwPc2vm3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-2445e4-dark.svg"><img alt="Psycho! - Topic &amp; B-Case Remix · MASN, Topic, B-Case" src="assets/track-2-2445e4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6jIpfTmCaebJyQxfrZb749"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-2445e4-dark.svg"><img alt="The Best Part of Life · SAINt JHN" src="assets/track-3-2445e4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0tgCh82v9tzhyS3bUU3bg7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-2445e4-dark.svg"><img alt="Crave U (Mixed) · Zack Martino, Lenii" src="assets/track-4-2445e4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1kwJP2mZ7NSFvtuAxqtCED"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-2445e4-dark.svg"><img alt="Sunglasses At Night · Eastblock Bitches, OBS" src="assets/track-5-2445e4-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6qXCxJYDFLBnlRwrHJd5gd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-2445e4-dark.svg"><img alt="Heat Waves - Diplo Remix · Glass Animals, Diplo" src="assets/track-6-2445e4-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-111ddc-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-111ddc-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/053bjKdLLqz33hWwrCLykD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-111ddc-dark.svg"><img alt="CRAZY FOR FALLING · ARIUS, MY BAD, Isaiah Brown" src="assets/track-0-111ddc-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4zBVtVJoMj96SIcevRCX3c"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-111ddc-dark.svg"><img alt="What&#39;s Up · Gaullin, Lucky Luke" src="assets/track-1-111ddc-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7DBdjkgNcnTUrRfKsZaSny"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-111ddc-dark.svg"><img alt="Move With Me - GRYNN Remix · Locals Only Sound, GRYNN" src="assets/track-2-111ddc-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5Q0TrEMgcVtVjcHeUyVj3T"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-111ddc-dark.svg"><img alt="Feedback · Dr. Fresch, Mina Knock" src="assets/track-3-111ddc-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0GA850AWIBdMW3Cfd4ptds"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-111ddc-dark.svg"><img alt="Reflex · SAINt JHN" src="assets/track-4-111ddc-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0p9PFNegaYphvUuKbU9LQm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-111ddc-dark.svg"><img alt="Trap - Rompasso Remix · SAINt JHN, Rompasso" src="assets/track-5-111ddc-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/78XfOXpUShe7mFwhjBEd94"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-111ddc-dark.svg"><img alt="My Best Life (feat. Mike Waters) - Club Mix · KSHMR, Mike Waters" src="assets/track-6-111ddc-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,808 commits</summary>
+<summary><b>2026</b> · 2,809 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,171 commits</summary>
+<summary>November 2026 · 1,172 commits</summary>
 <br>
 
 <picture>
