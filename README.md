@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-e9f507-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-e9f507-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7AqvVywCWgOk7CstkjjAqi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-e9f507-dark.svg"><img alt="Top Down · Gaullin, Lucky Luke, Tim North" src="assets/track-0-e9f507-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5b0TpqZ1gLhA2wx1vsFZhy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-e9f507-dark.svg"><img alt="Trophies · SAINt JHN" src="assets/track-1-e9f507-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4cqoZl61mIxLMak6gFCSIo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-e9f507-dark.svg"><img alt="Don&#39;t Start Now - Kungs Remix · Dua Lipa, Kungs" src="assets/track-2-e9f507-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4CiWLaMrGQ9CR5j604HyoW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-e9f507-dark.svg"><img alt="Destination · DLMT, Mahalo" src="assets/track-3-e9f507-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3pjc4sc6dbpWbfWkC8WHfy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-e9f507-dark.svg"><img alt="Moon &amp; Back · M A I S Ø N, CILVR" src="assets/track-4-e9f507-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1Mu0qs9DQ8OfhiPvHxZMMM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-e9f507-dark.svg"><img alt="Why Do You Lie To Me (feat. Lil Baby) · Topic, A7S, Lil Baby" src="assets/track-5-e9f507-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3tIjJY43mDAhMZxSuDHvjy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-e9f507-dark.svg"><img alt="Lovefool (feat. Pia Mia) · twocolors, Pia Mia" src="assets/track-6-e9f507-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-01bb60-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-01bb60-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0am7uLivhU1mwPNYpK30al"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-01bb60-dark.svg"><img alt="Monica Lewinsky [Feat. A Boogie Wit da Hoodie] · SAINt JHN, A Boogie Wit da Hoodie" src="assets/track-0-01bb60-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3mCWozLIaOzbYzyshABNwD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-01bb60-dark.svg"><img alt="ily (i love you baby) (ARTY Remix) [feat. Emilee] · Surf Mesa, Emilee, ARTY" src="assets/track-1-01bb60-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5fYN8kPYyAWWJUBX57vmXb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-01bb60-dark.svg"><img alt="Details (feat. Boy Matthews) · Oliver Heldens, Boy Matthews" src="assets/track-2-01bb60-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1y9zOwyUjX3koxCsJ50VhA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-01bb60-dark.svg"><img alt="Dancing In The Dark · Frank Walker" src="assets/track-3-01bb60-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/18LhA0zBzAa2YnhcN3hWGa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-01bb60-dark.svg"><img alt="High Right Now · Tyla Yaweh" src="assets/track-4-01bb60-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6zdgOMTi0Jh3paZYX0w4r1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-01bb60-dark.svg"><img alt="As I Am · JLV" src="assets/track-5-01bb60-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2zoB3PpYgwXJH2ZUE8pPK8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-01bb60-dark.svg"><img alt="Would I Lie to You · Froro" src="assets/track-6-01bb60-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,826 commits</summary>
+<summary><b>2026</b> · 2,827 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,189 commits</summary>
+<summary>November 2026 · 1,190 commits</summary>
 <br>
 
 <picture>
