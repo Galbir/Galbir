@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-c4edc0-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-c4edc0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7qrO2oI0A9DW6wQPjSADxx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-c4edc0-dark.svg"><img alt="Say So (Jax Jones Midnight Snack Remix) · Doja Cat, Jax Jones" src="assets/track-0-c4edc0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3gF8IZu75GhdYD4w7AFZi0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-c4edc0-dark.svg"><img alt="I Don&#39;t Wanna Know · Punctual" src="assets/track-1-c4edc0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/12N23tQKmfGcEO0z8ObwtM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-c4edc0-dark.svg"><img alt="Bad Habits - MEDUZA Remix · Ed Sheeran, MEDUZA" src="assets/track-2-c4edc0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6dL3mSVhxW1gkMj7kMAIuA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-c4edc0-dark.svg"><img alt="Touch Me · Harrison" src="assets/track-3-c4edc0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/04M7fW8peW0d9iaJQKWdBn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-c4edc0-dark.svg"><img alt="High School Reunion · SAINt JHN" src="assets/track-4-c4edc0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3GYlQmwfBDo7imFyGPhrl7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-c4edc0-dark.svg"><img alt="Say My Name · Dimitri Vegas &amp; Like Mike, Regard, Dimitri Vegas" src="assets/track-5-c4edc0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7sYAS4CpbV90oSemgaEQat"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-c4edc0-dark.svg"><img alt="On &amp; On · Alok, Dynoro" src="assets/track-6-c4edc0-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-3049b9-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-3049b9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0v8OKUrqZGoEbgEUXScRSQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-3049b9-dark.svg"><img alt="Hear Me Tonight · Alok, THRDL!FE" src="assets/track-0-3049b9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2ZEq4HT450Ye9IFGPTl9qV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-3049b9-dark.svg"><img alt="Lonely · Joel Corry, HARLEE" src="assets/track-1-3049b9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6SxYYTBd2v8a5M6ZOcLTVa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-3049b9-dark.svg"><img alt="Lust · SAINt JHN, Janelle Kroll" src="assets/track-2-3049b9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5WYB4aZkflwjAApBoDCYkz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-3049b9-dark.svg"><img alt="Astronomia - Never Go Home · Tony Igy" src="assets/track-3-3049b9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7iydGgbqWUwYQNKiUXaoWq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-3049b9-dark.svg"><img alt="Lovefool - Nicky Romero Remix · twocolors, Nicky Romero" src="assets/track-4-3049b9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7qrO2oI0A9DW6wQPjSADxx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-3049b9-dark.svg"><img alt="Say So (Jax Jones Midnight Snack Remix) · Doja Cat, Jax Jones" src="assets/track-5-3049b9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3gF8IZu75GhdYD4w7AFZi0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-3049b9-dark.svg"><img alt="I Don&#39;t Wanna Know · Punctual" src="assets/track-6-3049b9-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,816 commits</summary>
+<summary><b>2026</b> · 2,822 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,179 commits</summary>
+<summary>November 2026 · 1,185 commits</summary>
 <br>
 
 <picture>
