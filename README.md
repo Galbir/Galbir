@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-2426a6-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-2426a6-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-2426a6-dark.svg"><img alt="Ride It · Regard" src="assets/track-0-2426a6-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5rqdZvpgQGp3d8zvlpkl6c"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-2426a6-dark.svg"><img alt="Almost Love (feat. Dominic Neill) · James Carter, Dominic Neill" src="assets/track-1-2426a6-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2NZ4qvYRUp8BXfWDodQ85r"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-2426a6-dark.svg"><img alt="I Can Fvcking Tell · SAINt JHN" src="assets/track-2-2426a6-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/20Nj5d5LxOcja9a8JlU6Yi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-2426a6-dark.svg"><img alt="Alien - Topic Remix · Dennis Lloyd, Topic" src="assets/track-3-2426a6-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3rjb2PTHoIEccLRhXKSGje"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-2426a6-dark.svg"><img alt="Forget the Money · Nick Bateman, Alan Watts" src="assets/track-4-2426a6-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1wzNg61uZEepKDRuXOemcq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-2426a6-dark.svg"><img alt="So Cold (feat. Lily Denning) · Mahalo, DLMT, Lily Denning" src="assets/track-5-2426a6-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3kBv2wsk7Yc506iV1otX4b"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-2426a6-dark.svg"><img alt="Praise You · Harrison" src="assets/track-6-2426a6-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-c4edc0-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-c4edc0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7qrO2oI0A9DW6wQPjSADxx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-c4edc0-dark.svg"><img alt="Say So (Jax Jones Midnight Snack Remix) · Doja Cat, Jax Jones" src="assets/track-0-c4edc0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3gF8IZu75GhdYD4w7AFZi0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-c4edc0-dark.svg"><img alt="I Don&#39;t Wanna Know · Punctual" src="assets/track-1-c4edc0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/12N23tQKmfGcEO0z8ObwtM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-c4edc0-dark.svg"><img alt="Bad Habits - MEDUZA Remix · Ed Sheeran, MEDUZA" src="assets/track-2-c4edc0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6dL3mSVhxW1gkMj7kMAIuA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-c4edc0-dark.svg"><img alt="Touch Me · Harrison" src="assets/track-3-c4edc0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/04M7fW8peW0d9iaJQKWdBn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-c4edc0-dark.svg"><img alt="High School Reunion · SAINt JHN" src="assets/track-4-c4edc0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3GYlQmwfBDo7imFyGPhrl7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-c4edc0-dark.svg"><img alt="Say My Name · Dimitri Vegas &amp; Like Mike, Regard, Dimitri Vegas" src="assets/track-5-c4edc0-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7sYAS4CpbV90oSemgaEQat"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-c4edc0-dark.svg"><img alt="On &amp; On · Alok, Dynoro" src="assets/track-6-c4edc0-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,813 commits</summary>
+<summary><b>2026</b> · 2,816 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,176 commits</summary>
+<summary>November 2026 · 1,179 commits</summary>
 <br>
 
 <picture>
