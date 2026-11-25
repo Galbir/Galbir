@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-1618ec-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-1618ec-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5KLwshtPWTMcChikJFo24e"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-1618ec-dark.svg"><img alt="Sunset Lover - Zac Samuel Remix · Petit Biscuit, Zac Samuel" src="assets/track-0-1618ec-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1TJto70BVgptr7yZdmnWYs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-1618ec-dark.svg"><img alt="Op Opa · Gaullin" src="assets/track-1-1618ec-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/54hA0ldJYyT1huGfSeOjdQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-1618ec-dark.svg"><img alt="On My Mind · Diplo, SIDEPIECE" src="assets/track-2-1618ec-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5xdDQFCjgizAurT6Xi5lYT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-1618ec-dark.svg"><img alt="Deep End · John Summit" src="assets/track-3-1618ec-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2bCjaF7cRm53Wdq9RtkYJu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-1618ec-dark.svg"><img alt="Neck And Neck - DNMO Remix · Zeds Dead, Dragonette, DNMO" src="assets/track-4-1618ec-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/40cFdmLD8PO7wOvYHG4qYe"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-1618ec-dark.svg"><img alt="Roses [Feat. Future] · SAINt JHN, Future" src="assets/track-5-1618ec-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/37dVuP5d1BtVDagETMqP3k"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-1618ec-dark.svg"><img alt="IMPATIENT · SEBASTIAN PAUL" src="assets/track-6-1618ec-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-e6abb9-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-e6abb9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4ga4WvRNhMsIL38pkBbnIN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-e6abb9-dark.svg"><img alt="Pressure (feat. Tove Lo) · Martin Garrix, Tove Lo" src="assets/track-0-e6abb9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3rgTS3933lMWoPiN6CW4qY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-e6abb9-dark.svg"><img alt="Kids (feat. MKLA) · KSHMR, Stefy De Cicco, MKLA" src="assets/track-1-e6abb9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1XFHbzTikXks9CsMq4v8Q3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-e6abb9-dark.svg"><img alt="Not So Bad (feat. Emie) · Yves V, Ilkay Sencan, Emie" src="assets/track-2-e6abb9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3hRKkSQISzYF9BNt8bufQz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-e6abb9-dark.svg"><img alt="Fall Apart · Harrison" src="assets/track-3-e6abb9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2kNyfa6BF1WZYDIXKGIHIS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-e6abb9-dark.svg"><img alt="Trampoline - Jauz Remix · SHAED, Jauz" src="assets/track-4-e6abb9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/49ytfsdqEbSXzdLalRIwZS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-e6abb9-dark.svg"><img alt="Deep End - Black V Neck Remix · John Summit, Black V Neck" src="assets/track-5-e6abb9-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5KLwshtPWTMcChikJFo24e"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-e6abb9-dark.svg"><img alt="Sunset Lover - Zac Samuel Remix · Petit Biscuit, Zac Samuel" src="assets/track-6-e6abb9-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,812 commits</summary>
+<summary><b>2026</b> · 2,813 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,175 commits</summary>
+<summary>November 2026 · 1,176 commits</summary>
 <br>
 
 <picture>
