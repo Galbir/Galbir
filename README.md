@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-6284bf-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-6284bf-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1YhPiO7UZrIBwoD4WbkJBG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-6284bf-dark.svg"><img alt="Paradise - Radio Edit · Rompasso" src="assets/track-0-6284bf-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/23Pmod5Tq6TDI0SiAu48pw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-6284bf-dark.svg"><img alt="Endlessly · AVIAN GRAYS, Azteck" src="assets/track-1-6284bf-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0NQNJDRlvB1x4NzbapbcIg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-6284bf-dark.svg"><img alt="Save Me Now · Cat Dealers, Guz Zanotto, Moore" src="assets/track-2-6284bf-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0NQNJDRlvB1x4NzbapbcIg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-6284bf-dark.svg"><img alt="Save Me Now · Cat Dealers, Guz Zanotto, Moore" src="assets/track-3-6284bf-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/71uNY0zkEKMF8UyPtjhod4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-6284bf-dark.svg"><img alt="Piece Of Your Heart - James Hype Remix · MEDUZA, James Hype, Goodboys" src="assets/track-4-6284bf-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5Y9V8yaAnr26JpU6eCPEUf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-6284bf-dark.svg"><img alt="TWENTYMYLOVE · Jannis Block" src="assets/track-5-6284bf-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3AMxuq6id3YGB57eWeheZQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-6284bf-dark.svg"><img alt="Don&#39;t Rush (feat. DaBaby) · Young T &amp; Bugsey, DaBaby" src="assets/track-6-6284bf-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-1c4b28-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-1c4b28-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/50die6LIoe031JoSQrArK7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-1c4b28-dark.svg"><img alt="Head Under Water · Bless You, Lost Boy" src="assets/track-0-1c4b28-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1sc1LUE0z2kiAFG7ZZlcDZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-1c4b28-dark.svg"><img alt="Monsters (feat. 24kGoldn) · Dynoro, 24kGoldn" src="assets/track-1-1c4b28-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7wM22K9tb1zjqkGotb9g04"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-1c4b28-dark.svg"><img alt="Make Me · Kaan Pars" src="assets/track-2-1c4b28-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1CW7tYkpJ95c7bQkRf6CcK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-1c4b28-dark.svg"><img alt="I Wanna Dance · Jonas Blue" src="assets/track-3-1c4b28-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1YhPiO7UZrIBwoD4WbkJBG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-1c4b28-dark.svg"><img alt="Paradise - Radio Edit · Rompasso" src="assets/track-4-1c4b28-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/23Pmod5Tq6TDI0SiAu48pw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-1c4b28-dark.svg"><img alt="Endlessly · AVIAN GRAYS, Azteck" src="assets/track-5-1c4b28-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0NQNJDRlvB1x4NzbapbcIg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-1c4b28-dark.svg"><img alt="Save Me Now · Cat Dealers, Guz Zanotto, Moore" src="assets/track-6-1c4b28-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,827 commits</summary>
+<summary><b>2026</b> · 2,828 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,190 commits</summary>
+<summary>November 2026 · 1,191 commits</summary>
 <br>
 
 <picture>
