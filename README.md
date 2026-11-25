@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-8a8b86-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-8a8b86-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5qHGJ1JN9N0cyhaSfQo9Bi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-8a8b86-dark.svg"><img alt="Tonight (In Your Arms) · WHOCARES, Kaan Pars" src="assets/track-0-8a8b86-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0D4mJ0tLXjOV1kfzl62BPX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-8a8b86-dark.svg"><img alt="Can&#39;t Get You out of My Head · Ugg&#39;A" src="assets/track-1-8a8b86-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3oRwP1keyKB7zRS3aZjmIK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-8a8b86-dark.svg"><img alt="Call Me After You Hear This · SAINt JHN" src="assets/track-2-8a8b86-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7FcT9XALvaUrqYm96ubb3b"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-8a8b86-dark.svg"><img alt="First Time - Disco Fries Remix · M-22, Medina, Disco Fries" src="assets/track-3-8a8b86-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/11gfY8ypPn2QVMqcIUIx7X"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-8a8b86-dark.svg"><img alt="I&#39;ve Been Waiting · Danell Arma" src="assets/track-4-8a8b86-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/35F2tdWosmulYdcmsXpQ7x"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-8a8b86-dark.svg"><img alt="Party Never Ends · Alok, Quintino" src="assets/track-5-8a8b86-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3Ej9gFp9x29QEpU0TDUueh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-8a8b86-dark.svg"><img alt="Like This (feat. AMY MIYÚ) - Carta Edit · SMACK, AMY MIYÚ, Carta" src="assets/track-6-8a8b86-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-621ee1-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-621ee1-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5EcrpUXWLgvF449h5csxUe"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-621ee1-dark.svg"><img alt="recluse · vowl., Brock Wilson" src="assets/track-0-621ee1-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4B84Z3dEIuzkJ3SrSzi6Dw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-621ee1-dark.svg"><img alt="Phantom - Radio Edit · Rasster, Honso" src="assets/track-1-621ee1-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2zIsLfNas0SC9M1v8fqtCi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-621ee1-dark.svg"><img alt="NEW DAY · Michael Prado, Vandelux" src="assets/track-2-621ee1-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4p0GHOWH3hp9ZUVGd46Bhl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-621ee1-dark.svg"><img alt="Tarantino (feat. Roshin) · WILL K, Roshin" src="assets/track-3-621ee1-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/18NHzXIT8AIkjuDyQhoSBB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-621ee1-dark.svg"><img alt="Go Up · BLEM, ILY" src="assets/track-4-621ee1-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4rm8EsCIt3KxJGxfEhYHd9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-621ee1-dark.svg"><img alt="Anything Can Happen [Feat. Meek Mill] · SAINt JHN, Meek Mill" src="assets/track-5-621ee1-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2S5lRRwwIIzB5pE5N9z9BI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-621ee1-dark.svg"><img alt="Details (feat. Boy Matthews) - Ferreck Dawn Remix · Oliver Heldens, Boy Matthews, Ferreck Dawn" src="assets/track-6-621ee1-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,825 commits</summary>
+<summary><b>2026</b> · 2,826 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,188 commits</summary>
+<summary>November 2026 · 1,189 commits</summary>
 <br>
 
 <picture>
