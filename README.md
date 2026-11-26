@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-5420c0-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-5420c0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/54hA0ldJYyT1huGfSeOjdQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-5420c0-dark.svg"><img alt="On My Mind · Diplo, SIDEPIECE" src="assets/track-0-5420c0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/15Q2vy8buBjCbYI2EKbXlc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-5420c0-dark.svg"><img alt="One Thing Right - Firebeatz Remix · Marshmello, Kane Brown, Firebeatz" src="assets/track-1-5420c0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-5420c0-dark.svg"><img alt="All This Time · Deorro" src="assets/track-2-5420c0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/18ktwdSdzDaW7gt6KPgrwW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-5420c0-dark.svg"><img alt="Keeps Me High (WHOCARES Remix) · HADES, WHOCARES" src="assets/track-3-5420c0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5sPJPiDr73PgyVvhjiLvQQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-5420c0-dark.svg"><img alt="Monica Lewinsky, Election Year [Feat. DaBaby, A Boogie Wit da Hoodie] · SAINt JHN, DaBaby, A Boogie Wit da Hoodie" src="assets/track-4-5420c0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3iVjnvBCpV2kzApQi7C29D"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-5420c0-dark.svg"><img alt="Youngblood · STRANGE ROVER" src="assets/track-5-5420c0-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7sFk2PA3NsrrSsGa4CM3rs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-5420c0-dark.svg"><img alt="Lose You · Tiësto, ILIRA" src="assets/track-6-5420c0-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-e93c47-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-e93c47-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4gJNQWDwtrjL0RuWeidraU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-e93c47-dark.svg"><img alt="Off The Deep End · Robby East" src="assets/track-0-e93c47-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6WiGRFQfx2qw49MA7OeDYK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-e93c47-dark.svg"><img alt="Purple Hat · SOFI TUKKER" src="assets/track-1-e93c47-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5Vt2RvS1jDGbuMhQltnMQE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-e93c47-dark.svg"><img alt="Oxygen · OSVISS" src="assets/track-2-e93c47-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2wlJujDcmEpJ4egO6Sx56w"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-e93c47-dark.svg"><img alt="Can&#39;t Let Go (feat. Harry Hudson) · Frank Walker, Harry Hudson" src="assets/track-3-e93c47-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2KYnSFIrSbaKUXWetW7Klt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-e93c47-dark.svg"><img alt="Looking For Me · Paul Woolford, Diplo, Kareen Lomax" src="assets/track-4-e93c47-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5xdDQFCjgizAurT6Xi5lYT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-e93c47-dark.svg"><img alt="Deep End · John Summit" src="assets/track-5-e93c47-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5P2LWuGl7FvtOr3Pa5gwe6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-e93c47-dark.svg"><img alt="Hey Baby · Imanbek, AFROJACK, Gia Koka" src="assets/track-6-e93c47-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,841 commits</summary>
+<summary><b>2026</b> · 2,842 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,204 commits</summary>
+<summary>November 2026 · 1,205 commits</summary>
 <br>
 
 <picture>
