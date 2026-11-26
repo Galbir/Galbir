@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-beb9f2-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-beb9f2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4vjflp3ZHBCnIetwDAt44Q"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-beb9f2-dark.svg"><img alt="I Heard You Got Too Litt Last Night · SAINt JHN" src="assets/track-0-beb9f2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1DfHMdKC2KEQuxX9NPfmiW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-beb9f2-dark.svg"><img alt="Feel That Way · BYOR" src="assets/track-1-beb9f2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2bIKe3dHpCehE7KAtySUN5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-beb9f2-dark.svg"><img alt="CITY OF ANGELS - Futosé Remix · 24kGoldn, Futosé" src="assets/track-2-beb9f2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/48tI68zHn3r3uHmGxdkKDd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-beb9f2-dark.svg"><img alt="Pullin Up · Soda" src="assets/track-3-beb9f2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4v7kKFlEDmpVToHOICsXaM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-beb9f2-dark.svg"><img alt="Hooked · NOTION" src="assets/track-4-beb9f2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0Ls9Bu2iYc2Bj0dVzdsHK5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-beb9f2-dark.svg"><img alt="I Know · SENSE" src="assets/track-5-beb9f2-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4pDWppmuWPpfITO4Lq9avT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-beb9f2-dark.svg"><img alt="Soon Not Later · Lady Bee, Dame1" src="assets/track-6-beb9f2-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-78d6a8-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-78d6a8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7kizsInsKbkwsJUBOncDuQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-78d6a8-dark.svg"><img alt="ON SOME HIGH · SEBASTIAN PAUL" src="assets/track-0-78d6a8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3DVc4VCjFaBAZF9OFquQqV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-78d6a8-dark.svg"><img alt="Takeaway (feat. Lennon Stella) - Sondr Remix · The Chainsmokers, ILLENIUM, Lennon Stella, Sondr" src="assets/track-1-78d6a8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6FqGxJBWE3KOcpY7HodwiA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-78d6a8-dark.svg"><img alt="Until We Die · WATEVA, Next to Neon" src="assets/track-2-78d6a8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6FqGxJBWE3KOcpY7HodwiA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-78d6a8-dark.svg"><img alt="Until We Die · WATEVA, Next to Neon" src="assets/track-3-78d6a8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6FqGxJBWE3KOcpY7HodwiA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-78d6a8-dark.svg"><img alt="Until We Die · WATEVA, Next to Neon" src="assets/track-4-78d6a8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3bhY7kp9joVSQvCHMxbr5M"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-78d6a8-dark.svg"><img alt="Come My Way · JLV, Jawedsway, Jerry Island" src="assets/track-5-78d6a8-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5DPASDOoVakOcD8EIhb46T"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-78d6a8-dark.svg"><img alt="High Right Now (feat. Wiz Khalifa) - Remix · Tyla Yaweh, Wiz Khalifa" src="assets/track-6-78d6a8-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,839 commits</summary>
+<summary><b>2026</b> · 2,841 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,202 commits</summary>
+<summary>November 2026 · 1,204 commits</summary>
 <br>
 
 <picture>
