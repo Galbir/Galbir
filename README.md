@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-0f38de-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-0f38de-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2b0a5tCzOvSRvxsgqD2zQq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-0f38de-dark.svg"><img alt="The Diner · Kaskade, Sara Diamond" src="assets/track-0-0f38de-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/667i5Pi4BP5zbTMhUxDeaU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-0f38de-dark.svg"><img alt="Wonderwall · Lucky Luke" src="assets/track-1-0f38de-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4xJgLXFUkIkILn6Z5IHBtD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-0f38de-dark.svg"><img alt="Flower · PLÜM" src="assets/track-2-0f38de-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3iLwZIDtKxGC277rHmX4is"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-0f38de-dark.svg"><img alt="Secrets - HUGEL Remix · Regard, RAYE, HUGEL" src="assets/track-3-0f38de-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/65xvfgI2nNrOYHhGUzw9XP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-0f38de-dark.svg"><img alt="Heat Waves - Oliver Heldens Remix · Glass Animals, Oliver Heldens" src="assets/track-4-0f38de-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6014S4lz1nNXsgv02Pd5RF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-0f38de-dark.svg"><img alt="Let&#39;s Rave · Topic, Lili Pistorius" src="assets/track-5-0f38de-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2C6SAmqGjdW2hXoeyqnfaC"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-0f38de-dark.svg"><img alt="All Of Your Heart · Odd Mob" src="assets/track-6-0f38de-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-9d8653-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-9d8653-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6jIpfTmCaebJyQxfrZb749"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-9d8653-dark.svg"><img alt="The Best Part of Life · SAINt JHN" src="assets/track-0-9d8653-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4pDWppmuWPpfITO4Lq9avT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-9d8653-dark.svg"><img alt="Soon Not Later · Lady Bee, Dame1" src="assets/track-1-9d8653-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6jIpfTmCaebJyQxfrZb749"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-9d8653-dark.svg"><img alt="The Best Part of Life · SAINt JHN" src="assets/track-2-9d8653-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5QO36B9kCFQdxKRRjkIrQD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-9d8653-dark.svg"><img alt="Keep It Goin&#39; · Deorro, Danny Avila" src="assets/track-3-9d8653-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1DUrZmqo9sbKqaRWlH2Lds"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-9d8653-dark.svg"><img alt="Not So Bad (feat. Emie) - Zonderling Remix · Yves V, Ilkay Sencan, Emie, Zonderling" src="assets/track-4-9d8653-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0XX5PxqMoXAPxBZ0qYqSwI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-9d8653-dark.svg"><img alt="Breaking Me - HUGEL Remix · Topic, A7S, HUGEL" src="assets/track-5-9d8653-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6iW38RGqdDGOofmz2HeXLW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-9d8653-dark.svg"><img alt="Piece Of Your Heart - Alok Remix · MEDUZA, Alok, Goodboys" src="assets/track-6-9d8653-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,829 commits</summary>
+<summary><b>2026</b> · 2,837 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,192 commits</summary>
+<summary>November 2026 · 1,200 commits</summary>
 <br>
 
 <picture>
