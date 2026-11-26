@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-a005f1-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-a005f1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/35xZCFGrXkz6KsfOmUMJGz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-a005f1-dark.svg"><img alt="Deep End - SIDEPIECE Remix · John Summit, SIDEPIECE" src="assets/track-0-a005f1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7FZRrSpAD260JBLH1AFUPA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-a005f1-dark.svg"><img alt="Oxygen · Rompasso" src="assets/track-1-a005f1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1J2OlTIPluzOmf3RX8eKhT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-a005f1-dark.svg"><img alt="Turn Back Time · Diplo, Sonny Fodera" src="assets/track-2-a005f1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2IZAeuHgaXwAiMmZb264EN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-a005f1-dark.svg"><img alt="Last Night · Noro" src="assets/track-3-a005f1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5FnqMVh9xitqd1ZyNQPvbc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-a005f1-dark.svg"><img alt="If The World Was Ending (feat. Julia Michaels) - Other Remix · JP Saxe, Other, Julia Michaels" src="assets/track-4-a005f1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6fagtLLzqZTaGcYcSa5qeA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-a005f1-dark.svg"><img alt="Drivin Thru the Night · Petit Biscuit" src="assets/track-5-a005f1-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7h2ABjmIKKbT7VBWFM2nZD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-a005f1-dark.svg"><img alt="Back On The Ledge · SAINt JHN" src="assets/track-6-a005f1-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-1c5ce2-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-1c5ce2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/44YYXiFUMc8bAHS7AppD9b"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-1c5ce2-dark.svg"><img alt="Morning Sun · SP3CTRUM, Durte Dom, Santorelli, Scarlett Skies" src="assets/track-0-1c5ce2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6nZdDTDQXIqTSJh56eBM0d"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-1c5ce2-dark.svg"><img alt="Tokyo by Night · Noro" src="assets/track-1-1c5ce2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2XsS0z3RbXRSNG7leeepJ9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-1c5ce2-dark.svg"><img alt="High School Reunion, Prom [Feat. Lil Uzi Vert] · SAINt JHN, Lil Uzi Vert" src="assets/track-2-1c5ce2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1LsoAswipJvPzdcSnoQ46C"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-1c5ce2-dark.svg"><img alt="I Just Wanna Dance · Coldabank, Freedo" src="assets/track-3-1c5ce2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1kwJP2mZ7NSFvtuAxqtCED"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-1c5ce2-dark.svg"><img alt="Sunglasses At Night · Eastblock Bitches, OBS" src="assets/track-4-1c5ce2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0fxfCEeI3bOWxUydkfmFn9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-1c5ce2-dark.svg"><img alt="Somebody That I Used to Know · JRL, AJ Jordan, Louise CS" src="assets/track-5-1c5ce2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0suLmBuEbatdochI4tHduq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-1c5ce2-dark.svg"><img alt="FEELING GUD · NGHTMRE, SLANDER, Matthew Santos" src="assets/track-6-1c5ce2-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,849 commits</summary>
+<summary><b>2026</b> · 2,850 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,212 commits</summary>
+<summary>November 2026 · 1,213 commits</summary>
 <br>
 
 <picture>
