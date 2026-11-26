@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-9d8653-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-9d8653-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6jIpfTmCaebJyQxfrZb749"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-9d8653-dark.svg"><img alt="The Best Part of Life · SAINt JHN" src="assets/track-0-9d8653-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4pDWppmuWPpfITO4Lq9avT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-9d8653-dark.svg"><img alt="Soon Not Later · Lady Bee, Dame1" src="assets/track-1-9d8653-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6jIpfTmCaebJyQxfrZb749"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-9d8653-dark.svg"><img alt="The Best Part of Life · SAINt JHN" src="assets/track-2-9d8653-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5QO36B9kCFQdxKRRjkIrQD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-9d8653-dark.svg"><img alt="Keep It Goin&#39; · Deorro, Danny Avila" src="assets/track-3-9d8653-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1DUrZmqo9sbKqaRWlH2Lds"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-9d8653-dark.svg"><img alt="Not So Bad (feat. Emie) - Zonderling Remix · Yves V, Ilkay Sencan, Emie, Zonderling" src="assets/track-4-9d8653-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0XX5PxqMoXAPxBZ0qYqSwI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-9d8653-dark.svg"><img alt="Breaking Me - HUGEL Remix · Topic, A7S, HUGEL" src="assets/track-5-9d8653-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6iW38RGqdDGOofmz2HeXLW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-9d8653-dark.svg"><img alt="Piece Of Your Heart - Alok Remix · MEDUZA, Alok, Goodboys" src="assets/track-6-9d8653-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-beb9f2-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-beb9f2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4vjflp3ZHBCnIetwDAt44Q"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-beb9f2-dark.svg"><img alt="I Heard You Got Too Litt Last Night · SAINt JHN" src="assets/track-0-beb9f2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1DfHMdKC2KEQuxX9NPfmiW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-beb9f2-dark.svg"><img alt="Feel That Way · BYOR" src="assets/track-1-beb9f2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2bIKe3dHpCehE7KAtySUN5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-beb9f2-dark.svg"><img alt="CITY OF ANGELS - Futosé Remix · 24kGoldn, Futosé" src="assets/track-2-beb9f2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/48tI68zHn3r3uHmGxdkKDd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-beb9f2-dark.svg"><img alt="Pullin Up · Soda" src="assets/track-3-beb9f2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4v7kKFlEDmpVToHOICsXaM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-beb9f2-dark.svg"><img alt="Hooked · NOTION" src="assets/track-4-beb9f2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0Ls9Bu2iYc2Bj0dVzdsHK5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-beb9f2-dark.svg"><img alt="I Know · SENSE" src="assets/track-5-beb9f2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4pDWppmuWPpfITO4Lq9avT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-beb9f2-dark.svg"><img alt="Soon Not Later · Lady Bee, Dame1" src="assets/track-6-beb9f2-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,837 commits</summary>
+<summary><b>2026</b> · 2,839 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,200 commits</summary>
+<summary>November 2026 · 1,202 commits</summary>
 <br>
 
 <picture>
