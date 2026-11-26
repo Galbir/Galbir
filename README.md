@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-4e4b12-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-4e4b12-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4Rq2BMG5VWMhb2whSx8bf4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-4e4b12-dark.svg"><img alt="Tommy Lee (feat. SAINt JHN &amp; Post Malone) - Remix · Tyla Yaweh, SAINt JHN, Post Malone" src="assets/track-0-4e4b12-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4SFMECifVPt8E9Nknxhgmy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-4e4b12-dark.svg"><img alt="Satellites · Rompasso" src="assets/track-1-4e4b12-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0Cv7pfVZT1KjaqpylUsYQH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-4e4b12-dark.svg"><img alt="Vertigo · Curbi, PollyAnna" src="assets/track-2-4e4b12-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4ESPuOrSsRcBISzcMlzmY5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-4e4b12-dark.svg"><img alt="Sad (feat. Afrojack) · Chico Rose, AFROJACK" src="assets/track-3-4e4b12-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0WSBMmz1EWu7OhBQ2tMyQD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-4e4b12-dark.svg"><img alt="Nobody · Soda" src="assets/track-4-4e4b12-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7DBdjkgNcnTUrRfKsZaSny"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-4e4b12-dark.svg"><img alt="Move With Me - GRYNN Remix · Locals Only Sound, GRYNN" src="assets/track-5-4e4b12-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7MysdJNLp89Xl3zoSd5bC5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-4e4b12-dark.svg"><img alt="WET · Wax Motif" src="assets/track-6-4e4b12-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-ac0441-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-ac0441-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0GA850AWIBdMW3Cfd4ptds"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-ac0441-dark.svg"><img alt="Reflex · SAINt JHN" src="assets/track-0-ac0441-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6ahNfSj1aebth9MF74HCLG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-ac0441-dark.svg"><img alt="I&#39;m Just Feelin&#39; (Du Du Du) - Radio Edit · Imanbek, Martin Jensen" src="assets/track-1-ac0441-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4jz8GieObBxUrBGPe5gyak"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-ac0441-dark.svg"><img alt="LOVE IN THE DARK - Dzeko Remix · Jessie Reyez, Dzeko" src="assets/track-2-ac0441-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5Q0TrEMgcVtVjcHeUyVj3T"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-ac0441-dark.svg"><img alt="Feedback · Dr. Fresch, Mina Knock" src="assets/track-3-ac0441-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3tOfZiPM0vPLSPdKi04muG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-ac0441-dark.svg"><img alt="Sleepwalking · Win and Woo, Kyan Palmer" src="assets/track-4-ac0441-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3ZOeZtEcx6rDbl03QJcBQI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-ac0441-dark.svg"><img alt="Power · Interupt" src="assets/track-5-ac0441-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7rf7IQooyQYJDNDbEbdz88"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-ac0441-dark.svg"><img alt="Like a Punk · YouNotUs, AKA AKA" src="assets/track-6-ac0441-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,842 commits</summary>
+<summary><b>2026</b> · 2,846 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,205 commits</summary>
+<summary>November 2026 · 1,209 commits</summary>
 <br>
 
 <picture>
