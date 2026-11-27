@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-1a0ec7-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-1a0ec7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6mj5yKntIEQwNOIFeT9Muw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-1a0ec7-dark.svg"><img alt="Death of Me (Davai Remix) · Brandon Jenner, Davai" src="assets/track-0-1a0ec7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4BsN2VLlvd3BBJCt7gpwkc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-1a0ec7-dark.svg"><img alt="Iris in the Dark · Just A Gent, McCall" src="assets/track-1-1a0ec7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3ednMd3Kh4XtMwuyzlsJT1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-1a0ec7-dark.svg"><img alt="Morning · Xad" src="assets/track-2-1a0ec7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6HJiKaPc4LYPczBFGSMBFs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-1a0ec7-dark.svg"><img alt="I Got Summer On My Mind · Jay Dunham" src="assets/track-3-1a0ec7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3lyZ3wS81yeUx8V8ORjeeB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-1a0ec7-dark.svg"><img alt="Amnesia · WATEVA, Alia" src="assets/track-4-1a0ec7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6FqGxJBWE3KOcpY7HodwiA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-1a0ec7-dark.svg"><img alt="Until We Die · WATEVA, Next to Neon" src="assets/track-5-1a0ec7-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0kKk2akuL2DG4UYYnqcJjo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-1a0ec7-dark.svg"><img alt="Deep End · AREZRA" src="assets/track-6-1a0ec7-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-26ca17-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-26ca17-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/37dVuP5d1BtVDagETMqP3k"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-26ca17-dark.svg"><img alt="IMPATIENT · SEBASTIAN PAUL" src="assets/track-0-26ca17-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5hQRNdaLnqlFYhBiVFMptc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-26ca17-dark.svg"><img alt="Do Or Die · Keanu Silva" src="assets/track-1-26ca17-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0OXx2ITvZ1QdNE2uiV8bHP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-26ca17-dark.svg"><img alt="Whose Ex Wife Is This · SAINt JHN" src="assets/track-2-26ca17-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1ejj1bjt42DpdIu5y3j0Wp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-26ca17-dark.svg"><img alt="Look Into My Eyes - Ekko City Remix · Brando, Ekko City" src="assets/track-3-26ca17-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4iXj0bNwBMHgomSBfrG1M4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-26ca17-dark.svg"><img alt="On The Low · Wax Motif, longstoryshort" src="assets/track-4-26ca17-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0p9PFNegaYphvUuKbU9LQm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-26ca17-dark.svg"><img alt="Trap - Rompasso Remix · SAINt JHN, Rompasso" src="assets/track-5-26ca17-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6mj5yKntIEQwNOIFeT9Muw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-26ca17-dark.svg"><img alt="Death of Me (Davai Remix) · Brandon Jenner, Davai" src="assets/track-6-26ca17-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,852 commits</summary>
+<summary><b>2026</b> · 2,853 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,215 commits</summary>
+<summary>November 2026 · 1,216 commits</summary>
 <br>
 
 <picture>
