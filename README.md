@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-b92b34-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-b92b34-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1NpLBvBnxaptjlt9gxuzUU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-b92b34-dark.svg"><img alt="Need You - Radio Edit · AKA AKA, Maxiz" src="assets/track-0-b92b34-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6AT1xIYd2ggvimhft9K9ow"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-b92b34-dark.svg"><img alt="Torn - KREAM Remix · Ava Max, KREAM" src="assets/track-1-b92b34-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/57vkbZywMJuicQ8IrAlwqb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-b92b34-dark.svg"><img alt="Sweet Like Cola · Froro" src="assets/track-2-b92b34-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6j3MJ0jtsReAgwRwqsHC7T"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-b92b34-dark.svg"><img alt="Sad · Aivarask" src="assets/track-3-b92b34-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6kNx6oySNfaqH3P4CGiKVL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-b92b34-dark.svg"><img alt="Move All Night (feat. Kole) · SNBRN, Autograf, KOLE" src="assets/track-4-b92b34-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4m9myQ3JGGwACz77xFxNgJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-b92b34-dark.svg"><img alt="Goodbye · AREZRA" src="assets/track-5-b92b34-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/53wCe6bXmbDerqzSjfHcxO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-b92b34-dark.svg"><img alt="Congratulations · Don Diablo, Brando" src="assets/track-6-b92b34-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-565f32-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-565f32-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/79m1I109FyZMx3VwQZAEQM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-565f32-dark.svg"><img alt="Skinny Dip (Komodo) [feat. Philip Strand] · Deepend, Philip Strand" src="assets/track-0-565f32-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1WvOvrsD1ntQq1khvNe3lK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-565f32-dark.svg"><img alt="Heart Beating · Nora En Pure" src="assets/track-1-565f32-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/41f0NEYvnCWC8rW0TeQmEy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-565f32-dark.svg"><img alt="Darkroom · YouNotUs, Ilkay Sencan, Marmy" src="assets/track-2-565f32-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4M3FhuDyw0IkedyN4oFvzj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-565f32-dark.svg"><img alt="We Ride · NO SIGNE" src="assets/track-3-565f32-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5sHRovSso2w9eTFqsA62ei"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-565f32-dark.svg"><img alt="Coda - Extended Mix · Funkin Matt" src="assets/track-4-565f32-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/29NIDl3MD6OOxnpP5MQ1Wh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-565f32-dark.svg"><img alt="Touch Me · Quarantino, Luke ST" src="assets/track-5-565f32-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2Q80HCE66eNiXMJWMkE4xw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-565f32-dark.svg"><img alt="Running Out of Love · Jubël" src="assets/track-6-565f32-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,856 commits</summary>
+<summary><b>2026</b> · 2,857 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,219 commits</summary>
+<summary>November 2026 · 1,220 commits</summary>
 <br>
 
 <picture>
