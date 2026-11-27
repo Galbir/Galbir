@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-869140-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-869140-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5To3UtP7q2TMwzYN3bElZs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-869140-dark.svg"><img alt="Move With Me · Locals Only Sound" src="assets/track-0-869140-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3zFBsXhCmBIrupI5MPOKR4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-869140-dark.svg"><img alt="Life Happens · Hippie Sabotage" src="assets/track-1-869140-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6qc5EODnUU7XX4zn8B4c89"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-869140-dark.svg"><img alt="Roses · GASHI" src="assets/track-2-869140-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2bGbWQwWJ6EjLUas1tCWTK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-869140-dark.svg"><img alt="Humble · SAINt JHN" src="assets/track-3-869140-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6jIpfTmCaebJyQxfrZb749"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-869140-dark.svg"><img alt="The Best Part of Life · SAINt JHN" src="assets/track-4-869140-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5Xa1zj7zFG2cP3UH8s54KY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-869140-dark.svg"><img alt="Be Kind (with Halsey) - Surf Mesa Remix · Marshmello, Halsey, Surf Mesa" src="assets/track-5-869140-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3UkEwV9hegy5D5B1vHCT4K"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-869140-dark.svg"><img alt="Falling Down · Danell Arma" src="assets/track-6-869140-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-ea651b-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-ea651b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0YP8kt3sAYTj6eEyesreQH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-ea651b-dark.svg"><img alt="Glass House (feat. Naomi Wild) · mgk, Naomi Wild" src="assets/track-0-ea651b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5Y0szinCZZBUdJah5snGpt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-ea651b-dark.svg"><img alt="TOO MUCH · SEBASTIAN PAUL" src="assets/track-1-ea651b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3oGbHF3Kdwf3AsRCbBjUxu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-ea651b-dark.svg"><img alt="Moon &amp; Stars (feat. Maggie Lindemann) · $NOT, Maggie Lindemann" src="assets/track-2-ea651b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1s9wSzybysJGkhRcgcgasN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-ea651b-dark.svg"><img alt="i don&#39;t wanna party · mike." src="assets/track-3-ea651b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/46KjZQkVOB5rvzSCGKJrIO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-ea651b-dark.svg"><img alt="Trap [Feat. Lil Baby] · SAINt JHN, Lil Baby" src="assets/track-4-ea651b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7rP2j96yHkABXBAKpMAFs9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-ea651b-dark.svg"><img alt="something more · j ember" src="assets/track-5-ea651b-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-ea651b-dark.svg"><img alt="First Class · Jack Harlow" src="assets/track-6-ea651b-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,853 commits</summary>
+<summary><b>2026</b> · 2,854 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,216 commits</summary>
+<summary>November 2026 · 1,217 commits</summary>
 <br>
 
 <picture>
