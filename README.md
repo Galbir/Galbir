@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-ca5326-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-ca5326-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6xhiDD7URXXIB3woBKN8SD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-ca5326-dark.svg"><img alt="Crossfire · Robby East, Salvo" src="assets/track-0-ca5326-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0AzDmwJwA20cPUfTqOcGlh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-ca5326-dark.svg"><img alt="Broken Love · Fella, Lucky Luke" src="assets/track-1-ca5326-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/75exSBqGJwoLRjgwN5YREO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-ca5326-dark.svg"><img alt="Rewind (feat. Caelu) · Cat Dealers, MAKJ, Caelu" src="assets/track-2-ca5326-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6fgQrVw3RLLTRxRPg85qIz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-ca5326-dark.svg"><img alt="Younger - VINNE Remix · DLMT, Kopa, VINNE" src="assets/track-3-ca5326-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1n5DE9A3F7ZpCK7ekBUDsx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-ca5326-dark.svg"><img alt="Blue Jeans · Jubël" src="assets/track-4-ca5326-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/55G9p3kR2rw2ioX0evm0bh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-ca5326-dark.svg"><img alt="Deep Youth · NeverTheLess, Tobe Williams, LikeWise" src="assets/track-5-ca5326-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7F84iXyq0z5w9X1PlwF0pC"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-ca5326-dark.svg"><img alt="Different Place · STVCKS, Dim Wilder, Alex Hackett" src="assets/track-6-ca5326-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-8f47ae-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-8f47ae-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5TPWOzPTIxCjqfqORrzoiO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-8f47ae-dark.svg"><img alt="Voices In My Head · Skinny Days, CLMD, Slopes" src="assets/track-0-8f47ae-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5m3iRhtAhneNXqDuzS8KXa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-8f47ae-dark.svg"><img alt="Bdy - Joe Mason Remix · Stalgia, Joe Mason" src="assets/track-1-8f47ae-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6mkHrS6D5LUWkx9M6mKRqz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-8f47ae-dark.svg"><img alt="Quit · Mountain Bird" src="assets/track-2-8f47ae-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1AfA0K7BLxceH7PjzcZdZc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-8f47ae-dark.svg"><img alt="Slow Burn · Moksi, Elayna Boynton" src="assets/track-3-8f47ae-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/66hPVXWkYJzktZ985EWQ1Q"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-8f47ae-dark.svg"><img alt="Dance to the Death · Ed Marquis" src="assets/track-4-8f47ae-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5Yg7MVVpeUCGmLnialOleB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-8f47ae-dark.svg"><img alt="Handle · Revelries, M F L R" src="assets/track-5-8f47ae-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6pUAhYQ6GNWjfIxWn8fjPm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-8f47ae-dark.svg"><img alt="Never Look Back · Oliver Heldens, Syd Silvair" src="assets/track-6-8f47ae-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,857 commits</summary>
+<summary><b>2026</b> · 2,858 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,220 commits</summary>
+<summary>November 2026 · 1,221 commits</summary>
 <br>
 
 <picture>
