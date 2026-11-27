@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-d8de69-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-d8de69-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7h2oudBerkStUYkWDAZPbG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-d8de69-dark.svg"><img alt="Désolée (Paris/Paname) - NRD1 Remix · SHANGUY, NRD1" src="assets/track-0-d8de69-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6k68WYEZAc4cKl7SFMEh2Z"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-d8de69-dark.svg"><img alt="In the Club · Aivarask" src="assets/track-1-d8de69-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3Pxq0SAeOH0OOKjLDOZZkD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-d8de69-dark.svg"><img alt="No Stress · Froro" src="assets/track-2-d8de69-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/65ytKyYibjPi6CmM2MXhes"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-d8de69-dark.svg"><img alt="Handle (Ashton Love Remix) · Revelries, M F L R, Ashton Love" src="assets/track-3-d8de69-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4AHWPv5QrB046nUnCQEIly"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-d8de69-dark.svg"><img alt="Relax · Junona Boys" src="assets/track-4-d8de69-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5gSqUdXCzWPuBogoe029ju"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-d8de69-dark.svg"><img alt="Gasoline · NO SIGNE" src="assets/track-5-d8de69-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6QGxiaO9xnDb8OSsu0WHzQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-d8de69-dark.svg"><img alt="Get U Off My Mind · WATEVA, Karl Killing" src="assets/track-6-d8de69-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-0c6b8d-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-0c6b8d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/20ZvqLr0ziCndHG6AE8cNS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-0c6b8d-dark.svg"><img alt="More Than Ever · DLMT, Schutzer, Garrett Raff" src="assets/track-0-0c6b8d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6B12jsIxLJFWKvW1hkqhl4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-0c6b8d-dark.svg"><img alt="Afraid of You · ALVIDO" src="assets/track-1-0c6b8d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/40NKYSkaTC4F62QbIVJ8S6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-0c6b8d-dark.svg"><img alt="Never Never (feat. Indiiana) · Drenchill, Indiiana" src="assets/track-2-0c6b8d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2N52w1nDte9pXU64y3ZzlX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-0c6b8d-dark.svg"><img alt="We Can Make It Better · Rowald Steyn" src="assets/track-3-0c6b8d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/16YmQADBXWfcazJ9MureIp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-0c6b8d-dark.svg"><img alt="Don&#39;t Care · NO SIGNE" src="assets/track-4-0c6b8d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2y3R0JSjh2ahnTHtKdvpka"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-0c6b8d-dark.svg"><img alt="Fall Under Skies · Jonas Aden, Robby East" src="assets/track-5-0c6b8d-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0KolR78aYglcksc0W0JAJJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-0c6b8d-dark.svg"><img alt="Empires · Sons Of Maria" src="assets/track-6-0c6b8d-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,859 commits</summary>
+<summary><b>2026</b> · 2,860 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,222 commits</summary>
+<summary>November 2026 · 1,223 commits</summary>
 <br>
 
 <picture>
