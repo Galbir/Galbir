@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-8ffc55-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-8ffc55-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7qZOnik9K8Mv987ccBjwwj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-8ffc55-dark.svg"><img alt="Wait Another Day · Mike Williams, Mesto" src="assets/track-0-8ffc55-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2JsuDhOIJYXwp9A57kuzGm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-8ffc55-dark.svg"><img alt="Love In Your Eyes (feat. Bibiane Z) · Mausio, Bibiane Z" src="assets/track-1-8ffc55-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5hXyI7k4TzPyb3PhAQpdfT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-8ffc55-dark.svg"><img alt="Lost Your Mind · Cafe Disko, Joe Cardigan" src="assets/track-2-8ffc55-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5NDOdUNPp8B4ujazjctg2V"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-8ffc55-dark.svg"><img alt="Homie · GARRY B" src="assets/track-3-8ffc55-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0JIcWmxwEpv740agHLbVB5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-8ffc55-dark.svg"><img alt="Summer Lover (feat. Devin &amp; Nile Rodgers) · Oliver Heldens, Devin, Nile Rodgers" src="assets/track-4-8ffc55-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3A8tXjJFi8JEwnItSJyCtN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-8ffc55-dark.svg"><img alt="All Comes Back To You · R3HAB" src="assets/track-5-8ffc55-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/21rPSmxsIqULp49teMamdn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-8ffc55-dark.svg"><img alt="Na Na Na · Mike Gudmann, Medon, Michelle Collin" src="assets/track-6-8ffc55-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-036cf2-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-036cf2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1ljNa2y5MntQ7cED1z8GNi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-036cf2-dark.svg"><img alt="Castaway · Cameo Club" src="assets/track-0-036cf2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/78hj6ClFpaG2MuOaPCjlOo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-036cf2-dark.svg"><img alt="On My Own · Phil Soda" src="assets/track-1-036cf2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6risnzbCu8glXeHCbOwSfu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-036cf2-dark.svg"><img alt="IDK · LTGTR" src="assets/track-2-036cf2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1T4U8Q2DRfs6OUg8DEsRZf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-036cf2-dark.svg"><img alt="Bad · Don Diablo, Zak Abel" src="assets/track-3-036cf2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/225MThXJyRa2la7JtJGB4Q"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-036cf2-dark.svg"><img alt="Gimme Dat (feat. S.E.N) · HUGEL, MOLOW, S.E.N" src="assets/track-4-036cf2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/40mCEqwgyxjXCquArnKZiu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-036cf2-dark.svg"><img alt="Lo-Lo · Greenjelin" src="assets/track-5-036cf2-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/15miHVkNIpwbvuj7zaqzkx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-036cf2-dark.svg"><img alt="Make It Bounce · Martin Vide" src="assets/track-6-036cf2-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,865 commits</summary>
+<summary><b>2026</b> · 2,872 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,228 commits</summary>
+<summary>November 2026 · 1,235 commits</summary>
 <br>
 
 <picture>
