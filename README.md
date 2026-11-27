@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-8b3000-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-8b3000-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3hLJq8MlV2D2eVCmKSxV8z"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-8b3000-dark.svg"><img alt="Feeling · Starix" src="assets/track-0-8b3000-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1UiDBI4sES6RrXVcp3XCS4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-8b3000-dark.svg"><img alt="Carry On · Martin Jensen, MOLOW" src="assets/track-1-8b3000-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5KYkOTjScRqp0s65kMLDoN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-8b3000-dark.svg"><img alt="Faded · Vincent Vega, TRØVES" src="assets/track-2-8b3000-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/7KWepVXoO7Tbo7zWNtjrvC"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-8b3000-dark.svg"><img alt="Speed of Light · Drive With Beats, Beachbag" src="assets/track-3-8b3000-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/45FacepDfu3JHam7wOi3zZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-8b3000-dark.svg"><img alt="August - MBNN Remix · Intelligency, MBNN" src="assets/track-4-8b3000-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/40vCMTDaDwwpf7DyBlmgEj"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-8b3000-dark.svg"><img alt="Menage A Trois · LIZOT, Holy Molly" src="assets/track-5-8b3000-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2FIa0Zmilui8GpApF3vF1a"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-8b3000-dark.svg"><img alt="Poppin Bottles · Chico Rose, Jaden Bojsen" src="assets/track-6-8b3000-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-cb8e15-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-cb8e15-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2eS6pqoic3puCKVWmwZxD3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-cb8e15-dark.svg"><img alt="Stay The Night · Just Kiddin, Camden Cox" src="assets/track-0-cb8e15-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6DSvGTlw7w2yFawXNtG0b0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-cb8e15-dark.svg"><img alt="Mind Control · Joe Stone, Camden Cox" src="assets/track-1-cb8e15-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1Ym5hHcp7Sy5vSzhziZb3N"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-cb8e15-dark.svg"><img alt="Don&#39;t Care - Radio Mix · Dodobeatz, Bibiane Z" src="assets/track-2-cb8e15-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5miPpJqOTrxi2TPDc8pF7J"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-cb8e15-dark.svg"><img alt="Blue Sky · Nonsens" src="assets/track-3-cb8e15-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1dzyuyzcYvE740n74I6S7T"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-cb8e15-dark.svg"><img alt="Tongue Tied - Frank Pole Remix · Mahalo, Disco Killerz, Brandyn Burnette, Frank Pole" src="assets/track-4-cb8e15-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4RO8JfDpRxp2H0YUucIMW6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-cb8e15-dark.svg"><img alt="Désolée (Paris/Paname) · SHANGUY" src="assets/track-5-cb8e15-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6OgYpoIKZPIVl9FHPEJF2J"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-cb8e15-dark.svg"><img alt="Meet You · Jonas Aden" src="assets/track-6-cb8e15-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,858 commits</summary>
+<summary><b>2026</b> · 2,859 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,221 commits</summary>
+<summary>November 2026 · 1,222 commits</summary>
 <br>
 
 <picture>
