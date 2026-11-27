@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-d75de9-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-d75de9-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4WP5v6BZ6FuMBowp72GYen"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-d75de9-dark.svg"><img alt="Losing My Cool · Sons Of Maria" src="assets/track-0-d75de9-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/45Zx6DyqGKKmvfxfzRUtKl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-d75de9-dark.svg"><img alt="Kylie · Mike Williams, Dastic" src="assets/track-1-d75de9-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/42k4Jpfrcd7FO1x9Gf4HkP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-d75de9-dark.svg"><img alt="Be Mine · LIZOT, Tiscore, A&amp;D" src="assets/track-2-d75de9-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/43YnJOxXX0fh5SIfLzpmvn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-d75de9-dark.svg"><img alt="Breathe · Jonas Aden, Kings" src="assets/track-3-d75de9-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4XnFuAIA1hFnCmiZAKTMt4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-d75de9-dark.svg"><img alt="Where Are We Goin&#39; · Martin Vide" src="assets/track-4-d75de9-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3IrRwbvAQKsJgeuVbXgmfT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-d75de9-dark.svg"><img alt="Seen You · LTGTR" src="assets/track-5-d75de9-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1F0lf73DVhiekpXHJqKGV1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-d75de9-dark.svg"><img alt="Your Words · Mauve" src="assets/track-6-d75de9-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-cde4e7-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-cde4e7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3B4k7WFXClLUVtvVYrzJDK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-cde4e7-dark.svg"><img alt="Dreaming Of You · Danell Arma" src="assets/track-0-cde4e7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/7E4k65CjSEhmEUZ0y2E47A"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-cde4e7-dark.svg"><img alt="WHEN IT COMES TO YOU · Angrybaby" src="assets/track-1-cde4e7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6FqGxJBWE3KOcpY7HodwiA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-cde4e7-dark.svg"><img alt="Until We Die · WATEVA, Next to Neon" src="assets/track-2-cde4e7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1XmxEtc66A6tSpaMgSOYR5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-cde4e7-dark.svg"><img alt="Show Me How · LTGTR" src="assets/track-3-cde4e7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5EPLlUc6PS2jLJno1H8rzE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-cde4e7-dark.svg"><img alt="Roll the Dice · RUGI, Konoba" src="assets/track-4-cde4e7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1R1JeXOpEA9EpKr76ucscT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-cde4e7-dark.svg"><img alt="Santeria (feat. DIVMOND) · Cafe Disko, DIVMOND" src="assets/track-5-cde4e7-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/15sSyFVp0euho2xn0v4ijX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-cde4e7-dark.svg"><img alt="Slow Dance - Kesh Remix · Dave Silcox, Takura, Kesh" src="assets/track-6-cde4e7-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,881 commits</summary>
+<summary><b>2026</b> · 2,883 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,244 commits</summary>
+<summary>November 2026 · 1,246 commits</summary>
 <br>
 
 <picture>
