@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-551abd-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-551abd-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3UGmBeX2RNr1QZ72XieOwJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-551abd-dark.svg"><img alt="Lights Get Low · Lynnic, ItsArius, Dinia, Menningmann" src="assets/track-0-551abd-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3UGmBeX2RNr1QZ72XieOwJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-551abd-dark.svg"><img alt="Lights Get Low · Lynnic, ItsArius, Dinia, Menningmann" src="assets/track-1-551abd-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2nVObDdEcHwMsWjq30YWbq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-551abd-dark.svg"><img alt="I need your kiss (sadagain version) · sadagain, iilliaa" src="assets/track-2-551abd-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/4RDgkhNm5TJKW2Qe24OOYW"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-551abd-dark.svg"><img alt="Love Me The Same · Astrality, Krysta Youngs" src="assets/track-3-551abd-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0kfNu4qJOo7vgRWDCnMiBa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-551abd-dark.svg"><img alt="Little Planets - Remix · RIZ LA VIE, Łaszewo" src="assets/track-4-551abd-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/0OWtexb4iGWBzfGMaOFuis"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-551abd-dark.svg"><img alt="Call my name · AVAION" src="assets/track-5-551abd-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6OwfdHoGoIM2l3gJDhxXSZ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-551abd-dark.svg"><img alt="Don&#39;t Waste Your Time · Start Stop" src="assets/track-6-551abd-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-012b44-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-012b44-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2yiNArujhNe6pDG2GSZ3HE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-012b44-dark.svg"><img alt="Inside Out · Astrality, Tailor" src="assets/track-0-012b44-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3AZPIG8KIOFrVbuiIqn8vH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-012b44-dark.svg"><img alt="Go Down · small things" src="assets/track-1-012b44-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/2wwlAcqUIcvHNi3w2YWkZv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-012b44-dark.svg"><img alt="One Day · Falden" src="assets/track-2-012b44-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5WWvty8DHVRYcfPSTl7u6a"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-012b44-dark.svg"><img alt="morning light · Aaron Hibell" src="assets/track-3-012b44-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/4sDNyj450xyh8d0BodkMyH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-012b44-dark.svg"><img alt="roundnround · Conrad., Perrin Xthona" src="assets/track-4-012b44-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6st2qKQKqSenog7E9hGYTa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-012b44-dark.svg"><img alt="Go Round · Giulio Cercato" src="assets/track-5-012b44-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3UGmBeX2RNr1QZ72XieOwJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-012b44-dark.svg"><img alt="Lights Get Low · Lynnic, ItsArius, Dinia, Menningmann" src="assets/track-6-012b44-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,884 commits</summary>
+<summary><b>2026</b> · 2,885 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,247 commits</summary>
+<summary>November 2026 · 1,248 commits</summary>
 <br>
 
 <picture>
