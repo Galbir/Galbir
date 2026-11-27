@@ -55,14 +55,14 @@
   <img alt="Building with Claude Code" src="assets/claude-light.svg" width="100%">
 </picture>
 
-<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-23d9ed-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-23d9ed-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5q7dnGxpMVL1SjHObqB6W8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-23d9ed-dark.svg"><img alt="Blue Eyed Girl · Helsa" src="assets/track-0-23d9ed-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/6OjSqRwvwPZy99Z7lA8CIY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-23d9ed-dark.svg"><img alt="On the Beach · Jubël" src="assets/track-1-23d9ed-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/2jHqz0XXugOGhpaRS4tT62"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-23d9ed-dark.svg"><img alt="Desire (feat. She Keeps Bees) · Deepend, She Keeps Bees" src="assets/track-2-23d9ed-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/42tQ6vLyJ3zYhqICK2EIFi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-23d9ed-dark.svg"><img alt="Trouble · Robby East" src="assets/track-3-23d9ed-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/3vrm4dNThrhQ0BArrLIUOV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-23d9ed-dark.svg"><img alt="Somebody&#39;s Watching Me · Chico Rose, 71 Digits" src="assets/track-4-23d9ed-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/5cskUNcCfitqnYY2rmUzmf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-23d9ed-dark.svg"><img alt="Wildfire - Festival Mix · BLR" src="assets/track-5-23d9ed-light.svg" width="100%" align="absmiddle"></picture></a><br>
-<a href="https://open.spotify.com/track/1ajbiYAOtmQvyFrblzre2D"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-23d9ed-dark.svg"><img alt="Ice Cream · WATEVA" src="assets/track-6-23d9ed-light.svg" width="100%" align="absmiddle"></picture></a>
+<a href="https://open.spotify.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/spotify-head-d9841e-dark.svg"><img alt="Recently played on Spotify" src="assets/spotify-head-d9841e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3vmo19KqKjRzIQx5a3AfDU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-0-d9841e-dark.svg"><img alt="Comfort Me (feat. MVRT) · BLR, MVRT" src="assets/track-0-d9841e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0dkSCNMqU5I69txu8lcSO5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-1-d9841e-dark.svg"><img alt="New Dawn - Hidden Face Remix · UFO Project, Leo Wood, Hidden Face" src="assets/track-1-d9841e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/6cHhroB5XSfQ8dBRtUB8Pr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-2-d9841e-dark.svg"><img alt="Cold Fumes (In Mid-June) · WATEVA, Karl Killing" src="assets/track-2-d9841e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/3CIKJbAJzdOd9ahHxoFD2n"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-3-d9841e-dark.svg"><img alt="Home Now (feat. Alida) · Yves V, Alida" src="assets/track-3-d9841e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/5NOh0KTu5VNFUyRRaOjfDH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-4-d9841e-dark.svg"><img alt="Easy · Autograf, Papa Ya" src="assets/track-4-d9841e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/0UKJdaKQRePUTXnfd8P8EK"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-5-d9841e-dark.svg"><img alt="Deepest Night · Misoltri" src="assets/track-5-d9841e-light.svg" width="100%" align="absmiddle"></picture></a><br>
+<a href="https://open.spotify.com/track/1gf7UmUfS31EmMxG6yRR8j"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/track-6-d9841e-dark.svg"><img alt="Never Done This · twocolors" src="assets/track-6-d9841e-light.svg" width="100%" align="absmiddle"></picture></a>
 
 <sub>Listening data and cover art from <a href="https://open.spotify.com">Spotify</a> · times in Europe/Bucharest</sub>
 
@@ -70,7 +70,7 @@
 <sub>click a year, then a month</sub>
 
 <details>
-<summary><b>2026</b> · 2,854 commits</summary>
+<summary><b>2026</b> · 2,856 commits</summary>
 <br>
 
 <picture>
@@ -79,7 +79,7 @@
 </picture>
 
 <details>
-<summary>November 2026 · 1,217 commits</summary>
+<summary>November 2026 · 1,219 commits</summary>
 <br>
 
 <picture>
